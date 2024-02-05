@@ -1,0 +1,147 @@
+{
+    "title": "Edward Francis Fitzwilliam",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Edward Francis Fitzwilliam (1824 – 20 January 1857) was an English composer and music director",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Fitzwilliam, born at Deal, Kent on 2 August 1824, was the son of Edward Fitzwilliam, an actor, by his wife, Fanny Elizabeth Fitzwilliam, actress",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "He was educated at the Pimlico Grammar School, at St",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "Edmund's College, Old Hall, Hertfordshire, and at the institution of L'Abbé Haffrénique at Boulogne",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "Sir Henry Bishop was his instructor in an elementary course of harmony, and for a few months he resided with John Barnett at Cheltenham studying instrumentation",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "In his twenty-first year he composed a Stabat Mater, which was performed at the Hanover Square Rooms on 15 March 1845, with much success",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "In October 1847 he was appointed by Madame Vestris musical director of the Lyceum Theatre, and remained there for two years",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "About this time he wrote the cantata \"O Incomprehensible Creator,\" which was performed at Hullah's concert, 21 May 1851. At Easter 1853 he became musical director of the Haymarket Theatre, and held that position until his death",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "His principal compositions were \"The Queen of a Day,\" a comic opera, and \"A Summer Night's Love,\" an operetta, both produced at the Haymarket",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "He also wrote the overture, act, and vocal music of the Green Bushes for the Adelphi Theatre, the overtures and music of all the Haymarket pantomimes, and of many that were brought out at the Theatre Royal, Liverpool",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": "The music of Perea Nena's Spanish ballets, El Gambusino and Los Cautivos, were entirely his composition",
+                    "sentence_id": "1",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": "His works were distinguished by an intelligence that gave promise of great excellence had he lived to fully master the technicalities of his art",
+                    "sentence_id": "2",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 11
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "He married the actress Ellen Chaplin on 31 December 1853. They had two children; Edward Wentworth and Marian",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 12
+                }
+            ]
+        },
+        {
+            "paragraph_index": 7,
+            "sentences": [
+                {
+                    "sentence": "After suffering for two years from consumption, he died at 9 Grove Place, Brompton, London, 19 January 1857, aged 33, and was buried (27 January) in Kensal Green cemetery",
+                    "sentence_id": "0",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 13
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at the Pimlico Grammar School , at St. Edmund 's College , Old Hall , Hertfordshire , and at the institution of \" L'Abbé Haffrénique \" at Boulogne ."
+    ],
+    "main_sentence_from_docx": [
+        "Edmund's College, Old Hall, Hertfordshire, and at the institution of L'Abbé Haffrénique at Boulogne"
+    ],
+    "main_sentence_id_in_docx": [
+        "2_1"
+    ],
+    "global_sentence_index_docx": [
+        3
+    ],
+    "global_sentence_index_spike": [
+        526900
+    ],
+    "score_of_similarity": [
+        0.4
+    ]
+}

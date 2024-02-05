@@ -1,0 +1,126 @@
+{
+    "title": "Nuno da Silva Gonçalves",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Nuno da Silva Gonçalves, S",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "J",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "(born 16 July 1958) is a Portuguese Catholic priest and member of the Jesuits",
+                    "sentence_id": "2",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "On September 1, 2016 he succeeded François-Xavier Dumortier as rector of the Pontifical Gregorian University in Rome",
+                    "sentence_id": "3",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": " In October 2023, he will succeed Antonio Spadaro as editor of the Jesuit periodical La Civiltà Cattolica",
+                    "sentence_id": "4",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Gonçalves was born in Lisbon, Portugal, on 16 July 1958 and entered the Society of Jesus (Jesuits) at a young age",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": " He was ordained a priest on 12 July 1986. He was educated in Portugal and Italy, earning a licentiate in philosophy and letters from the Catholic University of Portugal, and a licentiate in theology and both a licentiate and doctorate in Church history from the Gregorian University in Rome",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "From 1998 to 1999 he was director of the national office for Cultural Heritage of the Portuguese Episcopal Conference",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "He was nominated dean of the Faculty of Philosophy for the Catholic University of Portugal in October 2000. In 2005, he left that position in become Provincial Superior of the Portuguese province of the Society of Jesus",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "He returned to the Gregorian in October 2011 first as director and then dean of the Gregorian's Faculty of History and Cultural Heritage of the Church",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": "He has published studies on the missionary history of the Portuguese Church and on Jesuit history",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 10
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "On 21 March 2016, Pope Francis named him rector of the Gregorian University as of 1 September",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 11
+                },
+                {
+                    "sentence": " His term as rector ended on September 1, 2022.",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 12
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated in Portugal and Italy , earning a licentiate in philosophy and letters from the Catholic University of Portugal , and a licentiate in theology and both a licentiate and doctorate in Church history from the Gregorian University in Rome ."
+    ],
+    "main_sentence_from_docx": [
+        " He was ordained a priest on 12 July 1986. He was educated in Portugal and Italy, earning a licentiate in philosophy and letters from the Catholic University of Portugal, and a licentiate in theology and both a licentiate and doctorate in Church history from the Gregorian University in Rome"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_1"
+    ],
+    "global_sentence_index_docx": [
+        6
+    ],
+    "global_sentence_index_spike": [
+        641725
+    ],
+    "score_of_similarity": [
+        0.18
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "title": "Douglas Spencer-Nairn",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Lt-Colonel Sir Douglas Leslie Spencer Spencer-Nairn, 2nd Baronet (24 February 1906 – 8 November 1970) was a British Unionist politician in Scotland",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Spencer-Nairn was educated at Shrewsbury and Trinity Hall, Cambridge",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "In 1955, he was elected Member of Parliament for Central Ayrshire, defeating the Labour incumbent Archie Manuel",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "Spencer-Nairn held the seat until 1959, when it was regained by Manuel against the national trend",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "He was the grandfather of Canadian actress Tara Spencer-Nairn through his younger son John Chaloner Spencer-Nairn",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "This article about a Scottish Conservative and Unionist or Unionist Party (Scotland) Member of the Parliament of the United Kingdom is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "This article about a Conservative Member of the Parliament of the United Kingdom born in the 1900s is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 8
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "Spencer - Nairn was educated at Shrewsbury and Trinity Hall , Cambridge ."
+    ],
+    "main_sentence_from_docx": [
+        "Spencer-Nairn was educated at Shrewsbury and Trinity Hall, Cambridge"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        1
+    ],
+    "global_sentence_index_spike": [
+        113588
+    ],
+    "score_of_similarity": [
+        0.07
+    ]
+}

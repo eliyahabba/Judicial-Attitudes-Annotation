@@ -1,0 +1,97 @@
+{
+    "title": "Anna Lloyd",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Anna Shatford Lloyd or Anna Shatford Parsons (22 January 1837 – 17 November 1912) was a school principal",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Lloyd was born near Stroud in 1837. Her father was Benjamin Parsons who founded and led schools",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": " She was educated at her father's school",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "She married Thomas Lloyd who took over her father's parish when he retired",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "She and her husband bought Slepe Hall School in St Ives, Huntingdonshire to deny its uses to Roman Catholics who also wanted to run the school which had been started by Anglicans",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "The Lloyds appealed to backers and the school was bought with Anna as the new principal",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "In time her daughter, Martha, became co-principal",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "When her mother died on 17 November 1912 then Martha ran the school until she retired in 1928.",
+                    "sentence_id": "3",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "Anna and her daughter supported the London Missionary Society and her daughter was a director for many years",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 8
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "She was educated at her father 's school ."
+    ],
+    "main_sentence_from_docx": [
+        " She was educated at her father's school"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_1"
+    ],
+    "global_sentence_index_docx": [
+        2
+    ],
+    "global_sentence_index_spike": [
+        566977
+    ],
+    "score_of_similarity": [
+        0.07
+    ]
+}

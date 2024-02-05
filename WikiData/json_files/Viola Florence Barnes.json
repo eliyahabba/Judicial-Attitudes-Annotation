@@ -1,0 +1,79 @@
+{
+    "title": "Viola Florence Barnes",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Viola Florence Barnes (August 28, 1885 – July 1, 1979) was an American historian and writer, one of the most prominent female historians in the US in the first half of 20th century",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Born in Albion, Nebraska, Barnes was educated at the University of Nebraska and Yale University[when",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "She taught at Smith College (1933) and Mount Holyoke College (1933–1952)",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "In 1940, she was honored by the Women's Centennial Congress as one of a hundred successful women in fields formerly closed to women",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "She focused on the history of New England and the Maritime provinces, her most famous work was The Dominion of New England (1923)",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "Her papers are held at Mount Holyoke",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 5
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "Born in Albion , Nebraska , Barnes was educated at the University of Nebraska and Yale University ."
+    ],
+    "main_sentence_from_docx": [
+        "Born in Albion, Nebraska, Barnes was educated at the University of Nebraska and Yale University[when"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        1
+    ],
+    "global_sentence_index_spike": [
+        654746
+    ],
+    "score_of_similarity": [
+        0.07
+    ]
+}

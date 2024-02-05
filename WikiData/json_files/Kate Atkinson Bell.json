@@ -1,0 +1,102 @@
+{
+    "title": "Kate Atkinson Bell",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Catherine Atkinson Bell (June 29, 1907 – February 25, 2003) was an American educator",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "She was educated at Baylor University, the University of Houston and the University of Chicago",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "She taught school for eleven years in the Houston Independent School District and was principal for Port Houston Elementary School for three and a half years",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "Bell was Assistant Director of Elementary Education for 14 years and Director of Elementary Education for nine years",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "She also served as Assistant Superintendent for Elementary Schools for Area IV, and as Assistant Superintendent for Basic Skills, K-12.",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "Bell was a member of the White House conference on Education in 1955 and 1960. She also served as a member of the Board of Examiners on Teacher Education and of the Texas Commission on Science",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": " She was elected president of the Texas State Teachers Association in 1954.",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "Kate Bell Elementary School was named in her honour",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "Bell was inducted into the Texas Women's Hall of Fame in 1984.",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 8
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "She was educated at Baylor University , the University of Houston and the University of Chicago ."
+    ],
+    "main_sentence_from_docx": [
+        "She was educated at Baylor University, the University of Houston and the University of Chicago"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        1
+    ],
+    "global_sentence_index_spike": [
+        757139
+    ],
+    "score_of_similarity": [
+        0.03
+    ]
+}

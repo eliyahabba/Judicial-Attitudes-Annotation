@@ -1,0 +1,103 @@
+{
+    "title": "William Warwick Buckland",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "William Warwick Buckland, FBA (11 June 1859 – 16 January 1946) was a scholar of Roman law, Regius Professor of Civil Law at the University of Cambridge from 1914 to 1945.",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "William Warwick Buckland was educated in France, at Hurstpierpoint College and the Crystal Palace School of Engineering",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "He entered Gonville and Caius College, Cambridge in 1881, graduating in 1884 with a first in the Law Tripos",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": " Elected a Fellow of Caius, he remained a Cambridge academic for the remainder of his life",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "In 1920 he became a Fellow of the British Academy",
+                    "sentence_id": "3",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "He received honorary degrees from the universities of Oxford, Edinburgh (1922), Harvard (1929), Lyon, Louvain and Paris",
+                    "sentence_id": "4",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "Among his best-known works on Roman Law is A Textbook of Roman Law from Augustus to Justinian, which became a standard text",
+                    "sentence_id": "5",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "He is buried at the Parish of the Ascension Burial Ground in Cambridge",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "This United Kingdom law-related biographical article is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 9
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "William Warwick Buckland was educated in France , at Hurstpierpoint College and the Crystal Palace School of Engineering ."
+    ],
+    "main_sentence_from_docx": [
+        "William Warwick Buckland was educated in France, at Hurstpierpoint College and the Crystal Palace School of Engineering"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        1
+    ],
+    "global_sentence_index_spike": [
+        229091
+    ],
+    "score_of_similarity": [
+        0.02
+    ]
+}

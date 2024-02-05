@@ -1,0 +1,148 @@
+{
+    "title": "John Dawson (botanist)",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "John Wyndham Dawson (1 February 1928 – 11 March 2019) was a New Zealand botanist",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Dawson was born in Eketāhuna on 1 February 1928. He was educated at Eketahuna District High School and Christchurch Boys' High School",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": " He studied at Victoria University College from 1947 to 1952, graduating with a Master of Arts with second-class honours in 1953. He was then awarded a Fulbright Scholarship, and undertook doctoral studies at the University of California, Berkeley, from where he gained a PhD in January 1958. The title of his thesis was A revision of the genus Anisotome Hook f",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "(Umbelliferae)",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "In 1958, Dawson married Judith Macken, and the couple went on to have three children",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "In 1957, Dawson was appointed to the faculty of the Department of Botany at Victoria University College (from 1962 known as Victoria University of Wellington), and remained there until his retirement in 1988, having risen to the rank of associate professor",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": " He served as head of the Botany Department between 1984 and 1987. Dawson was a Fellow of the Linnaean Society",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "Dawson's research covered the characteristics, relationships and history of New Zealand plants",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "In particular, he was interested in the Umbelliferae family of alpine plants, and he also studied New Caledonian flora from the family Myrtaceae",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": " After his retirement from Victoria, Dawson continued his botanical research in New Caledonia, he ran extension courses on the native plants of New Zealand, and was a guide at Otari-Wilton's Bush",
+                    "sentence_id": "2",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": " Dawson's book, New Zealand's Native Trees, co-written with Rob Lucas, was named \"Book of the Year\" at the 2012 New Zealand Post Book Awards",
+                    "sentence_id": "3",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 10
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "The standard author abbreviation J",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 11
+                },
+                {
+                    "sentence": "W",
+                    "sentence_id": "1",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 12
+                },
+                {
+                    "sentence": "Dawson is used to indicate this person as the author when citing a botanical name",
+                    "sentence_id": "2",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 13
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "Dawson died in Wellington on 11 March 2019.",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 14
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at Eketahuna District High School and Christchurch Boys ' High School ."
+    ],
+    "main_sentence_from_docx": [
+        "Dawson was born in Eketāhuna on 1 February 1928. He was educated at Eketahuna District High School and Christchurch Boys' High School"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        1
+    ],
+    "global_sentence_index_spike": [
+        734748
+    ],
+    "score_of_similarity": [
+        0.6
+    ]
+}

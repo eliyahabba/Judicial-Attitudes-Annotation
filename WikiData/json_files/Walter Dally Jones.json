@@ -1,0 +1,79 @@
+{
+    "title": "Walter Dally Jones",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Walter Dally Jones (21 May 1855, Wandsworth – 20 September 1926) was a British soldier",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "He was assistant secretary to the Committee of Imperial Defence 1914–1919.",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Dally Jones was educated at Harrow and Trinity College, Cambridge before joining the Army in 1878. He served in the 99th (Lanarkshire) Regiment of Foot with postings in Natal, Bermuda and the East Indies",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": " He was appointed Deputy-Assistant-Adjutant-General for Gibraltar 1891-8 before taking on the role of press censor for General Redvers Buller during the Boer War",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "He is credited, along with fellow officer Lieutenant-Colonel Ernest Swinton, with having initiated, on Christmas Eve, 1915, the use of the word \"tank\" as a code-name for the world's first tracked, armoured fighting vehicles produced by Great Britain",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "When Lloyd George established the War Cabinet in December 1916, Dally Jones assisted Maurice Hankey, the secretary, in recording the decisions",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 5
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "Dally Jones was educated at Harrow and Trinity College , Cambridge before joining the Army in 1878 ."
+    ],
+    "main_sentence_from_docx": [
+        "Dally Jones was educated at Harrow and Trinity College, Cambridge before joining the Army in 1878. He served in the 99th (Lanarkshire) Regiment of Foot with postings in Natal, Bermuda and the East Indies"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        2
+    ],
+    "global_sentence_index_spike": [
+        105173
+    ],
+    "score_of_similarity": [
+        1.06
+    ]
+}

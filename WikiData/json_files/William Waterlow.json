@@ -1,0 +1,68 @@
+{
+    "title": "William Waterlow",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Sir William (Alfred) Waterlow, 1st Baronet, KBE JP,  (23 April 1871 - 6 July 1931), was 602nd Lord Mayor of London",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Waterlow was educated at Marlborough College",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "He rose to become Managing Director of Waterlow and Sons and was knighted Knight Commander of the Order of the British Empire (KBE) in the 1919 New Year Honours",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "He became Alderman for Cornhill Ward and was elected a Sheriff of the City of London for 1928–29 and Lord Mayor of London for 1929–30. He was created a baronet, of Harrow Weald, on 28 October 1930.",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "He is best known for his involvement in the Portuguese Bank Note Crisis (1925) a fraud masterminded by Alves dos Reis",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "Waterlow was educated at Marlborough College ."
+    ],
+    "main_sentence_from_docx": [
+        "Waterlow was educated at Marlborough College"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        1
+    ],
+    "global_sentence_index_spike": [
+        105095
+    ],
+    "score_of_similarity": [
+        0.04
+    ]
+}

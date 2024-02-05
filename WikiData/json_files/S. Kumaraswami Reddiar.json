@@ -1,0 +1,114 @@
+{
+    "title": "S. Kumaraswami Reddiar",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Diwan Bahadur Sir Subbarayalu Kumaraswami Reddiar (23 April 1876 - after 1937) was an Indian lawyer and politician who served as a minister in Madras Presidency",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Kumaraswami Reddiar was born in Tinnevely on 23 April 1876. He was educated at the Hindu College, Tinnevely and graduated from Presidency College, Madras",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "He studied law at Madras Law College and practised law",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "He served as Government Pleader and Public Prosecutor of Tinnevely till September 1926 before joining the Justice Party in the late 1920s",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Kumaraswami Reddiar was elected to the Madras Legislative Council on a Justice Party ticket in 1930.",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "Kumaraswami Reddiar resigned his ministry post due to ill-health in 1936 and he was replaced with Muthiah Chettiar in a move to wipe out differences in the party",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": " The resignation of P",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "T",
+                    "sentence_id": "2",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "Rajan and him lead to the step-down of B",
+                    "sentence_id": "3",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": "Munuswamy Naidu from the position of Chief Minister and his subsequent succession by his rival Ramakrishna Ranga Rao, who was favoured by zamindars such as Muthiah Chettiar",
+                    "sentence_id": "4",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 9
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "He was knighted in the 1937 Coronation Honours list",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 10
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at the Hindu College , Tinnevely and graduated from Presidency College , Madras ."
+    ],
+    "main_sentence_from_docx": [
+        "Kumaraswami Reddiar was born in Tinnevely on 23 April 1876. He was educated at the Hindu College, Tinnevely and graduated from Presidency College, Madras"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        1
+    ],
+    "global_sentence_index_spike": [
+        288666
+    ],
+    "score_of_similarity": [
+        0.66
+    ]
+}

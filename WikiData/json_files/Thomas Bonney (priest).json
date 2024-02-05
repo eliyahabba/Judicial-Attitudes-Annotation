@@ -1,0 +1,85 @@
+{
+    "title": "Thomas Bonney (priest)",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Thomas Kaye Bonney(b Tansor, Northamptonshire, 20 June 1782 - d Normanton, Rutland 7 April 1863) was Archdeacon of Leicester from 22 January 1831 until his death",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "The son of Henry Kaye Bonney, Rector of Kings Cliffe, Northamptonshire, he was educated at Clare College, Cambridge",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": " He was ordained in 1807. He held incumbencies at Coningsby, Lincolnshire, and Normanton, Rutland",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "This biography of a United Kingdom religious figure is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "This biographical article about person in connection with Christianity is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 6
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "The son of Henry Kaye Bonney , Archdeacon of Bedford from 1821 to 1845 , he was educated at Clare College , Cambridge ."
+    ],
+    "main_sentence_from_docx": [
+        "The son of Henry Kaye Bonney, Rector of Kings Cliffe, Northamptonshire, he was educated at Clare College, Cambridge"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        1
+    ],
+    "global_sentence_index_spike": [
+        706531
+    ],
+    "score_of_similarity": [
+        0.32
+    ]
+}

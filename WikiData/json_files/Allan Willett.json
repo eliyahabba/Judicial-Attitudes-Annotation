@@ -1,0 +1,167 @@
+{
+    "title": "Allan Willett",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Allan Robert Willett, CMG, CVO, KStJ (24 August 1936 – 18 July 2015) was an English soldier and businessman",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "He was also Lord Lieutenant of Kent from 2002 to 2011.",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Born in India in 1936, his family subsequently returned to Kent where Willett's father was a tea planter and farmer on the Isle of Thanet",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "His mother's family were artists with connections to the military and Kent cricket",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Willett was educated at Eastbourne College and was later commissioned during his National Service in the Buffs (Royal East Kent Regiment)",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "He was later seconded to the King's African Rifles in Kenya during the Mau Mau Uprising",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": " Upon leaving the military, he started his own business in 1962, importing machinery for the manufacturer of packaging and plastics",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "The resulting business, Willett International Limited became a market leader in electronic labeling processes and won two Queen's Awards",
+                    "sentence_id": "3",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": " In 2003 Willett International was sold to a competitor",
+                    "sentence_id": "4",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": "He lived with his wife Anne in Chilham, Kent",
+                    "sentence_id": "5",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 9
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "Willett died on 18 July 2015, aged 78.",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 10
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "Willett was appointed Companion of the Order of St Michael and St George (CMG) in the 1997 Birthday Honours for services to export",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 11
+                },
+                {
+                    "sentence": "On 5 January 2002 he succeeded Robin Leigh-Pemberton, Baron Kingsdown as Lord Lieutenant of Kent",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 12
+                },
+                {
+                    "sentence": "Willett was appointed Knight of Justice of the Order of St",
+                    "sentence_id": "2",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 13
+                },
+                {
+                    "sentence": "John in 2003. He is also the former Chairman of the Canterbury Cathedral Trust Fund (of which he remains trustee), and was Honorary Colonel of the 3rd Battalion Princess of Wales's Royal Regiment (a Territorial Army reserve battalion based at Canterbury) 2005–10, and Ambassador for Kent",
+                    "sentence_id": "3",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 14
+                },
+                {
+                    "sentence": " He was appointed Commander of the Royal Victorian Order (CVO) in the 2011 Birthday Honours for his service as lord-lieutenant",
+                    "sentence_id": "4",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 15
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "In January 2004 Willett created a charitable foundation whose principal beneficiaries are persons or organisations living, working or studying in Kent",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 16
+                },
+                {
+                    "sentence": "He was also involved in various public sector roles including the chairman of the Industrial Development Board for London and the South East and the East Kent Enterprise Agency",
+                    "sentence_id": "1",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 17
+                },
+                {
+                    "sentence": "In 1998 Willett helped the government establish the Regional Development Agency for the South East of England (South East England Development Agency)",
+                    "sentence_id": "2",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 18
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "Willett was educated at Eastbourne College and was later commissioned during his National Service in the Buffs ( Royal East Kent Regiment ) ."
+    ],
+    "main_sentence_from_docx": [
+        "He was also Lord Lieutenant of Kent from 2002 to 2011."
+    ],
+    "main_sentence_id_in_docx": [
+        "0_1"
+    ],
+    "global_sentence_index_docx": [
+        1
+    ],
+    "global_sentence_index_spike": [
+        256653
+    ],
+    "score_of_similarity": [
+        0.79
+    ]
+}

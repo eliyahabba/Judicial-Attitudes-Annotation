@@ -1,0 +1,102 @@
+{
+    "title": "Dave Batten",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "David Russell Batten (13 December 1926 – 11 September 2013) was a New Zealand sprinter who won two bronze medals at the 1950 British Empire Games",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Born in Christchurch on 13 December 1926, Batten was the son of Rawhiti Eric (Raj) Batten and Maudie Batten (née Burnett)",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": " He was educated at Christchurch Boys' High School",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": " In 1954 he married Barbara Alice Jones in Christchurch; the couple went on to have two children but later divorced",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": " In 1980 he married Joan Elizabeth Le Cren (née Cornish)",
+                    "sentence_id": "3",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Batten won national junior athletics titles over 100 yards and 220 yards in 1945. He then won seven senior national titles: the 100 yards in 1947; 220 yards in 1948, 1949, 1950 and 1951; and the 440 yards in 1949 and 1950. He set a national junior record for 100 yards in 1945, and in 1950 he broke the New Zealand record over 220 yards",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "At the 1950 British Empire Games in Auckland, Batten won two bronze medals; one in the men's 440 yards, and one as part of the men's 440 yards relay alongside John Holland, Derek Steward and Jack Sutherland",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": " He also reached the semi-finals of the men's 220 yards",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "Batten died in Christchurch on 11 September 2013.",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 8
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at Christchurch Boys ' High School ."
+    ],
+    "main_sentence_from_docx": [
+        " He was educated at Christchurch Boys' High School"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_1"
+    ],
+    "global_sentence_index_docx": [
+        2
+    ],
+    "global_sentence_index_spike": [
+        889086
+    ],
+    "score_of_similarity": [
+        0.06
+    ]
+}

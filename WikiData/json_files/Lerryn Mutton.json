@@ -1,0 +1,113 @@
+{
+    "title": "Lerryn Mutton",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Lerryn William Mutton, OAM (12 October 1924 – 26 July 2015) was an Australian politician",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "He was the Liberal member for Yaralla in the New South Wales Legislative Assembly from 1968 to 1978.",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Mutton was born in Concord, the son of Brice Mutton (member for Concord in 1949) and Lilian Taylor",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "He was educated at North Strathfield Public School and Fort Street Boys High School before working in his father's building business",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "He served in the RAAF from 1942 to 1946, seeing action as a pilot in Labuan and Borneo",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "He married Mavis Tucker on 29 October 1949, with whom he had four children",
+                    "sentence_id": "3",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "In 1953 he was elected to Concord Council, serving until 1968 (as Mayor from 1961 to 1962)",
+                    "sentence_id": "4",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "He was also active in the local Liberal Party",
+                    "sentence_id": "5",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "In 1968, Mutton was selected as the Liberal candidate for the new seat of Yaralla; he defeated the sitting Labor member for the abolished seat of Concord, Thomas Murphy",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": "He held the seat until 1978, when he was defeated by Labor candidate Garry McIlwaine",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 9
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "He was awarded the Medal of the Order of Australia on 14 June 2010.",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 10
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": []
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at North Strathfield Public School and Fort Street Boys High School before working in his father 's building business ."
+    ],
+    "main_sentence_from_docx": [
+        "He was educated at North Strathfield Public School and Fort Street Boys High School before working in his father's building business"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_1"
+    ],
+    "global_sentence_index_docx": [
+        3
+    ],
+    "global_sentence_index_spike": [
+        895325
+    ],
+    "score_of_similarity": [
+        0.02
+    ]
+}

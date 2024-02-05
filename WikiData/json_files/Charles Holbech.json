@@ -1,0 +1,91 @@
+{
+    "title": "Charles Holbech",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Charles William Holbech, J",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "P",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "  (born Farnborough, Warwickshire 1816; died 1901) was Archdeacon of Coventry from 1873 until 1887.",
+                    "sentence_id": "2",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Holbech was educated at Eton and Balliol College, Oxford",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": " He was ordained in 1840, and was curate at Chelsfield until 1842; and  Vicar of Farnborough, Warwickshire from 1842 to 1896.",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "He died on 20 March 1901.",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "This article about a Church of England archdeacon in the Province of Canterbury is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 7
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "Holbech was educated at Eton and Balliol College , Oxford ."
+    ],
+    "main_sentence_from_docx": [
+        "Holbech was educated at Eton and Balliol College, Oxford"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        3
+    ],
+    "global_sentence_index_spike": [
+        757166
+    ],
+    "score_of_similarity": [
+        0.05
+    ]
+}

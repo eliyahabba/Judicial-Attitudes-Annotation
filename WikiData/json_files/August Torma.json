@@ -1,0 +1,120 @@
+{
+    "title": "August Torma",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "August Torma (born August Schmidt; 19 February 1895 – 12 March 1971) was an Estonian military officer, minister and diplomat",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "A veteran of the Estonian War of Independence, Torma was awarded the Order of the Cross of the Eagle, 1st Class, in 1936.",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "August Torma was educated at St",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "Petersburg University, then attended Vladimir Military Academy",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Torma was mobilized into the Russian Imperial Army during World War I and served as an officer",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "He was seriously injured in Galicia in 1917 and subsequently became a prisoner of war in Austria",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "He eventually returned to Estonia in 1918 after a prisoner exchange via Denmark",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "Torma was attached to the British expeditionary force as the Estonian representative during the North Russia Campaign, serving in the area of intelligence",
+                    "sentence_id": "3",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "He subsequently formed a force of some 200 Estonian soldiers attached to the French expeditionary corps",
+                    "sentence_id": "4",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "After the war Torma was the military attaché in Lithuania from 1919, then was appointed the chargé d'affaires in 1921. He returned to Tallinn and was appointed the director Foreign Ministry political department, from 1927 to 1931 he was the assistant foreign minister",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": "In 1931 he became the envoy to Italy and Switzerland until 1934 and was permanent representative to the League of Nations between 1931 and 1939. From 1934 he was the envoy of Estonia in London until his death in 1971.",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 10
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "August Torma was also responsible for the founding of the Estonian Lutheran Church congregation in London",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 11
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "August Torma was educated at St. Petersburg University , then attended Vladimir Military Academy ."
+    ],
+    "main_sentence_from_docx": [
+        "Petersburg University, then attended Vladimir Military Academy"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_1"
+    ],
+    "global_sentence_index_docx": [
+        3
+    ],
+    "global_sentence_index_spike": [
+        70103
+    ],
+    "score_of_similarity": [
+        0.37
+    ]
+}

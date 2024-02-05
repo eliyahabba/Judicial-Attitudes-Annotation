@@ -1,0 +1,114 @@
+{
+    "title": "Gaetano Sanseverino",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Gaetano Sanseverino (7 August 1811 – 16 November 1865) was an Italian philosopher and theologian",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "He made a comparative study including the scholastics, particularly Thomas Aquinas, and of the connection between their doctrine and that of the church fathers",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Gaetano Sanseverino was born in Naples on 7 August 1811.",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Gaetano made his studies in the seminary in Nola, where his uncle was rector",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "After his ordination, he continued the study of philosophy, with the special view of comparing the various systems",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "Gaetano also became a canon of the cathedral of Naples, professor of logic and metaphysics in the seminary, substitute professor of ethics in the university, and eventually scrittore in the National Library",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "Sanseverino had been educated in the Cartesian system, which at that time prevailed in the ecclesiastical schools of Italy, but his comparative study of the various systems supplied him with a deeper knowledge of the scholastics, particularly St",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "Thomas Aquinas, and of the intimate connection between their doctrine and that of the church fathers",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "From that time until the end of his life, his only concern was the restoration of Christian philosophy, in which by his writings, lectures and conversation, he was of supreme assistance to Pope Leo XIII",
+                    "sentence_id": "2",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": "With this object, in 1840, he founded La Scienza e la Fede, a periodical which was continued until 1887 by his disciples and associates, Signoriello and d'Amelio",
+                    "sentence_id": "3",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 9
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "Gaetano Sanseverino died in Naples of cholera on 16 November 1865, at age 54.",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 10
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "Sanseverino had been educated in the Cartesian system , which at that time prevailed in the ecclesiastical schools of Italy , but his comparative study of the various systems supplied him with a deeper knowledge of the scholastics , particularly St. Thomas Aquinas , and of the intimate connection between their doctrine and that of the church fathers ."
+    ],
+    "main_sentence_from_docx": [
+        "Sanseverino had been educated in the Cartesian system, which at that time prevailed in the ecclesiastical schools of Italy, but his comparative study of the various systems supplied him with a deeper knowledge of the scholastics, particularly St"
+    ],
+    "main_sentence_id_in_docx": [
+        "3_0"
+    ],
+    "global_sentence_index_docx": [
+        6
+    ],
+    "global_sentence_index_spike": [
+        980053
+    ],
+    "score_of_similarity": [
+        0.31
+    ]
+}

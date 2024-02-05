@@ -1,0 +1,171 @@
+{
+    "title": "Edward Bridges, 1st Baron Bridges",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Edward Ettingdere Bridges, 1st Baron Bridges, KG, GCB, GCVO, MC, PC, FRS (4 August 1892 – 27 August 1969), was a British civil servant",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Bridges was born on 4 August 1892 in Yattendon in Berkshire",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "He was the son of Robert Bridges, later Poet Laureate, and the pianist (Mary) Monica Waterhouse, daughter of the architect Alfred Waterhouse and niece of Price Waterhouse co-founder, Edwin Waterhouse",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "He was educated at Eton and Magdalen College, Oxford",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Bridges then fought in the First World War with the Oxfordshire and Buckinghamshire Light Infantry, eventually achieving the rank of captain and being awarded the Military Cross",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "He later joined the Civil Service and in 1938 he was appointed Cabinet Secretary, succeeding Sir Maurice Hankey",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "Bridges remained in this post until 1946, when he was made Permanent Secretary to the Treasury and Head of the Home Civil Service, a position he held until 1956. In his post-war memoirs, Winston Churchill praised Bridges' wartime work as Secretary to the War Cabinet, writing that not only was Bridges \"an extremely competent and tireless worker, but he was also a man of exceptional force, ability, and personal charm, without a trace of jealousy in his nature\"",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "After his retirement, Bridges served as Chancellor of the University of Reading",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "He was given honorary degrees from several universities and appointed a Fellow of the Royal Society",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": " He also published The State and the Arts, Romanes Lecture for 1958, Oxford, and The Treasury (Oxford University Press, 1964)",
+                    "sentence_id": "2",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 9
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "Bridges married Katharine Dianthe Farrer, daughter of Thomas Farrer, 2nd Baron Farrer, on 6 June 1922. They had four children:",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 10
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "Bridges died at Winterfold Heath, Surrey, on 27 August 1969, aged 77. He was succeeded in the barony by his eldest son Thomas Edward Bridges, a diplomat who served as British Ambassador to Italy from 1983 to 1987.",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 11
+                }
+            ]
+        },
+        {
+            "paragraph_index": 7,
+            "sentences": [
+                {
+                    "sentence": "In the 1939 New Year Honours, Bridges was appointed to the Order of the Bath as a Knight Commander (KCB) and in the 1944 New Year Honours was promoted within the same Order as a Knight Grand Cross (GCB)",
+                    "sentence_id": "0",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 12
+                },
+                {
+                    "sentence": " In the 1946 Birthday Honours, Sir Edward was appointed to the Royal Victorian Order as a Knight Grand Cross (GCVO)",
+                    "sentence_id": "1",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 13
+                },
+                {
+                    "sentence": " Sir Edward was made a Fellow of the Royal Society in 1952 (FRS)",
+                    "sentence_id": "2",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 14
+                },
+                {
+                    "sentence": " He was then sworn of the Privy Council in the 1953 Coronation Honours",
+                    "sentence_id": "3",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 15
+                },
+                {
+                    "sentence": " In 1957, he was raised to the peerage as Baron Bridges, of Headley in the County of Surrey, and of St Nicholas at Wade in the County of Kent",
+                    "sentence_id": "4",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 16
+                },
+                {
+                    "sentence": " Lord Bridges was appointed to the Order of the Garter as a Knight Companion (KG) in 1965.",
+                    "sentence_id": "5",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 17
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at Eton and Magdalen College , Oxford ."
+    ],
+    "main_sentence_from_docx": [
+        "He was educated at Eton and Magdalen College, Oxford"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_2"
+    ],
+    "global_sentence_index_docx": [
+        3
+    ],
+    "global_sentence_index_spike": [
+        33028
+    ],
+    "score_of_similarity": [
+        0.05
+    ]
+}

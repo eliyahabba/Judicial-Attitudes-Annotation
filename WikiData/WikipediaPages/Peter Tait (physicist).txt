@@ -1,0 +1,41 @@
+
+
+Peter Guthrie Tait FRSE (28 April 1831 – 4 July 1901) was a Scottish mathematical physicist and early pioneer in thermodynamics. He is best known for the mathematical physics textbook Treatise on Natural Philosophy, which he co-wrote with Lord Kelvin, and his early investigations into knot theory.
+
+His work on knot theory contributed to the eventual formation of topology as a mathematical discipline. His name is known in graph theory mainly for Tait's conjecture on cubic graphs. He is also one of the namesakes of the Tait–Kneser theorem on osculating circles.
+
+Tait was born in Dalkeith on 28 April 1831 the only son of Mary Ronaldson and John Tait, secretary to the 5th Duke of Buccleuch.[1]
+
+He was educated at Dalkeith Grammar School then Edinburgh Academy. He studied Mathematics and Physics at the University of Edinburgh, and then went to Peterhouse, Cambridge, graduating as senior wrangler and first Smith's prizeman in 1852.[2] As a fellow and lecturer of his college he remained at the University for a further two years, before leaving to take up the professorship of mathematics at Queen's College, Belfast. There he made the acquaintance of Thomas Andrews, whom he joined in researches on the density of ozone and the action of the electric discharge on oxygen and other gases, and by whom he was introduced to Sir William Rowan Hamilton and quaternions.
+
+In 1860, Tait succeeded his old master, James D. Forbes, as professor of natural philosophy at the University of Edinburgh, and occupied the Chair until shortly before his death. The first scientific paper under Tait's name only was published in 1860. His earliest work dealt mainly with mathematical subjects, and especially with quaternions, of which he was the leading exponent after their originator, William Rowan Hamilton. He was the author of two text-books on them—one an Elementary Treatise on Quaternions (1867), written with the advice of Hamilton, though not published till after his death, and the other an Introduction to Quaternions (1873), in which he was aided by Philip Kelland (1808–1879), one of his teachers at the University of Edinburgh. Quaternions was also one of the themes of his address as president of the mathematical section of the British Association for the Advancement of Science in 1871.
+
+He also produced original work in mathematical and experimental physics. In 1864, he published a short paper on thermodynamics, and from that time his contributions to that and kindred departments of science became frequent and important. In 1871, he emphasised the significance and future importance of the principle of the dissipation of energy (second law of thermodynamics). In 1873 he took thermoelectricity for the subject of his discourse as Rede lecturer at Cambridge, and in the same year he presented the first sketch of his well-known thermoelectric diagram before the Royal Society of Edinburgh.
+
+Two years later, researches on "Charcoal Vacua" with James Dewar led him to see the true dynamical explanation of the Crookes radiometer in the large mean free path of the molecule of the highly rarefied air. From 1879 to 1888, he engaged in difficult experimental investigations. These began with an inquiry into what corrections were required for thermometers operating at great pressure. This was for the benefit of thermometers employed by the Challenger expedition for observing deep-sea temperatures, and were extended to include the compressibility of water, glass, and mercury.[3] This work led to the first formulation of the Tait equation, which is widely used to fit liquid density to pressure. Between 1886 and 1892 he published a series of papers on the foundations of the kinetic theory of gases, the fourth of which contained what was, according to Lord Kelvin, the first proof ever given of the Waterston-Maxwell theorem (equipartition theorem) of the average equal partition of energy in a mixture of two gases. About the same time he carried out investigations into impact and its duration.
+
+Many other inquiries conducted by him might be mentioned, and some idea may be gained of his scientific activity from the fact that a selection only from his papers, published by the Cambridge University Press, fills three large volumes. This mass of work was done in the time he could spare from his professorial teaching in the university. For example, in 1880 he worked on the Four color theorem and proved that it was true if and only if no snarks were planar.
+
+In addition, he was the author of a number of books and articles. Of the former, the first, published in 1856, was on the dynamics of a particle; and afterwards there followed a number of concise treatises on thermodynamics, heat, light, properties of matter and dynamics, together with an admirably lucid volume of popular lectures on Recent Advances in Physical Science.
+
+With Lord Kelvin, he collaborated in writing the well-known Treatise on Natural Philosophy. "Thomson and Tait," as it is familiarly called (" T and T' " was the authors' own formula), was planned soon after Lord Kelvin became acquainted with Tait, on the latter's appointment to his professorship in Edinburgh, and it was intended to be an all-comprehensive treatise on physical science, the foundations being laid in kinematics and dynamics, and the structure completed with the properties of matter, heat, light, electricity and magnetism. But the literary partnership ceased in about eighteen years, when only the first portion of the plan had been completed, because each of the members felt he could work to better advantage separately than jointly. The friendship, however, endured for the remaining twenty-three years of Tait's life.
+
+Tait collaborated with Balfour Stewart in the Unseen Universe, which was followed by Paradoxical Philosophy. It was in his 1875 review of The Unseen Universe, that William James first put forth his Will to Believe Doctrine. Tait's articles include those he wrote for the ninth edition of the Encyclopædia Britannica on light, mechanics, quaternions, radiation, and thermodynamics, and the biographical notices of Hamilton and James Clerk Maxwell.
+
+He died in Edinburgh on 4 July 1901. He is buried in the second terrace down from Princes Street in the burial ground of St John's Episcopal Church, Edinburgh.
+
+The Tait conjectures are three conjectures made by Tait in his study of knots. The Tait conjectures involve concepts in knot theory such as alternating knots, chirality, and writhe. All of the Tait conjectures have been solved, the most recent being the Flyping conjecture, proved by Morwen Thistlethwaite and William Menasco in 1991.
+
+Tait was married to Margaret Archer Porter (1839–1926), the sister of (1) William Archer Porter, a lawyer and educationist who served as the Principal of Government Arts College, Kumbakonam and tutor and secretary to the Maharaja of Mysore, (2) James Porter (Master of Peterhouse, Cambridge) and (3) Jane Bailie Porter, who married Alexander Crum Brown, the Scottish organic chemist.
+
+Tait was an enthusiastic golfer and, of his seven children, two, Frederick Guthrie Tait (1870–1900) and John Guthrie Tait (1861–1945) went on to become gifted amateur golf champions. He was an all-round sportsman and represented Scotland at international level in rugby union. In 1891, Tait invoked the Magnus effect to explain the influence of spin on the flight of a golf ball. His daughter Edith Tait was married to Rev. Harry Reid, who later became Bishop of Edinburgh.
+
+His son William Archer Porter Tait was a civil engineer.
+
+Tait was a lifelong friend of James Clerk Maxwell, and a portrait of Tait by Harrington Mann is held in the James Clerk Maxwell Foundation museum in Edinburgh.[5]
+
+There are several portraits of Tait by Sir George Reid. One, painted about 1883, is owned by the National Galleries of Scotland, to which it was given by the artist in 1902.[6] Another portrait was unveiled at Peterhouse, Cambridge in October 1902, paid for by the Master and Fellows of Peterhouse, where Tait had been an Honorary Fellow.[7]
+
+One of the chairs in the Department of Physics at the University of Edinburgh is the Tait professorship.[8]
+
+Peter Guthrie Tait Road at the University of Edinburgh King's Buildings complex is named in his honour.

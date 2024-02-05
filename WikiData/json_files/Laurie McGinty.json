@@ -1,0 +1,114 @@
+{
+    "title": "Laurie McGinty",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Laurence Frederick McGinty MBE (16 January 1921 – 2 July 1991) was an Australian politician",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "He was the member for Willoughby in the New South Wales Legislative Assembly from 1968 to 1978, firstly as a member of the Liberal Party and then as an Independent from 1977. He was Minister for Housing and Co-operative Societies from 1973 to 1976.",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "McGinty was born in Orange to Laurence Russell Leonard McGinty and Ellen Margaret Elizabeth Magee",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "He was educated at Christian Brothers High School at Lewisham and St Joseph's College at Hunters Hill before studying at the University of Sydney, where he received a Bachelor of Laws in 1944, having worked as an assessor for the Taxation Department from 1939 to 1942. He enlisted in the army in 1942, shortly afterwards transferring to the Royal Australian Navy, eventually becoming a lieutenant",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "After his return he was a legal officer with T",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "S",
+                    "sentence_id": "3",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "Skillman and Company from 1947 until 1955, when he was admitted as a solicitor",
+                    "sentence_id": "4",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "He was elected to Willoughby Council in 1957 and was Mayor from 1960 to 1967. He was also active in the local Liberal Party",
+                    "sentence_id": "5",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "In 1968, following the retirement of long-serving Liberal MP George Brain, McGinty was preselected as the Liberal candidate for Willoughby",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": "In 1973 he was made Minister for Housing and Co-operative Services, holding these portfolios until 1976. He lost preselection for Willoughby in September 1977 to Nick Greiner and resigned from the Liberal Party, sitting as an Independent",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": "He contested the election as such and received 15.5% of the vote, allowing Labor candidate Eddie Britt to defeat Greiner",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": " He died in 1991 at Castle Cove",
+                    "sentence_id": "3",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 11
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": []
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at Christian Brothers High School at Lewisham and St Joseph 's College at Hunters Hill before studying at the University of Sydney , where he received a Bachelor of Laws in 1944 , having worked as an assessor for the Taxation Department from 1939 to 1942 ."
+    ],
+    "main_sentence_from_docx": [
+        "He was educated at Christian Brothers High School at Lewisham and St Joseph's College at Hunters Hill before studying at the University of Sydney, where he received a Bachelor of Laws in 1944, having worked as an assessor for the Taxation Department from 1939 to 1942. He enlisted in the army in 1942, shortly afterwards transferring to the Royal Australian Navy, eventually becoming a lieutenant"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_1"
+    ],
+    "global_sentence_index_docx": [
+        3
+    ],
+    "global_sentence_index_spike": [
+        909219
+    ],
+    "score_of_similarity": [
+        0.48
+    ]
+}

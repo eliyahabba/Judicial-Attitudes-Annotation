@@ -1,0 +1,92 @@
+{
+    "title": "Fayette Bartholomew Tower",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Fayette Bartholomew Tower (1817–1857), civil engineer; mayor",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "Tower was born in Waterville, New York on June 29, 1817. Tower was educated as a civil engineer",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "In 1837, he was appointed on the Croton Aqueduct and he continued on that work until its completion in 1842.  During the ensuing five years he made Waterville his residence, and at the time prepared his \"Illustration of the Croton Aqueduct\"  consisting of a series of twenty-one plates with text (New York, 1843)",
+                    "sentence_id": "2",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "About 1848 his health led him to seek a milder climate, and he settled in Cumberland, Maryland",
+                    "sentence_id": "3",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "He was chosen to the Maryland, legislature and was later elected mayor of Cumberland (1853–1854)",
+                    "sentence_id": "4",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "His health continued to fall, and in 1856 he returned to Waterville and died soon afterwards on February 16, 1857.",
+                    "sentence_id": "5",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "<reference/>",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "This article about a mayor in Maryland is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 8
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "Tower was educated as a civil engineer ."
+    ],
+    "main_sentence_from_docx": [
+        "Fayette Bartholomew Tower (1817–1857), civil engineer; mayor"
+    ],
+    "main_sentence_id_in_docx": [
+        "0_0"
+    ],
+    "global_sentence_index_docx": [
+        0
+    ],
+    "global_sentence_index_spike": [
+        95947
+    ],
+    "score_of_similarity": [
+        0.95
+    ]
+}

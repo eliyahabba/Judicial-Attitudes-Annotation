@@ -1,0 +1,143 @@
+{
+    "title": "William Livingstone Watson",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "William Livingstone Watson (Kinross, Scotland, 1835-Ayton, Perthshire, Scotland, May 1903) was a Scottish East India merchant and an astronomer",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Watson was originally intended for a career in the church but turned instead to the law and thence to business",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": " He was educated at the University of Edinburgh and the University of Glasgow",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Watson joined a Glasgow firm of East India merchants, James Finlay & Co",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": ", in 1855. He became a partner in this firm in 1865, and in 1876 moved to London, where he was their representative",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "He also participated in a number of other business activities, serving for many years as chairman of the London board of the Royal Insurance Company, and also on a number of other boards, including the Merchants’ Marine Insurance Company, the Agra Bank, the Indo-China Steam Navigation Company, the Assam Bengal Railway, and the Clan Line",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "In 1888 Watson bought Ayton House in Perthshire, Scotland, and with it an observatory and one of the United Kingdom's largest telescopes, the 12-inch \"great refractor\" that has been exhibited at the Great Exhibition in 1851. He worked on this telescope with astronomers  Ludwig Becker and Ralph Copeland",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": " He was elected a fellow of the Royal Astronomical Society in 1892.",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "Watson was also a Justice of the Peace and a member of the Perthshire County Council",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": " He was a devout Free Church Christian and a strict Sabbatarian, banning non-religious books and children's toys on Sundays",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": " He worked with other temperance campaigners for the introduction of the Gothenburg System for controlling the consumption of alcoholic spirits",
+                    "sentence_id": "2",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 10
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "Watson married Elizabeth Lindsay Seton, the daughter of George Seton, a genealogist and historian, in 1878, but his wife suffered from ill health after 1881, and their son R",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 11
+                },
+                {
+                    "sentence": "W",
+                    "sentence_id": "1",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 12
+                },
+                {
+                    "sentence": "Seton-Watson, the political activist and historian, later recalled that he had never seen his mother walking or standing",
+                    "sentence_id": "2",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 13
+                },
+                {
+                    "sentence": " The household was run by Watson's sister Jeanie and then by a cousin, Mary Lorimer",
+                    "sentence_id": "3",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 14
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at the University of Edinburgh and the University of Glasgow ."
+    ],
+    "main_sentence_from_docx": [
+        " He was educated at the University of Edinburgh and the University of Glasgow"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_1"
+    ],
+    "global_sentence_index_docx": [
+        2
+    ],
+    "global_sentence_index_spike": [
+        202745
+    ],
+    "score_of_similarity": [
+        0.03
+    ]
+}

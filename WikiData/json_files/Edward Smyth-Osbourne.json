@@ -1,0 +1,136 @@
+{
+    "title": "Edward Smyth-Osbourne",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Lieutenant General Sir Edward Alexander Smyth-Osbourne, KCVO, CBE (born 18 May 1964) is a retired senior British Army officer",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Smyth-Osbourne was born on 18 May 1964 in Plymouth, England",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": " He was educated at Eton College, an all-boys public school in Berkshire",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "He studied at the University of St Andrews, graduating with an undergraduate Master of Arts (MA Hons)",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Smyth-Osbourne was commissioned into The Life Guards in October 1983. He went on to be Commanding Officer of the Household Cavalry Regiment in 2005 and in that role deployed to Afghanistan in 2007. He then became commander of the 38th (Irish) Brigade in 2009, Director of the ISAF Force Reintegration Cell in 2012, and Major-General commanding the Household Division in July 2013.",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "Smyth-Osbourne was Prince William's and Prince Harry's Commanding Officer in the Household Cavalry Regiment and acted as their military mentor",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "He was also Prince Harry's Commanding Officer when the prince undertook active service in Afghanistan",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "He was invited to the wedding of Prince William and Kate Middleton in April 2011.",
+                    "sentence_id": "2",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "Smyth-Osbourne relinquished command of the Household Division on 11 June 2016 and was knighted and invested as a Knight Commander of the Royal Victorian Order by the Queen",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": " He became Deputy Commander of the NATO Rapid Deployable Corps – Italy in July 2016, and took command of the Allied Rapid Reaction Corps in July 2019. He retired in April 2022.",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 9
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "Smyth-Osbourne was appointed Colonel of The Life Guards and Gold Stick in Waiting to the Queen on 7 June 2019.",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 10
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "In 1996, Smyth-Osbourne married Lucy Turner",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 11
+                },
+                {
+                    "sentence": "Together they have two children: one son and one daughter",
+                    "sentence_id": "1",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 12
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "Smyth - Osbourne was educated at Eton College and the University of St Andrews , where he graduated with a Master of Arts ."
+    ],
+    "main_sentence_from_docx": [
+        "Smyth-Osbourne was appointed Colonel of The Life Guards and Gold Stick in Waiting to the Queen on 7 June 2019."
+    ],
+    "main_sentence_id_in_docx": [
+        "5_0"
+    ],
+    "global_sentence_index_docx": [
+        10
+    ],
+    "global_sentence_index_spike": [
+        513069
+    ],
+    "score_of_similarity": [
+        0.66
+    ]
+}

@@ -1,0 +1,196 @@
+{
+    "title": "Peter Scupham",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Peter Scupham (24 February 1933 – 11 June 2022) was a British poet",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Scupham was born in Bootle on 24 February 1933 to John and Dorothy Scupham",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": " The family moved to Cambridgeshire and he was educated at the Perse School, Cambridge, and St George's School, Harpenden",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": " After National Service with the RAOC, he studied at Emmanuel College, Cambridge",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "He taught at Skegness Grammar School, and then became Head of English at St",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "Christopher School, Letchworth",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "  His first marriage was to Carola Nance Braunholtz, a Classics teacher, with whom he had four children",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": " His second wife was Margaret Steward",
+                    "sentence_id": "3",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": " Together they restored a small derelict Elizabethan Manor house in Norfolk, where they put on plays and created a garden",
+                    "sentence_id": "4",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": " Simon Jenkins included the house in England's Thousand Best Homes",
+                    "sentence_id": "5",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 9
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "Scupham and Steward started a theatrical company, Phoebus Car",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": " Some of its members went on to careers on the stage",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 11
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "With John Mole he founded The Mandeville Press, a small press using traditional letterpress methods of printing",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 12
+                },
+                {
+                    "sentence": " The Press produced hand-set editions of work by Geoffrey Grigson, Anthony Hecht, John Fuller, K",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 13
+                },
+                {
+                    "sentence": "W",
+                    "sentence_id": "2",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 14
+                },
+                {
+                    "sentence": "Gransden, and many others",
+                    "sentence_id": "3",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 15
+                },
+                {
+                    "sentence": " Its archive is now in the British Library",
+                    "sentence_id": "4",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 16
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "For many years he ran an antiquarian book business - Mermaid Books - with Steward, specialising in English Literature, and trading by printed catalogue",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 17
+                },
+                {
+                    "sentence": " Those catalogues were a welcome addition to any potential purchaser's breakfast, often causing them to chortle into their cornflakes at yet another scabrously disrespectful description of some long-dead literary figure; The Times called them \"witty and erudite catalogues that became collection pieces in themselves\"",
+                    "sentence_id": "1",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 18
+                },
+                {
+                    "sentence": " From 2020 onwards, Mermaid Books appeared to be in hiatus, and is now, alas, no longer trading",
+                    "sentence_id": "2",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 19
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "His poetry was deftly formal, humane, richly textured and deeply civilized",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 20
+                },
+                {
+                    "sentence": "He was able to see proofs of his final volume shortly before he died",
+                    "sentence_id": "1",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 21
+                },
+                {
+                    "sentence": "Scupham died on 11 June 2022, at the age of 89.",
+                    "sentence_id": "2",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 22
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at the Perse , Cambridge and St. George 's , Harpenden ."
+    ],
+    "main_sentence_from_docx": [
+        " His second wife was Margaret Steward"
+    ],
+    "main_sentence_id_in_docx": [
+        "2_3"
+    ],
+    "global_sentence_index_docx": [
+        7
+    ],
+    "global_sentence_index_spike": [
+        872038
+    ],
+    "score_of_similarity": [
+        0.72
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "title": "Timothy Joseph Horan",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Timothy Joseph Horan (1912–1975) was an Irish diplomat",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Horan was educated at University College Cork",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "In 1938 he entered the Department of External Affairs as Third Secretary",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "From 1942 to 1945 he was Consul in New York City",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "From 1945 to 1946 he served as Acting Head of Consular Section of the Department of External Affairs",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "Between 1946 and 1949 he held posts in Europe, serving as First Secretary of the legation in Madrid, then in Paris",
+                    "sentence_id": "3",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "In 1949 he returned to the Department of External Affairs in Ireland, serving as Counsellor, then from 1952 as Chief of Protocol",
+                    "sentence_id": "4",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "In 1955 he was appointed Minister in Buenos Aires, Argentina, later promoted to Assistant Secretary in 1959. The following year he returned to Europe as Minister in Bern, Switzerland, before in 1962 being made Irish Ambassador to Spain, a post he held for five years",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": " In 1967 he was appointed Ambassador to Sweden, concurrently accredited to Finland",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": "From 1973 until his death in 1975 he was Permanent Representative to the United Nations Office at Geneva",
+                    "sentence_id": "2",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 9
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "Horan was educated at University College Cork ."
+    ],
+    "main_sentence_from_docx": [
+        "Horan was educated at University College Cork"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        1
+    ],
+    "global_sentence_index_spike": [
+        1110541
+    ],
+    "score_of_similarity": [
+        0.04
+    ]
+}

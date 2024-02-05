@@ -1,0 +1,156 @@
+{
+    "title": "Adam Harrison",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Adam James Harrison (born 30 October 1985) is a Welsh cricketer",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "Harrison was a right-handed batsman who bowls right-arm medium pace",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "He was born at Newport, Monmouthshire",
+                    "sentence_id": "2",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "His father, Stuart, and his brother, David, are also cricketers",
+                    "sentence_id": "3",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "Harrison was educated at St Alban's RC High School, Torfaen",
+                    "sentence_id": "4",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "He now plays for Abergavenny Cricket Club in South Wales in the South East Wales Cricket League",
+                    "sentence_id": "5",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Harrison made his debut in county cricket for Wales Minor Counties in the 2004 Minor Counties Championship against Dorset",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "He made his first-class debut in that season for the Marylebone Cricket Club against Sussex at Lord's",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": " His first wicket was that of opener Ian Ward in Sussex's first-innings, while in their second-innings he took the wickets of Tony Cottey and Murray Goodwin, to finish with match figures of 3/108.  He also scored an unbeaten 34 in the Marylebone Cricket Club's first-innings",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": " The following season he made his first-class debut for Glamorgan against Sussex in the 2005 County Championship, again taking the wicket of Ian Ward in the match",
+                    "sentence_id": "3",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": " His brother David played alongside him in this match, with them becoming the first brothers to play for the county since Eifion and Alan Jones in 1983. In that same season he made three appearances in the Twenty20 Cup, which would be his only appearances in that format",
+                    "sentence_id": "4",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": " He took a total of 5 wickets in his three matches, which came at an average of 18.40, with best figures of 2/12.",
+                    "sentence_id": "5",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 11
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "He would go on to make just one further first-class appearance for Glamorgan, in the 2006 County Championship against Essex",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 12
+                },
+                {
+                    "sentence": " It was also in this season that he made his List A debut against Hampshire in the Pro40.  He made two further appearances in that format, both coming in 2007 against Kent and Leicestershire",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 13
+                },
+                {
+                    "sentence": " He took just 2 wickets in his three matches, which came at an expensive average of 70.50. He was forced to retire at the end of the 2007 season due a persistent ankle injury",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 14
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "His infrequent appearances for Glamorgan allowed him to play Minor counties cricket for Wales Minor Counties, with Harrison making 21 Minor Counties Championship appearances from 2004 to 2010 and ten MCCA Knockout Trophy appearances from 2006 to 2010.",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 15
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "Prior to his first-class debut, Harrison represented England Under-19s, making his Youth Test match debut against South Africa Under-19s in 2004.  He would make nine further Youth Test appearances, the last of which came against Sri Lanka Under-19s in 2005.  He also played Youth Tests against Bangladesh Under-19s in 2004 and India Under-19s in 2005. His Youth One Day International debut came against Nepal Under-19s in the 2004 Under-19 World Cup",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 16
+                },
+                {
+                    "sentence": "He made five further appearances in that tournament, as well four more appearances in 2005 against India Under-19s",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 17
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "Harrison was educated at St Alban 's RC High School , Torfaen ."
+    ],
+    "main_sentence_from_docx": [
+        "Harrison was educated at St Alban's RC High School, Torfaen"
+    ],
+    "main_sentence_id_in_docx": [
+        "0_4"
+    ],
+    "global_sentence_index_docx": [
+        4
+    ],
+    "global_sentence_index_spike": [
+        245242
+    ],
+    "score_of_similarity": [
+        0.06
+    ]
+}

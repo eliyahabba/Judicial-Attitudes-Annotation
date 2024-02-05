@@ -1,0 +1,172 @@
+{
+    "title": "Nic Berry",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Nic Berry (born 13 March 1984 in Brisbane) is an Australian rugby union referee",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "He took up refereeing after retiring from playing in 2012 due to a series of concussions",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "After taking up the whistle, he has become one of the few former Super Rugby players to also have refereed a match in Super Rugby",
+                    "sentence_id": "2",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Berry was educated at Ipswich Grammar School in Queensland",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "He represented Australia in rugby union with the under-21 national team at the under-21 World Cup in Argentina",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "He made his Super 12 debut for the Queensland Reds against the Hurricanes in 2005. He started four games in 2005, and played another five off the bench",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "He made his run-on debut at halfback replacing the injured Josh Valentine in a match against the Bulls",
+                    "sentence_id": "3",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "In 2006 Berry was selected in the Australian Prime Minister's XV to take on the Japanese national team in Tokyo on 4 November",
+                    "sentence_id": "4",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "He was also part of the Sunnybank team that won the 2005 and 2007 Queensland Premier Rugby trophy",
+                    "sentence_id": "5",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "In July 2007, it was rumoured that Berry was looking at offers from overseas and requesting a release from S14 and ARC commitments",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": "He then left the Queensland Reds and moved to Racing Métro 92 Paris where he played for the following three seasons",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": "At the beginning of the 2010–11 season Berry joined London Wasps on a two-year contract",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 11
+                },
+                {
+                    "sentence": " After a number of strong performances he signed a contract extension for the following two seasons",
+                    "sentence_id": "3",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 12
+                },
+                {
+                    "sentence": " Berry retired early into the 2012–13 season at the advice of his physician after sustaining a series of concussions",
+                    "sentence_id": "4",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 13
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "Berry made a rapid rise up the refereeing ranks in 2015, making his debut both in Queensland Premier Rugby and in Australia's National Rugby Championship within a year of taking up the whistle",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 14
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "He joined the Super Rugby referees panel for the 2016 season, and refereed his first match in Super Rugby on 9 April 2016, between the Stormers and Sunwolves",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 15
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "He was selected as one of the referees at the 2019 Rugby World Cup",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 16
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "This biographical article relating to Australian rugby union is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 17
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 18
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "Berry was educated at Ipswich Grammar School in Queensland ."
+    ],
+    "main_sentence_from_docx": [
+        "Berry was educated at Ipswich Grammar School in Queensland"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        3
+    ],
+    "global_sentence_index_spike": [
+        446235
+    ],
+    "score_of_similarity": [
+        0.03
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "title": "Tad Friend",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Theodore Porter \"Tad\" Friend (born September 25, 1962) is a staff writer for The New Yorker who writes the magazine's \"Letter from California\"",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Born in Buffalo, New York, Friend was raised there and in Swarthmore, Pennsylvania,  where his father, Theodore Friend, was president of Swarthmore College",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "He was educated at The Shipley School and Harvard University",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Friend was a contributing editor at various publications, including Esquire, prior to becoming a staff writer at The New Yorker in 1998. His work there includes the magazine's \"Letter from California\"",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": " In 2001, he published \"Lost in Mongolia: Travels in Hollywood and Other Foreign Lands\", a collection of his articles",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "His memoir,  Cheerful Money: Me, My Family, and the Last Days of Wasp Splendor, was published in 2009.",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "Friend is married to food writer Amanda Hesser, with whom he has twin children",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "He lives in Brooklyn Heights",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 7
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at The Shipley School and Harvard University ."
+    ],
+    "main_sentence_from_docx": [
+        "He was educated at The Shipley School and Harvard University"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_1"
+    ],
+    "global_sentence_index_docx": [
+        2
+    ],
+    "global_sentence_index_spike": [
+        480807
+    ],
+    "score_of_similarity": [
+        0.03
+    ]
+}

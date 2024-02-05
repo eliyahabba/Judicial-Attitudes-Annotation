@@ -1,0 +1,90 @@
+{
+    "title": "William Scott (archdeacon of Bombay)",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "William Edward Scott was Archdeacon of Bombay from 1897 until 1907.",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Scott was educated at Keble College, Oxford and ordained in 1876.  After  a curacy at Merton, Surrey he was Headmaster of Northallerton Grammar School then Rector of Hawthorn until 1885. He went to India as a missionary serving at Nasir-abad, Deolali, Byculla and Colaba",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "He was Chaplain to the Bishop of Bombay before his time as Archdeacon then Rector of Tolleshunt Knights afterwards",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "Later he was Chaplain at Geneva and finally  Rector of Bradwell (1909–1914)",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "A Fellow of Bombay University he died on 29 December 1918.",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "This Anglicanism-related article is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "This biography of a United Kingdom religious figure is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 8
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [],
+    "main_sentence_from_docx": [],
+    "main_sentence_id_in_docx": [],
+    "global_sentence_index_docx": [],
+    "global_sentence_index_spike": [],
+    "score_of_similarity": []
+}

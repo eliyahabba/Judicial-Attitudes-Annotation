@@ -1,0 +1,97 @@
+{
+    "title": "Herbert Elijah Wadsworth",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Herbert Elijah Wadsworth (October 25, 1868 - August 25, 1937) was a businessman, politician, and philanthropist in Winslow, Maine",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "He was president of the oilcloth company Wadsworth and Woodman",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Wadsworth was born on October 25, 1868, in Livermore Falls, Maine, to Elijah Wadsworth and Ruth Ann Record",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "He was educated first at Hebron Academy, then at the Coburn Classical Institute",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "He graduated from Colby College in 1892, where he was a member of Delta Kappa Epsilon",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "He was president of Wadsworth and Woodman Company in Winslow, Maine from 1905 to 1935.  He was a director of the Charles M",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "Bailey Public Library",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "He served as a Maine State Representative and Senator, and was the chair of the Appropriations and Financial Affairs Committee",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "He was the Chair of the Colby College Board of Trustees from 1926 to 1934.  Upon his death, he sponsored an endowed professorship at Colby, where a gymnasium is named in his honor",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 8
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated first at Hebron Academy , then at the Coburn Classical Institute ."
+    ],
+    "main_sentence_from_docx": [
+        "He was educated first at Hebron Academy, then at the Coburn Classical Institute"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_1"
+    ],
+    "global_sentence_index_docx": [
+        3
+    ],
+    "global_sentence_index_spike": [
+        993654
+    ],
+    "score_of_similarity": [
+        0.04
+    ]
+}

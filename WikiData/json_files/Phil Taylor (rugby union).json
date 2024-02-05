@@ -1,0 +1,168 @@
+{
+    "title": "Phil Taylor (rugby union)",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Philip Joseph Taylor (6 June 1931 – 23 October 2019) was an England rugby union international No",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "8 winning six caps between 1955 and 1962.",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Taylor played club rugby for Wakefield RFC and Northampton",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Phil Taylor first took up rugby upon visiting College Grove, the home of Wakefield RFC, in 1948 with a friend",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": " Up until then, he had played water polo",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "Taylor made his debut for Wakefield RFC during the 1948/49 season but it wasn't until the following season that he became a first team regular",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "In November 1949 he left the club to join the Duke of Wellington's Regiment for his National service training",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": " In April 1951 he was selected for the Army side to play France",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "Taylor played for Yorkshire fifty-four times appearing in the Yorkshire sides that won the County Championship in 1952-53 and 1956-57. He played three times for the Barbarians making his first appearance on 4 April 1953 against Cardiff and his last on 3 March 1955 against East Midlands",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "Taylor played for England in trial matches before making his full debut for England in their defeat to Wales in November 1955. He went on to play another five times for England, his last cap being in a drawn game against Scotland in March 1962.",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 9
+                }
+            ]
+        },
+        {
+            "paragraph_index": 7,
+            "sentences": [
+                {
+                    "sentence": "Taylor was educated at St Austin's school, Wakefield, Salesian College, Farnborough and Loughborough University with whom he played",
+                    "sentence_id": "0",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 10
+                }
+            ]
+        },
+        {
+            "paragraph_index": 8,
+            "sentences": [
+                {
+                    "sentence": "On joining Loughborough University, he joined Northampton under which club he made his England appearances",
+                    "sentence_id": "0",
+                    "paragraph_index": 8,
+                    "global_sentence_index": 11
+                },
+                {
+                    "sentence": "In February 1966 he donated an England shirt to Wakefield RFC",
+                    "sentence_id": "1",
+                    "paragraph_index": 8,
+                    "global_sentence_index": 12
+                }
+            ]
+        },
+        {
+            "paragraph_index": 9,
+            "sentences": [
+                {
+                    "sentence": "Taylor was a representative for a Northampton firm of timber importers",
+                    "sentence_id": "0",
+                    "paragraph_index": 9,
+                    "global_sentence_index": 13
+                }
+            ]
+        },
+        {
+            "paragraph_index": 10,
+            "sentences": [
+                {
+                    "sentence": "Phil Taylor died on 23 October 2019, at the age of 88.",
+                    "sentence_id": "0",
+                    "paragraph_index": 10,
+                    "global_sentence_index": 14
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at St Austin 's school , Wakefield , Salesian College , Farnborough and Loughborough University with whom he played ."
+    ],
+    "main_sentence_from_docx": [
+        "Taylor was educated at St Austin's school, Wakefield, Salesian College, Farnborough and Loughborough University with whom he played"
+    ],
+    "main_sentence_id_in_docx": [
+        "7_0"
+    ],
+    "global_sentence_index_docx": [
+        10
+    ],
+    "global_sentence_index_spike": [
+        268573
+    ],
+    "score_of_similarity": [
+        0.09
+    ]
+}

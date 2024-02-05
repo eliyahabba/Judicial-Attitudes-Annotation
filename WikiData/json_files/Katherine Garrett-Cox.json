@@ -1,0 +1,154 @@
+{
+    "title": "Katherine Garrett-Cox",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Katherine Lucy Garrett-Cox CBE (born November 1967) is a British business executive",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "She is the managing director and CEO of the UK subsidiary for the Gulf International Bank of Bahrain",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": " She was previously CEO of Alliance Trust, a FTSE 250 publicly traded investment and financial services company, headquartered in Dundee, Scotland",
+                    "sentence_id": "2",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Katherine Lucy Garrett-Cox was born in November 1967. She was educated at St Mary's School, Ascot and studied History at Durham University (St Mary's College), graduating with a BA degree in 1989.",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Garrett-Cox joined Alliance Trust as chief investment officer in 2007, becoming CEO on 29 August 2008. Prior to Alliance Trust PLC, Katherine served as chief investment officer and executive director of Morley Fund Management, now Aviva Investors, and prior to that, as chief investment officer of Aberdeen Asset Management PLC",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "In October 2015, a row with activist investors Elliott Advisors resulted in Garrett-Cox stepping down from the Alliance Trust board",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "The activist investors argued that the company's performance had been poor and that changes to the board were necessary",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "This row was slightly offset in April 2015 when Alliance agreed to appoint two of the three board member candidates recommended by Elliott, however ultimately, an agreement was in place to review the board situation in Autumn 2015. Garrett-Cox still occupies the position of chief executive at Alliance, and this move puts her back in a fund management role rather than a role running the wider business",
+                    "sentence_id": "2",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "Garrett-Cox also serves as a member of the supervisory board of Deutsche Bank AG",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": " She served as a member of the UK Prime Minister's Business Advisory Group from 2012-15 and the Scottish Business Board, chaired by the Secretary of State for Scotland during the same period",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": "",
+                    "sentence_id": "2",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 11
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "Garrett-Cox's husband Jeremy is Scottish, and they have four children together: Cosmo, Alec, Millie and Cora",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 12
+                },
+                {
+                    "sentence": "They live in rural Angus",
+                    "sentence_id": "1",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 13
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "In 2014, she was made a Commander of the Order of the British Empire (CBE), \"For services to the Asset Management Industry and charitable service through the Baring Foundation",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 14
+                },
+                {
+                    "sentence": "\"",
+                    "sentence_id": "1",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 15
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "She was educated at St Mary 's School , Ascot and studied History at Durham University ( St Mary 's College ) , graduating with a BA degree in 1989 ."
+    ],
+    "main_sentence_from_docx": [
+        "Katherine Lucy Garrett-Cox was born in November 1967. She was educated at St Mary's School, Ascot and studied History at Durham University (St Mary's College), graduating with a BA degree in 1989."
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        3
+    ],
+    "global_sentence_index_spike": [
+        690593
+    ],
+    "score_of_similarity": [
+        0.41
+    ]
+}

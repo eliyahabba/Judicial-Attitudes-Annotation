@@ -1,0 +1,119 @@
+{
+    "title": "Vladimir Tikhonicky",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Metropolitan Vladimir  (born Vyacheslav Mikhaylovich Tikhonitsky, Вячеслав Михайлович Тихони́цкий; 22 March 1873 – 18 December 1959 in Paris) was an Eastern Orthodox archbishop and metropolitan of, successively, the Moscow Patriarchate, Russian Orthodox Church Outside Russia and the Ecumenical Patriarchate",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "He was head of the Patriarchal Exarchate for Orthodox Parishes of Russian Tradition in Western Europe from 1946 to 1959.",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Born in the village of Orlov in Viatka, Russia he was educated at the local diocesan seminary and at the Kazan Theological Academy, taking monastic vows there in 1897.",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Vladimir was consecrated as an auxiliary bishop of the Diocese of Grodno on 3 June 1907. He attended the All-Russian Church Council of 1917-1918 after which he returned to Grodno which had become part of the new Republic of Poland",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "In 1923, he was expelled by the Polish government",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "Traveling to Czechoslovakia, Bishop Vladimir joined the Western European exarchate of the Russian Church under Metropolitan Eulogius (Georgiyevsky) who installed him as rector of St",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "Nicholas Church in Nice, France in February 1925.",
+                    "sentence_id": "3",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "Vladimir remained with Eulogius as the exarchate accepted the jurisdiction of the Ecumenical Patriarchate in 1931, before returning in 1945 as an exarchate of the Moscow Patriarchate",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "After Eulogius died in 1946, Archbishop Vladimir became locum tenens",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": "However, with the appointment of Metropolitan Seraphim (Lukyanov) by the Moscow Patriarchate as Exarch, most of the parishes, under Vladimir, once again broke away and rejoined the Ecumenical Patriarchate",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": "Metropolitan Vladimir died on 18 December 1959 in Paris",
+                    "sentence_id": "2",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 10
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "This article about an Eastern Orthodox bishop is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 11
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 12
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [],
+    "main_sentence_from_docx": [],
+    "main_sentence_id_in_docx": [],
+    "global_sentence_index_docx": [],
+    "global_sentence_index_spike": [],
+    "score_of_similarity": []
+}

@@ -1,0 +1,102 @@
+{
+    "title": "P. P. Hutchins",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Sir Philip Perceval Hutchins KCSI (28 January 1838 – 21 May 1928) was a British lawyer and civil servant who served as a member of the Madras Legislative Council and the Imperial Legislative Council of India",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Hutchins was born on 28 January 1838 to William Hutchins",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "He was educated at Merchant Taylors' and Haileybury",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "In 1857, Hutchins entered the Indian civil service",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "Hutchins also studied law and qualified for the bar in 1875.",
+                    "sentence_id": "3",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Hutchins served as a judge of the Madras High Court from 1883 to 1886 and Madras Legislative Council from 1886 to 1888. In  1898, he was appointed to the Imperial Legislative Council of India",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "Hutchins was made a Companion of the Order of the Star of India in 1888 and Knight Commander of the Order of the Star of India in 1891.",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "This United Kingdom law-related biographical article is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 8
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at Merchant Taylors ' and Haileybury ."
+    ],
+    "main_sentence_from_docx": [
+        "He was educated at Merchant Taylors' and Haileybury"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_1"
+    ],
+    "global_sentence_index_docx": [
+        2
+    ],
+    "global_sentence_index_spike": [
+        556184
+    ],
+    "score_of_similarity": [
+        0.06
+    ]
+}

@@ -1,0 +1,188 @@
+{
+    "title": "C. V. Durell",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Clement Vavasor Durell (born 6 June 1882, Fulbourn, Cambridgeshire, died South Africa, 10 December 1968) was an English schoolmaster who wrote mathematical textbooks",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "A son of John Vavasor Durell (1837–1923), Rector of Fulbourn, Cambridgeshire, and his wife Ellen Annie Carlyon, Durell had four older brothers",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "He was educated at Felsted School and Clare College, Cambridge (1900–1904), where he gained a first class in part two of the mathematics tripos and was seventh wrangler",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "In 1900 he joined the Mathematical Association and in the 1900s was contributing articles on teaching to its journal, The Mathematical Gazette",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "After the First World War, he found a substantial second career and income in writing textbooks",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "After spending most of his career teaching and writing about mathematics at Winchester, Durell retired to East Preston, Sussex, wintering in Madeira and South Africa, where he died in 1968.",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "His estate at death amounted to £200,098, which in the 1960s was a large fortune for the son of a clergyman to amass as a schoolmaster",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "Durell's textbooks were hugely successful from the 1920s, and by 1935 his publisher, G",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "Bell & Sons, was claiming:",
+                    "sentence_id": "1",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "There can indeed be few secondary schools in the English-speaking world in which some at least of Mr Durell's books are not now employed in the teaching of mathematics",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 9
+                }
+            ]
+        },
+        {
+            "paragraph_index": 7,
+            "sentences": [
+                {
+                    "sentence": "He collaborated on books with masters from other schools, such as R",
+                    "sentence_id": "0",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": "M",
+                    "sentence_id": "1",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 11
+                },
+                {
+                    "sentence": "Wright of Eton, A",
+                    "sentence_id": "2",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 12
+                },
+                {
+                    "sentence": "W",
+                    "sentence_id": "3",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 13
+                },
+                {
+                    "sentence": "Siddons of Harrow, C",
+                    "sentence_id": "4",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 14
+                },
+                {
+                    "sentence": "O",
+                    "sentence_id": "5",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 15
+                },
+                {
+                    "sentence": "Tuckey of Charterhouse, Alan Robson of Marlborough and G",
+                    "sentence_id": "6",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 16
+                },
+                {
+                    "sentence": "W",
+                    "sentence_id": "7",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 17
+                },
+                {
+                    "sentence": "Palmer of Christ's Hospital",
+                    "sentence_id": "8",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 18
+                }
+            ]
+        },
+        {
+            "paragraph_index": 8,
+            "sentences": [
+                {
+                    "sentence": "Durell's books cover all areas of school mathematics, including algebra, calculus, mechanics, geometry, and trigonometry, and include:",
+                    "sentence_id": "0",
+                    "paragraph_index": 8,
+                    "global_sentence_index": 19
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at Felsted School and Clare College , Cambridge ( 1900–1904 ) , where he gained a first class in part two of the mathematics tripos and was seventh wrangler ."
+    ],
+    "main_sentence_from_docx": [
+        "He was educated at Felsted School and Clare College, Cambridge (1900–1904), where he gained a first class in part two of the mathematics tripos and was seventh wrangler"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_1"
+    ],
+    "global_sentence_index_docx": [
+        2
+    ],
+    "global_sentence_index_spike": [
+        37834
+    ],
+    "score_of_similarity": [
+        0.03
+    ]
+}

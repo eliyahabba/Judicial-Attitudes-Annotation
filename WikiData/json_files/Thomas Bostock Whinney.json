@@ -1,0 +1,114 @@
+{
+    "title": "Thomas Bostock Whinney",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Thomas Bostock Whinney (1860 – 7 May 1926) FRIBA was an English architect based in London who became the chief architect of the Midland Bank",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "He was born in 1860, the son of Frederick Whinney of Regent's Park Road, London",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "He was educated at Charterhouse School",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "He was appointed Fellow of the Royal Institute of British Architects, and had his offices at 8 Old Jewry, London",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "Later he was in partnership as Whinney, Son and Austen Hall",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "He married Sydney Margaret Dickens, daughter of Charles Dickens, Jr",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": ", on 30 July 1895 at St Andrew's Church, Fulham",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "Their children were:",
+                    "sentence_id": "2",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "He died on 7 May 1926 and left an estate of £65,107 10s",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": "1d",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": "(equivalent to £4,020,300 in 2021)",
+                    "sentence_id": "2",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 10
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at Charterhouse School ."
+    ],
+    "main_sentence_from_docx": [
+        "He was educated at Charterhouse School"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_1"
+    ],
+    "global_sentence_index_docx": [
+        2
+    ],
+    "global_sentence_index_spike": [
+        91998
+    ],
+    "score_of_similarity": [
+        0.05
+    ]
+}

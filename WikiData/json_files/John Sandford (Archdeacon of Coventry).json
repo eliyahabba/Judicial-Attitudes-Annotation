@@ -1,0 +1,97 @@
+{
+    "title": "John Sandford (Archdeacon of Coventry)",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "John Sandford (1801 - 1873) was Archdeacon of Coventry from 1851 until his death",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Sandford was educated at Balliol College, Oxford; and was Rector of Alvechurch from 1854 until his death on 22 March 1873.",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "He married the writer for women, Elizabeth Poole",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "Her books advised women to accept their domestic and secondary role to men",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "They had five sons including the eldest who was Henry Ryder Poole Sandford who was a school inspector",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "Henry married Margaret Sandford who led The Queen's School, Chester",
+                    "sentence_id": "3",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": " John and Elizabeth's other sons included John, a cricketer and judicial official in British India, and Ernest and Charles, who were both senior Anglican clergy",
+                    "sentence_id": "4",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "This article about a Church of England archdeacon in the Province of Canterbury is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 8
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "Holbech was educated at Balliol College , Oxford ; and was Rector of Alvechurch from 1854 until his death on 22 March 1873 ."
+    ],
+    "main_sentence_from_docx": [
+        "Sandford was educated at Balliol College, Oxford; and was Rector of Alvechurch from 1854 until his death on 22 March 1873."
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        1
+    ],
+    "global_sentence_index_spike": [
+        770567
+    ],
+    "score_of_similarity": [
+        0.09
+    ]
+}

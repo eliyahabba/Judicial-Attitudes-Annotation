@@ -1,0 +1,91 @@
+{
+    "title": "Charles Cecil, Viscount Cranborne",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Charles Cecil, Viscount Cranborne MP (1619 – December 1660), was an English nobleman and politician who sat in the House of Commons from 1640 to 1648.",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Cranborne was the eldest son of William Cecil, 2nd Earl of Salisbury and his wife Lady Catherine Howard, a daughter of the 1st Earl of Suffolk and bore the courtesy title of Viscount Cranborne",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "He was educated at St John's College, Cambridge",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "In April 1640, Cranborne was elected Member of Parliament for Hertford for the Short Parliament and he was re-elected in November 1640 for the Long Parliament",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": " He was Lord Lieutenant of Hertfordshire from 1640 to 1642. Although not specifically excluded under Pride's Purge, he is not recorded as sitting subsequently",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "Cranborne predeceased his father at the age of 40 without inheriting the earldom",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "He had married Lady Diana Maxwell, daughter of James Maxwell, 1st Earl of Dirletoun",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "Their son James succeeded his grandfather as Earl of Salisbury",
+                    "sentence_id": "2",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 7
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at St John 's College , Cambridge ."
+    ],
+    "main_sentence_from_docx": [
+        "He was educated at St John's College, Cambridge"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_1"
+    ],
+    "global_sentence_index_docx": [
+        2
+    ],
+    "global_sentence_index_spike": [
+        665072
+    ],
+    "score_of_similarity": [
+        0.08
+    ]
+}

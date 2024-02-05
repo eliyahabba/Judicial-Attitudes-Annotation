@@ -1,0 +1,137 @@
+{
+    "title": "John Percy Bayly",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "John Percival Bayly (4 January 1882 – 12 January 1963) was a Fijian businessman, politician and philanthropist",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Bayly was born in Levuka in 1882. He was educated at King's College in Auckland, before returning to Fiji to work for HM Customs",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": " He resigned from HM Customs at the age of 18 when a policy for £1,000 taken out by his father matured, starting a business as a land agent, mostly buying land for cattle farms, and settled in Deuba",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": " He started several new projects, including introducing rubber trees",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Despite being the wealthiest man in Fiji, Bayly was known for his austere lifestyle, eschewing social life, never marrying and using boxes instead of tables and chairs at home",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": " Having become a millionaire, he used his wealth to set up the J P Bayly Trust in 1954. The trust built a medical centre, the Bayly Clinic, which opened the same year",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": " When he died in 1963, all his assets and land holdings were left to the trust",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "Bayly contested the Western constituency in the 1920 Legislative Council elections, but was defeated by Charles Wimbledon Thomas",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "He did not run in 1923 or 1926, but returned to contest the Western seat again in the 1929 elections, beating Thomas by nine votes and the incumbent Percival William Faddy by 35. Bayly was subsequently returned unopposed in the 1932 elections",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "Prior to the 1937 elections, the constituencies were redrawn and the number of elected Europeans reduced from three to six",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": "Bayly contested the Northern and Western seat, but was beaten by Hugh Ragg, who had previously held the Northern seat",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": "After sitting out the 1940 elections, Bayly again ran for the Northern and Western seat in the 1944 elections, but was defeated by Ragg",
+                    "sentence_id": "2",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 11
+                },
+                {
+                    "sentence": "In the 1947 elections he was beaten by Maurice Scott, and subsequently did not run for election again",
+                    "sentence_id": "3",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 12
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "Bayly was an advocate of opening the franchise to ethnic Fijians, who were not able to vote until 1963, and even travelled to the UK with Alport Barker at his own expense to make the case to British authorities",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 13
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at King 's College in Auckland , before returning to Fiji to work for HM Customs ."
+    ],
+    "main_sentence_from_docx": [
+        "Bayly was born in Levuka in 1882. He was educated at King's College in Auckland, before returning to Fiji to work for HM Customs"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        1
+    ],
+    "global_sentence_index_spike": [
+        606322
+    ],
+    "score_of_similarity": [
+        0.39
+    ]
+}

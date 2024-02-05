@@ -1,0 +1,154 @@
+{
+    "title": "John Robert Lunn",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "The Revd",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "John Robert Lunn (8 March 1831 – 1899) was an organist and clergyman based in England",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "He was born on 8 March 1831 at Cleeve Prior, Worcestershire",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "He received music lessons from age 4 in organ under George Hollins and piano from W",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "H",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "Sharman",
+                    "sentence_id": "3",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "He was educated at King Edward VI School and was appointed organist of Edgbaston Parish Church age 15.",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "He went up to Cambridge University in 1849. He graduated B",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "A",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": "(fourth wrangler) 1853 ; M",
+                    "sentence_id": "2",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": "A",
+                    "sentence_id": "3",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": ", 1856. He was ordained Deacon in the Church of England, 1855, and priest in 1856.",
+                    "sentence_id": "4",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 11
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "He was Fellow, and Sadlerian Lecturer, St",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 12
+                },
+                {
+                    "sentence": "John's College, Cambridge and President of the University Musical Society",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 13
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "He was appointed vicar of Marton cum Grafton, Yorkshire in 1863.",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 14
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "His compositions include:",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 15
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at King Edward VI School and was appointed organist of Edgbaston Parish Church age 15 ."
+    ],
+    "main_sentence_from_docx": [
+        "He was educated at King Edward VI School and was appointed organist of Edgbaston Parish Church age 15."
+    ],
+    "main_sentence_id_in_docx": [
+        "2_0"
+    ],
+    "global_sentence_index_docx": [
+        6
+    ],
+    "global_sentence_index_spike": [
+        424989
+    ],
+    "score_of_similarity": [
+        0.01
+    ]
+}

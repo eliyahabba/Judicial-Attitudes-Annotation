@@ -1,0 +1,51 @@
+{
+    "title": "James Crabb (priest)",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "James Crabb (1830–1891) was Dean  of Brechin from 1889 until  his death on 24 August 1891.",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Crabb was educated at the University of St Andrews and ordained in 1854.  He was curate in charge at Lanark then held incumbencies at Pittenweem and Brechin",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": " He was also Chaplain to the Provincial Grand Lodge of Forfarshire",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "Crabb was educated at the University of St Andrews and ordained in 1854 ."
+    ],
+    "main_sentence_from_docx": [
+        " He was also Chaplain to the Provincial Grand Lodge of Forfarshire"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_1"
+    ],
+    "global_sentence_index_docx": [
+        2
+    ],
+    "global_sentence_index_spike": [
+        1066831
+    ],
+    "score_of_similarity": [
+        0.75
+    ]
+}

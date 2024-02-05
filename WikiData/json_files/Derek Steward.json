@@ -1,0 +1,113 @@
+{
+    "title": "Derek Steward",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Derek Guy Steward (9 October 1928 – 12 October 2017) was a New Zealand sprinter and hurdler who won a bronze medal representing his country at the 1950 British Empire Games",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Born on Onehunga on 9 October 1928, Steward was the son of Albert de Bolton Peel Steward and Doris Steward (née Pilcher) of Paeroa",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": " He was educated at King's College in Auckland",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "In 1946, Steward won the under-19 men's 120 yards hurdles title at the New Zealand national athletics championships",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": " He went on to win the senior national 440 yards hurdles title in 1949 and 1955.",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "At the 1950 British Empire Games in Auckland, Steward was part of the New Zealand foursome—alongside Dave Batten, John Holland and Jack Sutherland—that won the bronze medal in the men's 4 x 440 yards relay",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": " He also competed in the men's 440 yards hurdles: he won his heat in a time of 54.4 seconds, but finished fourth in his semifinal and did not progress further",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "Steward died on 12 October 2017.",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "This biographical article relating to New Zealand athletics is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 9
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at King 's College in Auckland ."
+    ],
+    "main_sentence_from_docx": [
+        " He was educated at King's College in Auckland"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_1"
+    ],
+    "global_sentence_index_docx": [
+        2
+    ],
+    "global_sentence_index_spike": [
+        601887
+    ],
+    "score_of_similarity": [
+        0.06
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "title": "Buckston Browne",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Sir George Buckston Browne FRCS (13 April 1850 – 19 January 1945) was a British surgeon and pioneer urologist",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Browne was born in Manchester, the son of physician Dr",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "Henry Browne",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "He was educated at University College London",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "In 1927, he bought Charles Darwin's former home Down House and founded the Buckston Brown Research Farm in Downe in 1931. The Buckston Browne Prize is named for him",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "He died at University College Hospital in London, aged 94.",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "This United Kingdom biographical article related to medicine is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 7
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at University College London ."
+    ],
+    "main_sentence_from_docx": [
+        "He was educated at University College London"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_2"
+    ],
+    "global_sentence_index_docx": [
+        3
+    ],
+    "global_sentence_index_spike": [
+        13214
+    ],
+    "score_of_similarity": [
+        0.04
+    ]
+}

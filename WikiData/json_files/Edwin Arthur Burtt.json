@@ -1,0 +1,144 @@
+{
+    "title": "Edwin Arthur Burtt",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Edwin Arthur Burtt (October 11, 1892 – September 6, 1989), usually cited as E",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "A",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "Burtt, was an American philosopher who wrote extensively on the philosophy of religion",
+                    "sentence_id": "2",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "His doctoral thesis published as a book under the title The Metaphysical Foundations of Modern Physical Science has had a significant influence upon the history of science that is not generally recognized, according to H",
+                    "sentence_id": "3",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "Floris Cohen",
+                    "sentence_id": "4",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "He was born on October 11, 1892, in Groton, Massachusetts",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "His missionary parents took Burtt to China for several of his teenage years",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "He was educated at Yale University",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "He graduated from Yale in 1915, where he was a member of Skull and Bones",
+                    "sentence_id": "3",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": ": 983  He attended Union Theological Seminary and Columbia University",
+                    "sentence_id": "4",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": "He became the Susan Linn Sage Professor of Philosophy at Cornell University in 1941.",
+                    "sentence_id": "5",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 10
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "He died on September 6, 1989, in Ithaca, New York",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 11
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "Though he maintained throughout his life a sympathy towards religious values and beliefs, he acknowledged that his philosophy had been marked by a reaction towards what he saw as his own father's too narrow outlook",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 12
+                },
+                {
+                    "sentence": "  Although Burtt participated in drafting the Humanist Manifesto I, he did not work on the project further, because he lost interest after his ideas that spiritual experience is the identification with categories of space, time, causality, and other fundamental physical principles were never included in the final publications",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 13
+                },
+                {
+                    "sentence": " However, in 1973 he was one of the signers of the Humanist Manifesto II",
+                    "sentence_id": "2",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 14
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "Based on his own statements, Thomas Kuhn may very well have been unaware that in building on the philosophy of Alexandre Koyré, he was in turn building on the philosophy of Burtt whose influence upon Koyré has been demonstrated as substantial",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 15
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at Yale University ."
+    ],
+    "main_sentence_from_docx": [
+        "He was educated at Yale University"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_2"
+    ],
+    "global_sentence_index_docx": [
+        7
+    ],
+    "global_sentence_index_spike": [
+        338265
+    ],
+    "score_of_similarity": [
+        0.06
+    ]
+}

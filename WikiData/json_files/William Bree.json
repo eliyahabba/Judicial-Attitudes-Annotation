@@ -1,0 +1,80 @@
+{
+    "title": "William Bree",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "William Bree ( 19 November 1822 – 28 January 1917) was Archdeacon of Coventry from 1887 until 1908.",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "The son of The Rev William Thomas Bree, MA, Rector of Allesley he was educated at Bridgnorth Endowed School and Merton College, Oxford",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": " He was ordained in 1848, and was curate at Polebrook until 1863, when he succeeded his father at Allesley",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "    He married firstly, in 1853, Mary Duke; and, secondly, Sophy Adèle Biggs",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": " His great nephew, the actor James Bree, was patron of the benefice until his death in 2008.",
+                    "sentence_id": "3",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "This article about a Church of England archdeacon in the Province of Canterbury is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "The son of The Rev William Thomas Bree , MA , Rector of Allesley he was educated at Bridgnorth Endowed School and Merton College , Oxford ."
+    ],
+    "main_sentence_from_docx": [
+        "The son of The Rev William Thomas Bree, MA, Rector of Allesley he was educated at Bridgnorth Endowed School and Merton College, Oxford"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        1
+    ],
+    "global_sentence_index_spike": [
+        469524
+    ],
+    "score_of_similarity": [
+        0.04
+    ]
+}

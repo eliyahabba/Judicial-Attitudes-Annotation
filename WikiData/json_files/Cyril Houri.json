@@ -1,0 +1,187 @@
+{
+    "title": "Cyril Houri",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Cyril Lionel Houri (born April 1969 in Meudon, Hauts-de-Seine, France) is a New York-based entrepreneur who has founded two geolocation technology companies: InfoSplit, Inc",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "and Mexens Technology Inc",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "(now called Navizon)",
+                    "sentence_id": "2",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "Houri has designed IP address geolocation, WiFi and cellular positioning technologies, and has testified as an expert witness on location-based technology in LICRA vs",
+                    "sentence_id": "3",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "Yahoo",
+                    "sentence_id": "4",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Houri was educated in Paris before graduating with an MS degree in both engineering and computer science from the National Polytechnic Institute of Toulouse, France in 1992. He moved to New York City in 1996 to take a job designing financial software",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "In 1999, Houri founded InfoSplit Inc",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": ", a pioneer in IP geolocation, which identifies the geographic location of an Internet user",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "Houri designed and patented some of the technology that is now commonly used to geolocate website visitors",
+                    "sentence_id": "3",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": "Houri's patent is now[when",
+                    "sentence_id": "4",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": "] co-owned by Microsoft and Quova",
+                    "sentence_id": "5",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 10
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "In 2000, Yahoo",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 11
+                },
+                {
+                    "sentence": "was sued by two French anti-racism groups demanding that Yahoo",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 12
+                },
+                {
+                    "sentence": "France prevent French web users from accessing English-language auction sites offering Nazi memorabilia, which are illegal in France",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 13
+                },
+                {
+                    "sentence": "Yahoo",
+                    "sentence_id": "3",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 14
+                },
+                {
+                    "sentence": "argued in court that it was technically impossible to block only French web surfers from the site",
+                    "sentence_id": "4",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 15
+                },
+                {
+                    "sentence": "Houri was called to testify on behalf of the plaintiff groups and demonstrated that geolocation technology could be used to block at least 90% of France-based users from accessing the offending Yahoo",
+                    "sentence_id": "5",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 16
+                },
+                {
+                    "sentence": "sites",
+                    "sentence_id": "6",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 17
+                },
+                {
+                    "sentence": "The court ruled for the plaintiffs and ordered Yahoo",
+                    "sentence_id": "7",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 18
+                },
+                {
+                    "sentence": "to block French web users from accessing the unlawful content",
+                    "sentence_id": "8",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 19
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "In 2004, Houri sold InfoSplit to Quova, a larger California-based geolocation company",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 20
+                },
+                {
+                    "sentence": "Shortly thereafter, he launched Mexens Technology, Inc",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 21
+                },
+                {
+                    "sentence": "and created Navizon, a wireless positioning system for handheld devices that triangulates signals from cellular tower and/or Wi-Fi access points to pinpoint the user's location",
+                    "sentence_id": "2",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 22
+                },
+                {
+                    "sentence": "Navizon is based on a collaborative database compiled by users with GPS devices who collect positional information of Wi-Fi hotspots and cellular signals",
+                    "sentence_id": "3",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 23
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "Houri was educated in Paris before graduating with an MS degree in both engineering and computer science from the National Polytechnic Institute of Toulouse , France in 1992 ."
+    ],
+    "main_sentence_from_docx": [
+        "Houri was educated in Paris before graduating with an MS degree in both engineering and computer science from the National Polytechnic Institute of Toulouse, France in 1992. He moved to New York City in 1996 to take a job designing financial software"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        5
+    ],
+    "global_sentence_index_spike": [
+        557424
+    ],
+    "score_of_similarity": [
+        0.45
+    ]
+}

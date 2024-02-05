@@ -1,0 +1,68 @@
+{
+    "title": "Roger Moulding",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Roger Moulding (born 3 January 1958) is an English former first-class cricketer active 1977–83 who played for Middlesex and Oxford University",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "He was born in Enfield, Middlesex",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "He was educated at Haberdashers' Aske's School for Boys, Elstree",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "This biographical article related to an English cricket person born in the 1950s is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at Haberdashers ' Aske 's School for Boys , Elstree ."
+    ],
+    "main_sentence_from_docx": [
+        "He was educated at Haberdashers' Aske's School for Boys, Elstree"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        2
+    ],
+    "global_sentence_index_spike": [
+        454811
+    ],
+    "score_of_similarity": [
+        0.07
+    ]
+}

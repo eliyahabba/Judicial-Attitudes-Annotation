@@ -1,0 +1,115 @@
+{
+    "title": "Derrick America",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Derrick America is a South African politician who is currently serving as a Member of the Western Cape Provincial Parliament, representing the Democratic Alliance",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "From 2014 to 2019, he served as a Member of the National Assembly of South Africa",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "In high school, America was a vocal opponent of apartheid and organised student protests",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "He first started work at the South African Post Office, where he had a confrontation with management about the apartheid system in place for employees",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "America was then educated at the University of the Western Cape where he received a Bachelor of Commerce with Honours",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "His area of study focused on management and the labour market",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "He subsequently completed a Master of Business Administration at the Curtin University in Perth, Western Australia",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "America then worked as a school teacher, teaching business economics and accounting",
+                    "sentence_id": "3",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "He then served as an academic at Cape Peninsula University of Technology until 2009, lecturing in labour law and business courses",
+                    "sentence_id": "4",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": " America also arbitrated on labour disputes at the Commission for Concilliation Mediation and Arbitration from 2009 to 2011.",
+                    "sentence_id": "5",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 9
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "America was first elected as a Councillor in the City of Cape Town in May 2011. He represented residents of Kensington, Factreton, Maitland until 2014. He was elected as a Member of the National Assembly of South Africa in May 2014, representing the Democratic Alliance",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": "He was elected to the Western Cape Provincial Parliament in 2019.",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 11
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "America was then educated at the University of the Western Cape where he received a Bachelor of Commerce with Honours ."
+    ],
+    "main_sentence_from_docx": [
+        "America was then educated at the University of the Western Cape where he received a Bachelor of Commerce with Honours"
+    ],
+    "main_sentence_id_in_docx": [
+        "2_0"
+    ],
+    "global_sentence_index_docx": [
+        4
+    ],
+    "global_sentence_index_spike": [
+        321421
+    ],
+    "score_of_similarity": [
+        0.02
+    ]
+}

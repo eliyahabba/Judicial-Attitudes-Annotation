@@ -1,0 +1,408 @@
+{
+    "title": "Patrick Vallance",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Sir Patrick John Thompson Vallance KCB FRS FMedSci FRCP HonFREng (born 17 March 1960) is a British physician, scientist, and clinical pharmacologist who has worked in both academia and industry",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "He served as the Chief Scientific Adviser to the Government of the United Kingdom from 2018 to 2023. On stepping down, he became chair of the Natural History Museum in London",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "From 1986 to 1995, Vallance taught at St George's Hospital Medical School, where his research concentrated on vascular biology and endothelial cell physiology",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "In 1995, he was appointed Professor at UCL Medical School, and in 2002 he became head of UCL's Department of Medicine",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "From 2012 to 2018, he was president of Research and Development at global pharmaceutical company GlaxoSmithKline (GSK)",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Patrick Vallance was born on 17 March 1960 to Peter and Barbara Vallance, in south-west Essex, now part of Greater London",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": " Before his family moved to Cornwall he was educated at Woodford Green Preparatory School  and Buckhurst Hill County High School",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "Subsequently he was educated at the independent Truro School and his early aspiration was to become a palaeontologist",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "In 1978, Vallance gained admission to study medicine at St George's, University of London, where he was taught by Joe Collier, Professor of Medicines Policy, and from where he received a Bachelor of Science degree in 1981 followed by a Bachelor of Medicine, Bachelor of Surgery (MBBS) in 1984. In addition to Collier, he has been inspired by physician Tom Pilkington and former Regius Professor of Physic at Cambridge, Sir Keith Peters",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "Prior to taking up senior positions with the pharmaceutical company GlaxoSmithKline (GSK) and later in the UK Government, Vallance spent several years in medical research",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 9
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "From 1986 to 1995 he taught at St George's Hospital Medical School, where his research concentrated on vascular biology and endothelial cell physiology",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": " Prior to the discovery of the involvement of nitric oxide, it was believed that high blood pressure was usually a result of constrictor activity in blood vessels",
+                    "sentence_id": "1",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 11
+                },
+                {
+                    "sentence": "Vallance performed studies which demonstrated the link between nitric oxide and blood pressure",
+                    "sentence_id": "2",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 12
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "In 1987, with Joe Collier, he set out to investigate whether human blood vessels demonstrated endothelium-dependent relaxation, a term coined in 1980 by Robert F",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 13
+                },
+                {
+                    "sentence": "Furchgott and John V",
+                    "sentence_id": "1",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 14
+                },
+                {
+                    "sentence": "Zawadzki after discovering that a large blood vessel would not relax when its single-layered inner most lining was removed",
+                    "sentence_id": "2",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 15
+                },
+                {
+                    "sentence": "Furchgott and Zawadzki subsequently showed that the occurrence was mediated by what they called endothelium-derived relaxing factor, later found to be nitric oxide, and it was shortly shown to occur in a variety of animals",
+                    "sentence_id": "3",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 16
+                },
+                {
+                    "sentence": "Using veins from the back of a human hand, Vallance and Collier reproduced Furchgott and Zawadzki's findings",
+                    "sentence_id": "4",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 17
+                },
+                {
+                    "sentence": " Subsequently, their team showed that the human arterial vasculature is actively dilated by a continuous release of nitric oxide",
+                    "sentence_id": "5",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 18
+                },
+                {
+                    "sentence": " In 1991, Vallance and Salvador Moncada published a paper on the role of nitric oxide in cirrhosis, proposing an association between the changes in blood flow in cirrhosis and the vasoactive properties of nitric oxide",
+                    "sentence_id": "6",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 19
+                },
+                {
+                    "sentence": " The following year they reported that the plasma concentrations of asymmetric dimethylarginine (ADMA) were elevated in people who were uraemic",
+                    "sentence_id": "7",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 20
+                }
+            ]
+        },
+        {
+            "paragraph_index": 7,
+            "sentences": [
+                {
+                    "sentence": "From 1995 to 2002 he was a professor at UCL Medical School, then Professor of Medicine from 2002 to 2006, and head of medicine",
+                    "sentence_id": "0",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 21
+                },
+                {
+                    "sentence": " He was also registrar of the Academy of Medical Sciences",
+                    "sentence_id": "1",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 22
+                },
+                {
+                    "sentence": " In 2005, as head of the division of medicine at UCL, he published a paper in the Journal of the Royal Society of Medicine, titled \"A post-take ward round\", in which he suggested that \"reinvention of teams of doctors, nurses, therapists and social workers seems like an important task for general medicine\"",
+                    "sentence_id": "2",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 23
+                }
+            ]
+        },
+        {
+            "paragraph_index": 8,
+            "sentences": [
+                {
+                    "sentence": "In 2006, in his mid-40s, he joined GSK as head of drug discovery",
+                    "sentence_id": "0",
+                    "paragraph_index": 8,
+                    "global_sentence_index": 24
+                },
+                {
+                    "sentence": " Four years later he became head of medicines discovery and development, and in 2012 he was appointed head of research and development at GSK",
+                    "sentence_id": "1",
+                    "paragraph_index": 8,
+                    "global_sentence_index": 25
+                },
+                {
+                    "sentence": " Under his leadership, new medicines for cancer, asthma, autoimmune diseases and HIV infection were discovered and approved for use worldwide",
+                    "sentence_id": "2",
+                    "paragraph_index": 8,
+                    "global_sentence_index": 26
+                },
+                {
+                    "sentence": "He championed open innovation and novel industry-academic partnerships globally, and maintained a focus on the search for new antibiotics and treatments for tropical diseases",
+                    "sentence_id": "3",
+                    "paragraph_index": 8,
+                    "global_sentence_index": 27
+                }
+            ]
+        },
+        {
+            "paragraph_index": 9,
+            "sentences": [
+                {
+                    "sentence": "In March 2018, Vallance left GSK, and on 4 April 2018 he began his five-year tenure as Chief Scientific Adviser to the UK Government, replacing the interim officeholder Chris Whitty",
+                    "sentence_id": "0",
+                    "paragraph_index": 9,
+                    "global_sentence_index": 28
+                },
+                {
+                    "sentence": " In this role he led the Government Office for Science, advising the prime minister and the cabinet",
+                    "sentence_id": "1",
+                    "paragraph_index": 9,
+                    "global_sentence_index": 29
+                },
+                {
+                    "sentence": " In 2018, he was one of nine scientific advisers who, in a paper in Nature, called for \"inclusive, rigorous, transparent, and accessible information for policy makers\" and supported the Evidence-Based Research Network, established in 2016, to \"lobby for all proposals for new research to be supported by references to systematic reviews of relevant existing research\"",
+                    "sentence_id": "2",
+                    "paragraph_index": 9,
+                    "global_sentence_index": 30
+                }
+            ]
+        },
+        {
+            "paragraph_index": 10,
+            "sentences": [
+                {
+                    "sentence": "In March 2020, as the government's Chief Scientific Adviser, Vallance appeared alongside prime minister Boris Johnson and the Chief Medical Officer for England, Chris Whitty, in televised briefings on the COVID-19 pandemic",
+                    "sentence_id": "0",
+                    "paragraph_index": 10,
+                    "global_sentence_index": 31
+                },
+                {
+                    "sentence": " For a time, he advocated a herd immunity approach",
+                    "sentence_id": "1",
+                    "paragraph_index": 10,
+                    "global_sentence_index": 32
+                }
+            ]
+        },
+        {
+            "paragraph_index": 11,
+            "sentences": [
+                {
+                    "sentence": "In September, it emerged that Vallance owns a deferred bonus of 43,111 shares worth £600,000 in GlaxoSmithKline, a company which is working on developing a COVID vaccine",
+                    "sentence_id": "0",
+                    "paragraph_index": 11,
+                    "global_sentence_index": 33
+                },
+                {
+                    "sentence": " This led to claims of a potential conflict of interest, as Vallance could be seen to have a financial interest in pushing for a vaccine-based response to the pandemic whether or not this is objectively the best approach",
+                    "sentence_id": "1",
+                    "paragraph_index": 11,
+                    "global_sentence_index": 34
+                },
+                {
+                    "sentence": " Then Health Secretary Matt Hancock denied that this was the case, with a government spokesperson stating that, \"Upon his appointment, appropriate steps were taken to manage the Government Chief Scientific Adviser's interests in line with advice provided at the time",
+                    "sentence_id": "2",
+                    "paragraph_index": 11,
+                    "global_sentence_index": 35
+                },
+                {
+                    "sentence": "The GCSA has no input into contractual and commercial decisions on vaccine procurement which are taken by Ministers following a robust cross-Government approvals regime\"",
+                    "sentence_id": "3",
+                    "paragraph_index": 11,
+                    "global_sentence_index": 36
+                }
+            ]
+        },
+        {
+            "paragraph_index": 12,
+            "sentences": [
+                {
+                    "sentence": "After a televised briefing alongside Johnson and Whitty on 31 October, where a second \"lockdown\" was introduced for England, Vallance was criticised for showing two slides – projecting hospital admissions and deaths – which were later reissued with worst-case figures revised downward",
+                    "sentence_id": "0",
+                    "paragraph_index": 12,
+                    "global_sentence_index": 37
+                },
+                {
+                    "sentence": " Five days later, a statement from the Office for Statistics Regulation called for greater transparency in published data relating to the pandemic, including publication of data sources and modelling assumptions; the statement did not refer to any specific presentation but was linked by reporters to the 31 October briefing",
+                    "sentence_id": "1",
+                    "paragraph_index": 12,
+                    "global_sentence_index": 38
+                }
+            ]
+        },
+        {
+            "paragraph_index": 13,
+            "sentences": [
+                {
+                    "sentence": "His publications include:",
+                    "sentence_id": "0",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 39
+                }
+            ]
+        },
+        {
+            "paragraph_index": 14,
+            "sentences": [
+                {
+                    "sentence": "In 1995, Vallance was elected a Fellow of the Royal College of Physicians (FRCP)",
+                    "sentence_id": "0",
+                    "paragraph_index": 14,
+                    "global_sentence_index": 40
+                },
+                {
+                    "sentence": " The following year he delivered the Goulstonian Lecture of the College, where he gave details of the connection between nitric oxide and blood pressure",
+                    "sentence_id": "1",
+                    "paragraph_index": 14,
+                    "global_sentence_index": 41
+                },
+                {
+                    "sentence": " In 1999 he was elected a Fellow of the Academy of Medical Sciences (FMedSci), and in 2002 he was awarded the Graham Bull Prize for Clinical Science",
+                    "sentence_id": "2",
+                    "paragraph_index": 14,
+                    "global_sentence_index": 42
+                },
+                {
+                    "sentence": " He was elected a Fellow of the Royal Society (FRS) in 2017 and an Honorary Fellow of the Royal Academy of Engineering (HonFREng) in 2022.",
+                    "sentence_id": "3",
+                    "paragraph_index": 14,
+                    "global_sentence_index": 43
+                }
+            ]
+        },
+        {
+            "paragraph_index": 15,
+            "sentences": [
+                {
+                    "sentence": "Vallance was knighted in the 2019 New Year Honours",
+                    "sentence_id": "0",
+                    "paragraph_index": 15,
+                    "global_sentence_index": 44
+                },
+                {
+                    "sentence": " He was appointed Knight Commander of the Order of the Bath (KCB) in the 2022 New Year Honours for services to science in government",
+                    "sentence_id": "1",
+                    "paragraph_index": 15,
+                    "global_sentence_index": 45
+                },
+                {
+                    "sentence": " In 2023 he was awarded the Royal Medal of the Royal Society",
+                    "sentence_id": "2",
+                    "paragraph_index": 15,
+                    "global_sentence_index": 46
+                }
+            ]
+        },
+        {
+            "paragraph_index": 16,
+            "sentences": [
+                {
+                    "sentence": "Vallance married Sophia Ann Dexter in 1986; they have two sons and one daughter",
+                    "sentence_id": "0",
+                    "paragraph_index": 16,
+                    "global_sentence_index": 47
+                },
+                {
+                    "sentence": " Dexter is a former general practitioner (GP) and honorary tutor at St",
+                    "sentence_id": "1",
+                    "paragraph_index": 16,
+                    "global_sentence_index": 48
+                },
+                {
+                    "sentence": "George's Hospital Medical School",
+                    "sentence_id": "2",
+                    "paragraph_index": 16,
+                    "global_sentence_index": 49
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at the independent Truro School in Cornwall and his early aspiration was to become a palaeontologist ."
+    ],
+    "main_sentence_from_docx": [
+        "Subsequently he was educated at the independent Truro School and his early aspiration was to become a palaeontologist"
+    ],
+    "main_sentence_id_in_docx": [
+        "2_2"
+    ],
+    "global_sentence_index_docx": [
+        7
+    ],
+    "global_sentence_index_spike": [
+        480742
+    ],
+    "score_of_similarity": [
+        0.24
+    ]
+}

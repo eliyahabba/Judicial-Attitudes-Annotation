@@ -1,0 +1,164 @@
+{
+    "title": "Rosemary Balmford",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Rosemary Anne Balmford AM (née Norris; 15 September 1933 – 8 August 2017) was an Australian judge, barrister, solicitor and legal academic",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "She was the first female judge of the Supreme Court of Victoria, and the first female lecturer in the law faculty of the University of Melbourne",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Balmford was born in 1933 in Melbourne",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "Her parents were Sir John Norris, also a barrister and Supreme Court judge, and Dame Ada Norris (née Bickford)",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "Her mother taught her to read at the age of three, and she was educated at Presbyterian Ladies' College, Melbourne Church of England Girls' Grammar School, and the University of Melbourne where she resided at Janet Clarke Hall",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "At Melbourne, she was awarded the Supreme Court Prize in 1954 for achieving the highest examination scores in her year",
+                    "sentence_id": "3",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "In 1957, Balmford was appointed the first female lecturer in law at Melbourne Law School, the law faculty of the University of Melbourne",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "She would later write about her academic career in her memoir, A Funny Course for a Woman",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "She then joined the firm Whiting & Byrne as a solicitor and partner, where she met and married Peter Balmford in 1963. She returned to the University of Melbourne, working at the university's in-house legal department and studying a Master of Business Administration (MBA) degree",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "As a member of the Equal Opportunity Board in the late 1970s, Balmford heard the landmark sex discrimination case Wardley v Ansett Transport Industries, when the board found that Ansett Airlines' refusal to employ pilot Deborah Wardley was illegal",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": "In 1982, Balmford was appointed as a member of the Administrative Appeals Tribunal",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 10
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "In 1993, Balmford served as the only woman on the bench of the County Court of Victoria, and in 1996, became the first woman to serve as a judge of the Supreme Court of Victoria",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 11
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "In addition to her legal career, Balmford was a keen amateur naturalist, with a special interest in ornithology",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 12
+                },
+                {
+                    "sentence": "She was secretary of the Royal Australasian Ornithologists Union from 1969 to 1972, and wrote several books about Australian birds, including A Bird Atlas of the Melbourne Region (1978) and The Beginner's Guide to Australian Birds (1990)",
+                    "sentence_id": "1",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 13
+                }
+            ]
+        },
+        {
+            "paragraph_index": 7,
+            "sentences": [
+                {
+                    "sentence": "In 1998, Balmford was conferred with an Honorary Doctor of Laws (LLD) by Monash University",
+                    "sentence_id": "0",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 14
+                }
+            ]
+        },
+        {
+            "paragraph_index": 8,
+            "sentences": [
+                {
+                    "sentence": "In the 2012 Australia Day Honours, Balmford was made a Member of the Order of Australia (AM) for \"service to the judiciary, the practice of law in Victoria, and to the study of ornithology\"",
+                    "sentence_id": "0",
+                    "paragraph_index": 8,
+                    "global_sentence_index": 15
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "Her mother taught her to read at the age of three , and she was educated at Presbyterian Ladies ' College , Melbourne Church of England Girls ' Grammar School , and the University of Melbourne where she resided at Janet Clarke Hall ."
+    ],
+    "main_sentence_from_docx": [
+        "Her mother taught her to read at the age of three, and she was educated at Presbyterian Ladies' College, Melbourne Church of England Girls' Grammar School, and the University of Melbourne where she resided at Janet Clarke Hall"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_2"
+    ],
+    "global_sentence_index_docx": [
+        4
+    ],
+    "global_sentence_index_spike": [
+        534745
+    ],
+    "score_of_similarity": [
+        0.03
+    ]
+}

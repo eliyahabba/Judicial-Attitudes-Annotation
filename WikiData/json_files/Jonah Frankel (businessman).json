@@ -1,0 +1,114 @@
+{
+    "title": "Jonah Frankel (businessman)",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Joseph Jonas Fränckel   (1773 in Breslau – January 27, 1846 in Breslau) was a German Jewish businessman, banker and philanthropist",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "He is best known for having willed the funds for the establishment of the \"Jewish Theological Seminary Fraenkel'sche Stiftung\" of Breslau, the first modern rabbinical seminary in Central Europe, and the model for similar colleges set up in Europe and the United States",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Frankel was the son of Joel Wolf, and the grandson of David Fränkel, the author of Korban 'Edah",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Owing to his great commercial ability he rose from extreme poverty to affluence, and became one of the leading bankers of Breslau",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "As an acknowledgment of the services rendered by him in the development of commerce and industry in Germany, the Prussian government awarded him the title of Kommerzienrath",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "Notwithstanding his numerous occupations, Fränkel was an indefatigable communal worker",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "He was the director of many charitable institutions, to the support of which he contributed liberally; he erected at his own expense a hospital, to which were annexed an orphanage, a bet ha-midrash, and a synagogue",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "Being childless, he bequeathed part of his fortune to a family foundation, which provided dowries for portionless girls of the Fränkel family; but the greater part of his wealth he left to charitable institutions, especially to the erection of a Jewish seminary which bears his name",
+                    "sentence_id": "2",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "This seminary, the \"Jewish Theological Seminary Fraenkel'sche Stiftung\" of Breslau was inaugurated at Breslau in 1854 and became the greatest Jewish institution of its kind; in it most of the leading Jewish scholars of the second half of the nineteenth century were educated",
+                    "sentence_id": "3",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "This German business-related biographical article is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 10
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "This seminary , the \" Jewish Theological Seminary Fraenkel'sche Stiftung \" of Breslau was inaugurated at Breslau in 1854 and became the greatest Jewish institution of its kind ; in it most of the leading Jewish scholars of the second half of the nineteenth century were educated ."
+    ],
+    "main_sentence_from_docx": [
+        "This seminary, the \"Jewish Theological Seminary Fraenkel'sche Stiftung\" of Breslau was inaugurated at Breslau in 1854 and became the greatest Jewish institution of its kind; in it most of the leading Jewish scholars of the second half of the nineteenth century were educated"
+    ],
+    "main_sentence_id_in_docx": [
+        "3_3"
+    ],
+    "global_sentence_index_docx": [
+        8
+    ],
+    "global_sentence_index_spike": [
+        430487
+    ],
+    "score_of_similarity": [
+        0.02
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "title": "Alastair Lyons",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Alastair David Lyons CBE (born 18 October 1953) is a British businessman",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "He served as the chairman of the Admiral Group from 2000 to 2017, and Serco from 2010 to 2015. He has served as the chairman of Welsh Water since July 2016. He became Chairman of Harworth Group on 7 March 2018.",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Alastair Lyons was born on 18 October 1953. He was educated at the Whitgift School, and he graduated from Trinity College, Cambridge, where he earned an MA in Economics",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Lyons began his career at PricewaterhouseCoopers in 1974. He worked briefly at N M Rothschild & Sons in 1979, followed by H",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "P",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "Bulmer until 1989, and Asda until 1991.",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "Lyons served as the chairman of the Admiral Group from 2000 to April 2017. He was also the chairman of Serco from 2010 to 2015. He has been the deputy chairman of Bovis Homes since 2008. In July 2016, he succeeded Robert Ayling as the chairman of Welsh Water",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": " He commenced his role as the new chairman of Harworth Group on 7 March 2018.",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "Lyons married Judith Shauneen Rhodes in 1980. They have a son and two daughters",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "This United Kingdom business-related biographical article is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 10
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at the Whitgift School , and he graduated from Trinity College , Cambridge , where he earned an MA in Economics ."
+    ],
+    "main_sentence_from_docx": [
+        "Alastair Lyons was born on 18 October 1953. He was educated at the Whitgift School, and he graduated from Trinity College, Cambridge, where he earned an MA in Economics"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        2
+    ],
+    "global_sentence_index_spike": [
+        597000
+    ],
+    "score_of_similarity": [
+        0.38
+    ]
+}

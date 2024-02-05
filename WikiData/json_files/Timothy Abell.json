@@ -1,0 +1,97 @@
+{
+    "title": "Timothy Abell",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Timothy George Abell (29 April 1930 – 9 March 2009) was an English cricketer and field hockey player",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "The son of the cricketer George Abell, Abell was born at Lahore while his father worked as a civil servant in the British Raj",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "He was educated in England at Marlborough College, before undertaking studies at the University of Oxford",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "He played hockey for Oxford, winning a blue",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "He later played hockey for Middlesex and England",
+                    "sentence_id": "3",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": " He made one appearance in first-class cricket for the Free Foresters in 1954 against Cambridge University at Fenner's",
+                    "sentence_id": "4",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "His brother John Abell and great-uncle Ted Sale both played first-class cricket",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "This biographical article related to an English cricket person born in the 1930s is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 8
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated in England at Marlborough College , before undertaking studies at the University of Oxford ."
+    ],
+    "main_sentence_from_docx": [
+        "He was educated in England at Marlborough College, before undertaking studies at the University of Oxford"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_1"
+    ],
+    "global_sentence_index_docx": [
+        2
+    ],
+    "global_sentence_index_spike": [
+        419135
+    ],
+    "score_of_similarity": [
+        0.03
+    ]
+}

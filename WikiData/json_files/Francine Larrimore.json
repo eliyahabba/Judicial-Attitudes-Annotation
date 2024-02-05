@@ -1,0 +1,173 @@
+{
+    "title": "Francine Larrimore",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Francine Larrimore (born Francine La Remee; August 22, 1898 – March 7, 1975) was a French-born American stage and screen actress",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Born in France, Larrimore came to the United States when a child",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "She was educated in New York City",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": " Her parents were J",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "Louis La Remee and Sarah Adler, a sister of the Yiddish stage star Jacob Adler and not to be confused with Jacob's third wife also named Sara",
+                    "sentence_id": "3",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": " Jacob's children Stella and Luther are her cousins",
+                    "sentence_id": "4",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "Her sister Stella Larrimore (1905–1960) was married to the stage and screen star Robert Warwick",
+                    "sentence_id": "5",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Larrimore began her stage career in 1910. In 1926 she created the role of Roxie Hart in the Broadway premiere of Chicago",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "She played Theodora Gloucester in the 1921 Broadway comedy Nice People",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": "She also appeared in Let Us Be Gay and Brief Moment",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": "She was part of the radio program Grand Central Station, in 1941. Her other Broadway credits include Spring Song (1934), Shooting Star (1933), This Was a Man (1926), His Queen (1925), Parasites (1924), Nancy Ann (1924), Nobody's Business (1923), Scandal (1919), Sometime (1918), Double Exposure (1918), Parlor, Bedroom and Bath (1917), Here Comes the Bride (1917), Moonlight Mary (1916), Some Baby",
+                    "sentence_id": "3",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": "(1915), The Salamander (1914), The Switchboard (1913), and Where There's a Will (1910)",
+                    "sentence_id": "4",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 11
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "She appeared in a string of silent films in the 1910s, i",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 12
+                },
+                {
+                    "sentence": "e",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 13
+                },
+                {
+                    "sentence": "The Devil's Darling (1915, Mutual), The Princess From The Poorhouse aka The Royal Pauper (1917, Edison) and Max Wants a Divorce (1917, Essanay) co-starring Max Linder",
+                    "sentence_id": "2",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 14
+                },
+                {
+                    "sentence": "Most are now considered lost films",
+                    "sentence_id": "3",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 15
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "Her sound films number just two",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 16
+                },
+                {
+                    "sentence": "She disappeared from acting in 1939.",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 17
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "This article about a United States film actor born in the 1890s is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 18
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 19
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "She was educated in New York City ."
+    ],
+    "main_sentence_from_docx": [
+        "She was educated in New York City"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_1"
+    ],
+    "global_sentence_index_docx": [
+        2
+    ],
+    "global_sentence_index_spike": [
+        939884
+    ],
+    "score_of_similarity": [
+        0.06
+    ]
+}

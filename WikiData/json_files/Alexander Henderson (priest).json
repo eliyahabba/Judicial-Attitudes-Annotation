@@ -1,0 +1,79 @@
+{
+    "title": "Alexander Henderson (priest)",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Alexander Henderson (1807 - 1888) was a Scottish Episcopalian priest: he was the Dean of  Glasgow and Galloway from 1859 until 1877.",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Henderson was educated at King's College, Aberdeen and ordained in 1842. After a curacy in Leith he spent the rest of his career in Hamilton",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "This biography of a Scottish religious figure is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "This article about a member of the Christian clergy is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 5
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "Henderson was educated at King 's College , Aberdeen and ordained in 1842 ."
+    ],
+    "main_sentence_from_docx": [
+        "Henderson was educated at King's College, Aberdeen and ordained in 1842. After a curacy in Leith he spent the rest of his career in Hamilton"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        1
+    ],
+    "global_sentence_index_spike": [
+        934845
+    ],
+    "score_of_similarity": [
+        0.93
+    ]
+}

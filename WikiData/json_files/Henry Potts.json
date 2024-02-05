@@ -1,0 +1,107 @@
+{
+    "title": "Henry Potts",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Henry Potts (1810 – 22 March 1884) was an English farmer, steeplechase rider, High Sheriff of Flintshire and Denbighshire, and cricketer with amateur status who was active in 1831. He was born and died in Chester",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "He made his first-class debut in 1831 and appeared in one match as an unknown handedness batsman whose bowling style is unknown, playing for Cambridge University",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "He scored no runs with a highest score of 0 and took no wickets",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Potts was educated at Shrewsbury School and Magdalene College, Cambridge",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "In 1837 Potts rode at the Aintree races, which included a mount on The Duke in the Grand Liverpool Steeplechase, a precursor to the Grand National",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "Potts won the race but never again took part in the race",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "In later years he was High Sheriff of Flintshire in 1852 and High Sheriff of Denbighshire in 1877.",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "This biographical article related to an English cricket person born in the 1810s is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 8
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "\r\n Potts was educated at Shrewsbury School and Magdalene College , Cambridge ."
+    ],
+    "main_sentence_from_docx": [
+        "He scored no runs with a highest score of 0 and took no wickets"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_1"
+    ],
+    "global_sentence_index_docx": [
+        2
+    ],
+    "global_sentence_index_spike": [
+        851651
+    ],
+    "score_of_similarity": [
+        0.81
+    ]
+}

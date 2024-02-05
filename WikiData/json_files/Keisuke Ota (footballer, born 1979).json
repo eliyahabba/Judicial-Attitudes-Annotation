@@ -1,0 +1,132 @@
+{
+    "title": "Keisuke Ota (footballer, born 1979)",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Keisuke Ota (太田 恵介, Ōta Keisuke, born April 24, 1979) is a former Japanese football player",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Ota was educated at and played for Shimizu Commercial High School and Fukuoka University",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "After graduating from the university in 2002, Ota joined J2 League side Avispa Fukuoka",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "His first appearance in J2 League came on September 11, 2002, against Mito HollyHock",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": " He scored his first professional goal on July 26, 2003, against Albirex Niigata",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": " In April 2004, he crashed into the goal post and damaged his spleen as he scored against Omiya Ardija",
+                    "sentence_id": "3",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "Because of this injury, he was sidelined for more than three months",
+                    "sentence_id": "4",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "Although he was instrumental in Avispa's promotion in the 2005 season by playing 22 games and scoring 2 goals, he was released from the club",
+                    "sentence_id": "5",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "He played the 2006 season with fellow J2 side Thespa Kusatsu",
+                    "sentence_id": "6",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": "The Minnesota Thunder signed him in February 2007, but he returned to Japan with V-Varen Nagasaki in 2008. He retired from the game at the end of the 2008 season",
+                    "sentence_id": "7",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 9
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "Ota represented Japan for the 2001 Summer Universiade held in Beijing where the team won the title beating Ukraine in the final",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": "He played 5 matches in the tournament",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 11
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "This biographical article related to a Japanese association football forward, born in the 1970s is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 12
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 13
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "Ota was educated at and played for Shimizu Commercial High School and Fukuoka University ."
+    ],
+    "main_sentence_from_docx": [
+        "Ota was educated at and played for Shimizu Commercial High School and Fukuoka University"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        1
+    ],
+    "global_sentence_index_spike": [
+        557031
+    ],
+    "score_of_similarity": [
+        0.02
+    ]
+}

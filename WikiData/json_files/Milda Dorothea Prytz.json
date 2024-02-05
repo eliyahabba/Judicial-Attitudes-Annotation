@@ -1,0 +1,135 @@
+{
+    "title": "Milda Dorothea Prytz",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Milda Dorethea Prytz (April 22, 1891 – October 22, 1977) was a Norwegian chemist",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Prytz was born in Leith, daughter of priest Anton Jakhelln Prytz and Milda Dorothea Olsen, and sister of goldsmith Eiler Hagerup Krog Prytz Jr",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "and Fascist politician Frederik Prytz",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": " She grew up in Bergen, until she moved with her parents to Gloppen in 1904. She attended Bergen Cathedral School from 1908 to 1910.",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "She was educated at the University of London and gained her doctorate from the University of Oslo",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "Her thesis from 1925 is titled Bidrag til azofarvestoffenes reduksjonskinetik",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "Prytz was a scientific assistant and amanuensis at the University of Oslo for many years (1918–1948), and docent in chemistry 1948–1957. She published regularly in scientific journals on the polarographic analysis of hydroxamic acids and electrolytic reduction of monovalent and polyvalent cations",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "She also wrote the textbooks Quantitative Analysis and Inorganic Chemistry",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "This article about a Norwegian scientist is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 9
+                }
+            ]
+        },
+        {
+            "paragraph_index": 7,
+            "sentences": [
+                {
+                    "sentence": "This biographical article about a chemist is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 11
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "She was educated at the University of London and gained her doctorate from the University of Oslo ."
+    ],
+    "main_sentence_from_docx": [
+        "She was educated at the University of London and gained her doctorate from the University of Oslo"
+    ],
+    "main_sentence_id_in_docx": [
+        "2_0"
+    ],
+    "global_sentence_index_docx": [
+        4
+    ],
+    "global_sentence_index_spike": [
+        262335
+    ],
+    "score_of_similarity": [
+        0.02
+    ]
+}

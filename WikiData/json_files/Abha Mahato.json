@@ -1,0 +1,103 @@
+{
+    "title": "Abha Mahato",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Abha Mahato (born 27 October 1964) is an Indian parliamentarian from Jamshedpur, Jharkhand",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Mahato was born in Deoghar (then in Bihar state) in 1964. She studied at Deoghar College (Bhagalpur University) from where she graduated with B",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "A",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "(Hons",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": ") in Political Science",
+                    "sentence_id": "3",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "She married Shri Shailendra Mahato, a former member of Lok Sabha on 27 June 1989 and 1991 of Jamshedpur",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "They have two sons",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "Mahato was elected to the 12th and 13th Lok Sabha from Jamshedpur  as a member of Bharatiya Janata Party",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "She has been a member of various Parliamentary committees on commerce, coal, textiles, women's empowerment and on laws relating to women",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": "She left Bharatiya Janata Party and joined Indian National Congress on 27 February 2019.",
+                    "sentence_id": "2",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 9
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "She was educated at Deoghar College ( Bhagalpur University ) from where she graduated with B.A.(Hons . ) in Political Science ."
+    ],
+    "main_sentence_from_docx": [
+        "Mahato was born in Deoghar (then in Bihar state) in 1964. She studied at Deoghar College (Bhagalpur University) from where she graduated with B"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        1
+    ],
+    "global_sentence_index_spike": [
+        637426
+    ],
+    "score_of_similarity": [
+        0.75
+    ]
+}

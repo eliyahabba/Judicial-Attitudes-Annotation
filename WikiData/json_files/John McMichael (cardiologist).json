@@ -1,0 +1,149 @@
+{
+    "title": "John McMichael (cardiologist)",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Sir John McMichael FRSE LLD (1904-1993) was a 20th-century Scottish cardiologist",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "He developed the Royal Post Graduate Medical School at Hammersmith",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "He was born on 25 July 1904 in Gatehouse of Fleet in Kirkcudbrightshire, the son of a butcher and farmer of a smallholding",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "He was educated at Girthon School by William Learmonth, father of James Learmonth who encouraged him to enter Kirkcudbright Academy where he became school dux",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "He then studied medicine at the University of Edinburgh graduating MB ChB in 1927 and then became an Ettles Scholar and assistant to Sir Stanley Davidson",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "In 1932 he went to London as a Beit Memorial Fellow at University College Hospital, working with Sir Thomas Lewis and John McNee",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "He returned to Edinburgh in 1934 and specialised in cardiology",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "In 1936 he was elected a Fellow of the Royal Society of Edinburgh",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "His proposers were Ivan De Burgh Daly, Philip Eggleton, Alfred Joseph Clark, and David Murray Lyon",
+                    "sentence_id": "3",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": "He resigned in 1957.",
+                    "sentence_id": "4",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 9
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "In 1939 he was invited to Hammersmith by Prof Francis Fraser to the new school of medicine in Hammersmith in London",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": "McMichael became its Director in 1946 and remained in the post for 20 years",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 11
+                },
+                {
+                    "sentence": "He was knighted by Queen Elizabeth II for services to medicine in 1965. He retired in 1966.",
+                    "sentence_id": "2",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 12
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "He died in Oxford on 4 March 1993.",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 13
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "In 1932, he married Joan McPherson (d",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 14
+                },
+                {
+                    "sentence": "1989) they had two sons and divorced",
+                    "sentence_id": "1",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 15
+                },
+                {
+                    "sentence": "In 1942, he married a second time, this time to Sybil Blake by whom he had another two sons including Andrew James McMichael",
+                    "sentence_id": "2",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 16
+                },
+                {
+                    "sentence": "Following her death in 1965 he married a third and final time, to Dr Sheila Howarth, widow of Peter Sharpey Schafer",
+                    "sentence_id": "3",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 17
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [],
+    "main_sentence_from_docx": [],
+    "main_sentence_id_in_docx": [],
+    "global_sentence_index_docx": [],
+    "global_sentence_index_spike": [],
+    "score_of_similarity": []
+}

@@ -1,0 +1,108 @@
+{
+    "title": "Jack Hough",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Michael William \"Jack\" Hough[pronunciation",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "] (8 July 1916 – 19 March 1971) was an Australian politician",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "He was a Liberal member of the New South Wales Legislative Assembly, representing Wollongong-Kembla from 1965 to 1968 and Wollongong from 1968 to 1971.",
+                    "sentence_id": "2",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Hough was born in Auburn to Edward John Hough, an official of the Milk and Ice Carters' Union, and Edith Thomas",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "He was educated at Chatswood, Berala and Parramatta before becoming a milk carter",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "He moved to Wollongong in 1936, and became a timekeeper with Australian Iron & Steel, moving to John Lysaghts in 1939. He studied accountancy part-time, and was also a Methodist lay preacher",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "He married Betty Tonge on 30 January 1943, with whom he had two children",
+                    "sentence_id": "3",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "In 1959, Hough was endorsed as the Liberal candidate for Wollongong-Kembla, but he was defeated by sitting Labor member Rex Connor",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "He ran again for the seat in 1962, and also ran for the federal seat of Cunningham in 1961 and 1963. Following Connor's election to the House of Representatives in 1963, Hough was defeated by Doug Porter in the 1964 by-election by only 200 votes",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": "Hough won the seat in 1965. In 1968 the seat was divided into Wollongong and Kembla; Hough was re-elected as the member for Wollongong",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": " He was defeated by Eric Ramsay in 1971, and died later that year in Wollongong",
+                    "sentence_id": "3",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 10
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": []
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at Chatswood , Berala and Parramatta before becoming a milk carter ."
+    ],
+    "main_sentence_from_docx": [
+        "He was educated at Chatswood, Berala and Parramatta before becoming a milk carter"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_1"
+    ],
+    "global_sentence_index_docx": [
+        4
+    ],
+    "global_sentence_index_spike": [
+        1055920
+    ],
+    "score_of_similarity": [
+        0.04
+    ]
+}

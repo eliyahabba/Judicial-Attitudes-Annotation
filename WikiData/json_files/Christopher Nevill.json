@@ -1,0 +1,74 @@
+{
+    "title": "Christopher Nevill",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Christopher Nevill (born 20 March 1800 at Easton, Hampshire; died 15 December 1847 at East Grinstead, Sussex) was an English amateur cricketer who played first-class cricket from 1820 to 1822 for Cambridge University Cricket Club",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "He made 3 known appearances in first-class cricket",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Nevill was educated at Winchester College and St John's College, Cambridge",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "He subsequently became ordained as an Anglican clergyman, and from 1835 until his death was Vicar of East Grinstead",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "This biographical article related to an English cricket person born  in the 1800s is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "Nevill was educated at Winchester College and St John 's College , Cambridge ."
+    ],
+    "main_sentence_from_docx": [
+        "Nevill was educated at Winchester College and St John's College, Cambridge"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        2
+    ],
+    "global_sentence_index_spike": [
+        225977
+    ],
+    "score_of_similarity": [
+        0.05
+    ]
+}

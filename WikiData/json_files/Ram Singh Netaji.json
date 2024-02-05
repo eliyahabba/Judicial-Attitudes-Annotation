@@ -1,0 +1,103 @@
+{
+    "title": "Ram Singh Netaji",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Ram Singh Netaji  (born 1956) is an Indian politician and was member of the 2nd and the Fourth Legislative Assemblies of Delhi",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "Currently, he is a member of the Aam Aadmi Party",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Ram Singh Netaji was born in Badarpur village of New Delhi",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "He is educated till 7th grade and is an agriculturist by profession",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "He is from Gurjar",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Community",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "Ram Singh Netaji was MLA for two terms from Badarpur (Assembly constituency)",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "During the Second Legislative Assembly of Delhi he contested as an Independent candidate whereas during the Fourth Legislative Assembly of Delhi he was member of Bahujan Samaj Party",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "He is currently a member of the Aam Aadmi Party",
+                    "sentence_id": "2",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": " He joined Aam Aadmi Party in presence of National Convener and current Chief Minister of Delhi Arvind Kejriwal and other Senior Party Leaders Manish Sisodia and Sanjay Singh (Aam Aadmi Party) on 13 January 2020.",
+                    "sentence_id": "3",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 9
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He is educated till 7th grade and is an agriculturist by profession ."
+    ],
+    "main_sentence_from_docx": [
+        "He is educated till 7th grade and is an agriculturist by profession"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_1"
+    ],
+    "global_sentence_index_docx": [
+        3
+    ],
+    "global_sentence_index_spike": [
+        191926
+    ],
+    "score_of_similarity": [
+        0.03
+    ]
+}

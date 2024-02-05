@@ -1,0 +1,92 @@
+{
+    "title": "Louis-Alfred-Adhémar Rivet",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Louis-Alfred-Adhémar Rivet (September 15, 1873 – January 14, 1951) was a Canadian lawyer and politician",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Born in Joliette, Quebec, he was educated at Laval University where he received a B",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "A and LL",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "B",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "He was a practicing lawyer in the law firm of Rivet, Robillard & Tetrault",
+                    "sentence_id": "3",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "He was elected to the House of Commons of Canada for Hochelaga in a 1904 by-election, after the sitting MP, Joseph Alexandre Camille Madore, appointed Puisne Judge of  the Supreme Court of Quebec",
+                    "sentence_id": "4",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "A Liberal, he was re-elected in 1904 and 1908. He was defeated in 1911.",
+                    "sentence_id": "5",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "This article about a Quebec Member of Parliament from the Liberal Party of Canada is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 8
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "Born in Joliette , Quebec , he was educated at Laval University where he received a B.A and LL.B. He was a practicing lawyer in the law firm of Rivet , Robillard & Tetrault ."
+    ],
+    "main_sentence_from_docx": [
+        "Born in Joliette, Quebec, he was educated at Laval University where he received a B"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        1
+    ],
+    "global_sentence_index_spike": [
+        48625
+    ],
+    "score_of_similarity": [
+        0.52
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "title": "Peter Pugh",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Peter Pugh is a British author",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "He was educated at Oundle School and Churchill College, Cambridge, where he read history",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "After graduating he held several marketing positions with such companies as Gillette Industries",
+                    "sentence_id": "2",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "In 1984 he used his knowledge of the British business scene to begin writing corporate histories",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "  He has written and is writing books on Carless, Ivory and Sime, Blue Circle, Asda, Harrisons and Crosfield, SD Scicon, George Williamson and Co",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": ", Walter Alexander, WAPCO, Mecca, PFG Hodgson Kenyon, The Grand Hotel, Eastbourne, the Royal Bath, Bournemouth, and the Belfry",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "He also wrote Is Guinness Good for You",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": ", a book on the Guinness scandal, and on the City called City Slickers Handbook",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "Pugh is married with three sons and lives in Barrington, Cambridgeshire",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "This article about a British historian or genealogist is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 10
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at Oundle and Churchill College , Cambridge , where he read history ."
+    ],
+    "main_sentence_from_docx": [
+        "He was educated at Oundle School and Churchill College, Cambridge, where he read history"
+    ],
+    "main_sentence_id_in_docx": [
+        "0_1"
+    ],
+    "global_sentence_index_docx": [
+        1
+    ],
+    "global_sentence_index_spike": [
+        132717
+    ],
+    "score_of_similarity": [
+        0.13
+    ]
+}

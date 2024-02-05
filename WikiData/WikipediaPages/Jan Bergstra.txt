@@ -1,0 +1,25 @@
+Johannes Aldert "Jan" Bergstra (born 1951) is a Dutch computer scientist. His work has focussed on logic and the theoretical foundations of software engineering, especially on formal methods for system design. He is best known as an expert on algebraic methods for the specification of data and computational processes in general.[citation needed]
+
+Jan Bergstra was born in 1951 in Rotterdam, the son of Tjeerd Bergstra and Johanna Bisschop.[1] He was educated at the Montessori Lyceum Rotterdam (gymnasium beta) and then studied mathematics at Utrecht University, starting in 1969. After an MSc he wrote a PhD thesis, defended in 1976, on recursion theory in higher types, under the supervision of Dirk van Dalen.
+
+Bergstra held posts at the Institute of Applied Mathematics and Computer Science of the University of Leiden (1976–82), and the Centrum Wiskunde & Informatica (CWI) in Amsterdam. In 1985 he was appointed Professor of Programming and Software Engineering at the Informatics Institute of the University of Amsterdam and, at the same time, Professor of Applied Logic at Utrecht University; such split positions are not uncommon in the Netherlands. These two chairs he continues to hold.
+
+He has been an Advisor of the CWI (1985–2004). In 1989 he worked for a year at Philips Research in Eindhoven as a project leader and, subsequently, continued as a consultant there until 2002. While at Philips he was involved in industrial projects on consumer electronics and medical equipment.
+
+He founded CONCUR, the international conference series in Concurrency Theory, by organising the first two conferences in Amsterdam in 1990 and 1991. He is a member of several editorial boards, and is the managing editor of Science of Computer Programming and the Journal of Logic and Algebraic Programming.
+
+In 2004 Jan Bergstra contacted Mark Burgess of the Oslo University College, looking for scientific backing for a proposed one year masters course at the University in system administration. In spite of very different backgrounds, they shared a likeness of mind in their attitudes to science and research. This resulted in them becoming friends and going on to discuss and hone several parts of Promise theory together on mutual visits between Norway and the Netherlands.[2]
+
+He is honorary Professor of Computer Science at Swansea University and a member of Academia Europaea since 2006.[1][3]
+
+Bergstra's research on computation has focussed on fundamental concepts, mathematical theories and practical tools. His main theoretical research programmes are:
+
+Based in this theoretical research, he has designed various formal methods and tools. In cooperation with Paul Klint and Jan Heering he designed the specification language ASF (in 1984) and the related ToolBus coordination language and system (in 1995). Some of his work has been undertaken in the setting of the ESPRIT programme. For example, the software projects FAST and METEOR funded the beginnings of the development of the process algebra ACP, and the telecommunications project SPECS led to the development of the specification language muCRL. All systems are still in daily use for research purposes, while ASF has been extensively used in the Dutch banking industry.
+
+Through his research and organisational activities, Bergstra has had considerable influence on computer science in the Netherlands. For example, he has supervised the work of over 40 PhD students, many of whom have become academic computer scientists, 12 at professorial level.[citation needed] He set up the new computer science curriculum at Leiden in 1976, and for cognitive artificial intelligence at Utrecht University in 1989.[1]
+
+In 2000 he became the Director of the Teaching Institute of Information Sciences at the University of Amsterdam. In this role he has been responsible for the redesign of all courses when the bachelor-master system of degrees was introduced into the Netherlands.
+
+Bergstra became a member of the Royal Netherlands Academy of Arts and Sciences in 2011.[4]
+
+Publications, a selection:[5]

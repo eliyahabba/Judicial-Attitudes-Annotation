@@ -1,0 +1,155 @@
+{
+    "title": "Daniel Coke",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Daniel Parker Coke (17 July 1745 – 6 December 1825), was an English barrister and Member of Parliament",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Coke was the only son of Thomas Coke (1700–1776), a barrister, and his wife, Matilda Goodwin (1706–1777)",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "He belonged to an old Derbyshire family, the Cokes of Trusley",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "He was educated at Derby School,  Queen's College, Oxford, and All Souls College, Oxford, graduating BA in 1769 and MA in 1772. He then studied law at Lincoln's Inn, London, where he was called to the bar in 1768.",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Coke practised as a barrister on the Midland circuit",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "In 1773 and 1774 he was in Italy where he met Joseph Wright of Derby",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "Wright was not the first to note on what an attractive man Coke was, and Coke visited Wright at his abode in Italy",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "Coke is thought to be the only person who appears in a Wright painting and who also bought one of Wright's industrial landscapes",
+                    "sentence_id": "3",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "From 1776 to 1780 he was a Member of Parliament for Derby, then from 1780 to 1812 for Nottingham",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "From 1793, Coke supported the British government's policy on war with France",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": "By the 1802 general election he was unpopular in Nottingham because of his support for the war, blamed for high food prices, and lost to Dr Joseph Birch of Preston",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": "He petitioned against the result and in May 1803 won the new election",
+                    "sentence_id": "2",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 11
+                },
+                {
+                    "sentence": "He fought Birch successfully again in 1806. After retiring from parliament, Coke continued as chairman of the Derbyshire quarter sessions until 1818.",
+                    "sentence_id": "3",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 12
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "Coke never married",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 13
+                },
+                {
+                    "sentence": "He died in Derby in 1825 and he has a substantial monument in Derby Cathedral",
+                    "sentence_id": "1",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 14
+                },
+                {
+                    "sentence": " Joseph Wright painted a portrait of D'Ewes Coke and his wife and his very distant cousin Daniel",
+                    "sentence_id": "2",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 15
+                },
+                {
+                    "sentence": "This painting is now in Derby Museum and Art Gallery",
+                    "sentence_id": "3",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 16
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at Derby School , Queen 's College , Oxford , and All Souls College , Oxford , graduating BA in 1769 and MA in 1772 ."
+    ],
+    "main_sentence_from_docx": [
+        "He was educated at Derby School,  Queen's College, Oxford, and All Souls College, Oxford, graduating BA in 1769 and MA in 1772. He then studied law at Lincoln's Inn, London, where he was called to the bar in 1768."
+    ],
+    "main_sentence_id_in_docx": [
+        "1_2"
+    ],
+    "global_sentence_index_docx": [
+        3
+    ],
+    "global_sentence_index_spike": [
+        126945
+    ],
+    "score_of_similarity": [
+        0.69
+    ]
+}

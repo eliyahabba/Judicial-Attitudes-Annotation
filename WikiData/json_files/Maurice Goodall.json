@@ -1,0 +1,108 @@
+{
+    "title": "Maurice Goodall",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Maurice John Goodall MBE (31 March 1928 – 27 October 2010) was an Anglican clergyman, rising to Bishop of Christchurch in the Anglican Church in Aotearoa, New Zealand and Polynesia from 1984 until 1990.",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "He was educated at Christchurch Technical College and Canterbury University College, graduating with a Bachelor of Arts in 1951. He was ordained in 1952. After a curacy at St Albans, Christchurch he was Vicar of Waikari then Shirley",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "From 1969 to 1976 he was City Missioner for the Diocese of Christchurch then Director of the Community Mental Health Team",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "In 1982 he became Dean of Christchurch Cathedral",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "He was consecrated a bishop on 17 February 1984 and died on 27 October 2010.",
+                    "sentence_id": "3",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "In the 1974 Queen's Birthday Honours, Goodall was appointed a Member of the Order of the British Empire",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "This biographical article about a New Zealand religious figure is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "This article about an Anglican bishop is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 9
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at Christchurch Technical College and Canterbury University College , graduating with a Bachelor of Arts in 1951 ."
+    ],
+    "main_sentence_from_docx": [
+        "He was consecrated a bishop on 17 February 1984 and died on 27 October 2010."
+    ],
+    "main_sentence_id_in_docx": [
+        "1_3"
+    ],
+    "global_sentence_index_docx": [
+        4
+    ],
+    "global_sentence_index_spike": [
+        1003485
+    ],
+    "score_of_similarity": [
+        0.71
+    ]
+}

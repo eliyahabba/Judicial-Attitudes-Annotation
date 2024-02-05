@@ -1,0 +1,74 @@
+{
+    "title": "John Smith (bishop of Killala and Achonry)",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "John Smith was an Irish Anglican priest in Ireland in the seventeenth century",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "A native of Athboy, he was educated at Trinity College, Dublin",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": " He became the Rector of  Inniskeen in 1635. He was Archdeacon of Ardfert from 1664 to 1666  when he became Dean of Limerick",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "  He was appointed to the episcopate as  Bishop of Killala and Achonry in 1679 but died the following year on 7 March",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "This article about an Irish Anglican bishop is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "A native of Athboy , he was educated at Trinity College , Dublin ."
+    ],
+    "main_sentence_from_docx": [
+        "A native of Athboy, he was educated at Trinity College, Dublin"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        1
+    ],
+    "global_sentence_index_spike": [
+        993270
+    ],
+    "score_of_similarity": [
+        0.06
+    ]
+}

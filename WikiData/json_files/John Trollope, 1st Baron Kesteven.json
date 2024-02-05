@@ -1,0 +1,114 @@
+{
+    "title": "John Trollope, 1st Baron Kesteven",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "John Trollope, 1st Baron Kesteven PC (5 May 1800 – 17 December 1874), known as Sir John Trollope, Bt, between 1820 and 1868, was a British Conservative politician",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "He was president of the Poor Law Board in the Earl of Derby's short-lived 1852 Conservative administration",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Trollope was the son of Sir John Trollope, 6th Baronet, and Anne, daughter of Henry Thorold",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "He was the elder brother of General Sir Charles Trollope and the Right Reverend Edward Trollope and the second cousin of the novelist Anthony Trollope",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "He was educated at Eton and later served with the 10th Hussars, achieving the rank of captain",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Trollope was appointed High Sheriff of Lincolnshire in 1825 and was then returned to Parliament for Lincolnshire South in 1841, a seat he held until 1868.",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "Under the Earl of Derby, he was president of the Poor Law Board between March and December 1852 and was sworn of the Privy Council in March of the same year",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": " In 1868, he was raised to the peerage as Baron Kesteven, of Casewick in the County of Lincoln",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "Lord Kesteven married Julia Maria, daughter of Sir Robert Sheffield, 4th Baronet, in 1847. They had three sons and three daughters",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": "He died in December 1874, aged 74, and was succeeded in the barony by his eldest son, John",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": "Lady Kesteven died in November 1876.",
+                    "sentence_id": "2",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 10
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at Eton and later served with the 10th Hussars , achieving the rank of captain ."
+    ],
+    "main_sentence_from_docx": [
+        "He was educated at Eton and later served with the 10th Hussars, achieving the rank of captain"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_2"
+    ],
+    "global_sentence_index_docx": [
+        4
+    ],
+    "global_sentence_index_spike": [
+        706372
+    ],
+    "score_of_similarity": [
+        0.03
+    ]
+}

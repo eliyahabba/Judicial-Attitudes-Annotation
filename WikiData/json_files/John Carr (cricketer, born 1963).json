@@ -1,0 +1,113 @@
+{
+    "title": "John Carr (cricketer, born 1963)",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "John Donald Carr (born 15 June 1963) is an English cricketer and cricket administrator",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "John Carr was born in St John's Wood in a house backing onto Lord's",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": " His father Donald was a first-class cricketer who captained Derbyshire County Cricket Club and England, before moving into cricket administration",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "His grandfather, John Carr, played cricket at first-class level",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "He was educated at Repton and Worcester College, Oxford",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": " He played first-class cricket for Oxford and Middlesex as a right-handed batsman and off-break bowler",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "Carr scored 9,846 runs for Middlesex between 1983 and 1996, at an average of 39.22, with 20 centuries and a highest score of 261 not out",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": " In 1989 when dropped for a month after a loss of form, he announced his retirement to go into banking",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "In 1992 he made a successful comeback, and in the final weeks of the 1994 season he reached his zenith with successive scores of 78, 171, 136, 106, 40, 62 and 261 to end with 1,543 runs at an average of 90.76, topping Brian Lara's average of 89.82 which included the highest individual innings score in first-class cricket of 501 not out",
+                    "sentence_id": "2",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "Carr succeeded John Emburey as vice-captain of Middlesex for his final season in 1996.",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 9
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "He joined the Test and County Cricket Board, upon his retirement",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": "He is currently the Director of Cricket Operations for the England team for the England and Wales Cricket Board",
+                    "sentence_id": "1",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 11
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [],
+    "main_sentence_from_docx": [],
+    "main_sentence_id_in_docx": [],
+    "global_sentence_index_docx": [],
+    "global_sentence_index_spike": [],
+    "score_of_similarity": []
+}

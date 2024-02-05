@@ -1,0 +1,74 @@
+{
+    "title": "Henry Stapleton",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Henry Edward Champneys Stapleton MBE (born 17 June 1932) was Dean of Carlisle from 1988 to 1998.",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Stapleton was educated at Lancing College and Pembroke College, Cambridge and ordained in 1956. He held curacies at St Olave with St Giles, York and All Saints' Pocklington",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "He was Vicar of Seaton Ross then Rector of Skelton",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "From 1975 to 1981 he was Vicar of Wroxham and then a canon residentiary at Rochester Cathedral until his appointment as Dean of Carlisle",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "An author, his writings include Skelton Village (1971)",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "Heirs without Title (1974), The Skilful Master Builder (1975), The Model Working Parson (1976) and The Churchyards Handbook (with Peter Burman, 1988)",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "Stapleton was educated at Lancing College and Pembroke College , Cambridge and ordained in 1956 ."
+    ],
+    "main_sentence_from_docx": [
+        "He was Vicar of Seaton Ross then Rector of Skelton"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_1"
+    ],
+    "global_sentence_index_docx": [
+        2
+    ],
+    "global_sentence_index_spike": [
+        552233
+    ],
+    "score_of_similarity": [
+        0.76
+    ]
+}

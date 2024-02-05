@@ -1,0 +1,162 @@
+{
+    "title": "Julian Jefferson",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Brigadier Julian Jefferson (18 July 1899 – 18 June 1966) CBE was an English first-class cricketer and British Army officer",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "Graduating from Sandhurst, he entered into the Welsh Guards during the later stages of the First World War",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "His military career spanned from 1918–1949, with Jefferson serving during the Second World War and commanding British forces in the North Caribbean in 1948. He was appointed a CBE in the 1948 Birthday Honours, and in the same year he was awarded the Legion of Merit by the United States",
+                    "sentence_id": "2",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "During the early part of his military service, he played first-class cricket for the British Army and the Combined Services cricket team",
+                    "sentence_id": "3",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "He was the father of the cricketer Richard Jefferson",
+                    "sentence_id": "4",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Jefferson was born at Ripon, Yorkshire",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "He was educated at Gresham's School, before attending the Royal Military College, Sandhurst",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": " He graduated from Sandhurst in August 1918, entering into the Welsh Guards as a second lieutenant during the closing stages of World War I",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": " His service number was 18441. Following the war, he made his debut in first-class cricket for the British Army cricket team against Cambridge University at Fenner's in 1919. He took figures of 4 for 129 in the Cambridge first-innings",
+                    "sentence_id": "3",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": " In February 1920, he was promoted to the rank of lieutenant",
+                    "sentence_id": "4",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": " In 1922, he made a second appearance in first-class cricket for the Combined Services cricket team against Essex at Leyton in 1922. He was seconded to the RMC, Sandhurst in September 1927, to command gentlemen cadets, an appointment which lasted until August 1929. He was promoted to the rank of captain in October 1928, and the following year he was an adjutant",
+                    "sentence_id": "5",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 10
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "He attended the Staff College, Camberley from January 1933 to December 1934, and was promoted to the rank of major while he was there in October 1934. He was seconded to the War Office as a General staff Officer in August 1935, a position he relinquished in January 1938.",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 11
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "He also served throughout the Second World War, initially commanding the 1st Battalion of the Welsh Guards before assuming command of the 33rd Guards Brigade from 1941 to 1943. He was promoted to the rank of lieutenant colonel in January 1941, and to colonel in December 1944, towards the end of the war",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 12
+                },
+                {
+                    "sentence": "He was the commander of British forces in the North Caribbean by 1948, the year in which he was made a CBE in the Birthday Honours",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 13
+                },
+                {
+                    "sentence": " In November 1948, he was awarded the Legion of Merit by the United States government",
+                    "sentence_id": "2",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 14
+                },
+                {
+                    "sentence": " He retired from active service in April 1949, at which point he was granted the honorary rank of brigadier",
+                    "sentence_id": "3",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 15
+                },
+                {
+                    "sentence": " He ceased to belong to the Reserve of Officers when he exceeded the age for recall in September 1957.",
+                    "sentence_id": "4",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 16
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "He died at Marylebone in June 1966, at the age of 66. He was survived by his son, Richard, who also played first-class cricket",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 17
+                },
+                {
+                    "sentence": "His grandson, Will Jefferson, was also a first-class cricketer",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 18
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at Gresham 's School , before attending the Royal Military College , Sandhurst ."
+    ],
+    "main_sentence_from_docx": [
+        "He was educated at Gresham's School, before attending the Royal Military College, Sandhurst"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_1"
+    ],
+    "global_sentence_index_docx": [
+        6
+    ],
+    "global_sentence_index_spike": [
+        805199
+    ],
+    "score_of_similarity": [
+        0.05
+    ]
+}

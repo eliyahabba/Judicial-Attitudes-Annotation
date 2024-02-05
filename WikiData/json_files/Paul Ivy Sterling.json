@@ -1,0 +1,212 @@
+{
+    "title": "Paul Ivy Sterling",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Paul Ivy Sterling was a British lawyer and Judge",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "He served as the first Attorney General of Hong Kong and as a Puisne Judge in Ceylon",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": []
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Sterling was the eldest son of Reverend Joseph Sterling of Queen's County, Ireland",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "Sterling was educated at Trinity College, Dublin",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "He entered King's Inn, Dublin and Gray's Inn in London",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "He was called to the Irish Bar, Michaelmas Term, 1829.",
+                    "sentence_id": "2",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "Stirling was appointed the first Attorney General of Hong Kong in 1844. He arrived with his family in Hong Kong on the Surge on 28 July 1844. He also held the appointment of Legal Adviser to the Superintendency of Trade",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "He was also appointed a member of the Executive Council",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "Sterling was one of the first three lawyers to be admitted to practice before the Hong Kong courts",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": "On the first sitting of the Supreme Court of Hong Kong on 1 October 1844, he was admitted to practice as a barrister together with Henry Charles Sirr, barrister and Mr Edward Farcomb, solicitor",
+                    "sentence_id": "1",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 9
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "On 2 October 1844, he prosecuted the first criminal case before the Supreme Court of Hong Kong, which was a case of abduction where a husband and wife had induced two young women to enter a boat and then sold them for $90 each in Canton",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 10
+                }
+            ]
+        },
+        {
+            "paragraph_index": 7,
+            "sentences": [
+                {
+                    "sentence": "Sterling acted for periods of time as Chief Justice of Hong Kong in the absence of the Chief Justice John Walter Hulme",
+                    "sentence_id": "0",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 11
+                },
+                {
+                    "sentence": "   One case he decided in 1852, Tromson v Dent involving the shipment of opium from Calcutta to Hong Kong was upheld by the Privy Council in 1853.",
+                    "sentence_id": "1",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 12
+                }
+            ]
+        },
+        {
+            "paragraph_index": 8,
+            "sentences": [
+                {
+                    "sentence": "He served as Attorney General until 1855, when he was appointed a Puisne Judge in Ceylon",
+                    "sentence_id": "0",
+                    "paragraph_index": 8,
+                    "global_sentence_index": 13
+                },
+                {
+                    "sentence": "His appointment to Ceylon appears to have been received in Hong Kong without much regret",
+                    "sentence_id": "1",
+                    "paragraph_index": 8,
+                    "global_sentence_index": 14
+                }
+            ]
+        },
+        {
+            "paragraph_index": 9,
+            "sentences": [
+                {
+                    "sentence": "In 1860, he was appointed acting Chief Justice of Ceylon on the death of Sir Carpenter Crowe",
+                    "sentence_id": "0",
+                    "paragraph_index": 9,
+                    "global_sentence_index": 15
+                }
+            ]
+        },
+        {
+            "paragraph_index": 10,
+            "sentences": [
+                {
+                    "sentence": "in 1861 when departing on leave from Ceylon, Allens Indian Mail described Sterling as follows:",
+                    "sentence_id": "0",
+                    "paragraph_index": 10,
+                    "global_sentence_index": 16
+                }
+            ]
+        },
+        {
+            "paragraph_index": 11,
+            "sentences": [
+                {
+                    "sentence": "\"If not a brilliant lawyer, he was at least painstaking and a respected judge, irreplaceable in all relations of life",
+                    "sentence_id": "0",
+                    "paragraph_index": 11,
+                    "global_sentence_index": 17
+                }
+            ]
+        },
+        {
+            "paragraph_index": 12,
+            "sentences": [
+                {
+                    "sentence": "Sterling retired on a pension in 1863.",
+                    "sentence_id": "0",
+                    "paragraph_index": 12,
+                    "global_sentence_index": 18
+                }
+            ]
+        },
+        {
+            "paragraph_index": 13,
+            "sentences": [
+                {
+                    "sentence": "He died on 23 August 1880 at Southsea, Hampshire",
+                    "sentence_id": "0",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 19
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "Sterling was educated at Trinity College , Dublin ."
+    ],
+    "main_sentence_from_docx": [
+        "Sterling was educated at Trinity College, Dublin"
+    ],
+    "main_sentence_id_in_docx": [
+        "3_0"
+    ],
+    "global_sentence_index_docx": [
+        3
+    ],
+    "global_sentence_index_spike": [
+        348665
+    ],
+    "score_of_similarity": [
+        0.06
+    ]
+}

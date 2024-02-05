@@ -1,0 +1,137 @@
+{
+    "title": "Percy Northcote",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Dr Percy Northcote (18 September 1866 – 3 March 1934) was an English medical doctor and amateur cricketer who played in seven first-class cricket matches between 1888 and 1903 for Middlesex and Kent County Cricket Clubs and for MCC",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Northcote was born in Islington in London, the son of Gilbert and Elizabeth Northcote (née Edwards)",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "His father was a wholesale warehouseman and Northcote was educated at Cranbrook School in Kent",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": " He studied medicine at St Thomas' Hospital in London and made his first-class debut for Middlesex in 1888 whilst a student",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "He played twice for the county that season as well as for the Gentlemen of Kent in a non-first-class match",
+                    "sentence_id": "3",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "The following season, after an innings of 201 not out for the hospital side, he was selected to play for the Kent county side against MCC at Lord's",
+                    "sentence_id": "4",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "He was a \"highly regarded\" club cricketer for Beckenham Cricket Club, as well as for sides such as Band of Brothers, West Kent and United Hospitals, but only played two further first-class matches for the county side, one against Yorkshire in 1892 and one as a last minute replacement against Gloucestershire in 1895. In 1894 Northcote played for Chatham Cricket Club against the touring South Africans",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "His final two first-class matches were for MCC",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": " His Wisden obituary described him as a \"good free right-handed batsman\" who \"bowled slow left arm\"",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "Northcote qualified as a doctor in 1893 and spent much of his career working in London",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": "He married Edith Reynolds in 1921 and died in March 1934 at Marylebone in London aged 67.",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 10
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "Percy Northcote at ESPNcricinfo",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 11
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "This biographical article related to an English cricket person born in the 1860s is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 12
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 13
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "His father was a wholesale warehouseman and Northcote was educated at Cranbrook School in Kent ."
+    ],
+    "main_sentence_from_docx": [
+        "His father was a wholesale warehouseman and Northcote was educated at Cranbrook School in Kent"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_1"
+    ],
+    "global_sentence_index_docx": [
+        2
+    ],
+    "global_sentence_index_spike": [
+        325732
+    ],
+    "score_of_similarity": [
+        0.02
+    ]
+}

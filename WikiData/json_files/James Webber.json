@@ -1,0 +1,178 @@
+{
+    "title": "James Webber",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "James Webber (1772 – 3 September 1847) was an English churchman, Dean of Ripon from 1828 until his death",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Webber was the son of Rev",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "William Webber, canon of Chichester Cathedral, and his wife Anne née Smith",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "He was educated at Westminster School and Christ Church, Oxford matriculating in October 1789 aged 17, graduating B",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "A",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "1793, M",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "A",
+                    "sentence_id": "3",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "1796, B",
+                    "sentence_id": "4",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "D",
+                    "sentence_id": "5",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": "1807, D",
+                    "sentence_id": "6",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": "D",
+                    "sentence_id": "7",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": "1809. He became tutor and censor at Christ Church",
+                    "sentence_id": "8",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 11
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "Webber held the following positions in the church:",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 12
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "Webber was married to Caroline Frances Fynes, daughter of Rev",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 13
+                },
+                {
+                    "sentence": "Dr",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 14
+                },
+                {
+                    "sentence": "Charles Fynes Clinton, whom Webber succeeded as Rector of St",
+                    "sentence_id": "2",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 15
+                },
+                {
+                    "sentence": "Margaret's after Fynes Clinton's death in 1827.",
+                    "sentence_id": "3",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 16
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "He died on 3 September 1847, aged 75, in Ripon",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 17
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "This article about a Church of England dean is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 18
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 19
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at Westminster School and Christ Church , Oxford matriculating in October 1789 aged 17 , graduating B.A. 1793 , M.A. 1796 , B.D. 1807 , D.D. 1809 ."
+    ],
+    "main_sentence_from_docx": [
+        "He was educated at Westminster School and Christ Church, Oxford matriculating in October 1789 aged 17, graduating B"
+    ],
+    "main_sentence_id_in_docx": [
+        "2_0"
+    ],
+    "global_sentence_index_docx": [
+        3
+    ],
+    "global_sentence_index_spike": [
+        188054
+    ],
+    "score_of_similarity": [
+        0.29
+    ]
+}

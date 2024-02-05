@@ -1,0 +1,85 @@
+{
+    "title": "John Welsby",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "John Kay Welsby, CBE (26 May 1938 – 4 October 2021) was Chief Executive of the British Railways Board from 1990 until 1998; and its Chairman from 1995 to 1999.",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Welsby was educated at Heywood Grammar School, the University of Exeter and the University of London",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "He was in the Government Economic Service from 1966 to 1981 when he joined the British Railways Board",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "He was appointed CBE in the 1990 Birthday Honours and made a Freeman of the City of London in  1992.",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "He died from cancer on 4 October 2021, at the age of 83.",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "This English biographical article is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 6
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "Welsby was educated at Heywood Grammar School , the University of Exeter and the University of London ."
+    ],
+    "main_sentence_from_docx": [
+        "Welsby was educated at Heywood Grammar School, the University of Exeter and the University of London"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        1
+    ],
+    "global_sentence_index_spike": [
+        481469
+    ],
+    "score_of_similarity": [
+        0.03
+    ]
+}

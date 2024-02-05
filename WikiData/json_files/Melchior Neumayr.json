@@ -1,0 +1,161 @@
+{
+    "title": "Melchior Neumayr",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Melchior Neumayr (24 October 1845 in Munich – 29 January 1890) was an palaeontologist from Austria-Hungary and the son of Max von Neumayr, a Bavarian Minister of State",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "He was educated at the University of Munich, and completed his studies at Heidelberg, where he graduated with a Ph",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "D",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "After some experience in field-geology under KW von Gümbel, he joined the Austrian geological survey in 1868. Four years later he returned to Heidelberg, but in 1873 he was appointed professor of palaeontology in Vienna, and occupied this post until his death",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "His more detailed researches pertained to the Jurassic and Cretaceous ammonites and to Tertiary freshwater molluscs; in these studies he sought to trace the descent of the species",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "He dealt also with the zones of climate during the Jurassic and Cretaceous periods",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "He postulated the idea that during those periods, equatorial marine fauna differed from that of the two temperate zones, and that the marine fauna of the latter two zones also differed from that of the arctic zone, much as the faunas of similar zones differ from each other in the present day; see his Über klimatische Zonen während der Jura und Kreidezeit (Denkschr",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "K",
+                    "sentence_id": "2",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "Akad",
+                    "sentence_id": "3",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": "Wiss",
+                    "sentence_id": "4",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": "Wien, 1883); he was author also of Erdgeschichte (2 vols, 1887); and Die Stämme des Thierreiches (vol",
+                    "sentence_id": "5",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": "1 only, 1889)",
+                    "sentence_id": "6",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 11
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "This article incorporates text from a publication now in the public domain: Chisholm, Hugh, ed",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 12
+                },
+                {
+                    "sentence": "\"Neumayr, Melchior\"",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 13
+                },
+                {
+                    "sentence": "Encyclopædia Britannica (11th ed",
+                    "sentence_id": "2",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 14
+                },
+                {
+                    "sentence": "Cambridge University Press",
+                    "sentence_id": "3",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 15
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "This Austrian biographical article is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 16
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 17
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated in the University of Munich , and completed his studies at Heidelberg , where he graduated Ph.D."
+    ],
+    "main_sentence_from_docx": [
+        "He was educated at the University of Munich, and completed his studies at Heidelberg, where he graduated with a Ph"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        1
+    ],
+    "global_sentence_index_spike": [
+        287621
+    ],
+    "score_of_similarity": [
+        0.11
+    ]
+}

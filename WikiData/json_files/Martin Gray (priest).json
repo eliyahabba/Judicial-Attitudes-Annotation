@@ -1,0 +1,68 @@
+{
+    "title": "Martin Gray (priest)",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Martin Clifford Gray (born 19 January 1944) was Archdeacon of Lynn from 1999 to  2009.",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Gray was educated at West Ham College of Technology and Westcott House, Cambridge",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "After an earlier career as a process engineer he was ordained deacon in 1980, and priest in 1981. After a curacy in Kings Lynn he held incumbencies in Sheringham and Lowestoft",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "This article about a Church of England archdeacon in the Province of Canterbury is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "Gray was educated at West Ham College of Technology and Westcott House , Cambridge ."
+    ],
+    "main_sentence_from_docx": [
+        "Gray was educated at West Ham College of Technology and Westcott House, Cambridge"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        1
+    ],
+    "global_sentence_index_spike": [
+        538747
+    ],
+    "score_of_similarity": [
+        0.04
+    ]
+}

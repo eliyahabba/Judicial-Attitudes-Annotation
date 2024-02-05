@@ -1,0 +1,147 @@
+{
+    "title": "Arthur Wigram Money",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Major-General Sir Arthur Wigram Money, KCB KBE CSI (23 October 1866 – 25 October 1951) was a British Army officer",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Money served as Chief Administrator of Palestine between June 1918 – June 1919, but was removed by London for not favoring the Zionists over the Arabs; his successor was removed six months later for the same reason",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Money was the youngest son of Gilbert Pocklington Money of the Bengal Civil Service",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "He was educated at Charterhouse School and the Royal Military Academy",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "Money was commissioned a lieutenant in the Royal Field Artillery on 29 April 1885. He saw early service in British India, including in the Zhob Valley expedition in 1890 and with the Isazai Field Force in 1892. Promoted to captain on 1 April 1895, he served in the North-West Frontier of India under Sir William Lockhart, and took part in the Tirah Campaign 1897–98, for which he received the brevet promotion of major on 20 May 1898. He was promoted to the substantive rank of major on 18 June 1900.",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "With the outbreak of the Second Boer War in late 1899, Money was appointed to a staff position as an Assistant Director of Transport to the army in South Africa",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "He received the brevet promotion to lieutenant-colonel on 29 November 1900, and was mentioned in despatches",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "Following the end of hostilities in June 1902, he returned to the United Kingdom together with Lord Kitchener on board the SS Orotava, which arrived in Southampton on 12 July",
+                    "sentence_id": "2",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "He later returned to South Africa as Inspecting officer of Transport service",
+                    "sentence_id": "3",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "Money later served in the First World War, and received the rank of major-general",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": "He was Chief Administrator of British occupied Palestine from June 1918 to June 1919.",
+                    "sentence_id": "1",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 10
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "Money died at Tunbridge Wells, two days after his 85th birthday",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 11
+                }
+            ]
+        },
+        {
+            "paragraph_index": 7,
+            "sentences": [
+                {
+                    "sentence": "This biographical article related to the British Army is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 12
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 13
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at Charterhouse School and the Royal Military Academy ."
+    ],
+    "main_sentence_from_docx": [
+        "He was educated at Charterhouse School and the Royal Military Academy"
+    ],
+    "main_sentence_id_in_docx": [
+        "2_1"
+    ],
+    "global_sentence_index_docx": [
+        3
+    ],
+    "global_sentence_index_spike": [
+        107413
+    ],
+    "score_of_similarity": [
+        0.03
+    ]
+}

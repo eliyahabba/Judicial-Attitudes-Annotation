@@ -1,0 +1,62 @@
+{
+    "title": "Richard Newcombe (priest)",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Richard Newcombe (1779 – 1857) was an Anglican priest",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Newcombe was educated at Queens' College, Cambridge",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": " He held incumbencies at Llanrhyddlad, Llanfwrog and Clocaenog",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "He died on 7 August 1857.",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 3
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "Newcombe was educated at Queens ' College , Cambridge ."
+    ],
+    "main_sentence_from_docx": [
+        "Newcombe was educated at Queens' College, Cambridge"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        1
+    ],
+    "global_sentence_index_spike": [
+        51484
+    ],
+    "score_of_similarity": [
+        0.07
+    ]
+}

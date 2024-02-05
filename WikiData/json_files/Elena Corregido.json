@@ -1,0 +1,102 @@
+{
+    "title": "Elena Corregido",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Elena Mercedes Corregido (born 4 December 1956, Buenos Aires) is an Argentine Justicialist Party politician",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "She sat in the Argentine Senate for Chaco Province in the majority Front for Victory block from 2007 to 2013.",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Corregido was educated at the República de Honduras National School and graduated as a chemistry teacher at the Universidad Nacional del Nordeste",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "She became a teaching assistant and teacher",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "In 1995, Corregido joined the municipal government of Presidencia Roque Sáenz Peña, Chaco, heading the Women's Unit, there until 1996. In July 1999 she led the Chaco section of the pensions team of the national Social Development Ministry, for which she was later a consultant",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "Corregido served on the national council of the Justicialist Party 2001-03 and in 2005 was a candidate for provincial deputy, although she resigned before the election to work with other sectors making up the Front for Victory",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "She was elected to the Senate in 2007 on the list of Frente Chaco Merece Más",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "This article about an Argentine politician is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 8
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "Corregido was educated at the República de Honduras National School and graduated as a chemistry teacher at the Universidad Nacional del Nordeste ."
+    ],
+    "main_sentence_from_docx": [
+        "Corregido was educated at the República de Honduras National School and graduated as a chemistry teacher at the Universidad Nacional del Nordeste"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        2
+    ],
+    "global_sentence_index_spike": [
+        932293
+    ],
+    "score_of_similarity": [
+        0.01
+    ]
+}

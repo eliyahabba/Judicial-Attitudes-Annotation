@@ -1,0 +1,69 @@
+{
+    "title": "Charles Eccles",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Charles Vernon Eccles (20 August 1843 – 21 February 1890) was an English first-class cricketer and British Army officer",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "The son of William Eccles, he was born in August 1843 at Davenham, Cheshire",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "He was educated at Cheltenham College, where he represented the college cricket team",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": " From Cheltenham he was commissioned into the 1st Royal Dragoons as an ensign by purchase in 1862. He was promoted to lieutenant in October 1866. A keen cricketer, he played first-class cricket for Hampshire on two occasions, playing against Lancashire in 1870 and Kent in 1875; his brother, William, had served as the honorary secretary of Hampshire in the late 1860s",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": " He also made a single first-class appearance for the Gentlemen of the Marylebone Cricket Club against Kent during the Canterbury Cricket Week of 1874. Eccles continued to serve in the Royal Dragoons alongside his cricket commitments and was appointed an instructor of musketry in 1872. He was promoted to captain in November 1873, before being promoted to major in July 1881, at which point he was serving in the Rifle Brigade",
+                    "sentence_id": "3",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": " He was appointed aide-de-camp in April 1882 to Sir William Jervois, Governor of South Australia and later Governor-General of New Zealand, a role he held until 1886. Eccles died in British India at Bareilly from typhoid fever on 21 February 1890.",
+                    "sentence_id": "4",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 5
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "Eccles was educated at Cheltenham College , where he represented the college cricket team ."
+    ],
+    "main_sentence_from_docx": [
+        "Charles Vernon Eccles (20 August 1843 – 21 February 1890) was an English first-class cricketer and British Army officer"
+    ],
+    "main_sentence_id_in_docx": [
+        "0_0"
+    ],
+    "global_sentence_index_docx": [
+        0
+    ],
+    "global_sentence_index_spike": [
+        540971
+    ],
+    "score_of_similarity": [
+        1.01
+    ]
+}

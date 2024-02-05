@@ -1,0 +1,136 @@
+{
+    "title": "Nigel Cornwall",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Nigel Edmund Cornwall CBE, (13 August 1903 – 19 December 1984) was an English clergyman in the Church of England",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "He held the post of Bishop of Borneo from 1949 until 1962.",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Cornwall was the son of Alan Cornwall, who was Archdeacon of Cheltenham from 1924 to 1932. He was educated at Marlborough College, where his older brother Alan, a county cricketer for Gloucestershire, was later a housemaster",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": " He then studied history at Oriel College, Oxford, gaining a third-class degree in 1926.",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "After ordination, Cornwall worked in England for four years, first at Cuddesdon Theological College in 1926–1927, then as deacon in the Diocese of Durham and also in 1927 as curate of St Columba's, Southwick, Sunderland in 1927–1930, and in 1928 as a parish priest in Durham",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "Cornwall's first posting abroad came in 1931 when he was appointed chaplain to the Bishop of Colombo, Ceylon (now Sri Lanka), a position he held until 1938. He briefly returned to England for a year, as curate of St Wilfrid's Church, Brighton in 1938–1939. Thereafter came postings as a missionary priest of the Diocese of Masasi, Tanganyika (now Tanzania) in 1939–1949, during which time he also served as headmaster of St Joseph's College, Chidya in 1944–1949.",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "Cornwall was ordained and consecrated a bishop on All Saints' Day (1 November) 1949 at Westminster Abbey by Geoffrey Fisher, Archbishop of Canterbury, as the first to hold his post (Bishop of Borneo): after the devastation of the Second World War, the Diocese of Labuan and the Bishopric of Sarawak were merged as the Diocese of Borneo",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "Cornwall served as bishop based in Kuching for 13 years until 1962, when the diocese was again divided into the Diocese of Jesselton (later Sabah) which included Labuan, and the Diocese of Kuching, which included Brunei",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "Cornwall then returned to England, where he served as commissary to the Bishop of Kuching, as assistant bishop in the Diocese of Winchester, and as a canon residentiary of Winchester Cathedral from 1963 to 1973, when he retired",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "Cornwall was appointed a CBE in 1955. He married Mary Dalton, daughter of the Reverend C",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": "R",
+                    "sentence_id": "1",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": "Dalton, in 1959. They had no children",
+                    "sentence_id": "2",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 11
+                },
+                {
+                    "sentence": "Mary died in 1981.",
+                    "sentence_id": "3",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 12
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at Marlborough College , where his older brother Alan , a county cricketer for Gloucestershire , was later to be a housemaster ."
+    ],
+    "main_sentence_from_docx": [
+        "Cornwall was the son of Alan Cornwall, who was Archdeacon of Cheltenham from 1924 to 1932. He was educated at Marlborough College, where his older brother Alan, a county cricketer for Gloucestershire, was later a housemaster"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        2
+    ],
+    "global_sentence_index_spike": [
+        394185
+    ],
+    "score_of_similarity": [
+        0.71
+    ]
+}

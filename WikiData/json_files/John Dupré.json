@@ -1,0 +1,275 @@
+{
+    "title": "John Dupré",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "John A",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "Dupré (born 3 July 1952) is a British philosopher of science",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "He is the director of Egenis, the Centre for the Study of Life Sciences, and professor of philosophy at the University of Exeter",
+                    "sentence_id": "2",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": " Dupré's chief work area lies in philosophy of biology, philosophy of the social sciences, and general philosophy of science",
+                    "sentence_id": "3",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "Dupré, together with Nancy Cartwright, Ian Hacking, Patrick Suppes and Peter Galison, are often grouped together as the \"Stanford School\" of philosophy of science",
+                    "sentence_id": "4",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "In 2023, he was elected to the American Philosophical Society",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Dupré was educated at the University of Oxford and the University of Cambridge and taught at Oxford, Stanford University and Birkbeck, University of London before moving to Exeter",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "In 2010 Dupré was elected a Fellow of the American Association for the Advancement of Science in recognition of his work on Darwinism, and is a former president of the British Society for the Philosophy of Science",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "In 2018 he was elected Vice-President (and President-Elect) of the Philosophy of Science Association (USA)",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": "In 2020, he was elected a Fellow of the American Academy of Arts and Sciences",
+                    "sentence_id": "2",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 9
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "Dupré advocates a pluralistic model of science as opposed to the common notion of reductionism",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": "Physical reductionism suggests that all science may be reduced to physical explanations due to causal or mereological links that obtain between the objects studied in the higher sciences and the objects studied by physics",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 11
+                },
+                {
+                    "sentence": "For example, a physical reductionist would see psychological facts as (in principle) reducible to neurological facts, which is in turn are reducible to biological facts",
+                    "sentence_id": "2",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 12
+                },
+                {
+                    "sentence": "Biology could then be explained in terms of chemistry, and chemistry could then be explained in terms of physical explanation",
+                    "sentence_id": "3",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 13
+                },
+                {
+                    "sentence": "While reductionism of this sort is a common position among scientists and philosophers, Dupré suggests that such reduction is not possible as the world has an inherently pluralistic structure",
+                    "sentence_id": "4",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 14
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "A classical argument for reductionism relies on a particular conception of causality, according to which each event must have a sufficient physical cause",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 15
+                },
+                {
+                    "sentence": "Physical interactions are therefore sufficient to account for all causal interactions",
+                    "sentence_id": "1",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 16
+                },
+                {
+                    "sentence": "Under this assumption, psychological or biological facts must be eliminable in favour of physical facts, given that the physical conditions do all the causal work",
+                    "sentence_id": "2",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 17
+                },
+                {
+                    "sentence": "This makes all the other, non-physical conditions causally superfluous",
+                    "sentence_id": "3",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 18
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "Dupré tries to escape this problem by rejecting determinism, and the assumption that there is a physical cause for each and every event",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 19
+                },
+                {
+                    "sentence": "In place of determinism, Dupré proposes a conception of indeterministic, probabilistic causality",
+                    "sentence_id": "1",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 20
+                },
+                {
+                    "sentence": "His ideas are influenced by Nancy Cartwright",
+                    "sentence_id": "2",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 21
+                }
+            ]
+        },
+        {
+            "paragraph_index": 7,
+            "sentences": [
+                {
+                    "sentence": "Dupré is an important critic of biological research programs in the life science community",
+                    "sentence_id": "0",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 22
+                },
+                {
+                    "sentence": "In particular, he criticises evolution-biological stories and how they are related in sociobiology and evolutionary psychology",
+                    "sentence_id": "1",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 23
+                },
+                {
+                    "sentence": "Dupré argues that such projects must remain speculative and reflect on the prejudices of the researchers as circumstances in the world",
+                    "sentence_id": "2",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 24
+                }
+            ]
+        },
+        {
+            "paragraph_index": 8,
+            "sentences": [
+                {
+                    "sentence": "Dupré is also concerned with the handling of biological taxonomy",
+                    "sentence_id": "0",
+                    "paragraph_index": 8,
+                    "global_sentence_index": 25
+                },
+                {
+                    "sentence": "Biological classifications are made by humans, and are thus open to criticism and modification",
+                    "sentence_id": "1",
+                    "paragraph_index": 8,
+                    "global_sentence_index": 26
+                },
+                {
+                    "sentence": "This applies in particular to the classifications of humans – for instance after race or sex",
+                    "sentence_id": "2",
+                    "paragraph_index": 8,
+                    "global_sentence_index": 27
+                },
+                {
+                    "sentence": "Dupré's arguments in this area reflect and mirror the sentiments and criticism of evolutionary biologist Stephen Jay Gould",
+                    "sentence_id": "3",
+                    "paragraph_index": 8,
+                    "global_sentence_index": 28
+                }
+            ]
+        },
+        {
+            "paragraph_index": 9,
+            "sentences": [
+                {
+                    "sentence": "Books",
+                    "sentence_id": "0",
+                    "paragraph_index": 9,
+                    "global_sentence_index": 29
+                }
+            ]
+        },
+        {
+            "paragraph_index": 10,
+            "sentences": [
+                {
+                    "sentence": "Journal articles",
+                    "sentence_id": "0",
+                    "paragraph_index": 10,
+                    "global_sentence_index": 30
+                }
+            ]
+        },
+        {
+            "paragraph_index": 11,
+            "sentences": [
+                {
+                    "sentence": "Appearances",
+                    "sentence_id": "0",
+                    "paragraph_index": 11,
+                    "global_sentence_index": 31
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "Dupré was educated at the University of Oxford and the University of Cambridge and taught at Oxford , Stanford University and Birkbeck College of the University of London before moving to Exeter ."
+    ],
+    "main_sentence_from_docx": [
+        "Dupré was educated at the University of Oxford and the University of Cambridge and taught at Oxford, Stanford University and Birkbeck, University of London before moving to Exeter"
+    ],
+    "main_sentence_id_in_docx": [
+        "2_0"
+    ],
+    "global_sentence_index_docx": [
+        6
+    ],
+    "global_sentence_index_spike": [
+        364725
+    ],
+    "score_of_similarity": [
+        0.09
+    ]
+}

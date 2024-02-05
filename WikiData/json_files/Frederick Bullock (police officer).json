@@ -1,0 +1,97 @@
+{
+    "title": "Frederick Bullock (police officer)",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Frederick Shore Bullock CIE (3 October 1847 – 12 January 1914) was a British civil servant and police officer",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Bullock was born in British India, the son of Thomas Henry Bullock, Deputy Commissioner of Berar",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "Sir George Bullock was his younger brother",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": " He was educated at Cheltenham College and passed for the Indian Civil Service in 1868. He arrived in India in 1870 and served in the North-Western Provinces as judge and collector until 1892, when he was made Judicial Commissioner of Berar",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "He was then Commissioner of the Hyderabad assigned districts from 1895 until he retired from the Indian Civil Service in 1899. He was made a Companion of the Order of the Indian Empire in the 1897 Diamond Jubilee Honours",
+                    "sentence_id": "3",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Returning to England, Bullock was served as a Chief Constable in the Metropolitan Police from 1903 to 1909, and as Fourth Assistant Commissioner of Police of the Metropolis from 1 December 1909 until his death on 12 January 1914. During this time he also served as British delegate to the International Congress on White Slave Traffic in Paris, 1906, to the International Congresses on White Slave Traffic and Obscene Literature, 1910, and to the International Conference on White Slave Traffic in Madrid, 1910.",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "In 1870 Bullock married Alexandrina Margaret, daughter of Brigadier-General Frederick Brind CB, Bengal Horse Artillery, and granddaughter of Sir Robert and Lady Sale; they had two sons and two daughters",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "In London he lived at 19 The Grove, The Boltons and was a member of the Junior Carlton Club and Ranelagh Club",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "In Who's Who he listed his recreations as golf, cricket and shooting",
+                    "sentence_id": "2",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 8
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at Cheltenham College and passed for the Indian Civil Service in 1868 ."
+    ],
+    "main_sentence_from_docx": [
+        "Sir George Bullock was his younger brother"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_1"
+    ],
+    "global_sentence_index_docx": [
+        2
+    ],
+    "global_sentence_index_spike": [
+        728631
+    ],
+    "score_of_similarity": [
+        0.82
+    ]
+}

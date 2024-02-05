@@ -1,0 +1,155 @@
+{
+    "title": "Brendan O'Hara",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Brendan O'Hara (born 27 April 1963) is a Scottish National Party (SNP) politician",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "He was elected Member of Parliament (MP) for the constituency of Argyll and Bute in 2015. He has been the SNP spokesperson for Foreign Affairs since September 2023. He served as the SNP Digital, Culture, Media and Sport spokesperson from 2017 to 2018, the SNP Defence spokesperson from 2015 to 2017, SNP International Development spokesperson from 2022 to 2023 and SNP Chief Whip in 2023.",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Born in Glasgow, O'Hara was educated at St",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "Andrew's Secondary, Carntyne, and attended Strathclyde University from where he graduated with a 2:1 in Economic History and Modern History",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "He has had a successful career as a TV producer",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "He wrote, produced and directed the Road To Referendum documentary series which was broadcast on STV in 2013 and was subsequently nominated for a BAFTA Scotland award in the Current Affairs category",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": " He has worked for STV, Sky Sports and the BBC",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "His credits include Comedy Connections and Movie Connections (BBC1), The Football Years (STV) and Scotland's Greatest Album (STV)",
+                    "sentence_id": "3",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "O'Hara also worked on David Hayman's second series, following in the footsteps of Tom Weir",
+                    "sentence_id": "4",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "O'Hara was an unsuccessful SNP candidate on two occasions",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": "He contested Glasgow Springburn at the 1987 UK general election receiving 3,554 votes (a 10.2% share)",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": "He also stood in Glasgow Central at the 1992 UK general election and gained 6,322 votes (a 20.8% share)",
+                    "sentence_id": "2",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 11
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "In 2015, he received 22,959 votes (44.3% share) in Argyll & Bute, and unseated the sitting Liberal Democrat MP Alan Reid by 8,473 votes",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 12
+                },
+                {
+                    "sentence": " On 20 May 2015, he was appointed the party's spokesman for defence",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 13
+                },
+                {
+                    "sentence": " He was the first of the 2015 intake to make his maiden speech",
+                    "sentence_id": "2",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 14
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "At the 2017 snap general election he successfully retained his seat; however, with a reduced majority of 1,328 votes to the Conservative party",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 15
+                },
+                {
+                    "sentence": " At the 2019 general election he retained his seat with a majority of 4,110.",
+                    "sentence_id": "1",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 16
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "Born in Glasgow , O'Hara was educated at St. Andrew 's Secondary , Carntyne , and attended Strathclyde University from where he graduated with a 2:1 in Economic History and Modern History ."
+    ],
+    "main_sentence_from_docx": [
+        "Andrew's Secondary, Carntyne, and attended Strathclyde University from where he graduated with a 2:1 in Economic History and Modern History"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_1"
+    ],
+    "global_sentence_index_docx": [
+        3
+    ],
+    "global_sentence_index_spike": [
+        676222
+    ],
+    "score_of_similarity": [
+        0.26
+    ]
+}

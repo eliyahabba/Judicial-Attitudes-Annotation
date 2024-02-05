@@ -1,0 +1,142 @@
+{
+    "title": "Sir Herbert Croft, 9th Baronet",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Sir Herbert George Denman Croft, 9th Baronet, DL (25 July 1838 – 11 February 1902), was an English Conservative Party politician who sat in the House of Commons from 1868 to 1874.",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Croft was the son of Sir Archer Denman Croft (1801–1865), 8th Baronet and his wife Julia Barbara Corbet (1802–1864), widow of Athelstan Corbet and daughter of Major General John Garstin (1756–1820)",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "He was educated at Eton College and at Merton College, Oxford, graduating BA in 1860 and MA in 1864. He was called to the bar at the Inner Temple in 1861 and went the Oxford Circuit",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "He inherited the baronetcy on the death of his father in 1865.",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Throughout his life he evinced considerable interest in local affairs, and was a member of the county council, chairman of the Hereford county bench of magistrates, and deputy-chairman of the Court of quarter sessions",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "He was a J",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "P",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "and deputy lieutenant for Herefordshire and a lieutenant in the Herefordshire Militia",
+                    "sentence_id": "3",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "At the 1868 general election Croft was elected as a Member of Parliament (MP) for Herefordshire",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": " He held the seat until the 1874 general election, when he did not stand again",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 9
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "From 1892 until his death, he held the post of Inspector of Constabulary for the North of England",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 10
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "Croft died at his residence, Lugwardine Court, Herefordshire, 11 February 1902, at the age of 63.",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 11
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "Croft married in 1865, his cousin Georgiana Eliza Lucy Marsh, daughter and co-heiress of Matthew Henry Marsh, of Ramridge House, Hampshire, an MP for Salisbury",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 12
+                },
+                {
+                    "sentence": "They had children:",
+                    "sentence_id": "1",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 13
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at Eton College and at Merton College , Oxford graduating BA in 1860 and MA in 1864 ."
+    ],
+    "main_sentence_from_docx": [
+        "He inherited the baronetcy on the death of his father in 1865."
+    ],
+    "main_sentence_id_in_docx": [
+        "1_2"
+    ],
+    "global_sentence_index_docx": [
+        3
+    ],
+    "global_sentence_index_spike": [
+        938964
+    ],
+    "score_of_similarity": [
+        0.67
+    ]
+}

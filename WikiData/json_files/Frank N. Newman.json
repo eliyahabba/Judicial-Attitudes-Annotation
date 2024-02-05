@@ -1,0 +1,166 @@
+{
+    "title": "Frank N. Newman",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Frank Neil Newman (born April 20, 1942) is an American banker who served as Under Secretary of the Treasury for Domestic Finance from 1993 to 1994 and as United States Deputy Secretary of the Treasury from 1994 to 1995.",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Frank N",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "Newman was born in Quincy, Massachusetts, on April 20, 1942. He was educated first at Thayer Academy and then later at Harvard College, receiving a B",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "A",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "in Economics in 1963.",
+                    "sentence_id": "3",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Newman joined Peat Marwick Mitchell & Company in 1966 as a manager",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "In 1969, he moved to Citicorp as a Vice President",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "He joined Wells Fargo in 1973, and worked there as a Vice President from 1973 to 1980, and then as an Executive Vice President and as Chief Financial Officer from 1980 to 1986. In 1986 Newman then moved to BankAmerica Corporation where he was ultimately Vice Chairman and Chief Financial Officer, where he led the bank though substantial recovery until his departure in 1993.",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "In 1993, President of the United States Bill Clinton nominated Newman to be Under Secretary of the Treasury for Domestic Finance",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": "The next year, he became United States Deputy Secretary of the Treasury, holding that office until 1995.",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 9
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "Newman then returned to the private sector",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": "He became Vice Chairman of Bankers Trust",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 11
+                },
+                {
+                    "sentence": "He then served as President and Chief Executive Officer of Bankers Trust from 1996 to 1999.",
+                    "sentence_id": "2",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 12
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "In 2005, he became CEO of Shenzhen Development Bank, a national listed bank with operations in 20 cities in China, SDB had come under serious troubles when a U",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 13
+                },
+                {
+                    "sentence": "S based private equity organisation purchased 20% of the bank's shares, at this point Newman led the team that eventually turned around performance of the institution to become healthy and profitable again, this was done without government funding or guarantees",
+                    "sentence_id": "1",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 14
+                },
+                {
+                    "sentence": " In 2010, after the sale of the majority interest of the bank, Newman retired and became an Independent Senior Advisor to SBD and also serves as chairman in for china based promontory financial group, an IBM subsidiary",
+                    "sentence_id": "2",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 15
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "This biography of a person who has held a non-elected position in the federal government of the United States is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 16
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 17
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated first at Thayer Academy and then later at Harvard College , receiving a B.A. in Economics in 1963 ."
+    ],
+    "main_sentence_from_docx": [
+        "Newman was born in Quincy, Massachusetts, on April 20, 1942. He was educated first at Thayer Academy and then later at Harvard College, receiving a B"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_1"
+    ],
+    "global_sentence_index_docx": [
+        2
+    ],
+    "global_sentence_index_spike": [
+        1010402
+    ],
+    "score_of_similarity": [
+        0.77
+    ]
+}

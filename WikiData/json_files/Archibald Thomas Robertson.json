@@ -1,0 +1,151 @@
+{
+    "title": "Archibald Thomas Robertson",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Archibald Thomas Robertson (November 6, 1863 – September 24, 1934) was a Southern Baptist preacher and biblical scholar whose work focused on the New Testament and Koine Greek",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Robertson was born at Cherbury near Chatham, Virginia",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "He was educated at Wake Forest (N",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "C",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": ") College (M",
+                    "sentence_id": "3",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "A",
+                    "sentence_id": "4",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": ", 1885) and at the Southern Baptist Theological Seminary (SBTS), Louisville, Kentucky (Th",
+                    "sentence_id": "5",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "M",
+                    "sentence_id": "6",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": ", 1888), where he was thereafter instructor and professor  of New Testament interpretation, and remained in that post until one day in 1934, when he dismissed his class early and went home and died of a stroke",
+                    "sentence_id": "7",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Robertson's books are still consulted today, particularly his Word Pictures in the New Testament and his landmark volume A Grammar of the Greek New Testament in Light of Historical Research",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": "In all, he published 45 books, several of which are still in print today",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": "Robertson helped found the Baptist World Alliance in 1900. He was an important Southern Baptist and a well-respected scholar in his day",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 11
+                },
+                {
+                    "sentence": "Robertson sought to equip his students with the proper tools for good preaching",
+                    "sentence_id": "3",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 12
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "He was the son-in-law of the famous preacher, John Albert Broadus — Robertson's grave lies in the shadow of Broadus' — one of the SBTS co-founders",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 13
+                },
+                {
+                    "sentence": "His wife was Ella Broadus Robertson (19 April 1872 — 5 December 1945) and she wrote such books as The Ministry of Women, Worship in the Home, The Art of Motherhood, and These Things Remain",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 14
+                },
+                {
+                    "sentence": "She was also the editor of The Child's Bible",
+                    "sentence_id": "2",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 15
+                },
+                {
+                    "sentence": "They are buried next to one another in Cave Hill Cemetery in Louisville",
+                    "sentence_id": "3",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 16
+                },
+                {
+                    "sentence": "The epitaph on his tombstone \"To me, to live is Christ and to die is gain\" (Philippians 1:21)",
+                    "sentence_id": "4",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 17
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at Wake Forest ( N. C. ) College ( M. A. , 1885 ) and at the Southern Baptist Theological Seminary ( SBTS ) , Louisville , Kentucky ( Th . M. , 1888 ) , where he was thereafter instructor and professor of New Testament interpretation , and remained in that post until one day in 1934 , when he dismissed his class early and went home and died of a stroke ."
+    ],
+    "main_sentence_from_docx": [
+        ", 1888), where he was thereafter instructor and professor  of New Testament interpretation, and remained in that post until one day in 1934, when he dismissed his class early and went home and died of a stroke"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_7"
+    ],
+    "global_sentence_index_docx": [
+        8
+    ],
+    "global_sentence_index_spike": [
+        308862
+    ],
+    "score_of_similarity": [
+        0.44
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "title": "Harold B. Foss",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Harold B",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "Foss (1910-1988) was an American architect from Juneau, Alaska",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Harold Byron Foss was born November 17, 1910, in Montesano, Washington",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "  He was educated at the University of Washington, graduating in 1935.  That year he went to Juneau, where he formed the H",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "B",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "Foss Company",
+                    "sentence_id": "3",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "  MacKay Malcolm and Bjarne Carl Olsen were later added as partners, in 1945 and 1950.  Malcolm died in 1951, but his name remained until 1956, when the firm was reduced to Foss & Olsen",
+                    "sentence_id": "4",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "  This period was brief, and Edward Elmer Sands was added later that same year",
+                    "sentence_id": "5",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "Foss, Olsen & Sands was succeeded by Olsen & Sands when Foss moved to Palo Alto, California in 1958.  He died there in 1988.",
+                    "sentence_id": "6",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Foss was known throughout Alaska primarily as an architect of public buildings, of which he designed many",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 9
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at the University of Washington , graduating in 1935 ."
+    ],
+    "main_sentence_from_docx": [
+        "  He was educated at the University of Washington, graduating in 1935.  That year he went to Juneau, where he formed the H"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_1"
+    ],
+    "global_sentence_index_docx": [
+        3
+    ],
+    "global_sentence_index_spike": [
+        1141341
+    ],
+    "score_of_similarity": [
+        0.76
+    ]
+}

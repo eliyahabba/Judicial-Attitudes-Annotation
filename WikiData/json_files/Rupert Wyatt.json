@@ -1,0 +1,159 @@
+{
+    "title": "Rupert Wyatt",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Rupert Wyatt (born 26 October 1972) is an English filmmaker",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": " He made his directorial debut with the 2008 film The Escapist, which premiered at the Sundance Film Festival",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "His second film was the 2011 blockbuster Rise of the Planet of the Apes",
+                    "sentence_id": "2",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "His third film was the 2019 sci-fi film Captive State",
+                    "sentence_id": "3",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "He also directed the first two episodes of the television adaptation of The Mosquito Coast in 2021, as well as serving as an executive producer on the series",
+                    "sentence_id": "4",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Wyatt was born and raised near Winchester in Hampshire",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": " He was educated at the Dragon School, Oxford and Winchester College, Winchester",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Wyatt is the founder of the film collective Picture Farm, which has produced numerous shorts, documentaries and features, including the Sundance Award-winning documentary Dark Days",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "He also co-wrote and directed the British prison escape thriller The Escapist (2008), starring Brian Cox, Damian Lewis, Dominic Cooper, Joseph Fiennes, Seu Jorge, Steven Mackintosh and Liam Cunningham",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": " The film premiered at the Sundance Film Festival in January 2008, was nominated for eight international film awards, and was the winner of two",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": " In March 2010, he was selected to direct Rise of the Planet of the Apes, a reboot of the Planet of the Apes franchise, which was based on a screenplay by Rick Jaffa and Amanda Silver",
+                    "sentence_id": "2",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": " The film was released on 5 August 2011 to mostly positive reviews  and grossed more than $481 million worldwide",
+                    "sentence_id": "3",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 11
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "Wyatt was to be the director of 20th Century Fox's X-Men spin-off film Gambit, to be released on 7 October 2016, but dropped out due to scheduling conflicts",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 12
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "He directed the 2019 sci-fi film Captive State, which he co-wrote with Erica Beeney",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 13
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "Wyatt currently lives between Los Angeles and Hudson, New York with his wife, filmmaker Erica Beeney, and their three children",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 14
+                }
+            ]
+        },
+        {
+            "paragraph_index": 7,
+            "sentences": [
+                {
+                    "sentence": "Other credits",
+                    "sentence_id": "0",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 15
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at the Dragon School , Oxford and Winchester College , Winchester ."
+    ],
+    "main_sentence_from_docx": [
+        " He was educated at the Dragon School, Oxford and Winchester College, Winchester"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_1"
+    ],
+    "global_sentence_index_docx": [
+        6
+    ],
+    "global_sentence_index_spike": [
+        658531
+    ],
+    "score_of_similarity": [
+        0.05
+    ]
+}

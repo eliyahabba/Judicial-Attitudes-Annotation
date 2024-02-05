@@ -1,0 +1,355 @@
+{
+    "title": "Wilton Abbey",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Wilton Abbey was a Benedictine convent in Wiltshire, England, three miles west of Salisbury, probably on the site now occupied by Wilton House",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": " It was active from the early tenth century until 1539.",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Wilton Abbey is first recorded in the 930s, but a 15th-century poem dates its foundation to the late 8th century by Weohstan, ealdorman of Wiltshire, and his widow Alburga is said to have been its abbess",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "This claim has been accepted by some historians, but it is rejected by the ecclesiastical historian, Sarah Foot, who describes it as a new foundation in the tenth century",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": " The story is also dismissed by the historian Elizabeth Crittall",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": " Alburga (or Æthelburh) is said to have been the half-sister of King Ecgberht of Wessex, but she is not mentioned in biographies of Ecgberht",
+                    "sentence_id": "3",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "The community was to number 26 nuns",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "It was attached to St Mary's Church",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": " Two daughters of king Edward the Elder and Ælfflæd, Eadflæd and Æthelhild, probably joined the community, Eadflæd as a nun and Æthelhild as a lay sister",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": "They were buried at Wilton with their mother",
+                    "sentence_id": "3",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": "Their half-brother, king Æthelstan, made two grants of land to a congregation at Wilton in the 930s, including one in 937 for the remission of his sins and those of Eadflæd",
+                    "sentence_id": "4",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 10
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "In 955 King Eadwig granted the nuns of Wilton Abbey an estate called Chelke (Chalke, Saxon æt Ceolcum) which included land in Broad Chalke and Bowerchalke",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 11
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "Wulfthryth of Wilton, the wife (or concubine) of Edgar, King of the English (reigned 959–975), was abbess of Wilton between the early 960s and about 1000. According to Stenton, she was a nun when Edgar (who could not have been more than sixteen at the time, and she a bit older) abducted her from the abbey and carried her off to his palace at Kemsing, near Sevenoaks",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 12
+                },
+                {
+                    "sentence": "Abduction of a bride was not uncommon in pre-Christian and early Christian Anglo-Saxon society, and it is unknown how much of her abduction was with her consent",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 13
+                },
+                {
+                    "sentence": "Nevertheless, she was held at Kemsing for two years, during which time she bore Edgar a daughter Saint Edith, whom he acknowledged and supported for the rest of his life",
+                    "sentence_id": "2",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 14
+                },
+                {
+                    "sentence": "St",
+                    "sentence_id": "3",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 15
+                },
+                {
+                    "sentence": "Dunstan, an advisor to Edgar, later talked the king into doing penance for the abduction: reportedly, Edgar refrained from wearing his crown for seven years",
+                    "sentence_id": "4",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 16
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "By the early 960's, Wulfthryth was installed as abbess back at Wilton (where she raised her daughter), and Edgar had bestowed the abbey with treasure and land",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 17
+                },
+                {
+                    "sentence": "In 964 Edgar married Ælfthryth, in a Christian ceremony which would have nullified any pagan arrangement with Wulfthryth; because of this, modern historians sometimes refer to her as a \"concubine\" but the word is inaccurate, given the custom of the time",
+                    "sentence_id": "1",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 18
+                },
+                {
+                    "sentence": "Having been given wealth by the king, and being of a noble background herself, Wulfthryth used her wealth to build up Wilton's relic collection",
+                    "sentence_id": "2",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 19
+                },
+                {
+                    "sentence": "She was also able to use her royal connections to protect Wilton in other ways, such as securing the release of two Wilton priests who had been imprisoned by the reeve of Wilton",
+                    "sentence_id": "3",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 20
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "Her daughter died between 984 and 987 at the age of 23, and her mother and various royalty, as well as enormous local popular support, promoted her cult as a saint",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 21
+                }
+            ]
+        },
+        {
+            "paragraph_index": 7,
+            "sentences": [
+                {
+                    "sentence": "In 1003 Sweyn, King of Denmark, destroyed the town of Wilton but it is unknown whether the abbey shared its fate",
+                    "sentence_id": "0",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 22
+                },
+                {
+                    "sentence": "Edith of Wessex, the wife of Edward the Confessor, who had been educated at Wilton, rebuilt the abbey in stone; it had formerly been of wood",
+                    "sentence_id": "1",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 23
+                }
+            ]
+        },
+        {
+            "paragraph_index": 8,
+            "sentences": [
+                {
+                    "sentence": "In the year before the Norman conquest, a couple gave their daughter Eve of Wilton to the abbey",
+                    "sentence_id": "0",
+                    "paragraph_index": 8,
+                    "global_sentence_index": 24
+                },
+                {
+                    "sentence": "She left in 1080 to have a notable life in France",
+                    "sentence_id": "1",
+                    "paragraph_index": 8,
+                    "global_sentence_index": 25
+                }
+            ]
+        },
+        {
+            "paragraph_index": 9,
+            "sentences": [
+                {
+                    "sentence": "The Abbess of Wilton held an entire barony from the king, a privilege shared by only three other English nunneries, Shaftesbury, Barking, and St Mary's Abbey, Winchester",
+                    "sentence_id": "0",
+                    "paragraph_index": 9,
+                    "global_sentence_index": 26
+                },
+                {
+                    "sentence": "As the head of a barony, the abbess had the obligation to provide the royal army with knights when summoned",
+                    "sentence_id": "1",
+                    "paragraph_index": 9,
+                    "global_sentence_index": 27
+                },
+                {
+                    "sentence": "The abbess had the privilege to appoint offices in her realm, which made her an important patron; her most prestigious cause of patronage was her right to appoint deacon to the conventual church, which had a great deal of clergymen in office at any given time",
+                    "sentence_id": "2",
+                    "paragraph_index": 9,
+                    "global_sentence_index": 28
+                }
+            ]
+        },
+        {
+            "paragraph_index": 10,
+            "sentences": [
+                {
+                    "sentence": "Wilton Abbey was favoured by the royal family and given many rich donations from members of the royal family, such as from Henry I and Queen Maud",
+                    "sentence_id": "0",
+                    "paragraph_index": 10,
+                    "global_sentence_index": 29
+                },
+                {
+                    "sentence": "The king, the Archbishop of Canterbury, the Bishop of Salisbury, and sometimes the queen, had the right to nominate nuns to Wilton, and the king exercised this right on his coronation and on the creation of a new abbess, and the queen on her coronation",
+                    "sentence_id": "1",
+                    "paragraph_index": 10,
+                    "global_sentence_index": 30
+                }
+            ]
+        },
+        {
+            "paragraph_index": 11,
+            "sentences": [
+                {
+                    "sentence": "In 1143 King Stephen made it his headquarters, but was put to flight by Matilda's forces under Robert, Earl of Gloucester",
+                    "sentence_id": "0",
+                    "paragraph_index": 11,
+                    "global_sentence_index": 31
+                }
+            ]
+        },
+        {
+            "paragraph_index": 12,
+            "sentences": [
+                {
+                    "sentence": "During the 13th-century, Wilton Abbey experienced a period of financial crisis, and between 1246 and 1276, several gifts were made from the crown and the church for the repair of the buildings, which were at this point described as having fallen into a serious state of disrepair",
+                    "sentence_id": "0",
+                    "paragraph_index": 12,
+                    "global_sentence_index": 32
+                }
+            ]
+        },
+        {
+            "paragraph_index": 13,
+            "sentences": [
+                {
+                    "sentence": "Several scandals are known to have occurred in Wilton Abbey",
+                    "sentence_id": "0",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 33
+                },
+                {
+                    "sentence": "In 1284 and 1302 nuns of Wilton were found guilty of misconduct, and again in 1379.",
+                    "sentence_id": "1",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 34
+                }
+            ]
+        },
+        {
+            "paragraph_index": 14,
+            "sentences": [
+                {
+                    "sentence": "In 1528, the crown interfered in the election of a new abbess after the death of Cecily Willoughby",
+                    "sentence_id": "0",
+                    "paragraph_index": 14,
+                    "global_sentence_index": 35
+                },
+                {
+                    "sentence": "The abbey nominated the election of the prioress, Isabel Jordayne, described as 'ancient, wise and discreet', while Anne Boleyn favoured her brother-in-law William Carey's sister Eleanor Carey",
+                    "sentence_id": "1",
+                    "paragraph_index": 14,
+                    "global_sentence_index": 36
+                },
+                {
+                    "sentence": " Henry VIII preferred Isabel Jordayne when Eleanor Carey's candidacy was destroyed by serious moral charges against her",
+                    "sentence_id": "2",
+                    "paragraph_index": 14,
+                    "global_sentence_index": 37
+                },
+                {
+                    "sentence": " In 1535, the abbess complained about Thomas Leigh's too strictly enforced enclosure, as it would not be possible for her to conduct the abbey's business properly if she was not allowed to leave the convent on business, as the abbey was in debt",
+                    "sentence_id": "3",
+                    "paragraph_index": 14,
+                    "global_sentence_index": 38
+                }
+            ]
+        },
+        {
+            "paragraph_index": 15,
+            "sentences": [
+                {
+                    "sentence": "Cecily Bodenham, the last abbess, surrendered the convent to the commissioners of King Henry VIII on 25 March 1539 during the Dissolution of the Monasteries",
+                    "sentence_id": "0",
+                    "paragraph_index": 15,
+                    "global_sentence_index": 39
+                },
+                {
+                    "sentence": "The site was granted to Sir William Herbert, afterwards Earl of Pembroke, who commenced the building of Wilton House, still the abode of his descendants",
+                    "sentence_id": "1",
+                    "paragraph_index": 15,
+                    "global_sentence_index": 40
+                },
+                {
+                    "sentence": "There are no remains of the ancient buildings",
+                    "sentence_id": "2",
+                    "paragraph_index": 15,
+                    "global_sentence_index": 41
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "Edith of Wessex , the wife of Edward the Confessor , who had been educated at Wilton , rebuilt the abbey in stone ; it had formerly been of wood ."
+    ],
+    "main_sentence_from_docx": [
+        "Edith of Wessex, the wife of Edward the Confessor, who had been educated at Wilton, rebuilt the abbey in stone; it had formerly been of wood"
+    ],
+    "main_sentence_id_in_docx": [
+        "7_1"
+    ],
+    "global_sentence_index_docx": [
+        23
+    ],
+    "global_sentence_index_spike": [
+        762974
+    ],
+    "score_of_similarity": [
+        0.04
+    ]
+}

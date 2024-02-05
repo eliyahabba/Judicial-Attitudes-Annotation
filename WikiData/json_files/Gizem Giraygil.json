@@ -1,0 +1,131 @@
+{
+    "title": "Gizem Giraygil",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Gizem Giraygil (born May 8, 1986 in Ankara) is a Turkish volleyball player",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "She is 1.80 m (5 ft 11 in) tall and plays as setter",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "Currently, Gizem competes for Lokomotiv Baku in Azerbaijan",
+                    "sentence_id": "2",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "She played 59 times for the Turkish national team",
+                    "sentence_id": "3",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Gizem Giraygil was born to Ömer Giraygil in Ankara on May 8, 1986. She spent her early years in a sport environment due to her father's post as the manager of the Selim Sırrı Tarcan Sport Hall",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "Supported by her parents, she began with volleyball playing at the age of eleven",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "She was educated in Political Science at Çankaya University in Ankara",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "After playing for Vakıfbank Güneş Sigorta, İller Bankası, Toki, Fenerbahçe and Ereğli Belediye, she transferred to Ankaragücü",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "End January 2012, she left Ankaragücü, however, due to the club's financial problems, and signed for Beşiktaş in Istanbul",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": " In August 2012, she transferred to the Izmir-based club Karşıyaka",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": " In July 2013, she moved to the Azeri club Lokomotiv Baku",
+                    "sentence_id": "2",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 10
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "This biographical article relating to volleyball in Turkey is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 11
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 12
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "She was educated in Political Science at Çankaya University in Ankara ."
+    ],
+    "main_sentence_from_docx": [
+        "She was educated in Political Science at Çankaya University in Ankara"
+    ],
+    "main_sentence_id_in_docx": [
+        "2_0"
+    ],
+    "global_sentence_index_docx": [
+        6
+    ],
+    "global_sentence_index_spike": [
+        1013364
+    ],
+    "score_of_similarity": [
+        0.03
+    ]
+}

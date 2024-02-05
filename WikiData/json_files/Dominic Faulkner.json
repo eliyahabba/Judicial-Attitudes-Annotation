@@ -1,0 +1,131 @@
+{
+    "title": "Dominic Faulkner",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Dominic Faulkner is best known for his leadership of EverestMax, an ambitious 8000 km British overland expedition from the lowest point on Earth to the highest by bicycle and foot",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "In December 2005 he led a small 6 person cycling team from the shores of the Dead Sea on a dangerous 8000 km journey through a number of hostile countries to",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "the Everest base camp",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "Two of the team, including himself, finished on the summit of Everest on foot in May 2006.",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "Dominic was born in the UK but spent his early years in Nigeria and India",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "After the early death of his father, Dominic was educated in the UK and studied Geology at Imperial College in London before spending several years with the Army and 21 SAS regiment",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "The Longest Climb video : https://www",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "youtube",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "com/watch",
+                    "sentence_id": "2",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": "v=qzkSxW-sR1k",
+                    "sentence_id": "3",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 9
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "http://www",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": "domfaulkner",
+                    "sentence_id": "1",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 11
+                },
+                {
+                    "sentence": "com/",
+                    "sentence_id": "2",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 12
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "After the early death of his father , Dominic was educated in the UK and studied Geology at Imperial College in London before spending several years with the Army and 21 SAS regiment ."
+    ],
+    "main_sentence_from_docx": [
+        "After the early death of his father, Dominic was educated in the UK and studied Geology at Imperial College in London before spending several years with the Army and 21 SAS regiment"
+    ],
+    "main_sentence_id_in_docx": [
+        "3_1"
+    ],
+    "global_sentence_index_docx": [
+        5
+    ],
+    "global_sentence_index_spike": [
+        1056340
+    ],
+    "score_of_similarity": [
+        0.02
+    ]
+}

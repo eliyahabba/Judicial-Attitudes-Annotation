@@ -1,0 +1,113 @@
+{
+    "title": "Vespasiano I Gonzaga",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Vespasiano I Gonzaga, Duke of Sabbioneta (6 December 1531 – 26 February 1591) was an Italian nobleman, diplomat, writer, military engineer and condottiero",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "He is remembered as a patron of the arts and the founder of Sabbioneta, a town in Lombardy designed according to the Renaissance principles of the \"ideal city\"",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "He was born in Fondi, a Colonna fief in the southern Latium, the son of Isabella Colonna and the condottiero Louis Gonzaga, lord of Palazzolo, a member of a cadet branch of the House of Gonzaga, Dukes of Mantua",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "Soon orphaned, he was educated under his aunt Giulia Gonzaga, who had moved to Naples to escape attempts from other members of the Colonna family to kill Vespasiano in order to obtain the fiefs he had inherited from his mother",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "At the age of eleven he was sent to the Spanish royal court to complete his education under King Philip II of Spain, to whom he was distantly related through mutual descent from Kings of Aragon",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "The latter found in Vespasiano one of his most faithful advisers, and made him a Grandee of Spain and then Viceroy of Navarre and Valencia",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "In 1556 he started his major project, the construction of a new, ideal city between Mantua and Parma which he christened \"Sabbioneta\" (\"Sandy\"), as it was to rise on the sandy banks of the Po River",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "The project was finished in 1591. Sabbioneta had been declared an autonomous Duchy in 1577, thanks to the personal support of Vespasiano's friend Rudolf II of Habsburg, whom he had met in the Spanish court",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "He died at Sabbioneta in 1591.",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "Vespasiano Gonzaga married 3 times :",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 9
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "Soon orphaned , he was educated under his aunt Giulia Gonzaga , who had moved to Naples to escape attempts from other members of the Colonna family to kill Vespasiano in order to obtain the fiefs he had inherited from his mother ."
+    ],
+    "main_sentence_from_docx": [
+        "Soon orphaned, he was educated under his aunt Giulia Gonzaga, who had moved to Naples to escape attempts from other members of the Colonna family to kill Vespasiano in order to obtain the fiefs he had inherited from his mother"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_1"
+    ],
+    "global_sentence_index_docx": [
+        3
+    ],
+    "global_sentence_index_spike": [
+        357736
+    ],
+    "score_of_similarity": [
+        0.02
+    ]
+}

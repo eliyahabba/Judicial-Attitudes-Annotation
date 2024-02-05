@@ -1,0 +1,155 @@
+{
+    "title": "Tom Heap",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Tom Heap (born 3 January 1966 in Hertford, Hertfordshire) is an English television and radio reporter and presenter best known for his contributions to the BBC One programme Countryfile, the same channel's Panorama programme, and the BBC Radio 4 programme Costing the Earth",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "He was previously Rural Affairs Correspondent of BBC News",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Heap is the son of John Heap, a former scientific adviser who became the head of the Foreign and Commonwealth Office's Polar Regions Section (from 1975 to 1992), and Margaret Grace Gillespie Spicer, known as 'Peg', the daughter of Captain Sir Stewart Spicer, 3rd Baronet, of the Royal Navy",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "He has two sisters",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Heap was educated at Oakham School, a boarding and day independent school in the market town of Oakham in Rutland in central England, where he was trained to abseil by the Lieutenant M",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "B",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "Rochester of the Combined Cadet Force (CCF), and received a Bronze Duke of Edinburgh's Award in 1980.",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "Heap began his broadcasting career with Sky News as a sound mixer",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "He then joined a News Trainee scheme with BBC News and worked on the Today programme, the BBC News 24 channel and Panorama",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": "He became a correspondent specialising in and around rural affairs, science and the environment and took on a newly created role as the Rural Affairs Correspondent for BBC News",
+                    "sentence_id": "2",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": "In around 2013 he reported for the BBC live from the Khumbu Icefall on Mount Everest with the broadcasting team covering the 50th anniversary of the conquest of the mountain",
+                    "sentence_id": "3",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": " After making contributions to Countryfile, in around April 2012 he took over the investigative reporter role on the programme from John Craven",
+                    "sentence_id": "4",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 11
+                },
+                {
+                    "sentence": " In 2014 he interviewed Princess Anne in this role",
+                    "sentence_id": "5",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 12
+                },
+                {
+                    "sentence": " Since 2022, Tom has presented The Climate Show on Sky News",
+                    "sentence_id": "6",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 13
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "Tom Heap married Tammany Robin Stone in 1992, and lives in Napton on the Hill near the market town of Southam in Warwickshire, south of the city of Coventry",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 14
+                },
+                {
+                    "sentence": "They own the media company Checked Shirt TV",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 15
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "During an edition of Countryfile screened in November 2014, it was revealed that Heap is the great-nephew of Olympic medallist and soldier Thomas Gillespie who was killed in action at La Bassee, France, in October 1914, aged 21.",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 16
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "Heap was educated at Oakham School , a boarding and day independent school in the market town of Oakham in Rutland in central England , where he was trained to abseil by the Lieutenant M.B. Rochester of the Combined Cadet Force ( CCF ) , and won a Bronze Duke of Edinburgh 's Award in 1980 ."
+    ],
+    "main_sentence_from_docx": [
+        "Heap was educated at Oakham School, a boarding and day independent school in the market town of Oakham in Rutland in central England, where he was trained to abseil by the Lieutenant M"
+    ],
+    "main_sentence_id_in_docx": [
+        "2_0"
+    ],
+    "global_sentence_index_docx": [
+        4
+    ],
+    "global_sentence_index_spike": [
+        940673
+    ],
+    "score_of_similarity": [
+        0.37
+    ]
+}

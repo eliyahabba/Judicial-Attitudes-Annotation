@@ -1,0 +1,108 @@
+{
+    "title": "Sir Thomas Alston, 3rd Baronet",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Sir Thomas Alston, 3rd Baronet (c",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "1676 – December 1714) was an English Member of Parliament",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Thomas Alston was the eldest son of Sir Rowland Alston, 2nd Baronet of Odell, Bedfordshire and Temperance Crew; the family included Puritans on both sides",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": " He was educated at Trinity College, Cambridge",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Alston succeeded his father as Baronet in 1697. From 1698 to 1701 he was MP for Bedford: it is unclear with which of the Parliamentary groupings his sympathies lay",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "He died unmarried, probably in London, in December 1714. \"The story that he had wasted his estate and at the time of his death was a prisoner in the Fleet is not borne out by his will, in which the Odell estate and other property in Bedfordshire was left intact and charged with numerous bequests\"",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "This article about a 17th-century Member of the Parliament of England (up to 1707) is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "This article about an 18th-century Member of the Parliament of England (up to 1707) is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 9
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at Trinity College , Cambridge ."
+    ],
+    "main_sentence_from_docx": [
+        " He was educated at Trinity College, Cambridge"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_1"
+    ],
+    "global_sentence_index_docx": [
+        3
+    ],
+    "global_sentence_index_spike": [
+        1056435
+    ],
+    "score_of_similarity": [
+        0.06
+    ]
+}

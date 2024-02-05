@@ -1,0 +1,137 @@
+{
+    "title": "Reginald Smith-Rose",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Reginald Leslie Smith-Rose CBE (2 April 1894 – 19 March 1980) was an English physicist of the National Physical Laboratory who was a world leader in radio direction-finding",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Reginald Leslie Smith was born on 2 April 1894 at 7 Westbourne Gardens, Paddington, London, to William Smith, church clerk, and his wife Louisa Copp",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "He was educated at Latymer Upper School, London, and went up to Imperial College  on a Board of Education royal scholarship in 1912 from where he graduated with a first class honours degree in physics in 1914 and was awarded the governors' prize for physics",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "By 1919 he had changed his surname to Smith-Rose",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "He married Elsie Masters, daughter of Sydney John Masters, a restaurant owner, in 1919 with whom he had two daughters",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "Smith-Rose undertook post-graduate work at Imperial College before joining Siemens Brothers of Woolwich as an assistant engineer in 1915. He joined the National Physical Laboratory (NPL) in 1919. He received his PhD in 1923 and his D",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "Sc",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "in 1926. He was superintendent of the radio department at the NPL from 1939 to 1947 after which he was director of the Radio Research Station at Ditton Park from 1948 to 1960 where, according to the NPL, he became a world leader in radio direction-finding",
+                    "sentence_id": "2",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "He was acting director of the NPL in 1955–1956 and retired in 1960.",
+                    "sentence_id": "3",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "He was awarded the United States Medal of Freedom with silver palm in 1947 and made a Commander of the Order of the British Empire in 1952.",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 9
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "After retirement, Smith-Rose continued to act on behalf of the NPL, travelling widely on their business",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": "His hobbies included walking, swimming, photography, stamp collecting, and reading",
+                    "sentence_id": "1",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 11
+                },
+                {
+                    "sentence": "He was churchwarden of his local church",
+                    "sentence_id": "2",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 12
+                },
+                {
+                    "sentence": "He died in hospital at Banstead, Surrey, on 19 March 1980. He left an estate of £93,740.",
+                    "sentence_id": "3",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 13
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at Latymer Upper School , London , and went up to Imperial College on a Board of Education royal scholarship in 1912 from where he graduated with a first class honours degree in physics in 1914 and was awarded the governors ' prize for physics ."
+    ],
+    "main_sentence_from_docx": [
+        "He was educated at Latymer Upper School, London, and went up to Imperial College  on a Board of Education royal scholarship in 1912 from where he graduated with a first class honours degree in physics in 1914 and was awarded the governors' prize for physics"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_1"
+    ],
+    "global_sentence_index_docx": [
+        2
+    ],
+    "global_sentence_index_spike": [
+        620955
+    ],
+    "score_of_similarity": [
+        0.02
+    ]
+}

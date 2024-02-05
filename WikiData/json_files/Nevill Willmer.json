@@ -1,0 +1,172 @@
+{
+    "title": "Nevill Willmer",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "(Edward) Nevill \"E",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "N",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "\" Willmer, FRS (15 August 1902 – 8 April 2001) was a British academic who was Professor of Histology at Cambridge University from 1966-69.",
+                    "sentence_id": "2",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Willmer was born in Birkenhead in 1902. He was the son of Arthur Washington Willmer, a cotton broker, and married Henrietta \"Penny\" Rowlatt in 1939; they had two sons and two daughters",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "He was educated at Birkenhead School and Corpus Christi College, Oxford (B",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "A",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "Then he became a demonstrator at Manchester University before being elected a Fellow of Clare College in 1936. He was elected a Fellow of the Royal Society in 1960 and became Professor Emeritus in 1969.",
+                    "sentence_id": "3",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Willmer's major work was a three-volume treatise on tissue culture, \"Cells and Tissue in Culture: methods, biology and physiology\" (1965)",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "This was a significant based on an  immense amount of labour that went into the process of exploring and satisfying the dietary and other requirements of cells and tissues that were grown in the laboratory",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": " Other books he wrote included Waen and the Willmers, The Sallow Bush and several books on Grantchester, to where he retired in 1969.",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 9
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "He was also an artist of oil paintings detailing landscapes, mainly in Cambridgeshire and Mid Wales",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": "He designed the Fellows' Garden in Clare College as well as one or two others in Cambridge but the Fellows' Garden is a lasting legacy of his vision",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 11
+                },
+                {
+                    "sentence": "Willmer died in April 2001 at the age of 98 in Grantchester",
+                    "sentence_id": "2",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 12
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "His brother, Gordon Willmer, was a judge",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 13
+                },
+                {
+                    "sentence": "His eldest brother, Arthur Willmer, was a first-class cricketer and British Army officer, who was killed during the Battle of the Somme",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 14
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "This article about a British scientist is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 15
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 16
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "This biography article of a United Kingdom academic is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 17
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 18
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at Birkenhead School and Corpus Christi College , Oxford ( B.A. 1924 ) ."
+    ],
+    "main_sentence_from_docx": [
+        "He was educated at Birkenhead School and Corpus Christi College, Oxford (B"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_1"
+    ],
+    "global_sentence_index_docx": [
+        4
+    ],
+    "global_sentence_index_spike": [
+        473409
+    ],
+    "score_of_similarity": [
+        0.16
+    ]
+}

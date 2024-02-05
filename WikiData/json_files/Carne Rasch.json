@@ -1,0 +1,109 @@
+{
+    "title": "Carne Rasch",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Sir Frederic Carne Rasch, 1st Baronet (9 November 1847 – 27 September 1914) was a British Conservative politician",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Rasch was born in London, the only son of Frederick Carne Rasch, a prominent Chancery barrister, and his wife Catherine James Edwards, daughter of James Edwards",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "He was educated at Eton College and Trinity College, Cambridge",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": " He then became a lieutenant in the 6th Dragoon Guards (the Carabineers) and served with them for ten years",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "Subsequently, he became Captain and Honorary Major of the 4th Battalion of the Essex Regiment",
+                    "sentence_id": "3",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "He was a J",
+                    "sentence_id": "4",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "P",
+                    "sentence_id": "5",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "a Deputy lieutenant, and county alderman for Essex",
+                    "sentence_id": "6",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Rasch stood unsuccessfully for the Elland Division of the North-West Riding in 1875. He was elected Member of Parliament for Essex South-East in 1886, a seat he held until 1900, and then represented Chelmsford until 1908. In 1903 he was created a Baronet, of Woodhill in Danbury in the County of Essex",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "Although the name Rasch is considered of German origin, Sir Carne Rasch was descended from a line originating in the Danish Duchy of Schleswic in Holstein",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": " Rasch married Katherine Anne, daughter of Henry Lyons Griffinhoofe, in 1879. He died in September 1914, aged 66. Lady Rasch died in 1944. Sir Frederic Carne Rasch was succeeded in the baronetcy by his eldest son, also named Frederick Carne although he was known and referred to by intimates as \"Carne\" rather than as Frederick",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 10
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at Eton College and Trinity College , Cambridge ."
+    ],
+    "main_sentence_from_docx": [
+        "He was educated at Eton College and Trinity College, Cambridge"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_1"
+    ],
+    "global_sentence_index_docx": [
+        2
+    ],
+    "global_sentence_index_spike": [
+        210749
+    ],
+    "score_of_similarity": [
+        0.05
+    ]
+}

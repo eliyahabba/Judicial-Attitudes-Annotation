@@ -1,0 +1,151 @@
+{
+    "title": "Henry Egerton (priest)",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "The Ven",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "Henry Egerton (1729–1795) was Archdeacon of Derby from 1769 until his death",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Egerton was son of Henry Egerton, the Bishop of Hereford",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "He was educated at Oriel College, Oxford, graduating B",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "A",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "in 1749 and M",
+                    "sentence_id": "3",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "A",
+                    "sentence_id": "4",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "in 1752. After university he acted as domestic chaplain to Lord James Beauclerk, his father's successor, and then Richard Lumley-Saunderson, 4th Earl of Scarbrough",
+                    "sentence_id": "5",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "He was also Rector of Bishop Wearmouth and a Prebendary of Durham",
+                    "sentence_id": "6",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "He died on 28 February 1795. He had married Annabella Lowther, daughter of John Lowther M",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": "D",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": ", a brother of Sir William Lowther, 1st Baronet, of Swillington; or in another source the sister of Sir William",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 11
+                },
+                {
+                    "sentence": "He left no children",
+                    "sentence_id": "3",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 12
+                },
+                {
+                    "sentence": " He became known as the \"princely rector\"",
+                    "sentence_id": "4",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 13
+                },
+                {
+                    "sentence": "He insisted on the traditional tithe on fishing boats, the cobles, called the \"coble teen\"",
+                    "sentence_id": "5",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 14
+                },
+                {
+                    "sentence": "But he gave it away charitably, and was noted for lavish entertainment",
+                    "sentence_id": "6",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 15
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "This article about a Church of England archdeacon in the Province of Canterbury is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 16
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 17
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at Oriel College , Oxford , graduating B.A. in 1749 and M.A. in 1752 ."
+    ],
+    "main_sentence_from_docx": [
+        "He was educated at Oriel College, Oxford, graduating B"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_1"
+    ],
+    "global_sentence_index_docx": [
+        3
+    ],
+    "global_sentence_index_spike": [
+        549802
+    ],
+    "score_of_similarity": [
+        0.37
+    ]
+}

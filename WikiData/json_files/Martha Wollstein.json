@@ -1,0 +1,137 @@
+{
+    "title": "Martha Wollstein",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Martha Wollstein (November 21, 1868 – September 30, 1939) was an American physician",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "Wollstein was born in New York to a German Jewish family",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Wollstein was educated at the Woman's Medical College of the New York Infirmary, which became part of the Cornell University Medical School in 1909. There she studied with Mary Corinna Putnam Jacobi, with whom she would later publish her first paper in 1902, on a myosarcoma of the uterus",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": " After graduating in 1890, Wollstein joined the Babies Hospital in New York, where she became a pathologist in 1892. Her work there included research on infant diarrhea, malaria, tuberculosis, and typhoid fever",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": " In 1904, she was invited by Simon Flexner to join the Rockefeller Institute for Medical Research as an assistant researcher, though she continued to work at the Babies Hospital even after this",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": " At the Rockefeller Institute she did experimental work on polio, studied pneumonia, and helped to develop an antimeningitis serum",
+                    "sentence_id": "3",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "In a study published in the Journal of the American Medical Association in 1918, she made an important contribution to the study of mumps, by indicating that the disease could be viral in nature, which she showed by transmitting the disease \"using a filtrated preparation from mumps patients to cats and from cats to other cats",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "She did not make any special claims for her research, though, and others received credit in the 1930s for identifying the virus and transmitting it from humans to monkeys",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "From 1921 until her retirement in 1935, Wollstein continued her research on various children's diseases at the Babies Hospital, including tuberculosis and leukemia",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": " In 1930 she was made a member of the American Pediatric Society, as the first woman ever",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": " She published eighty scientific papers during her career",
+                    "sentence_id": "2",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 10
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "She was a quiet woman, some said shy, and sometimes called difficult to work with, but she was known to have collaborated closely with a wide range of researchers both male and female",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 11
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "After her retirement she moved to Grand Rapids, Michigan",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 12
+                },
+                {
+                    "sentence": " When she fell ill she moved back to New York, where she died on September 30, 1939, at Mount Sinai Hospital",
+                    "sentence_id": "1",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 13
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "She was educated at the Woman 's Medical College of the New York Infirmary , which became part of the Cornell University Medical School in 1909 ."
+    ],
+    "main_sentence_from_docx": [
+        " At the Rockefeller Institute she did experimental work on polio, studied pneumonia, and helped to develop an antimeningitis serum"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_3"
+    ],
+    "global_sentence_index_docx": [
+        5
+    ],
+    "global_sentence_index_spike": [
+        94687
+    ],
+    "score_of_similarity": [
+        0.78
+    ]
+}

@@ -1,0 +1,147 @@
+{
+    "title": "Bill Proud",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Roland Barton \"Bill\" Proud (29 September 1919 – 27 October 1961) was an English first-class cricketer",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": " Proud was a right-handed batsman who bowled right-arm medium pace",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Proud was educated at Winchester College, where he represented the college cricket team",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "Later, Proud was educated at Oxford University",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "Proud made his first-class debut for Hampshire against Derbyshire in the 1938 County Championship, playing three first-class matches for the county during the season",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "In 1939, he made his debut for Oxford University against Yorkshire",
+                    "sentence_id": "3",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "Proud represented the university in ten first-class matches in 1939, with his final first-class match for the university coming against Cambridge University",
+                    "sentence_id": "4",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "In his ten first-class matches for the university, Proud scored 488 runs at a batting average of 25.68, with four half centuries and a high score of 87. During his freshman year, Proud was awarded his Oxford Blue",
+                    "sentence_id": "5",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "Proud continued to represent Hampshire during the 1939 County Championship, playing his final match for the county against Nottinghamshire",
+                    "sentence_id": "6",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": "In Proud's seven first-class matches for Hampshire, he scored 183 runs at a batting average of 16.63 and a high score of 38*",
+                    "sentence_id": "7",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": "With the start of the Second World War, County Cricket was suspended until the 1946 season",
+                    "sentence_id": "8",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 10
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "After the war Proud joined his native Durham in the Minor Counties Championship, making his debut against Northumberland",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 11
+                },
+                {
+                    "sentence": "In 1947 Proud was made Durham captain, a position he held until his retirement from cricket in 1955. Proud represented Durham 63 times, with his final appearance for the county coming against the Yorkshire Second XI",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 12
+                },
+                {
+                    "sentence": "Additionally, during this period he represented a Minor Counties team against the touring West Indians in a single first-class match in 1950. This was Proud's final first-class match",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 13
+                },
+                {
+                    "sentence": "In his first-class career, Proud scored 681 runs at a batting average of 21.28, with four half centuries and a high score of 87.",
+                    "sentence_id": "3",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 14
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "Proud died suddenly at Bishop Auckland, County Durham on 27 October 1961. His father, Ernest, also represented Durham and like his son, captained the county",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 15
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "Proud was educated at Winchester College , where he represented the college cricket team .",
+        "Later , Proud was educated at Oxford University ."
+    ],
+    "main_sentence_from_docx": [
+        "Proud was educated at Winchester College, where he represented the college cricket team",
+        "Later, Proud was educated at Oxford University"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0",
+        [
+            "1_1"
+        ]
+    ],
+    "global_sentence_index_docx": [
+        2,
+        3
+    ],
+    "global_sentence_index_spike": [
+        494920,
+        494921
+    ],
+    "score_of_similarity": [
+        0.03,
+        0.06
+    ]
+}

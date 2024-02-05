@@ -1,0 +1,3065 @@
+{
+    "title": "Lake Norman",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Lake Norman is the largest man-made body of fresh water in North Carolina",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "It was created between 1959 and 1964 as part of the construction of the Cowans Ford Dam by Duke Energy",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "Located in Iredell County, 40 miles north of Charlotte, Lake Norman State Park boasts the region's popular mountain biking trail system",
+                    "sentence_id": "2",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Lake Norman is fed by the Catawba River, and drains into Mountain Island Lake to the south",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "It was named after former Duke Power president Norman Atwater Cocke",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "Lake Norman is sometimes referred to as the \"inland sea\" of North Carolina; it offers 520 miles (840 km) of shoreline and a surface area of more than 50 square miles (130 km2)",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "Full pond at Lake Norman is 760 feet (230 m) above mean sea level",
+                    "sentence_id": "3",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "Interstate 77 and North Carolina Highway 150 cross Lake Norman at different points",
+                    "sentence_id": "4",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "",
+                    "sentence_id": "5",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Lake Norman provides electricity to the Piedmont region of the Carolinas",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": "It powers the generators at the hydroelectric station at Cowans Ford Dam, is used by the coal-fired Marshall Steam Station, and by McGuire Nuclear Station to cool the reactors while generating the steam that drives their turbines",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": "The lake supplies water to Lincoln County, Catawba County, Iredell County, Charlotte, and other towns in Mecklenburg County, particularly Cornelius, Davidson and Huntersville",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 11
+                },
+                {
+                    "sentence": "",
+                    "sentence_id": "3",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 12
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "Lake Norman, as with most of the rest of North Carolina, has a humid subtropical climate (Cfa in the Koppen Climate Classification), featuring warm-to-hot summers and cold-to-mild winters",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 13
+                },
+                {
+                    "sentence": "There is no \"dry season\", and rainfall is highly variable year-round",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 14
+                },
+                {
+                    "sentence": "Lake Norman gets a mean annual precipitation of about 43.1 inches (1,090 mm) per year over an average of 75 precipitation days, with approximately 41.1 inches (1,040 mm) being rain and the other 2 inches (51 mm) being snow",
+                    "sentence_id": "2",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 15
+                },
+                {
+                    "sentence": "Wind speeds are, on average, highest in February, while they are at their lowest in August",
+                    "sentence_id": "3",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 16
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "Lake Norman borders four counties in North Carolina (Catawba, Iredell, Mecklenburg, and Lincoln) and is present in both the Southern Piedmont and Central Piedmont climate divisions",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 17
+                },
+                {
+                    "sentence": "July is normally the warmest month in these two climate divisions, with an average daily maximum temperature of 90 °F (32 °C) and an average daily minimum of 70 °F (21 °C)",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 18
+                },
+                {
+                    "sentence": "January is normally the coolest month, with an average daily maximum of 51 °F (11 °C) and an average daily minimum of 29 °F (−2 °C)",
+                    "sentence_id": "2",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 19
+                },
+                {
+                    "sentence": "The all-time maximum of 107 °F (42 °C) was recorded in 1954, while the all-time minimum of −5 °F (−21 °C) was recorded in 1985.",
+                    "sentence_id": "3",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 20
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "Lake Norman is a man-made lake that is 33.6 miles (54.1 km) long, 9 miles (14 km) wide, and has 520 miles (840 km) of shoreline",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 21
+                },
+                {
+                    "sentence": "Its average depth is 33.5 feet (10.2 m), but at its outlet it reaches a depth of 110 feet (34 m)",
+                    "sentence_id": "1",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 22
+                },
+                {
+                    "sentence": "The lake is mainly underlain by interfingered igneous and metamorphic bedrock",
+                    "sentence_id": "2",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 23
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "The bottom of the lake consists of various clay and plastic soils",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 24
+                },
+                {
+                    "sentence": "These mechanically engineered soils are maintained and constructed with artificial enforcing, which adds a stabilization factor, and solidifies the lake so it will not break down and wear away",
+                    "sentence_id": "1",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 25
+                },
+                {
+                    "sentence": "Clay soil contains a high percentage of particles that becomes sticky when wet, and therefore holds together better",
+                    "sentence_id": "2",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 26
+                }
+            ]
+        },
+        {
+            "paragraph_index": 7,
+            "sentences": [
+                {
+                    "sentence": "Lake Norman lies atop two geologic belts, the Charlotte belt and the Inner Piedmont belt",
+                    "sentence_id": "0",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 27
+                },
+                {
+                    "sentence": " The Charlotte belt is made up of igneous rock that is 300 to 500 million years old",
+                    "sentence_id": "1",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 28
+                },
+                {
+                    "sentence": "Igneous rocks are used in construction, hence why the lake was built on top of them",
+                    "sentence_id": "2",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 29
+                },
+                {
+                    "sentence": "The Inner Piedmont belt is the most metamorphosed belt, and contains deformed metamorphosed volcanic and sedimentary rocks approximately 500 to 700 million years old",
+                    "sentence_id": "3",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 30
+                },
+                {
+                    "sentence": "The lake is built on the Catawba River, and is underlain by inceptisol soils, which are found in river floodplains",
+                    "sentence_id": "4",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 31
+                },
+                {
+                    "sentence": "The soil is made of brown forest soil deposits and includes a wide variety of dissimilar soil characteristics",
+                    "sentence_id": "5",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 32
+                },
+                {
+                    "sentence": "In North Carolina, inceptisols cover almost the whole state, except areas around the east coast",
+                    "sentence_id": "6",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 33
+                }
+            ]
+        },
+        {
+            "paragraph_index": 8,
+            "sentences": [
+                {
+                    "sentence": "The main cause of erosion issues on Lake Norman is the density of residential neighborhoods located so close to the shorelines of the lake",
+                    "sentence_id": "0",
+                    "paragraph_index": 8,
+                    "global_sentence_index": 34
+                },
+                {
+                    "sentence": " Since Lake Norman is well known for its recreational activities, there is a continuously high demand for real estate on Lake Norman",
+                    "sentence_id": "1",
+                    "paragraph_index": 8,
+                    "global_sentence_index": 35
+                },
+                {
+                    "sentence": "Stormwater runoff plays the largest role in erosion issues due to the amount of impervious surfaces from dense development",
+                    "sentence_id": "2",
+                    "paragraph_index": 8,
+                    "global_sentence_index": 36
+                }
+            ]
+        },
+        {
+            "paragraph_index": 9,
+            "sentences": [
+                {
+                    "sentence": "When Davidson College was in the process of purchasing property along Lake Norman and finalizing plans for its lake campus, many assessments were conducted to analyze the quality of the land and quality of dams feeding into the lake",
+                    "sentence_id": "0",
+                    "paragraph_index": 9,
+                    "global_sentence_index": 37
+                },
+                {
+                    "sentence": "Initially a report completed in 1990 by Dr",
+                    "sentence_id": "1",
+                    "paragraph_index": 9,
+                    "global_sentence_index": 38
+                },
+                {
+                    "sentence": "Joe A",
+                    "sentence_id": "2",
+                    "paragraph_index": 9,
+                    "global_sentence_index": 39
+                },
+                {
+                    "sentence": "Edmisten, an ecological consultant, concluded that there was evidence of erosion in Wetland #1 of the report due to the level of urbanization in the area",
+                    "sentence_id": "3",
+                    "paragraph_index": 9,
+                    "global_sentence_index": 40
+                },
+                {
+                    "sentence": " In addition, in the preliminary examination of the dam on Concord Road in 1990, researchers found that it was necessary to implement \"two erosion control basins at the primary drainage points\" on the Davidson property to avoid future erosion issues",
+                    "sentence_id": "4",
+                    "paragraph_index": 9,
+                    "global_sentence_index": 41
+                },
+                {
+                    "sentence": " All erosion efforts on and around Davidson's property were noted in two reports, one in March 1992 and the other in June 1992, that they were going to be maintained by the Mecklenburg County Guidelines and Specifications for Soil Erosion and Sediment Control",
+                    "sentence_id": "5",
+                    "paragraph_index": 9,
+                    "global_sentence_index": 42
+                }
+            ]
+        },
+        {
+            "paragraph_index": 10,
+            "sentences": [
+                {
+                    "sentence": "Currently, regulations enforced by the state of North Carolina are intended to prevent erosion issues and preserve the lake and the land surrounding it",
+                    "sentence_id": "0",
+                    "paragraph_index": 10,
+                    "global_sentence_index": 43
+                },
+                {
+                    "sentence": "A regulation established on June 30, 2001, states that there must be a 50-foot buffer zone between the lake and new housing where vegetation is required to be preserved",
+                    "sentence_id": "1",
+                    "paragraph_index": 10,
+                    "global_sentence_index": 44
+                },
+                {
+                    "sentence": " Older neighborhoods that were already in place at the time the regulation was created were grandfathered into the previous 30-foot buffer zone regulation",
+                    "sentence_id": "2",
+                    "paragraph_index": 10,
+                    "global_sentence_index": 45
+                },
+                {
+                    "sentence": " Officials from the North Carolina Division of Water Quality state that \"vegetation stabilizes river banks, prevents soil from eroding into water and filters storm water runoff",
+                    "sentence_id": "3",
+                    "paragraph_index": 10,
+                    "global_sentence_index": 46
+                }
+            ]
+        },
+        {
+            "paragraph_index": 11,
+            "sentences": [
+                {
+                    "sentence": "Although Duke Energy claims to the contrary, coal ash contamination from the power company continues to be a major concern to residents around the lake",
+                    "sentence_id": "0",
+                    "paragraph_index": 11,
+                    "global_sentence_index": 47
+                },
+                {
+                    "sentence": "In spite of Duke Energy's efforts to obscure their own findings by issuing a 20,000-page report in 2018, data confirms that \"levels of radium in groundwater far exceed EPA drinking water standards\", and \"could clearly harm those who use this water for drinking",
+                    "sentence_id": "1",
+                    "paragraph_index": 11,
+                    "global_sentence_index": 48
+                }
+            ]
+        },
+        {
+            "paragraph_index": 12,
+            "sentences": [
+                {
+                    "sentence": "Though there are few recent documented reports containing data about the current water quality of Lake Norman, data from previous years can help estimate the current specifics of the water quality",
+                    "sentence_id": "0",
+                    "paragraph_index": 12,
+                    "global_sentence_index": 49
+                },
+                {
+                    "sentence": "\"Duke Energy  routinely monitors the water quality of Lake Norman as a requirement of the NPDES permit from the McGuire Nuclear Station,\" and there have been \"no obvious short-term or long-term impacts of the nuclear station\" where data samples were taken",
+                    "sentence_id": "1",
+                    "paragraph_index": 12,
+                    "global_sentence_index": 50
+                },
+                {
+                    "sentence": " Periodically reports from Duke Energy will be released updating the public on status of the quality of both water from the lake and groundwater sources",
+                    "sentence_id": "2",
+                    "paragraph_index": 12,
+                    "global_sentence_index": 51
+                }
+            ]
+        },
+        {
+            "paragraph_index": 13,
+            "sentences": [
+                {
+                    "sentence": "There are two public water quality reports from different sources that were conducted in 2007. They help paint a picture of what the water quality of the lake was like in the past and what it is currently like",
+                    "sentence_id": "0",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 52
+                },
+                {
+                    "sentence": "The first sample series included a variety of sample collections from different areas of the lake",
+                    "sentence_id": "1",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 53
+                },
+                {
+                    "sentence": "In a sample series where five different lakes along the Catawba Chain were analyzed and compared, researchers noted that \"Lake Norman  some of the best water quality of the five lakes sampled within the chain",
+                    "sentence_id": "2",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 54
+                },
+                {
+                    "sentence": "\" In the report, nine samples of water were taken at eight stations within the lake, and none of the samples violated any of the local water quality standards",
+                    "sentence_id": "3",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 55
+                },
+                {
+                    "sentence": " Specifically, the report found each of the following when analyzing the samples:",
+                    "sentence_id": "4",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 56
+                }
+            ]
+        },
+        {
+            "paragraph_index": 14,
+            "sentences": [
+                {
+                    "sentence": "Overall, this report concluded that the water quality of Lake Norman was normal",
+                    "sentence_id": "0",
+                    "paragraph_index": 14,
+                    "global_sentence_index": 57
+                },
+                {
+                    "sentence": "",
+                    "sentence_id": "1",
+                    "paragraph_index": 14,
+                    "global_sentence_index": 58
+                }
+            ]
+        },
+        {
+            "paragraph_index": 15,
+            "sentences": [
+                {
+                    "sentence": "A second report conducted in 2007 found similar results as the previous report",
+                    "sentence_id": "0",
+                    "paragraph_index": 15,
+                    "global_sentence_index": 59
+                },
+                {
+                    "sentence": "In this one, Lake Norman was monitored by Division of Water Quality staff once a month from May to September",
+                    "sentence_id": "1",
+                    "paragraph_index": 15,
+                    "global_sentence_index": 60
+                },
+                {
+                    "sentence": "The mean Secchi depths of this report ranged from 1.8 to 2.6 meters (5.9 to 8.5 ft), which indicates good water quality",
+                    "sentence_id": "2",
+                    "paragraph_index": 15,
+                    "global_sentence_index": 61
+                },
+                {
+                    "sentence": " Specifics on the water quality itself from the report include the following:",
+                    "sentence_id": "3",
+                    "paragraph_index": 15,
+                    "global_sentence_index": 62
+                }
+            ]
+        },
+        {
+            "paragraph_index": 16,
+            "sentences": [
+                {
+                    "sentence": "The similarities between the two reports indicate consistent and reliable data analysis on Lake Norman",
+                    "sentence_id": "0",
+                    "paragraph_index": 16,
+                    "global_sentence_index": 63
+                },
+                {
+                    "sentence": "These reports, along with routine updates from Duke Energy, help researchers to continue to document and monitor the water quality of Lake Norman in the future",
+                    "sentence_id": "1",
+                    "paragraph_index": 16,
+                    "global_sentence_index": 64
+                },
+                {
+                    "sentence": "",
+                    "sentence_id": "2",
+                    "paragraph_index": 16,
+                    "global_sentence_index": 65
+                }
+            ]
+        },
+        {
+            "paragraph_index": 17,
+            "sentences": [
+                {
+                    "sentence": "Duke Energy has a permit to dump wastewater into an upstream section of the river as long as the water the company extracts from the lake is of the same quality as the water being dumped into the lake",
+                    "sentence_id": "0",
+                    "paragraph_index": 17,
+                    "global_sentence_index": 66
+                },
+                {
+                    "sentence": " Duke Energy has been making some improvements when it comes to the amount of wastewater being distributed into the lake",
+                    "sentence_id": "1",
+                    "paragraph_index": 17,
+                    "global_sentence_index": 67
+                },
+                {
+                    "sentence": "However, 500,000 gallons of sewage was dumped into the lake, according to a report by the Catawba Riverkeeper Foundation in May 2004. Efforts were taken to ensure that the overall water quality of the lake does not decline as a direct cause of wastewater entering the lake",
+                    "sentence_id": "2",
+                    "paragraph_index": 17,
+                    "global_sentence_index": 68
+                },
+                {
+                    "sentence": "",
+                    "sentence_id": "3",
+                    "paragraph_index": 17,
+                    "global_sentence_index": 69
+                }
+            ]
+        },
+        {
+            "paragraph_index": 18,
+            "sentences": [
+                {
+                    "sentence": "North Carolina's Piedmont is a region of high biodiversity, and Lake Norman is important for its diversity of birds, fish, mammals and plants",
+                    "sentence_id": "0",
+                    "paragraph_index": 18,
+                    "global_sentence_index": 70
+                },
+                {
+                    "sentence": "Lake Norman is the largest body of water in the Catawba River watershed and the largest lake in North Carolina",
+                    "sentence_id": "1",
+                    "paragraph_index": 18,
+                    "global_sentence_index": 71
+                },
+                {
+                    "sentence": "Lake Norman's shoreline has a length of 520 miles (840 km) and an area of more than 50 square miles (130 km2)",
+                    "sentence_id": "2",
+                    "paragraph_index": 18,
+                    "global_sentence_index": 72
+                },
+                {
+                    "sentence": "Lake Norman's surrounding ecology includes mesic mixed hardwood forest, dry oak-hickory forest, dry-mesic oak-hickory forest, Piedmont bottomland forest and Piedmont alluvial forest",
+                    "sentence_id": "3",
+                    "paragraph_index": 18,
+                    "global_sentence_index": 73
+                }
+            ]
+        },
+        {
+            "paragraph_index": 19,
+            "sentences": [
+                {
+                    "sentence": "Fish populations are an important ecological actor in Lake Norman",
+                    "sentence_id": "0",
+                    "paragraph_index": 19,
+                    "global_sentence_index": 74
+                },
+                {
+                    "sentence": "Recreational sportfishing has supplanted subsistence and commercial fishing as the main mode of fishing on the lake",
+                    "sentence_id": "1",
+                    "paragraph_index": 19,
+                    "global_sentence_index": 75
+                },
+                {
+                    "sentence": "Many of the fish were artificially introduced by fishing clubs and organizations",
+                    "sentence_id": "2",
+                    "paragraph_index": 19,
+                    "global_sentence_index": 76
+                },
+                {
+                    "sentence": "The fish population is quite diverse, including but not limited to:",
+                    "sentence_id": "3",
+                    "paragraph_index": 19,
+                    "global_sentence_index": 77
+                }
+            ]
+        },
+        {
+            "paragraph_index": 20,
+            "sentences": [
+                {
+                    "sentence": "The striped bass is Lake Norman's most popular fish",
+                    "sentence_id": "0",
+                    "paragraph_index": 20,
+                    "global_sentence_index": 78
+                },
+                {
+                    "sentence": " Stripers tend to dwell in the lake's shallow shoreline during the spring and in deeper waters during the summer",
+                    "sentence_id": "1",
+                    "paragraph_index": 20,
+                    "global_sentence_index": 79
+                },
+                {
+                    "sentence": " There has been a change in bass to form hybrid species as a result of artificial stocking practices",
+                    "sentence_id": "2",
+                    "paragraph_index": 20,
+                    "global_sentence_index": 80
+                },
+                {
+                    "sentence": " The North Carolina Wildlife Resources Commission (NCWRC) introduced the striped bass in 1969 because they were once the dominant open water fish in Lake Norman",
+                    "sentence_id": "3",
+                    "paragraph_index": 20,
+                    "global_sentence_index": 81
+                },
+                {
+                    "sentence": "However, the striped bass population declined quickly, prompting the NCWRC to discontinue the stocking program in 2012.",
+                    "sentence_id": "4",
+                    "paragraph_index": 20,
+                    "global_sentence_index": 82
+                }
+            ]
+        },
+        {
+            "paragraph_index": 21,
+            "sentences": [
+                {
+                    "sentence": "The basin is also home to a large variety of animal residents, many of them unique and rare to the Piedmont area and which thrive off of the resources provided by Lake Norman",
+                    "sentence_id": "0",
+                    "paragraph_index": 21,
+                    "global_sentence_index": 83
+                },
+                {
+                    "sentence": "The list includes:",
+                    "sentence_id": "1",
+                    "paragraph_index": 21,
+                    "global_sentence_index": 84
+                }
+            ]
+        },
+        {
+            "paragraph_index": 22,
+            "sentences": [
+                {
+                    "sentence": "There are many mammal species that have inhabited the Piedmont region for a long period of time before Lake Norman was created",
+                    "sentence_id": "0",
+                    "paragraph_index": 22,
+                    "global_sentence_index": 85
+                },
+                {
+                    "sentence": "The mammals that inhabit the Lake Norman area include:",
+                    "sentence_id": "1",
+                    "paragraph_index": 22,
+                    "global_sentence_index": 86
+                }
+            ]
+        },
+        {
+            "paragraph_index": 23,
+            "sentences": [
+                {
+                    "sentence": "Populations of reptiles and amphibians have found resource-filled and safe dwelling locations around the Lake Norman ecosystem",
+                    "sentence_id": "0",
+                    "paragraph_index": 23,
+                    "global_sentence_index": 87
+                },
+                {
+                    "sentence": "Many of the reptiles and amphibians inhabit the perimeter of Lake Norman",
+                    "sentence_id": "1",
+                    "paragraph_index": 23,
+                    "global_sentence_index": 88
+                },
+                {
+                    "sentence": "These include:",
+                    "sentence_id": "2",
+                    "paragraph_index": 23,
+                    "global_sentence_index": 89
+                }
+            ]
+        },
+        {
+            "paragraph_index": 24,
+            "sentences": [
+                {
+                    "sentence": "Most of the snakes found around the perimeter of Lake Norman are harmless and seldom seen",
+                    "sentence_id": "0",
+                    "paragraph_index": 24,
+                    "global_sentence_index": 90
+                },
+                {
+                    "sentence": "However, one must be aware of the presence of the venomous Eastern copperhead, which can severely harm a human with a single bite",
+                    "sentence_id": "1",
+                    "paragraph_index": 24,
+                    "global_sentence_index": 91
+                }
+            ]
+        },
+        {
+            "paragraph_index": 25,
+            "sentences": [
+                {
+                    "sentence": "Birds and waterfowl are also important ecological actors that contribute to the overall health and balance of the Lake Norman ecosystem",
+                    "sentence_id": "0",
+                    "paragraph_index": 25,
+                    "global_sentence_index": 92
+                },
+                {
+                    "sentence": "Of a total of 115 bird species, 54 species are neotropical migrants and 27 were transients to the North Carolina Piedmont",
+                    "sentence_id": "1",
+                    "paragraph_index": 25,
+                    "global_sentence_index": 93
+                },
+                {
+                    "sentence": "The Catawba River is a suitable migratory corridor for a variety of these birds",
+                    "sentence_id": "2",
+                    "paragraph_index": 25,
+                    "global_sentence_index": 94
+                },
+                {
+                    "sentence": "There are also 19 species of shorebirds that have been recorded as dwelling around the Catawba River",
+                    "sentence_id": "3",
+                    "paragraph_index": 25,
+                    "global_sentence_index": 95
+                }
+            ]
+        },
+        {
+            "paragraph_index": 26,
+            "sentences": [
+                {
+                    "sentence": "Below is a list of birds that can be found in the greater Lake Norman area (including waterfowl):",
+                    "sentence_id": "0",
+                    "paragraph_index": 26,
+                    "global_sentence_index": 96
+                }
+            ]
+        },
+        {
+            "paragraph_index": 27,
+            "sentences": [
+                {
+                    "sentence": "Many native plants found around Lake Norman are also common in other parts of North Carolina, such as trees and flowering plants",
+                    "sentence_id": "0",
+                    "paragraph_index": 27,
+                    "global_sentence_index": 97
+                }
+            ]
+        },
+        {
+            "paragraph_index": 28,
+            "sentences": [
+                {
+                    "sentence": "Many different trees are found in and around Lake Norman",
+                    "sentence_id": "0",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 98
+                },
+                {
+                    "sentence": "Species of the genus Baccharis L",
+                    "sentence_id": "1",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 99
+                },
+                {
+                    "sentence": "are typically found in warm and subtropical regions of the United States",
+                    "sentence_id": "2",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 100
+                },
+                {
+                    "sentence": "One such species of this genus, Silverling, reaches tree size and is native to North Carolina",
+                    "sentence_id": "3",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 101
+                },
+                {
+                    "sentence": "It is most common in marshes and areas with moist soil",
+                    "sentence_id": "4",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 102
+                },
+                {
+                    "sentence": "Another species of plant typically found in areas with moist soil and riverbanks is known as hornbeam or ironwood",
+                    "sentence_id": "5",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 103
+                },
+                {
+                    "sentence": "Belonging to the genus Carpinus L",
+                    "sentence_id": "6",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 104
+                },
+                {
+                    "sentence": "and native to North Carolina, it is a type of beech tree known for its heavy and hard wood, resulting in the name ironwood",
+                    "sentence_id": "7",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 105
+                },
+                {
+                    "sentence": "Another tree native to North Carolina and found in and around Lake Norman is the yellow poplar or tulip poplar, which is commonly found in forests with moist soil and floodplains",
+                    "sentence_id": "8",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 106
+                },
+                {
+                    "sentence": "Also found in and around Lake Norman is sassafras, often located in temperate climates and native to North Carolina",
+                    "sentence_id": "9",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 107
+                }
+            ]
+        },
+        {
+            "paragraph_index": 29,
+            "sentences": [
+                {
+                    "sentence": "Many flowering plants are also found around the lake, including Indian mallow",
+                    "sentence_id": "0",
+                    "paragraph_index": 29,
+                    "global_sentence_index": 108
+                },
+                {
+                    "sentence": "Also found in the vicinity of the lake is baneberry, a part of the Ranunculacease (buttercup) family",
+                    "sentence_id": "1",
+                    "paragraph_index": 29,
+                    "global_sentence_index": 109
+                },
+                {
+                    "sentence": "Another flowering plant found around the lake is white snakeroot (Ageratina altissima)",
+                    "sentence_id": "2",
+                    "paragraph_index": 29,
+                    "global_sentence_index": 110
+                },
+                {
+                    "sentence": "It is a perennial herb and is poisonous, containing tremetol, a type of toxic alcohol",
+                    "sentence_id": "3",
+                    "paragraph_index": 29,
+                    "global_sentence_index": 111
+                },
+                {
+                    "sentence": "In addition, stork's-bill or herons-bill is found around Lake Norman and serves as food for some small mammals",
+                    "sentence_id": "4",
+                    "paragraph_index": 29,
+                    "global_sentence_index": 112
+                }
+            ]
+        },
+        {
+            "paragraph_index": 30,
+            "sentences": [
+                {
+                    "sentence": "Lake Norman and the surrounding shoreline serve as a habitat for a diverse array of plants and wildlife, as well as a place for a myriad of human activities",
+                    "sentence_id": "0",
+                    "paragraph_index": 30,
+                    "global_sentence_index": 113
+                },
+                {
+                    "sentence": "Maintaining this habitat to simultaneously preserve endangered species, keep invasive species at bay, and maintain health and safety standards for the people that live, work, and recreate on the lake is an arduous undertaking",
+                    "sentence_id": "1",
+                    "paragraph_index": 30,
+                    "global_sentence_index": 114
+                },
+                {
+                    "sentence": "The management of the lake is complicated by the presence of multiple stakeholders in the lake's management, often with conflicting interests and priorities",
+                    "sentence_id": "2",
+                    "paragraph_index": 30,
+                    "global_sentence_index": 115
+                },
+                {
+                    "sentence": " Duke Energy owns most of the land underneath Lake Norman, as well as the land above the lake up to an elevation of 232 metres (761 ft), with the exception of land platted to other ownership",
+                    "sentence_id": "3",
+                    "paragraph_index": 30,
+                    "global_sentence_index": 116
+                },
+                {
+                    "sentence": "Certain lakebed portions are owned by families that settled on the banks of the Catawba River prior to the flooding of Norman",
+                    "sentence_id": "4",
+                    "paragraph_index": 30,
+                    "global_sentence_index": 117
+                },
+                {
+                    "sentence": "Those families allowed Duke Energy to flood their properties, yet the lakebed still remains property of these families",
+                    "sentence_id": "5",
+                    "paragraph_index": 30,
+                    "global_sentence_index": 118
+                },
+                {
+                    "sentence": " Duke Energy is in charge of management of the lake itself as well as any property, such as lake walls, docks, and beaches, that enter into this zone",
+                    "sentence_id": "6",
+                    "paragraph_index": 30,
+                    "global_sentence_index": 119
+                },
+                {
+                    "sentence": " The land that falls under the jurisdiction of Duke Energy is subject to the ordinances of the Federal Energy Regulatory Commission, while the land surrounding the lake, both publicly and privately owned, is subject to the ordinances of the state of North Carolina and the county in which the land falls (Catawba County, Iredell County, Lincoln County, or Mecklenburg County)",
+                    "sentence_id": "7",
+                    "paragraph_index": 30,
+                    "global_sentence_index": 120
+                },
+                {
+                    "sentence": " Additionally, the Lake Norman Marine Commission and the North Carolina Wildlife Resources Commission, as well as many non-governmental organizations and environmental organizations, play roles in the regulation and management of the lake",
+                    "sentence_id": "8",
+                    "paragraph_index": 30,
+                    "global_sentence_index": 121
+                },
+                {
+                    "sentence": " Environmental duties are divided between these different stakeholders, but some fall under split jurisdiction",
+                    "sentence_id": "9",
+                    "paragraph_index": 30,
+                    "global_sentence_index": 122
+                },
+                {
+                    "sentence": "Water quality, for example, is monitored and managed by both Duke Energy and the state of North Carolina",
+                    "sentence_id": "10",
+                    "paragraph_index": 30,
+                    "global_sentence_index": 123
+                },
+                {
+                    "sentence": " Other partnerships are voluntary: Duke Energy, for example, partners with many wildlife organizations to minimize the impact of human activities on the environment",
+                    "sentence_id": "11",
+                    "paragraph_index": 30,
+                    "global_sentence_index": 124
+                }
+            ]
+        },
+        {
+            "paragraph_index": 31,
+            "sentences": [
+                {
+                    "sentence": "The management of the invasive plant hydrilla (Hydrilla verticillata) has been a particularly challenging undertaking for these stakeholders",
+                    "sentence_id": "0",
+                    "paragraph_index": 31,
+                    "global_sentence_index": 125
+                },
+                {
+                    "sentence": " Hydrilla, native to India, was introduced to the United States in the 1950s, and was first seen in Lake Norman in 2001. Hydrilla was likely transported to Lake Norman on the beds and motor blades of boats transported from infected lakes",
+                    "sentence_id": "1",
+                    "paragraph_index": 31,
+                    "global_sentence_index": 126
+                },
+                {
+                    "sentence": " Hydrilla crowds out native species, impedes irrigation, and clogs boat motors",
+                    "sentence_id": "2",
+                    "paragraph_index": 31,
+                    "global_sentence_index": 127
+                },
+                {
+                    "sentence": " When hydrilla first takes hold, there is an initial upsurge in fish populations, as bait fish, which form a vital link in the food chain, flourish in hydrilla, but as the infestation grows too thick, it chokes out other plants and fish, who get caught in the weeds, and cannot swim",
+                    "sentence_id": "3",
+                    "paragraph_index": 31,
+                    "global_sentence_index": 128
+                },
+                {
+                    "sentence": " Hydrilla also has a harmful impact on bird populations",
+                    "sentence_id": "4",
+                    "paragraph_index": 31,
+                    "global_sentence_index": 129
+                },
+                {
+                    "sentence": "It contains a harmful bacterium that acts as a neurotoxin for some birds",
+                    "sentence_id": "5",
+                    "paragraph_index": 31,
+                    "global_sentence_index": 130
+                },
+                {
+                    "sentence": "In Lake Norman, these bacteria cause sickness in coot, who eat the hydrilla, as well as in eagles, who eat coot",
+                    "sentence_id": "6",
+                    "paragraph_index": 31,
+                    "global_sentence_index": 131
+                },
+                {
+                    "sentence": " The Lake Norman Marine Commission seeks to keep the hydrilla population in Lake Norman at bay by introducing grass carp that feed on the aquatic plants",
+                    "sentence_id": "7",
+                    "paragraph_index": 31,
+                    "global_sentence_index": 132
+                }
+            ]
+        },
+        {
+            "paragraph_index": 32,
+            "sentences": [
+                {
+                    "sentence": "Other environmental management projects on Lake Norman focus their efforts on helping native species",
+                    "sentence_id": "0",
+                    "paragraph_index": 32,
+                    "global_sentence_index": 133
+                },
+                {
+                    "sentence": "Notably, the Lake Norman Wildlife Conservationists (LNWC), with donations from Duke Energy's Habitat Enhancement Program, began a program in 2014 to promote nesting sites and preserve habitat for great blue herons and osprey",
+                    "sentence_id": "1",
+                    "paragraph_index": 32,
+                    "global_sentence_index": 134
+                },
+                {
+                    "sentence": " Since then, LNWC and Duke Energy have put up five nesting platforms throughout the lake each year",
+                    "sentence_id": "2",
+                    "paragraph_index": 32,
+                    "global_sentence_index": 135
+                },
+                {
+                    "sentence": "Additionally, Duke Energy has protected Heron Island and several other islands throughout the lake as a place for great blue herons to raise their young",
+                    "sentence_id": "3",
+                    "paragraph_index": 32,
+                    "global_sentence_index": 136
+                }
+            ]
+        },
+        {
+            "paragraph_index": 33,
+            "sentences": [
+                {
+                    "sentence": "Long before the Catawba River was dammed in 1963 to create Lake Norman, the river and surrounding area were home to the Catawba people of North Carolina",
+                    "sentence_id": "0",
+                    "paragraph_index": 33,
+                    "global_sentence_index": 137
+                },
+                {
+                    "sentence": "Now with a reservation in Rock Hill, South Carolina, this Indian nation lived along the Catawba River for 6,000 years",
+                    "sentence_id": "1",
+                    "paragraph_index": 33,
+                    "global_sentence_index": 138
+                }
+            ]
+        },
+        {
+            "paragraph_index": 34,
+            "sentences": [
+                {
+                    "sentence": "The Catawba River has long been a part of the historical narrative of settlers, as its presence provided sites with water and key cartographic information for traveling",
+                    "sentence_id": "0",
+                    "paragraph_index": 34,
+                    "global_sentence_index": 139
+                },
+                {
+                    "sentence": "Figure 1 illustrates a map drawn in 1775 by Henry Mouzon of North and South Carolina, in which the Catawba River and other natural features are detailed in full",
+                    "sentence_id": "1",
+                    "paragraph_index": 34,
+                    "global_sentence_index": 140
+                },
+                {
+                    "sentence": " For comparison, Figure 2 depicts a map of North Carolina from 1958, only a few years before the creation of Lake Norman",
+                    "sentence_id": "2",
+                    "paragraph_index": 34,
+                    "global_sentence_index": 141
+                },
+                {
+                    "sentence": "When placed together, one can visualize the importance of this location over the last few centuries",
+                    "sentence_id": "3",
+                    "paragraph_index": 34,
+                    "global_sentence_index": 142
+                },
+                {
+                    "sentence": "The 18th century map's cartographer took painstaking effort in accurately portraying the topographic facets of the landscape, while maintaining an overarching emphasis on the counties, towns, and indigenous frontiers throughout",
+                    "sentence_id": "4",
+                    "paragraph_index": 34,
+                    "global_sentence_index": 143
+                },
+                {
+                    "sentence": "The 20th century map shows similar details, with slight changes in the Catawba River's course—much of which can be accounted for by natural processes, such as erosion or cutoff",
+                    "sentence_id": "5",
+                    "paragraph_index": 34,
+                    "global_sentence_index": 144
+                }
+            ]
+        },
+        {
+            "paragraph_index": 35,
+            "sentences": [
+                {
+                    "sentence": "Because of the river's desirability and the overarching push toward American colonialism, settlers in the 18th and 19th centuries fought over these lands with indigenous peoples",
+                    "sentence_id": "0",
+                    "paragraph_index": 35,
+                    "global_sentence_index": 145
+                },
+                {
+                    "sentence": "The removal of Native Americans from the Southeast is well-documented, especially with the plight of the Cherokee Nation through their journey on the Trail of Tears",
+                    "sentence_id": "1",
+                    "paragraph_index": 35,
+                    "global_sentence_index": 146
+                },
+                {
+                    "sentence": " The Catawba people faced a similar struggle, as they attempted to preserve their own culture while maintaining alliances with the Cherokee and other tribes",
+                    "sentence_id": "2",
+                    "paragraph_index": 35,
+                    "global_sentence_index": 147
+                },
+                {
+                    "sentence": "Although the process of removal had begun earlier, emphasized in the 1700s with the rise of slavery and cotton agriculture, the 1840 Nations Ford Treaty ceded Catawba land to South Carolina and provided in return \"three hundred acres of which is to be good arable lands, fit for cultivation, to be purchased in Haywood County, North Carolina, or in some other mountainous or thinly populated region",
+                    "sentence_id": "3",
+                    "paragraph_index": 35,
+                    "global_sentence_index": 148
+                },
+                {
+                    "sentence": "\" In a letter sent by North Carolina Governor John Motley Morehead in 1841, he \"refused to accept the Catawba\" and \"sarcastically proposed that the North Carolina Cherokee should instead settle themselves in South Carolina",
+                    "sentence_id": "4",
+                    "paragraph_index": 35,
+                    "global_sentence_index": 149
+                },
+                {
+                    "sentence": "\" Such sentiments proved common during this period, as in 1847 the governor of South Carolina, David Johnson, remarked, \"They  are, in effect, dissolved",
+                    "sentence_id": "5",
+                    "paragraph_index": 35,
+                    "global_sentence_index": 150
+                }
+            ]
+        },
+        {
+            "paragraph_index": 36,
+            "sentences": [
+                {
+                    "sentence": "Accordingly, although the Catawba were effectively displaced from today's Lake Norman region, their namesake and artifacts remain",
+                    "sentence_id": "0",
+                    "paragraph_index": 36,
+                    "global_sentence_index": 151
+                },
+                {
+                    "sentence": "Considering the long-time historical presence of the Catawba, it follows that some pieces of their material culture would exist underneath the now flooded region of Lake Norman",
+                    "sentence_id": "1",
+                    "paragraph_index": 36,
+                    "global_sentence_index": 152
+                },
+                {
+                    "sentence": "Pottery, for example, is considered a \"cultural legacy\" to the Catawba, and was traditionally \"dug from clay holes along the banks of the Catawba River",
+                    "sentence_id": "2",
+                    "paragraph_index": 36,
+                    "global_sentence_index": 153
+                },
+                {
+                    "sentence": "\" Other artifacts may include tobacco pipes, gun parts, glass beads, and nose bangles",
+                    "sentence_id": "3",
+                    "paragraph_index": 36,
+                    "global_sentence_index": 154
+                },
+                {
+                    "sentence": "Before the influence of firearms through trading, arrows were also used; these arrowheads today are now considered prized collector's pieces",
+                    "sentence_id": "4",
+                    "paragraph_index": 36,
+                    "global_sentence_index": 155
+                },
+                {
+                    "sentence": " Today, archeologists are still finding new sites where the Catawba and other Native Americans lived",
+                    "sentence_id": "5",
+                    "paragraph_index": 36,
+                    "global_sentence_index": 156
+                },
+                {
+                    "sentence": "Further up the river in Morganton, past the dams built by Duke Energy, a 500-year old village was discovered in 2012. Research on the Catawba's presence in the Carolinas continues to be a long-term effort for archaeologists and historians alike, as seen in the \"Catawba Project\" run by UNC Chapel Hill",
+                    "sentence_id": "6",
+                    "paragraph_index": 36,
+                    "global_sentence_index": 157
+                },
+                {
+                    "sentence": " Similar places and archaeological remains likely exist beneath the waves of the lake, sitting alongside the farmlands, cemeteries, and other physical remnants predating the 1960s",
+                    "sentence_id": "7",
+                    "paragraph_index": 36,
+                    "global_sentence_index": 158
+                }
+            ]
+        },
+        {
+            "paragraph_index": 37,
+            "sentences": [
+                {
+                    "sentence": "The construction of the Cowan's Ford Dam and the subsequent creation of Lake Norman in the late 1950s and early 1960s represented just one part of a larger hydroelectric project on the Catawba River, dating back to the early 1900s",
+                    "sentence_id": "0",
+                    "paragraph_index": 37,
+                    "global_sentence_index": 159
+                },
+                {
+                    "sentence": "Furthermore, it fits into the larger context of river manipulation and the \"energy-water nexus\" that developed in the U",
+                    "sentence_id": "1",
+                    "paragraph_index": 37,
+                    "global_sentence_index": 160
+                },
+                {
+                    "sentence": "S",
+                    "sentence_id": "2",
+                    "paragraph_index": 37,
+                    "global_sentence_index": 161
+                },
+                {
+                    "sentence": "South in the early to mid-1900s",
+                    "sentence_id": "3",
+                    "paragraph_index": 37,
+                    "global_sentence_index": 162
+                },
+                {
+                    "sentence": " Over the course of the twentieth century, public and private entities across the U",
+                    "sentence_id": "4",
+                    "paragraph_index": 37,
+                    "global_sentence_index": 163
+                },
+                {
+                    "sentence": "S",
+                    "sentence_id": "5",
+                    "paragraph_index": 37,
+                    "global_sentence_index": 164
+                },
+                {
+                    "sentence": "South sought water management solutions for two primary purposes: environmental control—limiting flooding and drought—and electric power production",
+                    "sentence_id": "6",
+                    "paragraph_index": 37,
+                    "global_sentence_index": 165
+                }
+            ]
+        },
+        {
+            "paragraph_index": 38,
+            "sentences": [
+                {
+                    "sentence": "In 1900, Walker Gill Wylie and Robert H",
+                    "sentence_id": "0",
+                    "paragraph_index": 38,
+                    "global_sentence_index": 166
+                },
+                {
+                    "sentence": "Wylie formed the Catawba Power Company, which was purchased by the Duke brothers upon the completion of the construction of its first power station in 1904.  Throughout the early 1900s, the Duke Power Company sought to build a market for hydroelectric power and develop an interconnected hydroelectric system, rather than \"random development of isolated sites",
+                    "sentence_id": "1",
+                    "paragraph_index": 38,
+                    "global_sentence_index": 167
+                },
+                {
+                    "sentence": "\" While Duke Energy's permit to construct the Cowan's Ford Dam was not obtained until 1958, the company's \"plans for the project date back to 1904.\" As part of its project to expand demand for electricity, the Duke Power Company invested in textile mills throughout the region",
+                    "sentence_id": "2",
+                    "paragraph_index": 38,
+                    "global_sentence_index": 168
+                },
+                {
+                    "sentence": "By 1928, the Catawba River system was nicknamed \"the world's most electrified river\", with ten dams and dozens of powerhouses dispersed up and down the river",
+                    "sentence_id": "3",
+                    "paragraph_index": 38,
+                    "global_sentence_index": 169
+                }
+            ]
+        },
+        {
+            "paragraph_index": 39,
+            "sentences": [
+                {
+                    "sentence": "On August 25, 1957, The Charlotte Observer reported Duke Power Company's proposal to build the Cowan's Ford Lake, \"the latest (and last) of Duke Power Co",
+                    "sentence_id": "0",
+                    "paragraph_index": 39,
+                    "global_sentence_index": 170
+                },
+                {
+                    "sentence": "'s dammed-up creatures of the Catawba",
+                    "sentence_id": "1",
+                    "paragraph_index": 39,
+                    "global_sentence_index": 171
+                },
+                {
+                    "sentence": "\" In the article announcing the company's plan, the Charlotte Observer framed the infrastructure project largely in terms of hydroelectric power and recreation opportunities, declaring that the dam would create \"a whopping charge of electrical energy for Duke and a new sportsman's playground for water-wacky Carolinians",
+                    "sentence_id": "2",
+                    "paragraph_index": 39,
+                    "global_sentence_index": 172
+                }
+            ]
+        },
+        {
+            "paragraph_index": 40,
+            "sentences": [
+                {
+                    "sentence": "In a 1959 meeting at the Statesville Kiwanis Club, Duke Energy representative Bill Ward explained that the primary motivation behind the construction of the Cowan's Ford Dam was to provide \"power for peak load periods",
+                    "sentence_id": "0",
+                    "paragraph_index": 40,
+                    "global_sentence_index": 173
+                },
+                {
+                    "sentence": "\" Unlike the steam-generated power plants Duke had already constructed in the area, the Cowan's Ford Dam would include \"water-driven turbines\" that could easily be started and stopped to control energy generation",
+                    "sentence_id": "1",
+                    "paragraph_index": 40,
+                    "global_sentence_index": 174
+                },
+                {
+                    "sentence": " The creation of the dam was therefore an opportunity for Duke Energy to increase its market share in the textile industry, which was transitioning production from \"steam-generated power to electricity",
+                    "sentence_id": "2",
+                    "paragraph_index": 40,
+                    "global_sentence_index": 175
+                }
+            ]
+        },
+        {
+            "paragraph_index": 41,
+            "sentences": [
+                {
+                    "sentence": "However, this was not the only ambition behind the project",
+                    "sentence_id": "0",
+                    "paragraph_index": 41,
+                    "global_sentence_index": 176
+                },
+                {
+                    "sentence": "In a 1959 publication of the Statesville Record & Landmark, home-sites that would soon become lakefront properties were being advertised by Duke Energy to potential customers",
+                    "sentence_id": "1",
+                    "paragraph_index": 41,
+                    "global_sentence_index": 177
+                },
+                {
+                    "sentence": "Furthermore, the company discussed its goal of bringing new industry to the area surrounding the soon-to-be lake",
+                    "sentence_id": "2",
+                    "paragraph_index": 41,
+                    "global_sentence_index": 178
+                },
+                {
+                    "sentence": "While these plans provided future economic stimulus for the surrounding area, they also marked a distinct shift from the industry and communities that were currently residing in the path of the impending flood",
+                    "sentence_id": "3",
+                    "paragraph_index": 41,
+                    "global_sentence_index": 179
+                }
+            ]
+        },
+        {
+            "paragraph_index": 42,
+            "sentences": [
+                {
+                    "sentence": "The local newspaper record from the late 1950s and early 1960s showed little concern for the land and communities that would be flooded and displaced due to the creation of Lake Norman",
+                    "sentence_id": "0",
+                    "paragraph_index": 42,
+                    "global_sentence_index": 180
+                },
+                {
+                    "sentence": "According to the Charlotte Observer, the land that would be flooded was 70% timberland and \"most property to be submerged",
+                    "sentence_id": "1",
+                    "paragraph_index": 42,
+                    "global_sentence_index": 181
+                },
+                {
+                    "sentence": " already owned by Duke",
+                    "sentence_id": "2",
+                    "paragraph_index": 42,
+                    "global_sentence_index": 182
+                },
+                {
+                    "sentence": "\" In anticipation of the flooding after the completion of the dam, Duke Power employed forester Carl Blades to purchase land from \"reluctant farmers\"",
+                    "sentence_id": "3",
+                    "paragraph_index": 42,
+                    "global_sentence_index": 183
+                },
+                {
+                    "sentence": " He ultimately purchased 30,000 acres (120 km2) of \"family farmland\" that would end up submerged",
+                    "sentence_id": "4",
+                    "paragraph_index": 42,
+                    "global_sentence_index": 184
+                },
+                {
+                    "sentence": " Because Lake Norman was anticipated to be relatively shallow, Duke had to \"scrub the land clean of trees, homes, and other debris\" to \"remove underwater hazards",
+                    "sentence_id": "5",
+                    "paragraph_index": 42,
+                    "global_sentence_index": 185
+                },
+                {
+                    "sentence": "\" Those individuals who would be displaced were often hesitant, but \"there weren't any huge protests",
+                    "sentence_id": "6",
+                    "paragraph_index": 42,
+                    "global_sentence_index": 186
+                },
+                {
+                    "sentence": "\" Some residents even \"turned the burden\" of the new lake \"into a boon",
+                    "sentence_id": "7",
+                    "paragraph_index": 42,
+                    "global_sentence_index": 187
+                },
+                {
+                    "sentence": "\" A number of farmers benefited by holding on to what would soon become expensive lakefront property, while other residents refused to sell to Duke Energy and as a result leased their water rights to the company",
+                    "sentence_id": "8",
+                    "paragraph_index": 42,
+                    "global_sentence_index": 188
+                }
+            ]
+        },
+        {
+            "paragraph_index": 43,
+            "sentences": [
+                {
+                    "sentence": "The project to construct Cowan's Ford Dam broke ground in 1959. Upon the dam's completion in 1962, the lake began to fill with water",
+                    "sentence_id": "0",
+                    "paragraph_index": 43,
+                    "global_sentence_index": 189
+                },
+                {
+                    "sentence": "After the construction of dam, the Catawba River slowly covered the 30,000 acres of land where farms, mills, plantations, and entire communities once resided",
+                    "sentence_id": "1",
+                    "paragraph_index": 43,
+                    "global_sentence_index": 190
+                },
+                {
+                    "sentence": " Historic sites, such as the battlefield for the Revolutionary War Battle of Cowan's Ford, were also flooded during the creation of Lake Norman",
+                    "sentence_id": "2",
+                    "paragraph_index": 43,
+                    "global_sentence_index": 191
+                }
+            ]
+        },
+        {
+            "paragraph_index": 44,
+            "sentences": [
+                {
+                    "sentence": "The mill towns of East Monbo and Long Island closed in 1959 and 1961, respectively, in anticipation of the formation of the lake",
+                    "sentence_id": "0",
+                    "paragraph_index": 44,
+                    "global_sentence_index": 192
+                },
+                {
+                    "sentence": "Situated on the banks of the Catawba River, the mills were extremely at risk of inundation",
+                    "sentence_id": "1",
+                    "paragraph_index": 44,
+                    "global_sentence_index": 193
+                },
+                {
+                    "sentence": "The proposal for Lake Norman and Cowan's Ford Dam had brought uncertainty to the \"community of oldtimers\" living in these mill towns",
+                    "sentence_id": "2",
+                    "paragraph_index": 44,
+                    "global_sentence_index": 194
+                },
+                {
+                    "sentence": "In a segment titled \"Where will the lake come",
+                    "sentence_id": "3",
+                    "paragraph_index": 44,
+                    "global_sentence_index": 195
+                },
+                {
+                    "sentence": "\", Douglas Eisele of the Statesville Record and Landmark remarked on the mill communities' public memory of earlier flooding and resilience, writing: \"will man's ingenuity finally take down what two historic floods could not destroy",
+                    "sentence_id": "4",
+                    "paragraph_index": 44,
+                    "global_sentence_index": 196
+                },
+                {
+                    "sentence": "\" While the foundations of the mill towns' building remain beneath the lake, some families moved their houses outside the range of the lake flooding",
+                    "sentence_id": "5",
+                    "paragraph_index": 44,
+                    "global_sentence_index": 197
+                }
+            ]
+        },
+        {
+            "paragraph_index": 45,
+            "sentences": [
+                {
+                    "sentence": "Furthermore, several cemeteries, such as the Caldwell Family Cemetery and Flemming Family Cemetery, are now covered by the lake",
+                    "sentence_id": "0",
+                    "paragraph_index": 45,
+                    "global_sentence_index": 198
+                },
+                {
+                    "sentence": " Duke Energy tracked down family members of those buried in the surrounding cemeteries to determine how the graves should be handled before the flood",
+                    "sentence_id": "1",
+                    "paragraph_index": 45,
+                    "global_sentence_index": 199
+                },
+                {
+                    "sentence": "Many individuals asked for the gravestones to be transported to a new location and Duke ensured the markers were \"cleaned and repaired\" once they were moved",
+                    "sentence_id": "2",
+                    "paragraph_index": 45,
+                    "global_sentence_index": 200
+                }
+            ]
+        },
+        {
+            "paragraph_index": 46,
+            "sentences": [
+                {
+                    "sentence": "Duke Power partnered with the state of North Carolina to establish Lake Norman State Park",
+                    "sentence_id": "0",
+                    "paragraph_index": 46,
+                    "global_sentence_index": 201
+                },
+                {
+                    "sentence": "It has also built two bank fishing areas and eight public boating access areas along the shoreline",
+                    "sentence_id": "1",
+                    "paragraph_index": 46,
+                    "global_sentence_index": 202
+                },
+                {
+                    "sentence": "One site is leased to Mecklenburg County and one to Iredell County",
+                    "sentence_id": "2",
+                    "paragraph_index": 46,
+                    "global_sentence_index": 203
+                },
+                {
+                    "sentence": "Game fish in Lake Norman include catfish, crappie, bluegill and yellow perch, as well as striped, largemouth, spotted, white bass hybrids, and long-nosed gar",
+                    "sentence_id": "3",
+                    "paragraph_index": 46,
+                    "global_sentence_index": 204
+                },
+                {
+                    "sentence": "Lake Norman has also become home to multiple species of wildlife, including eastern box turtle, soft shell turtle, snapping turtle, black (eastern) rat snake and the Northern water snake",
+                    "sentence_id": "4",
+                    "paragraph_index": 46,
+                    "global_sentence_index": 205
+                },
+                {
+                    "sentence": "",
+                    "sentence_id": "5",
+                    "paragraph_index": 46,
+                    "global_sentence_index": 206
+                }
+            ]
+        },
+        {
+            "paragraph_index": 47,
+            "sentences": [
+                {
+                    "sentence": "Lake Norman was named after Norman Atwater Cocke, former president of Duke Energy",
+                    "sentence_id": "0",
+                    "paragraph_index": 47,
+                    "global_sentence_index": 207
+                },
+                {
+                    "sentence": "Cocke was born on November 20, 1884, James Cocke and Sarah Atwater in Prince George County, Virginia",
+                    "sentence_id": "1",
+                    "paragraph_index": 47,
+                    "global_sentence_index": 208
+                },
+                {
+                    "sentence": "A graduate of New York Law School, he began his career with Duke Energy in 1906 as an attorney, becoming a Vice President and director of the company in 1927. Cocke was president of Duke Energy from 1947 to 1959. Under his leadership, Duke Energy representatives spent a great deal of time planning the new lake, convincing locals to leave the future lakebed, and working with state officials to get support for the project",
+                    "sentence_id": "2",
+                    "paragraph_index": 47,
+                    "global_sentence_index": 209
+                },
+                {
+                    "sentence": "  Cocke would also communicate with Davidson College in order to establish a satellite location for the college along the shores of the future lake",
+                    "sentence_id": "3",
+                    "paragraph_index": 47,
+                    "global_sentence_index": 210
+                },
+                {
+                    "sentence": " In 1960, Duke Energy stated that the lake would be named in Norman's honor, as he had retired as president of Duke Energy during the previous year",
+                    "sentence_id": "4",
+                    "paragraph_index": 47,
+                    "global_sentence_index": 211
+                }
+            ]
+        },
+        {
+            "paragraph_index": 48,
+            "sentences": [
+                {
+                    "sentence": "The objective for a couple of local reporters and a photographer was simply to find a spot along the lake to observe and try to get the scoop on the new Duke Power Lake",
+                    "sentence_id": "0",
+                    "paragraph_index": 48,
+                    "global_sentence_index": 212
+                },
+                {
+                    "sentence": "Photographer Fletcher Davis came along with but amongst the densely forested spot they saw something unexpected",
+                    "sentence_id": "1",
+                    "paragraph_index": 48,
+                    "global_sentence_index": 213
+                },
+                {
+                    "sentence": "They found a girl described as \"a statuesque young girl carved from the classical patterns of a Greek Goddess",
+                    "sentence_id": "2",
+                    "paragraph_index": 48,
+                    "global_sentence_index": 214
+                },
+                {
+                    "sentence": "\"  In the Tom McKnight article for the Charlotte Observer, August 4, 1957, the men who find her describe the odd circumstances in which they stumbled upon her",
+                    "sentence_id": "3",
+                    "paragraph_index": 48,
+                    "global_sentence_index": 215
+                },
+                {
+                    "sentence": "Sam Fletcher described her as \"A second Ava Gardener if one ever lived",
+                    "sentence_id": "4",
+                    "paragraph_index": 48,
+                    "global_sentence_index": 216
+                },
+                {
+                    "sentence": "\" The description of her in the Observer called her \"primitive and savage\" in her beauty",
+                    "sentence_id": "5",
+                    "paragraph_index": 48,
+                    "global_sentence_index": 217
+                },
+                {
+                    "sentence": "A second column in the Observer, by Gary Davis, describes her as \"a fairy tale, only real\" and dubs her The Girl in Black",
+                    "sentence_id": "6",
+                    "paragraph_index": 48,
+                    "global_sentence_index": 218
+                },
+                {
+                    "sentence": "The comparisons for her didn't stop there however, as she was called a living Long Sam",
+                    "sentence_id": "7",
+                    "paragraph_index": 48,
+                    "global_sentence_index": 219
+                },
+                {
+                    "sentence": "Long Sam being a girl featured in a newspaper comic in the mid-50s that featured a country bumpkin placed in a non-bumpkin world",
+                    "sentence_id": "8",
+                    "paragraph_index": 48,
+                    "global_sentence_index": 220
+                },
+                {
+                    "sentence": " The comic created by Al Capp, featured a tall, voluptuous naïve mountain girl who was raised hidden from The comparison is due to her beauty and also the perception they had of her as a country bumpkin",
+                    "sentence_id": "9",
+                    "paragraph_index": 48,
+                    "global_sentence_index": 221
+                },
+                {
+                    "sentence": "The girl herself is named Jimmy but due to one of her brothers later being named Jim, she is now called Dorothy, Dorothy Brown",
+                    "sentence_id": "10",
+                    "paragraph_index": 48,
+                    "global_sentence_index": 222
+                },
+                {
+                    "sentence": "What she wants more than anything however is high school education, since she said, \"You can't be anybody without a high school education",
+                    "sentence_id": "11",
+                    "paragraph_index": 48,
+                    "global_sentence_index": 223
+                },
+                {
+                    "sentence": "\"  Here the contrast between her and the caricature can be seen, she is not some naïve girl but rather someone striving for being someone greater",
+                    "sentence_id": "12",
+                    "paragraph_index": 48,
+                    "global_sentence_index": 224
+                },
+                {
+                    "sentence": "Her goal was all about being somebody, particularly education",
+                    "sentence_id": "13",
+                    "paragraph_index": 48,
+                    "global_sentence_index": 225
+                },
+                {
+                    "sentence": "The column caught national attention with the Associated Press releasing article with titles like \"the Backwoods Beauty\", \"Nature Girl\" and \"Long Sam",
+                    "sentence_id": "14",
+                    "paragraph_index": 48,
+                    "global_sentence_index": 226
+                },
+                {
+                    "sentence": "\"  Dorothy Brown, the girl in the photograph, became a national sensation",
+                    "sentence_id": "15",
+                    "paragraph_index": 48,
+                    "global_sentence_index": 227
+                },
+                {
+                    "sentence": "She was invited to New York City by Ed Sullivan and made the trip with the photographer and writer of the original article",
+                    "sentence_id": "16",
+                    "paragraph_index": 48,
+                    "global_sentence_index": 228
+                },
+                {
+                    "sentence": "Life magazine called her a \"living doll\" and \"Carolina prototype for Long Sam, heroine of the Al Capp cartoon",
+                    "sentence_id": "17",
+                    "paragraph_index": 48,
+                    "global_sentence_index": 229
+                },
+                {
+                    "sentence": "\" Ultimately Dorothy took the $1000 from her appearance on Ed Sullivan and returned",
+                    "sentence_id": "18",
+                    "paragraph_index": 48,
+                    "global_sentence_index": 230
+                },
+                {
+                    "sentence": "  She took the opportunity for education and graduated with a degree in education from the Woman's College of the University of North Carolina",
+                    "sentence_id": "19",
+                    "paragraph_index": 48,
+                    "global_sentence_index": 231
+                },
+                {
+                    "sentence": "McKnight and Davis said, \"If she hadn't been by the well that day, if Duke Power hadn't planned the lake; who's to say what would have happened",
+                    "sentence_id": "20",
+                    "paragraph_index": 48,
+                    "global_sentence_index": 232
+                },
+                {
+                    "sentence": "\" The photograph captured a sweet, young girl who just wanted an education",
+                    "sentence_id": "21",
+                    "paragraph_index": 48,
+                    "global_sentence_index": 233
+                },
+                {
+                    "sentence": "After her fade from the limelight, she ultimately achieved her dreams",
+                    "sentence_id": "22",
+                    "paragraph_index": 48,
+                    "global_sentence_index": 234
+                },
+                {
+                    "sentence": "This type of story is all based around the development of the lake",
+                    "sentence_id": "23",
+                    "paragraph_index": 48,
+                    "global_sentence_index": 235
+                },
+                {
+                    "sentence": "The lake, currently almost all owned by Duke in the 1950s was needed by the company for a project",
+                    "sentence_id": "24",
+                    "paragraph_index": 48,
+                    "global_sentence_index": 236
+                },
+                {
+                    "sentence": "  The project announced in the 1950s was for building a dam where Gen",
+                    "sentence_id": "25",
+                    "paragraph_index": 48,
+                    "global_sentence_index": 237
+                },
+                {
+                    "sentence": "William Lee Davidson was killed",
+                    "sentence_id": "26",
+                    "paragraph_index": 48,
+                    "global_sentence_index": 238
+                },
+                {
+                    "sentence": "The whole reason this photo occurred was due to the expansion on the lake by Duke in this period",
+                    "sentence_id": "27",
+                    "paragraph_index": 48,
+                    "global_sentence_index": 239
+                },
+                {
+                    "sentence": "The land around the lake was vastly underdeveloped and many different groups of people inhabited the Lake region",
+                    "sentence_id": "28",
+                    "paragraph_index": 48,
+                    "global_sentence_index": 240
+                },
+                {
+                    "sentence": "Long Sam exists in an in between of time periods where the lake was starting to prosper but only around the locals",
+                    "sentence_id": "29",
+                    "paragraph_index": 48,
+                    "global_sentence_index": 241
+                }
+            ]
+        },
+        {
+            "paragraph_index": 49,
+            "sentences": [
+                {
+                    "sentence": "Duke Power's plans to construct Lake Norman began in 1904. The Old Catawba Station Dam marked the beginning of the sixty-year process of Lake Norman's creation",
+                    "sentence_id": "0",
+                    "paragraph_index": 49,
+                    "global_sentence_index": 242
+                },
+                {
+                    "sentence": "By 1928, Duke Power, then known as Southern Power, had created over ten dams along the river, with the intended goal of using these dams to become the electrical supplier of the whole region",
+                    "sentence_id": "1",
+                    "paragraph_index": 49,
+                    "global_sentence_index": 243
+                },
+                {
+                    "sentence": "Throughout this time, Duke Power began purchasing land along the Catawba River to minimize the number of people required to move once the Dam flooded the land",
+                    "sentence_id": "2",
+                    "paragraph_index": 49,
+                    "global_sentence_index": 244
+                },
+                {
+                    "sentence": "The Cowan's Ford site was chosen to build the dam that would complete the sixty-year project",
+                    "sentence_id": "3",
+                    "paragraph_index": 49,
+                    "global_sentence_index": 245
+                },
+                {
+                    "sentence": " To create the dam and Lake Norman itself, Duke Power required a project license",
+                    "sentence_id": "4",
+                    "paragraph_index": 49,
+                    "global_sentence_index": 246
+                },
+                {
+                    "sentence": "A project license required the approval of town halls across the areas affected by the transformation of the river",
+                    "sentence_id": "5",
+                    "paragraph_index": 49,
+                    "global_sentence_index": 247
+                },
+                {
+                    "sentence": "To demonstrate the effect of the lake, Duke Power created a map detailing the areas facing consequences from Lake Norman",
+                    "sentence_id": "6",
+                    "paragraph_index": 49,
+                    "global_sentence_index": 248
+                },
+                {
+                    "sentence": "Stemming mainly from the lake's commercial aspects, Duke Power was granted the license in 1957 by the Federal Power Commission, despite some resistance due to the historical landmarks that would be submerged by the lake",
+                    "sentence_id": "7",
+                    "paragraph_index": 49,
+                    "global_sentence_index": 249
+                },
+                {
+                    "sentence": "  Along with the project license, Duke Power received permission to clear over 23,000 acres of vegetation in places affected by the flooding",
+                    "sentence_id": "8",
+                    "paragraph_index": 49,
+                    "global_sentence_index": 250
+                },
+                {
+                    "sentence": "While Duke's purchasing of a large portion of the land helped minimize the damage to communities, many faced relocation",
+                    "sentence_id": "9",
+                    "paragraph_index": 49,
+                    "global_sentence_index": 251
+                },
+                {
+                    "sentence": "Construction began in 1959 with an address from Governor Hodges and an honorary flipping of the first dynamite switch",
+                    "sentence_id": "10",
+                    "paragraph_index": 49,
+                    "global_sentence_index": 252
+                },
+                {
+                    "sentence": "  Construction of the dam finished in 1962, and along with-it Lake Norman, encompassing over 33,000 acres and 750 miles of shoreline, was created",
+                    "sentence_id": "11",
+                    "paragraph_index": 49,
+                    "global_sentence_index": 253
+                }
+            ]
+        },
+        {
+            "paragraph_index": 50,
+            "sentences": [
+                {
+                    "sentence": "The creation of Lake Norman requires the implementation of new laws and regulations",
+                    "sentence_id": "0",
+                    "paragraph_index": 50,
+                    "global_sentence_index": 254
+                },
+                {
+                    "sentence": "Fishing and boating regulations on Lake Norman follow the North Carolina Wildlife Resources Commission's guidelines",
+                    "sentence_id": "1",
+                    "paragraph_index": 50,
+                    "global_sentence_index": 255
+                },
+                {
+                    "sentence": "Fishing can be done without a license, but live bait must be used",
+                    "sentence_id": "2",
+                    "paragraph_index": 50,
+                    "global_sentence_index": 256
+                },
+                {
+                    "sentence": "To protect wildlife, certain methods are banned, such as fish traps and trap lines",
+                    "sentence_id": "3",
+                    "paragraph_index": 50,
+                    "global_sentence_index": 257
+                },
+                {
+                    "sentence": "  Fishing and the composition of the Lake itself has undergone many changes throughout Lake Norman's history",
+                    "sentence_id": "4",
+                    "paragraph_index": 50,
+                    "global_sentence_index": 258
+                },
+                {
+                    "sentence": "The North Carolina Wildlife Resources Commission has introduced certain species of fish to the lake, such as the blue catfish and the striped bass",
+                    "sentence_id": "5",
+                    "paragraph_index": 50,
+                    "global_sentence_index": 259
+                },
+                {
+                    "sentence": "The Commission regularly introduces populations of the native fish species to ensure healthy populations",
+                    "sentence_id": "6",
+                    "paragraph_index": 50,
+                    "global_sentence_index": 260
+                }
+            ]
+        },
+        {
+            "paragraph_index": 51,
+            "sentences": [
+                {
+                    "sentence": "The creation of the lake also introduced the need for new boating regulations",
+                    "sentence_id": "0",
+                    "paragraph_index": 51,
+                    "global_sentence_index": 261
+                },
+                {
+                    "sentence": "Boats with engines operating at over 10 horsepower must be registered with the state",
+                    "sentence_id": "1",
+                    "paragraph_index": 51,
+                    "global_sentence_index": 262
+                },
+                {
+                    "sentence": "Multiple controversies relating to boating have occurred in relation to Lake Norman, resulting in some attempts to limit the use of yachts and other large boats on Lake Norman",
+                    "sentence_id": "2",
+                    "paragraph_index": 51,
+                    "global_sentence_index": 263
+                },
+                {
+                    "sentence": "  To govern these regulations, the Lake Norman Safety Commission formed in 1965, aimed at educating recreational users of the lake and enforcing regulations",
+                    "sentence_id": "3",
+                    "paragraph_index": 51,
+                    "global_sentence_index": 264
+                },
+                {
+                    "sentence": "The committee was created as a reaction to a fatal boating accident in 1965.",
+                    "sentence_id": "4",
+                    "paragraph_index": 51,
+                    "global_sentence_index": 265
+                }
+            ]
+        },
+        {
+            "paragraph_index": 52,
+            "sentences": [
+                {
+                    "sentence": "Other regulations include the creation of the Lake Norman Commission, consisting of the Lincoln, Catawba, Iredell and Mecklenburg counties",
+                    "sentence_id": "0",
+                    "paragraph_index": 52,
+                    "global_sentence_index": 266
+                },
+                {
+                    "sentence": "The commission set rules into place to promote safety while on the water, including placing restrictions on the speed of boats while within 150 feet on the Marina and punishments for the defacement of signs",
+                    "sentence_id": "1",
+                    "paragraph_index": 52,
+                    "global_sentence_index": 267
+                },
+                {
+                    "sentence": "  Lake Norman has resulted in the creation of new wildlife regulations",
+                    "sentence_id": "2",
+                    "paragraph_index": 52,
+                    "global_sentence_index": 268
+                },
+                {
+                    "sentence": "Certain islands along the lake are now designated protected areas for the Blue Heron by the North Carolina Wild Commission",
+                    "sentence_id": "3",
+                    "paragraph_index": 52,
+                    "global_sentence_index": 269
+                },
+                {
+                    "sentence": "  Future nuclear plants along Lake Norman faced pushback from environmental groups due to wildlife concerns of the effects on the wildlife",
+                    "sentence_id": "4",
+                    "paragraph_index": 52,
+                    "global_sentence_index": 270
+                },
+                {
+                    "sentence": "After inspections and governmental approval, the plans for nuclear power were found to have no effect on the local wildlife",
+                    "sentence_id": "5",
+                    "paragraph_index": 52,
+                    "global_sentence_index": 271
+                },
+                {
+                    "sentence": "  Other points of concern have been the fish populations, pollution of the lake, and the beginning of the recycling program in the 1990s",
+                    "sentence_id": "6",
+                    "paragraph_index": 52,
+                    "global_sentence_index": 272
+                },
+                {
+                    "sentence": "Nuclear power has become less of a point of controversy over time, and non-profits such as Lake Norman Wildlife Conservationists and Ducks Unlimited",
+                    "sentence_id": "7",
+                    "paragraph_index": 52,
+                    "global_sentence_index": 273
+                }
+            ]
+        },
+        {
+            "paragraph_index": 53,
+            "sentences": [
+                {
+                    "sentence": "Since Lake Norman's creation, housing and real estate in the area have been subject to significant changes",
+                    "sentence_id": "0",
+                    "paragraph_index": 53,
+                    "global_sentence_index": 274
+                },
+                {
+                    "sentence": "In addition to the appeal of Lake Norman and the many activities and jobs associated with it, the area lies in close proximity to Charlotte – the largest metropolitan area in the Carolinas and the second-largest financial center in the United States after New York City",
+                    "sentence_id": "1",
+                    "paragraph_index": 53,
+                    "global_sentence_index": 275
+                },
+                {
+                    "sentence": "Given the appeal of the area and the government sponsored push for suburban living in the 1950s, demand for housing rose steeply from the late 1950s to the present",
+                    "sentence_id": "2",
+                    "paragraph_index": 53,
+                    "global_sentence_index": 276
+                },
+                {
+                    "sentence": "  Duke Energy, which owned about 300,000 acres of surplus land, responded to this demand in 1963, as the lake was finally full and open for business",
+                    "sentence_id": "3",
+                    "paragraph_index": 53,
+                    "global_sentence_index": 277
+                },
+                {
+                    "sentence": "  Duke owned half of the Lake Norman shoreline, and the company made about 2,500 cottage sites available for lease at $120 a year",
+                    "sentence_id": "4",
+                    "paragraph_index": 53,
+                    "global_sentence_index": 278
+                },
+                {
+                    "sentence": "  Other private developers began establishing subdivisions like Moonlight Bay, Isle of Pines, Kiser's Island, Bonanza, Westport, and Island Forest, many of which are still residential communities today",
+                    "sentence_id": "5",
+                    "paragraph_index": 53,
+                    "global_sentence_index": 279
+                },
+                {
+                    "sentence": "  Many of the homes built on Lake Norman served as secondary homes for people who lived in the surrounding area, but the appeal of the area extended beyond Lake Norman's immediate vicinity leading to an increase in the number of permanent residents in towns like Davidson, Mooresville, and Cornelius",
+                    "sentence_id": "6",
+                    "paragraph_index": 53,
+                    "global_sentence_index": 280
+                },
+                {
+                    "sentence": "  Many of these towns around Lake Norman developed comprehensive development plans in order to cope with the rapid growth",
+                    "sentence_id": "7",
+                    "paragraph_index": 53,
+                    "global_sentence_index": 281
+                },
+                {
+                    "sentence": "  New Zoning ordinances in Cornelius, Davidson, and Huntersville called for development that would promote pedestrian traffic and accessibility among the three towns",
+                    "sentence_id": "8",
+                    "paragraph_index": 53,
+                    "global_sentence_index": 282
+                }
+            ]
+        },
+        {
+            "paragraph_index": 54,
+            "sentences": [
+                {
+                    "sentence": "The construction of I-77 in 1975 complicated the development situation in the area, as it gave people immediate access to all that Lake Norman offered and the surrounding towns",
+                    "sentence_id": "0",
+                    "paragraph_index": 54,
+                    "global_sentence_index": 283
+                },
+                {
+                    "sentence": "  In 1977, a subsidiary of Duke Energy called Crescent Resources began to sell some of Duke's land holdings, which allowed further development on the previously leased land",
+                    "sentence_id": "1",
+                    "paragraph_index": 54,
+                    "global_sentence_index": 284
+                },
+                {
+                    "sentence": "  Based on what had occurred in the area since the creation of Lake Norman, the assumption going forth was that both the economic and population growth would continue creating demand at the lake",
+                    "sentence_id": "2",
+                    "paragraph_index": 54,
+                    "global_sentence_index": 285
+                },
+                {
+                    "sentence": "  In 1980, Mecklenburg county voted against a bond program that would preserve the remaining farmland in the area, demonstrating the transition from an area previously dominated by agricultural land to one that was far more suburban",
+                    "sentence_id": "3",
+                    "paragraph_index": 54,
+                    "global_sentence_index": 286
+                },
+                {
+                    "sentence": "  Today, the four counties that make up the Lake Norman area are some of the fastest growing counties in North Carolina",
+                    "sentence_id": "4",
+                    "paragraph_index": 54,
+                    "global_sentence_index": 287
+                },
+                {
+                    "sentence": "From 1990 to 2016, the population of the Lake Norman area has grown by 831%",
+                    "sentence_id": "5",
+                    "paragraph_index": 54,
+                    "global_sentence_index": 288
+                },
+                {
+                    "sentence": "  Median home values in towns surrounding Lake Norman are all higher than the national average of $250,800 (Mooresville: $250,800, Davidson: $339,400, Cornelius: $280,000, Huntersville $304,034), and appreciation rates for homes are some of the highest in North Carolina",
+                    "sentence_id": "6",
+                    "paragraph_index": 54,
+                    "global_sentence_index": 289
+                }
+            ]
+        },
+        {
+            "paragraph_index": 55,
+            "sentences": [
+                {
+                    "sentence": "The construction of I-77 during the formation of Lake Norman created a quick and efficient way to travel through the lake's surrounding cities and towns, which include Charlotte, Huntersville, Davidson, and Mooresville",
+                    "sentence_id": "0",
+                    "paragraph_index": 55,
+                    "global_sentence_index": 290
+                },
+                {
+                    "sentence": "Before the creation of the lake, a period often referred to as the \"pre-lake days\", local residents \"often took a back road to Charlotte\"",
+                    "sentence_id": "1",
+                    "paragraph_index": 55,
+                    "global_sentence_index": 291
+                },
+                {
+                    "sentence": "  Back roads such as Kiser Island Road were able to transport drivers \"through cotton fields and great pine forests\" as they made their way to their desired location",
+                    "sentence_id": "2",
+                    "paragraph_index": 55,
+                    "global_sentence_index": 292
+                },
+                {
+                    "sentence": "  Other frequently traveled highways before the creation of Lake Norman include N",
+                    "sentence_id": "3",
+                    "paragraph_index": 55,
+                    "global_sentence_index": 293
+                },
+                {
+                    "sentence": "C",
+                    "sentence_id": "4",
+                    "paragraph_index": 55,
+                    "global_sentence_index": 294
+                },
+                {
+                    "sentence": "115 and U",
+                    "sentence_id": "5",
+                    "paragraph_index": 55,
+                    "global_sentence_index": 295
+                },
+                {
+                    "sentence": "S",
+                    "sentence_id": "6",
+                    "paragraph_index": 55,
+                    "global_sentence_index": 296
+                },
+                {
+                    "sentence": "21, which were both used to travel from the area to Charlotte",
+                    "sentence_id": "7",
+                    "paragraph_index": 55,
+                    "global_sentence_index": 297
+                }
+            ]
+        },
+        {
+            "paragraph_index": 56,
+            "sentences": [
+                {
+                    "sentence": "26.23 miles of state roads were flooded by the creation of Lake Norman",
+                    "sentence_id": "0",
+                    "paragraph_index": 56,
+                    "global_sentence_index": 298
+                },
+                {
+                    "sentence": "Duke Power, now Duke Energy, paid North Carolina \"$3.3 million to relocate 13.3 miles of roadway and to raise 6.4 miles of roadway\"",
+                    "sentence_id": "1",
+                    "paragraph_index": 56,
+                    "global_sentence_index": 299
+                },
+                {
+                    "sentence": "  The creation of the lake and the flooding of several \"farm-to-market roads\" disconnected many previously established communities in Mecklenburg, Iredell, Lincoln, and Catawba counties from one another",
+                    "sentence_id": "2",
+                    "paragraph_index": 56,
+                    "global_sentence_index": 300
+                },
+                {
+                    "sentence": "  The newly filled Lake Norman caused bridges like the highway 150 bridge to be rebuilt, and new roads to be built entirely for the purpose of reconnecting severed communities",
+                    "sentence_id": "3",
+                    "paragraph_index": 56,
+                    "global_sentence_index": 301
+                }
+            ]
+        },
+        {
+            "paragraph_index": 57,
+            "sentences": [
+                {
+                    "sentence": "U",
+                    "sentence_id": "0",
+                    "paragraph_index": 57,
+                    "global_sentence_index": 302
+                },
+                {
+                    "sentence": "S",
+                    "sentence_id": "1",
+                    "paragraph_index": 57,
+                    "global_sentence_index": 303
+                },
+                {
+                    "sentence": "Highway 21 was partially flooded with the development of Lake Norman, but the portion that was not remained the best way to travel from the surrounding lake areas to Charlotte",
+                    "sentence_id": "2",
+                    "paragraph_index": 57,
+                    "global_sentence_index": 304
+                },
+                {
+                    "sentence": "  The construction of I-77 created an easy way to get into the city",
+                    "sentence_id": "3",
+                    "paragraph_index": 57,
+                    "global_sentence_index": 305
+                },
+                {
+                    "sentence": "  Transportation to and from Charlotte no longer took place on the inconvenient U",
+                    "sentence_id": "4",
+                    "paragraph_index": 57,
+                    "global_sentence_index": 306
+                },
+                {
+                    "sentence": "S",
+                    "sentence_id": "5",
+                    "paragraph_index": 57,
+                    "global_sentence_index": 307
+                },
+                {
+                    "sentence": "21, but instead I-77 provided a smoother commute into Charlotte",
+                    "sentence_id": "6",
+                    "paragraph_index": 57,
+                    "global_sentence_index": 308
+                },
+                {
+                    "sentence": "The completion of the interstate in 1975 also created an avenue for growth within the surrounding Lake Norman cities shown as housing developments, restaurants, and stores began to grow within the space",
+                    "sentence_id": "7",
+                    "paragraph_index": 57,
+                    "global_sentence_index": 309
+                },
+                {
+                    "sentence": "  With housing developments spreading around the lake, an exclusive nature of the area was also formed",
+                    "sentence_id": "8",
+                    "paragraph_index": 57,
+                    "global_sentence_index": 310
+                },
+                {
+                    "sentence": "The current size of the surrounding Lake Norman area has removed the easy commute that I-77 originally created",
+                    "sentence_id": "9",
+                    "paragraph_index": 57,
+                    "global_sentence_index": 311
+                },
+                {
+                    "sentence": "Today I-77 by Lake Norman is known for its traffic rather than its \"new convenience\"",
+                    "sentence_id": "10",
+                    "paragraph_index": 57,
+                    "global_sentence_index": 312
+                }
+            ]
+        },
+        {
+            "paragraph_index": 58,
+            "sentences": [
+                {
+                    "sentence": "In response to the heavy traffic of I-77 around Lake Norman, the construction of express lanes began in November 2015. The express lanes will improve traffic flow along 26 miles of I-77 by providing \"more reliable travel time",
+                    "sentence_id": "0",
+                    "paragraph_index": 58,
+                    "global_sentence_index": 313
+                },
+                {
+                    "sentence": "from Brookshire Freeway (Exit 11) in Mecklenburg County to N",
+                    "sentence_id": "1",
+                    "paragraph_index": 58,
+                    "global_sentence_index": 314
+                },
+                {
+                    "sentence": "C",
+                    "sentence_id": "2",
+                    "paragraph_index": 58,
+                    "global_sentence_index": 315
+                },
+                {
+                    "sentence": "150 (Exit 36) Iredell County\"",
+                    "sentence_id": "3",
+                    "paragraph_index": 58,
+                    "global_sentence_index": 316
+                },
+                {
+                    "sentence": "  The N",
+                    "sentence_id": "4",
+                    "paragraph_index": 58,
+                    "global_sentence_index": 317
+                },
+                {
+                    "sentence": "C",
+                    "sentence_id": "5",
+                    "paragraph_index": 58,
+                    "global_sentence_index": 318
+                },
+                {
+                    "sentence": "Department of Transportation contracted the project to I-77 Mobility Partners, a subsidiary of Spain-based contractor, Cintra",
+                    "sentence_id": "6",
+                    "paragraph_index": 58,
+                    "global_sentence_index": 319
+                },
+                {
+                    "sentence": "  The Department of Transportation states that funding the project privately allows the construction and opening of the project to take place much quicker than if funding was provided by the state",
+                    "sentence_id": "7",
+                    "paragraph_index": 58,
+                    "global_sentence_index": 320
+                },
+                {
+                    "sentence": "  Several residents have expressed concerns for the toll lanes as the construction has increased traffic rather than improving it, but the Department of Transportation is confident that the express lanes will improve commute time",
+                    "sentence_id": "8",
+                    "paragraph_index": 58,
+                    "global_sentence_index": 321
+                }
+            ]
+        },
+        {
+            "paragraph_index": 59,
+            "sentences": [
+                {
+                    "sentence": "Lake Norman is home to two airparks, Long Island Airpark and Lake Norman Airpark",
+                    "sentence_id": "0",
+                    "paragraph_index": 59,
+                    "global_sentence_index": 322
+                },
+                {
+                    "sentence": "These \"fly-in communities\" are characterized by an airstrip with the majority of residents owning planes",
+                    "sentence_id": "1",
+                    "paragraph_index": 59,
+                    "global_sentence_index": 323
+                },
+                {
+                    "sentence": "Today, this airplane community, located on the western side of the lake, is thriving with about fifty lots",
+                    "sentence_id": "2",
+                    "paragraph_index": 59,
+                    "global_sentence_index": 324
+                },
+                {
+                    "sentence": "Established a little later in 1999, Long Island Airpark is a 140-acre community with fifty homes located along the northwest side of the lake",
+                    "sentence_id": "3",
+                    "paragraph_index": 59,
+                    "global_sentence_index": 325
+                },
+                {
+                    "sentence": "Each lot has access to either the airstrip or dock for seaplanes",
+                    "sentence_id": "4",
+                    "paragraph_index": 59,
+                    "global_sentence_index": 326
+                },
+                {
+                    "sentence": " Lake Norman Airpark originated in the 1960s by men in an aviation club who acquired permission to build an airstrip along Lake Norman",
+                    "sentence_id": "5",
+                    "paragraph_index": 59,
+                    "global_sentence_index": 327
+                },
+                {
+                    "sentence": "The club's original fifty-one members dropped to twenty-one in 1971. Later, the National Guard built a beacon on the runway",
+                    "sentence_id": "6",
+                    "paragraph_index": 59,
+                    "global_sentence_index": 328
+                },
+                {
+                    "sentence": "In 1990, Tom Wilson Properties helped renovate and fix areas on the property",
+                    "sentence_id": "7",
+                    "paragraph_index": 59,
+                    "global_sentence_index": 329
+                }
+            ]
+        },
+        {
+            "paragraph_index": 60,
+            "sentences": [
+                {
+                    "sentence": "Located north of Lake Norman is Statesville, home to the first hot air balloon flight in North Carolina",
+                    "sentence_id": "0",
+                    "paragraph_index": 60,
+                    "global_sentence_index": 330
+                },
+                {
+                    "sentence": "Bill Meadows and Tracy Barnes conducted this feat, propelling Statesville to become a hub for hot air balloon life",
+                    "sentence_id": "1",
+                    "paragraph_index": 60,
+                    "global_sentence_index": 331
+                },
+                {
+                    "sentence": "Barnes established The Balloon Works to \"manufacture and sell hot air balloons",
+                    "sentence_id": "2",
+                    "paragraph_index": 60,
+                    "global_sentence_index": 332
+                },
+                {
+                    "sentence": "\"  Today, The Balloon Works is now Firefly Balloons Factory, \"one of the largest manufacturers of sport and commercial hot air balloons in the world",
+                    "sentence_id": "3",
+                    "paragraph_index": 60,
+                    "global_sentence_index": 333
+                },
+                {
+                    "sentence": "\"  Statesville has celebrated the area's history of hot air balloons through Carolina BalloonFest, which is a hot air balloon festival held every year for the past four decades",
+                    "sentence_id": "4",
+                    "paragraph_index": 60,
+                    "global_sentence_index": 334
+                },
+                {
+                    "sentence": "Color abounds as balloons ascend to the skies around sunrise and sunset during the festival",
+                    "sentence_id": "5",
+                    "paragraph_index": 60,
+                    "global_sentence_index": 335
+                },
+                {
+                    "sentence": "The Carolina BalloonFest is the second consecutively longest running hot air balloon festival in the United States",
+                    "sentence_id": "6",
+                    "paragraph_index": 60,
+                    "global_sentence_index": 336
+                }
+            ]
+        },
+        {
+            "paragraph_index": 61,
+            "sentences": [
+                {
+                    "sentence": "Unidentified flying objects have been spotted around Lake Norman for decades",
+                    "sentence_id": "0",
+                    "paragraph_index": 61,
+                    "global_sentence_index": 337
+                },
+                {
+                    "sentence": "Twenty have been spotted in the past thirty years, particularly near Duke Energy's McGuire Nuclear Station",
+                    "sentence_id": "1",
+                    "paragraph_index": 61,
+                    "global_sentence_index": 338
+                },
+                {
+                    "sentence": "UFO sightings have been more common around nuclear plants",
+                    "sentence_id": "2",
+                    "paragraph_index": 61,
+                    "global_sentence_index": 339
+                },
+                {
+                    "sentence": "George Fawcett, a North Carolina resident and UFO enthusiast, has kept records of Lake Norman sightings for the UFO Museum and Research Center, located in Roswell, New Mexico",
+                    "sentence_id": "3",
+                    "paragraph_index": 61,
+                    "global_sentence_index": 340
+                },
+                {
+                    "sentence": "His research shows that North Carolina has reported the fourth largest number UFO sightings",
+                    "sentence_id": "4",
+                    "paragraph_index": 61,
+                    "global_sentence_index": 341
+                },
+                {
+                    "sentence": "People have reported seeing UFOs in the Lake Norman area since 1968. The stories are similar in that there was a strange and rather large aircraft sighted",
+                    "sentence_id": "5",
+                    "paragraph_index": 61,
+                    "global_sentence_index": 342
+                },
+                {
+                    "sentence": "It only made a slight noise and disappeared as quickly as it arrived",
+                    "sentence_id": "6",
+                    "paragraph_index": 61,
+                    "global_sentence_index": 343
+                }
+            ]
+        },
+        {
+            "paragraph_index": 62,
+            "sentences": [
+                {
+                    "sentence": "On September 5, 2013, a submerged airplane was found in the waters of Lake Norman",
+                    "sentence_id": "0",
+                    "paragraph_index": 62,
+                    "global_sentence_index": 344
+                },
+                {
+                    "sentence": "  While on a routine dive, local firefighters found what they thought to be an airplane",
+                    "sentence_id": "1",
+                    "paragraph_index": 62,
+                    "global_sentence_index": 345
+                },
+                {
+                    "sentence": " They confirmed the object as an airplane using sonar technology",
+                    "sentence_id": "2",
+                    "paragraph_index": 62,
+                    "global_sentence_index": 346
+                },
+                {
+                    "sentence": "  The sunken airplane is located in the deepest part of Lake Norman west of Cornelius, North Carolina",
+                    "sentence_id": "3",
+                    "paragraph_index": 62,
+                    "global_sentence_index": 347
+                },
+                {
+                    "sentence": "  Near the Mecklenburg-Iredell county line, the plane is rumored to have been in the lake for over thirty years, meaning it would have sunk shortly after the airparks were established and around the time the first-recorded UFO sightings occurred",
+                    "sentence_id": "4",
+                    "paragraph_index": 62,
+                    "global_sentence_index": 348
+                },
+                {
+                    "sentence": "The Charlotte Fire Department gave all information about the plane to the Federal Aviation Administration",
+                    "sentence_id": "5",
+                    "paragraph_index": 62,
+                    "global_sentence_index": 349
+                },
+                {
+                    "sentence": "The FAA has issued a statement saying that they are \"investigating and",
+                    "sentence_id": "6",
+                    "paragraph_index": 62,
+                    "global_sentence_index": 350
+                },
+                {
+                    "sentence": "conducting a search of the aircraft ownership records in an effort to determine the aircraft's last owner",
+                    "sentence_id": "7",
+                    "paragraph_index": 62,
+                    "global_sentence_index": 351
+                },
+                {
+                    "sentence": "\"  When news of the airplane reached the public, a local resident immediately called the FAA in belief that the plane is hers",
+                    "sentence_id": "8",
+                    "paragraph_index": 62,
+                    "global_sentence_index": 352
+                },
+                {
+                    "sentence": "She reported that one of her planes sunk when she was conducting flight training in the 1970s",
+                    "sentence_id": "9",
+                    "paragraph_index": 62,
+                    "global_sentence_index": 353
+                },
+                {
+                    "sentence": "They safely landed the plane, but the pilot forgot to engage the lock gear, and it sank",
+                    "sentence_id": "10",
+                    "paragraph_index": 62,
+                    "global_sentence_index": 354
+                },
+                {
+                    "sentence": "She reports that no one was injured and spent a lot of money searching for it without success",
+                    "sentence_id": "11",
+                    "paragraph_index": 62,
+                    "global_sentence_index": 355
+                },
+                {
+                    "sentence": "  Multiple environmentalists have investigated the environmental impacts on the water's health, concluding that there is likely no more fuel and that the best way to combat the situation is to let the plane stay",
+                    "sentence_id": "12",
+                    "paragraph_index": 62,
+                    "global_sentence_index": 356
+                }
+            ]
+        },
+        {
+            "paragraph_index": 63,
+            "sentences": [
+                {
+                    "sentence": "There have been various reports of a Lake Norman Monster, also known as \"Normie\"",
+                    "sentence_id": "0",
+                    "paragraph_index": 63,
+                    "global_sentence_index": 357
+                },
+                {
+                    "sentence": "Sightings were noted as early as 1996 and continue through today",
+                    "sentence_id": "1",
+                    "paragraph_index": 63,
+                    "global_sentence_index": 358
+                },
+                {
+                    "sentence": "While some swear to have seen a large, unidentifiable, amphibious creature, controversy remains over the monster's existence",
+                    "sentence_id": "2",
+                    "paragraph_index": 63,
+                    "global_sentence_index": 359
+                },
+                {
+                    "sentence": "The Lake Norman Monster stories parallel the Scottish legend of the Loch Ness Monster",
+                    "sentence_id": "3",
+                    "paragraph_index": 63,
+                    "global_sentence_index": 360
+                }
+            ]
+        },
+        {
+            "paragraph_index": 64,
+            "sentences": [
+                {
+                    "sentence": "The Lake Norman region has seen continued Scottish influence since the 17th century, when the Jacobite conflicts of the 17th and 18th century compelled many lowland Scots to flee to Ireland, where they settled in Ulster",
+                    "sentence_id": "0",
+                    "paragraph_index": 64,
+                    "global_sentence_index": 361
+                },
+                {
+                    "sentence": "Hostile relations between the local Irish and these Scotch-Irish led some to leave Ireland for America",
+                    "sentence_id": "1",
+                    "paragraph_index": 64,
+                    "global_sentence_index": 362
+                },
+                {
+                    "sentence": "Many of these Scotch-Irish Americans ultimately settled in Mecklenburg County",
+                    "sentence_id": "2",
+                    "paragraph_index": 64,
+                    "global_sentence_index": 363
+                },
+                {
+                    "sentence": " Evidence of Scottish influence in the Lake Norman area includes Presbyterian churches built by Scotch-Irish between 1745 and 1751, and the Highland Games tradition",
+                    "sentence_id": "3",
+                    "paragraph_index": 64,
+                    "global_sentence_index": 364
+                },
+                {
+                    "sentence": "The Loch Norman Highland Games, as well as other games in the Mecklenburg county, continue through today",
+                    "sentence_id": "4",
+                    "paragraph_index": 64,
+                    "global_sentence_index": 365
+                },
+                {
+                    "sentence": "In 1994, the Highland Games featured a hot air balloon with a Loch Ness Monster–inspired serpent design, suggesting that Lake Norman might have a monster of its own",
+                    "sentence_id": "5",
+                    "paragraph_index": 64,
+                    "global_sentence_index": 366
+                }
+            ]
+        },
+        {
+            "paragraph_index": 65,
+            "sentences": [
+                {
+                    "sentence": "In 2002, a website was created to capitalize on the story of the Lake Norman Monster",
+                    "sentence_id": "0",
+                    "paragraph_index": 65,
+                    "global_sentence_index": 367
+                },
+                {
+                    "sentence": "Complete with sighting diaries, \"Normie\" episodes of America's Monsters and Boogeymen, and Normie merchandise, the website perpetuates the image of Normie today",
+                    "sentence_id": "1",
+                    "paragraph_index": 65,
+                    "global_sentence_index": 368
+                }
+            ]
+        },
+        {
+            "paragraph_index": 66,
+            "sentences": [
+                {
+                    "sentence": "Possible explanations for monster sightings include misidentification of large fish species in the lake, including alligator gars, catfish, or American eels",
+                    "sentence_id": "0",
+                    "paragraph_index": 66,
+                    "global_sentence_index": 369
+                }
+            ]
+        },
+        {
+            "paragraph_index": 67,
+            "sentences": [
+                {
+                    "sentence": "The Holly Oak Plantation home was built by Robert Davidson between 1795-1800. The plantation was home to Davidson and his family and many enslaved people who worked the plantation until the Civil War",
+                    "sentence_id": "0",
+                    "paragraph_index": 67,
+                    "global_sentence_index": 370
+                },
+                {
+                    "sentence": "Residents of the house after the Davidson family have reported hearing children playing under the porch and seeing figures hanging from trees, possibly enslaved people hung by angry enslavers",
+                    "sentence_id": "1",
+                    "paragraph_index": 67,
+                    "global_sentence_index": 371
+                },
+                {
+                    "sentence": "Many apparitions have been reported in the house, including an elderly woman sighted by in an upstairs bedroom by a member of the Charlotte Area Paranormal Society (CAPS) during an investigation they undertook at the home",
+                    "sentence_id": "2",
+                    "paragraph_index": 67,
+                    "global_sentence_index": 372
+                }
+            ]
+        },
+        {
+            "paragraph_index": 68,
+            "sentences": [
+                {
+                    "sentence": "There is a story that the cemetery of Hopewell Presbyterian Church is the home of the ghost of General William Lee Davidson",
+                    "sentence_id": "0",
+                    "paragraph_index": 68,
+                    "global_sentence_index": 373
+                },
+                {
+                    "sentence": "General Davidson was tasked with stopping the advance of British General Cornwallis at the end of the Revolutionary War",
+                    "sentence_id": "1",
+                    "paragraph_index": 68,
+                    "global_sentence_index": 374
+                },
+                {
+                    "sentence": "On February 1, 1781, General Davidson was the first casualty in the Battle of Cowans Ford, just minutes away from where the cemetery now stands",
+                    "sentence_id": "2",
+                    "paragraph_index": 68,
+                    "global_sentence_index": 375
+                },
+                {
+                    "sentence": "The British troops stripped the General of his clothes and left him on the grounds",
+                    "sentence_id": "3",
+                    "paragraph_index": 68,
+                    "global_sentence_index": 376
+                },
+                {
+                    "sentence": "That night, General Davidson's men spirited his body to Hopewell Presbyterian and had a hasty burial",
+                    "sentence_id": "4",
+                    "paragraph_index": 68,
+                    "global_sentence_index": 377
+                },
+                {
+                    "sentence": "On February 1 every year since his death, the ghost of General Davidson is said to emerge from his grave and ride once again into battle before disappearing into the mist",
+                    "sentence_id": "5",
+                    "paragraph_index": 68,
+                    "global_sentence_index": 378
+                },
+                {
+                    "sentence": "Reverend Jeff Lowrance, the pastor at Hopewell, says that every year people come in hopes of catching a sight of the ghostly visage",
+                    "sentence_id": "6",
+                    "paragraph_index": 68,
+                    "global_sentence_index": 379
+                }
+            ]
+        },
+        {
+            "paragraph_index": 69,
+            "sentences": [
+                {
+                    "sentence": "The Latta Plantation House was built in 1800 by James Latta, an Irish immigrant who rose to become one of the most prominent men in the area",
+                    "sentence_id": "0",
+                    "paragraph_index": 69,
+                    "global_sentence_index": 380
+                },
+                {
+                    "sentence": "He had a large family, all of whom were outlived by their parents",
+                    "sentence_id": "1",
+                    "paragraph_index": 69,
+                    "global_sentence_index": 381
+                },
+                {
+                    "sentence": "The current caretakes of the Latta house have reported a variety of unexplained sounds and events encountered during their time taking care of the home",
+                    "sentence_id": "2",
+                    "paragraph_index": 69,
+                    "global_sentence_index": 382
+                },
+                {
+                    "sentence": "Betty Pierce, a volunteer, says that whenever she was in the house alone and especially when she was making repairs or modifications, she has heard footsteps in empty hallways, and seen locked doors open of their own accord",
+                    "sentence_id": "3",
+                    "paragraph_index": 69,
+                    "global_sentence_index": 383
+                },
+                {
+                    "sentence": "She believes that these unexplained phenomena are the spirit of James Latta, checking up on this house and making sure that no changes too large are made",
+                    "sentence_id": "4",
+                    "paragraph_index": 69,
+                    "global_sentence_index": 384
+                }
+            ]
+        },
+        {
+            "paragraph_index": 70,
+            "sentences": [
+                {
+                    "sentence": "In Huntersville there stands another plantation house, Oaklawn, which is purportedly the home of three spirits",
+                    "sentence_id": "0",
+                    "paragraph_index": 70,
+                    "global_sentence_index": 385
+                },
+                {
+                    "sentence": "Mrs",
+                    "sentence_id": "1",
+                    "paragraph_index": 70,
+                    "global_sentence_index": 386
+                },
+                {
+                    "sentence": "Carol Sandoff, the current owner of Oaklawn, bought the house in 1994. The most active ghost is that of a nameless child, most likely the child of the second owner Mr",
+                    "sentence_id": "2",
+                    "paragraph_index": 70,
+                    "global_sentence_index": 387
+                },
+                {
+                    "sentence": "John Moore, who appears as a shadowy, child-sized figure in the upstairs bedroom",
+                    "sentence_id": "3",
+                    "paragraph_index": 70,
+                    "global_sentence_index": 388
+                },
+                {
+                    "sentence": "He is said to have died of scarlet fever",
+                    "sentence_id": "4",
+                    "paragraph_index": 70,
+                    "global_sentence_index": 389
+                },
+                {
+                    "sentence": "He is said to run through the home, crying sometimes in the night, or to leave hand prints on fogged mirrors and glass",
+                    "sentence_id": "5",
+                    "paragraph_index": 70,
+                    "global_sentence_index": 390
+                }
+            ]
+        },
+        {
+            "paragraph_index": 71,
+            "sentences": [
+                {
+                    "sentence": "Ever since Duke Power Company constructed Lake Norman, the company has played an integral part in fostering recreation on the lake",
+                    "sentence_id": "0",
+                    "paragraph_index": 71,
+                    "global_sentence_index": 391
+                },
+                {
+                    "sentence": "In 1964, the year the lake was finished, Duke Power Company leased parcels of land to people for $120 a year",
+                    "sentence_id": "1",
+                    "paragraph_index": 71,
+                    "global_sentence_index": 392
+                },
+                {
+                    "sentence": "At the time, land use around the lake was limited to hikers and owners of small weekend cabins",
+                    "sentence_id": "2",
+                    "paragraph_index": 71,
+                    "global_sentence_index": 393
+                },
+                {
+                    "sentence": "However, popularity began to grow, and land parcel lease prices jumped to $2,500 just five years later",
+                    "sentence_id": "3",
+                    "paragraph_index": 71,
+                    "global_sentence_index": 394
+                },
+                {
+                    "sentence": " With the construction of Interstate 77 in the mid 1970s, Lake Norman became highly accessible to residents of Charlotte, causing an influx of homes, restaurants, golf courses, and various recreational facilities to flood the region",
+                    "sentence_id": "4",
+                    "paragraph_index": 71,
+                    "global_sentence_index": 395
+                }
+            ]
+        },
+        {
+            "paragraph_index": 72,
+            "sentences": [
+                {
+                    "sentence": "The Lake Norman area continued into the 2010s, and Duke Power Company continued to play a key role",
+                    "sentence_id": "0",
+                    "paragraph_index": 72,
+                    "global_sentence_index": 396
+                },
+                {
+                    "sentence": "The company has constructed areas for public fishing as well as boating access around the lake, and Duke Power Company also offers free tours of their facilities on the lake",
+                    "sentence_id": "1",
+                    "paragraph_index": 72,
+                    "global_sentence_index": 397
+                }
+            ]
+        },
+        {
+            "paragraph_index": 73,
+            "sentences": [
+                {
+                    "sentence": "In December 2017, Duke Power Company received approval to create an estimated 89 recreation sites on the lake",
+                    "sentence_id": "0",
+                    "paragraph_index": 73,
+                    "global_sentence_index": 398
+                },
+                {
+                    "sentence": "The project is estimated to take about 20 years, and facilities are projected to include more fishing grounds and boat ramps as well as campgrounds, parking lots, and picnic areas",
+                    "sentence_id": "1",
+                    "paragraph_index": 73,
+                    "global_sentence_index": 399
+                }
+            ]
+        },
+        {
+            "paragraph_index": 74,
+            "sentences": [
+                {
+                    "sentence": "Fish on Lake Norman consists primarily of Striped Bass, Largemouth Bass, Catfish and Bluegill",
+                    "sentence_id": "0",
+                    "paragraph_index": 74,
+                    "global_sentence_index": 400
+                },
+                {
+                    "sentence": "Each year, anglers are drawn to the area for fishing tournaments hosted by Fishing League Worldwide",
+                    "sentence_id": "1",
+                    "paragraph_index": 74,
+                    "global_sentence_index": 401
+                },
+                {
+                    "sentence": "Fishing on Lake Norman has also made a substantial contribution to the local economy, as local guide services and tackle shops rely on this form of recreation",
+                    "sentence_id": "2",
+                    "paragraph_index": 74,
+                    "global_sentence_index": 402
+                }
+            ]
+        },
+        {
+            "paragraph_index": 75,
+            "sentences": [
+                {
+                    "sentence": "All of the fish in Lake Norman were introduced by humans, as the lake was man-made",
+                    "sentence_id": "0",
+                    "paragraph_index": 75,
+                    "global_sentence_index": 403
+                },
+                {
+                    "sentence": "Striped bass, introduced for fishing purposes, and Blue Catfish, introduced to control Shad populations, were among the largest species of fish introduced to the lake",
+                    "sentence_id": "1",
+                    "paragraph_index": 75,
+                    "global_sentence_index": 404
+                },
+                {
+                    "sentence": "Flathead Catfish were later introduced illegally and has unclear origins, but, unlike Blue Catfish, the Flathead is predatory and feeds on other fish",
+                    "sentence_id": "2",
+                    "paragraph_index": 75,
+                    "global_sentence_index": 405
+                },
+                {
+                    "sentence": " By the 1990s, fish populations plummeted as a result of rising water temperatures",
+                    "sentence_id": "3",
+                    "paragraph_index": 75,
+                    "global_sentence_index": 406
+                },
+                {
+                    "sentence": "This continued into the 2000s to the point where Striped Bass were pushed to the brink of extinction",
+                    "sentence_id": "4",
+                    "paragraph_index": 75,
+                    "global_sentence_index": 407
+                },
+                {
+                    "sentence": "Eventually, Spotted Bass were introduced, as they can exist in warmer waters",
+                    "sentence_id": "5",
+                    "paragraph_index": 75,
+                    "global_sentence_index": 408
+                },
+                {
+                    "sentence": "Spotted and Hybrid Striped-Spotted Bass are the main sport fish in the lake today, although Catfish is the largest fish family in Lake Norman",
+                    "sentence_id": "6",
+                    "paragraph_index": 75,
+                    "global_sentence_index": 409
+                }
+            ]
+        },
+        {
+            "paragraph_index": 76,
+            "sentences": [
+                {
+                    "sentence": "Though not attracting as many people as fishing, the autumn waterfowl season attracts hunters to the area",
+                    "sentence_id": "0",
+                    "paragraph_index": 76,
+                    "global_sentence_index": 410
+                },
+                {
+                    "sentence": "While birds are plentiful on the lake, Lake Norman has lost popularity in the hunting community due to development around the lake as well as more strict regulations regarding hunting and firearms in North Carolina",
+                    "sentence_id": "1",
+                    "paragraph_index": 76,
+                    "global_sentence_index": 411
+                }
+            ]
+        },
+        {
+            "paragraph_index": 77,
+            "sentences": [
+                {
+                    "sentence": "Duke Power Company donated 1,328 acres of land that eventually became Lake Norman State Park in September 1962. Since then, the park has been a hub for recreation on the lake",
+                    "sentence_id": "0",
+                    "paragraph_index": 77,
+                    "global_sentence_index": 412
+                },
+                {
+                    "sentence": "Facilities include 30.5 miles of mountain biking/hiking/running trails by the name of the Itusi Trail, the Lakeshore Trail at 5 miles long dedicated to hiking and running only, a 125-yard beach for swimming that is open April 1- October 31, and dock facility that is utilized for both boating and fishing",
+                    "sentence_id": "1",
+                    "paragraph_index": 77,
+                    "global_sentence_index": 413
+                },
+                {
+                    "sentence": " Use of the docks and boat ramps is free, but a fee of $5 is required for use of the swimming beach",
+                    "sentence_id": "2",
+                    "paragraph_index": 77,
+                    "global_sentence_index": 414
+                },
+                {
+                    "sentence": "Other facilities include a seasonal campground with 32 sites and kitchen facilities as well as restrooms and a fireplace available for rent, making the Park an accessible and reasonable option for activities and events",
+                    "sentence_id": "3",
+                    "paragraph_index": 77,
+                    "global_sentence_index": 415
+                }
+            ]
+        },
+        {
+            "paragraph_index": 78,
+            "sentences": [
+                {
+                    "sentence": "Visitors to Lake Norman increased by nearly 50,000 between 2016 and 2017, with 962,000 visitors to the park in 2017. The park is one of 12 state parks to have more than 750,000 visitors in a year (there are 39 state parks in the North Carolina)",
+                    "sentence_id": "0",
+                    "paragraph_index": 78,
+                    "global_sentence_index": 416
+                },
+                {
+                    "sentence": "According to park Superintendent Greg Schneider, people often visit the park in an attempt to reconnect with nature",
+                    "sentence_id": "1",
+                    "paragraph_index": 78,
+                    "global_sentence_index": 417
+                }
+            ]
+        },
+        {
+            "paragraph_index": 79,
+            "sentences": [
+                {
+                    "sentence": "Lake Norman State Park holds a rich ecological history",
+                    "sentence_id": "0",
+                    "paragraph_index": 79,
+                    "global_sentence_index": 418
+                },
+                {
+                    "sentence": "Throughout the 18th, 19th, and part of the 20th century, the land surrounding Lake Norman consisted of cultivated fields",
+                    "sentence_id": "1",
+                    "paragraph_index": 79,
+                    "global_sentence_index": 419
+                },
+                {
+                    "sentence": "It was not until the mid 20th century that forests, mostly consisting of Pine trees, began to form through intentional planting as well as natural expansion",
+                    "sentence_id": "2",
+                    "paragraph_index": 79,
+                    "global_sentence_index": 420
+                },
+                {
+                    "sentence": " However, an infestation of Southern Pine Beetles decimated the Pine forests, leaving hardwoods such as Hickory and Dogwood trees to be the main presence",
+                    "sentence_id": "3",
+                    "paragraph_index": 79,
+                    "global_sentence_index": 421
+                },
+                {
+                    "sentence": "Today, Pine trees can only be found in small patches throughout the park",
+                    "sentence_id": "4",
+                    "paragraph_index": 79,
+                    "global_sentence_index": 422
+                }
+            ]
+        },
+        {
+            "paragraph_index": 80,
+            "sentences": [
+                {
+                    "sentence": "The park is home to vast amounts of other wildlife as well, including over 35 species of mammals and a variety of amphibians",
+                    "sentence_id": "0",
+                    "paragraph_index": 80,
+                    "global_sentence_index": 423
+                },
+                {
+                    "sentence": "Park Superintendent Gregory Schneider regards the mammals in the park in the park as abundant and active, stating, \"White-tailed deer and eastern grey squirrel are readily visible from the park roads\" and \"Coyotes can often be heard yipping and howling during the evening hours",
+                    "sentence_id": "1",
+                    "paragraph_index": 80,
+                    "global_sentence_index": 424
+                },
+                {
+                    "sentence": "\"  Frogs and turtles can be seen regularly, as they inhabit the wetlands along the park's shores",
+                    "sentence_id": "2",
+                    "paragraph_index": 80,
+                    "global_sentence_index": 425
+                },
+                {
+                    "sentence": "There are also a variety of snakes, including the venomous Copperhead, living near the shores, but they often go unseen",
+                    "sentence_id": "3",
+                    "paragraph_index": 80,
+                    "global_sentence_index": 426
+                },
+                {
+                    "sentence": "The park's birdlife consists of both residential and migratory birds, such as geese and mallards",
+                    "sentence_id": "4",
+                    "paragraph_index": 80,
+                    "global_sentence_index": 427
+                },
+                {
+                    "sentence": "Red-tailed hawks as well as wild turkey also reside in and around the park",
+                    "sentence_id": "5",
+                    "paragraph_index": 80,
+                    "global_sentence_index": 428
+                }
+            ]
+        },
+        {
+            "paragraph_index": 81,
+            "sentences": [
+                {
+                    "sentence": "Planning for Lake Campus began in 1959 after Duke Energy announced that it would donate 110 acres of lake front property to Davidson College",
+                    "sentence_id": "0",
+                    "paragraph_index": 81,
+                    "global_sentence_index": 429
+                },
+                {
+                    "sentence": "The company agreed to donate the land in 1952 and by 1953 the process of building the actual campus began",
+                    "sentence_id": "1",
+                    "paragraph_index": 81,
+                    "global_sentence_index": 430
+                }
+            ]
+        },
+        {
+            "paragraph_index": 82,
+            "sentences": [
+                {
+                    "sentence": "Parts of frolics, a Davidson Spring time tradition, were held at lake campus during the 1960s",
+                    "sentence_id": "0",
+                    "paragraph_index": 82,
+                    "global_sentence_index": 431
+                },
+                {
+                    "sentence": "We have an example of an announcement from 1964 of a regatta held during the fall for the Pledge classes of each fraternity",
+                    "sentence_id": "1",
+                    "paragraph_index": 82,
+                    "global_sentence_index": 432
+                },
+                {
+                    "sentence": "Each fraternity was allowed to compete, provided that they could supply a team of three pledges and construct a raft with a total cost of under $5. Also during the 1960s, there was a serious effort to move Patterson court, the center of Greek life at Davidson college, to the Lake Campus",
+                    "sentence_id": "2",
+                    "paragraph_index": 82,
+                    "global_sentence_index": 433
+                }
+            ]
+        },
+        {
+            "paragraph_index": 83,
+            "sentences": [
+                {
+                    "sentence": "Through copies of Lake Campus rules from different decades, we can mark their progress in becoming more strict over time",
+                    "sentence_id": "0",
+                    "paragraph_index": 83,
+                    "global_sentence_index": 434
+                },
+                {
+                    "sentence": "for example: In 1975, there were no rules concerning the consumption of alcohol on the lake campus",
+                    "sentence_id": "1",
+                    "paragraph_index": 83,
+                    "global_sentence_index": 435
+                },
+                {
+                    "sentence": "At this time, guns were not entirely prohibited, as students could bring shotguns to the grounds provided that it was waterfowl season",
+                    "sentence_id": "2",
+                    "paragraph_index": 83,
+                    "global_sentence_index": 436
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at Petersburg Academy and then went on to New York Law school ."
+    ],
+    "main_sentence_from_docx": [
+        "Stormwater runoff plays the largest role in erosion issues due to the amount of impervious surfaces from dense development"
+    ],
+    "main_sentence_id_in_docx": [
+        "8_2"
+    ],
+    "global_sentence_index_docx": [
+        36
+    ],
+    "global_sentence_index_spike": [
+        1004338
+    ],
+    "score_of_similarity": [
+        1.16
+    ]
+}

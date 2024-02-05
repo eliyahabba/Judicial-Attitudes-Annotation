@@ -1,0 +1,120 @@
+{
+    "title": "John Wedgwood (doctor)",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "John Wedgwood CBE (28 September 1919 – 30 August 2007), was until his death the heir presumptive to the barony Wedgwood, as elder son of the second son of the 1st Baron Wedgwood",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "He was a noted British medical doctor, whose death was commemorated with a long obituary in The Daily Telegraph; his area of specialisation was geriatric medicine and improving conditions for elderly patients",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "John Wedgwood was the elder son of the Hon",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "Josiah Wedgwood – later the managing director of the Wedgwood pottery firm – by his wife the former Dorothy Mary Winser",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "He was educated at Abbotsholme School and then at Trinity College, Cambridge before going on to Guy's Hospital",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "He studied surgery but was wounded during the Second World War, which left him unable to stand for long periods of time and therefore unable to practice surgery",
+                    "sentence_id": "3",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "He switched to general medicine, initially specialising in cardiology before becoming interesting in geriatric and disability medicine",
+                    "sentence_id": "4",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "In 1987 he was appointed CBE for his work",
+                    "sentence_id": "5",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "He was twice married, and had three sons and two daughters by his first wife Margaret Mason whom he married 1943 and divorced 1971.  He was also survived by his second wife Jo Tamlyn (née Ripsher) whom he married in 1972.",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "From 1970 he was the heir presumptive to his nephew, the 4th Baron Wedgwood",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": "His eldest son, Antony John Wedgwood, born in 1944, succeeded as the 5th Baron in January 2014.",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 10
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "He is buried on the eastern side of Highgate Cemetery",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 11
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at Abbotsholme School and then at Trinity College , Cambridge before going on to Guy 's Hospital ."
+    ],
+    "main_sentence_from_docx": [
+        "He was educated at Abbotsholme School and then at Trinity College, Cambridge before going on to Guy's Hospital"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_2"
+    ],
+    "global_sentence_index_docx": [
+        4
+    ],
+    "global_sentence_index_spike": [
+        764838
+    ],
+    "score_of_similarity": [
+        0.04
+    ]
+}

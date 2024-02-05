@@ -1,0 +1,80 @@
+{
+    "title": "Selby Ash",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Selby Attree Horne Ash (c",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "1836 – 8 September 1870) was an English cricketer",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "He played one first-class match for Cambridge University Cricket Club in 1858.",
+                    "sentence_id": "2",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Ash was educated at Tonbridge School and Jesus College, Cambridge",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": " He graduated from Cambridge University with a Bachelor of Arts degree in 1859, and was curate of Hadleigh, Suffolk from 1861 to 1863.",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "This biographical article related to an English cricket person born in the 1830s is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "Ash was educated at Tonbridge School and Jesus College , Cambridge ."
+    ],
+    "main_sentence_from_docx": [
+        "Ash was educated at Tonbridge School and Jesus College, Cambridge"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        3
+    ],
+    "global_sentence_index_spike": [
+        631442
+    ],
+    "score_of_similarity": [
+        0.04
+    ]
+}

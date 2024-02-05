@@ -1,0 +1,136 @@
+{
+    "title": "Lady Violet Powell",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Lady Violet Georgiana Powell (née Pakenham; 13 March 1912 – 12 January 2002) was a British writer and critic",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "Her husband was the author Anthony Powell",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Lady Violet was the third daughter of Thomas Pakenham, 5th Earl of Longford, and the former Lady Mary Child-Villiers, daughter of Victor Child-Villiers, 7th Earl of Jersey",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "She was educated at St Margaret's School, Bushey",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Lady Violet was a member of a literary family; her brothers were Edward Pakenham, 6th Earl of Longford and Frank Pakenham, 7th Earl of Longford, while her sisters included the novelist and biographer Lady Pansy Lamb and the historian Lady Mary Clive",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "She was herself a distinguished memoirist and biographer",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "Her biography The Life of a Provincial Lady (1988), about E",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "M",
+                    "sentence_id": "3",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "Delafield, has been called by the scholar Nicholas Birns \"one of the best literary biographies of a British writer in the twentieth century\"",
+                    "sentence_id": "4",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": " Those who knew the couple well believed that Lady Violet made significant contributions to the richness, depth and polish of her husband's work",
+                    "sentence_id": "5",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": " She also wrote a biography of the English novelist Flora Annie Steel",
+                    "sentence_id": "6",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 10
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "Anthony Powell's novel, Agents and Patients, is dedicated to Lady Violet",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 11
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "She is generally taken to be the model for the character of Isobel Tolland in her husband's novel sequence A Dance to the Music of Time",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 12
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "Some of her books are:",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 13
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "She married Anthony Powell (21 December 1905 – 28 March 2000) on 1 December 1934 at All Saints Anglican Church, Ennismore Gardens, Knightsbridge; they had two children, Tristram and John",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 14
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [],
+    "main_sentence_from_docx": [],
+    "main_sentence_id_in_docx": [],
+    "global_sentence_index_docx": [],
+    "global_sentence_index_spike": [],
+    "score_of_similarity": []
+}

@@ -1,0 +1,172 @@
+{
+    "title": "W. F. P. McLintock",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Dr William Francis Porter McLintock CB FRSE (2 February 1887 – 21 February 1960) was a 20th-century Scottish geologist and museum curator, serving both at the Royal Scottish Museum and the Natural History Museum, London",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "He was also director of the Geological Survey of Great Britain from 1945-1950. In authorship he is known as W",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "F",
+                    "sentence_id": "2",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "P",
+                    "sentence_id": "3",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "McLintock",
+                    "sentence_id": "4",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "He was born on 2 February 1887 the son of Peter Buchanan McLintock, a laundry owner at Deanbank in Stockbridge, Edinburgh",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "He was educated at George Heriot's School then studied science at the University of Edinburgh, graduating with a BSc in 1907. After University McLintock immediately started work as a geologist with the Geological Survey of Great Britain under Ben Peach and John Horne",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "In 1911 he became Curator of the Geological Specimens at the Royal Scottish Museum",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "In 1921 he moved to London to the Natural History Museum",
+                    "sentence_id": "3",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": "In 1930 he was involved in the relocation of the museum from Jermyn Street to South Kensington",
+                    "sentence_id": "4",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 9
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "In 1916 he was elected a Fellow of the Royal Society of Edinburgh",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": "His proposers were John Horne, Ben Peach, Sir John Smith Flett and Arthur Pillans Laurie",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 11
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "In 1936 he stood in as Acting Director of the Geological Survey after the unexpected death of Bernard Smith (geologist), and pending the appointment of Edward Battersby Bailey",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 12
+                },
+                {
+                    "sentence": " In the Second World War  he was seconded to the Atomic Energy Division of the survey (seeking sources of Uranium)",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 13
+                },
+                {
+                    "sentence": "In 1945, he was appointed Director of the Geological Survey, a post he held until retirement",
+                    "sentence_id": "2",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 14
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "He retired in 1950 and died in Edinburgh on 21 February 1960. He was invested Companion of the Order of the Bath (CB) in the 1951 New Year Honours",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 15
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "He married late in life, in 1939 (aged 52) a widow, Mrs Maude Alice Marshall",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 16
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "This biographical article about a British geologist is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 17
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 18
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at George Heriot 's School then studied science at the University of Edinburgh , graduating with a BSc in 1907 ."
+    ],
+    "main_sentence_from_docx": [
+        "In 1911 he became Curator of the Geological Specimens at the Royal Scottish Museum"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_2"
+    ],
+    "global_sentence_index_docx": [
+        7
+    ],
+    "global_sentence_index_spike": [
+        610302
+    ],
+    "score_of_similarity": [
+        0.76
+    ]
+}

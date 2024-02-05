@@ -1,0 +1,141 @@
+{
+    "title": "Jo Churchill",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Johanna Peta Churchill is a British Conservative Party politician who has served as the Member of Parliament (MP) for Bury St",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "Edmunds since the 2015 general election",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "She has served as Minister of State in the Department for Work and Pensions since November 2023. She previously served as Vice-Chamberlain of the Household from 2022 to 2023. In that role, she took part in the 2023 Coronation, and the 2023 State Opening of Parliament",
+                    "sentence_id": "2",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Johanna Churchill was privately educated at Dame Alice Harpur School",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Churchill was the finance director of a scaffolding company and served on Lincolnshire County Council",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "Churchill is the member of parliament (MP) for the constituency of Bury St Edmunds in Suffolk, which encompasses Bury St Edmunds and Stowmarket, having first taken her seat at the 2015 general election",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": " She has previously sat on the Women and Equalities Committee and the Environmental Audit Select Committee",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "Churchill was opposed to Brexit prior to the 2016 referendum",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": " She has since stated that the EU referendum result must be respected and therefore supported Theresa May in triggering Article 50 (the formal process of leaving the EU)",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "She entered government when she was made an assistant government whip during the reshuffle on 9 January 2018, having previously served as PPS to Jeremy Hunt, Secretary of State for the Department of Health",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 9
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "In July 2019, Churchill was appointed Parliamentary Under-Secretary of State for Prevention, Public Health and Primary Care at the Department for Health and Social Care in the first Johnson ministry",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 10
+                }
+            ]
+        },
+        {
+            "paragraph_index": 7,
+            "sentences": [
+                {
+                    "sentence": "In September 2021, Churchill was appointed Parliamentary Under-Secretary of State for Agri-Innovation and Climate Adaptation at the Department for Environment, Food and Rural Affairs during the second cabinet reshuffle of the second Johnson ministry",
+                    "sentence_id": "0",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 11
+                },
+                {
+                    "sentence": " She resigned from this position in 2022 in protest at Boris Johnson's conduct in the Chris Pincher scandal",
+                    "sentence_id": "1",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 12
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "She was educated at Dame Alice Harpur School ."
+    ],
+    "main_sentence_from_docx": [
+        "Johanna Churchill was privately educated at Dame Alice Harpur School"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        3
+    ],
+    "global_sentence_index_spike": [
+        1038590
+    ],
+    "score_of_similarity": [
+        0.61
+    ]
+}

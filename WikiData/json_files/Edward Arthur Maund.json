@@ -1,0 +1,144 @@
+{
+    "title": "Edward Arthur Maund",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Edward Arthur Maund (1851 – 17 March 1932, Hampstead) was an African explorer and Rhodesian pioneer",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "He was educated at Hurstpierpoint College, where he later acted as Assistant Master between 1872 and 1873, and matriculated at Peterhouse, Cambridge, in 1873. He emigrated to South Africa where he played an active role in establishing British settlement in Rhodesia",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "He served with the Bechuanaland Field Force under Sir Charles Warren during the Warren Expedition in Bechuanaland in 1884 and 1885, and in Mashonaland between 1889 and 1896.",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Maund was one of three officers sent to inform Lobengula that Britain had declared Bechuanaland a protectorate",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "He realised the commercial potential of Mashonaland and interested George Cawston, a London financier, in procuring mining rights and Lord Gifford who had obtained substantial mineral rights in Northern Bechuanaland, and sought to extend his mining concessions to Mashonaland",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "Maund left for Bulawayo to negotiate terms",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "Rhodes had got wind of this and hurriedly sent off his own party consisting of Charles Rudd, Rochfort Maguire and Frank Thompson",
+                    "sentence_id": "3",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "On 30 October 1888, through political subterfuge involving Governor Robinson (later rewarded with a large number of shares in the British South Africa Company) and Sir Sydney Shippard, Rhodes obtained the mineral rights later to be called the Rudd Concession",
+                    "sentence_id": "4",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "Maund disputed the concession and set off for London with two of Lobengula's indunas to see Queen Victoria, report on the trickery perpetrated by Rhodes and ask for her advice and assistance",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": " Maund and his party returned to Bulawayo, armed with a letter from the Colonial Secretary, Lord Knutsford to Lobengula advising him to be cautious",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": "Rhodes now sought amalgamation of all the interested parties with a view to obtaining a royal charter",
+                    "sentence_id": "2",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": "Maund was obliged to support this new move, much to Lobengula's suspicion",
+                    "sentence_id": "3",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 11
+                },
+                {
+                    "sentence": "The tense situation was relieved by the arrival of Dr",
+                    "sentence_id": "4",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 12
+                },
+                {
+                    "sentence": "Jameson, news that the charter had been granted and further letters from the Colonial Secretary",
+                    "sentence_id": "5",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 13
+                },
+                {
+                    "sentence": "Maund played no further political part, but was active in the development of Salisbury",
+                    "sentence_id": "6",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 14
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "Maund was married to Elenora Maund with daughter Cecily Elenora Miele Maund, born in Salisbury on 12 April 1895 and sponsored at her baptism by Cecil John Rhodes and Leander Starr Jameson",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 15
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at Hurstpierpoint College , where he later acted as Assistant Master between 1872 and 1873 , and matriculated at Peterhouse , Cambridge in 1873 ."
+    ],
+    "main_sentence_from_docx": [
+        "He was educated at Hurstpierpoint College, where he later acted as Assistant Master between 1872 and 1873, and matriculated at Peterhouse, Cambridge, in 1873. He emigrated to South Africa where he played an active role in establishing British settlement in Rhodesia"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        1
+    ],
+    "global_sentence_index_spike": [
+        468099
+    ],
+    "score_of_similarity": [
+        0.69
+    ]
+}

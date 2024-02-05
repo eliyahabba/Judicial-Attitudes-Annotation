@@ -1,0 +1,85 @@
+{
+    "title": "Cecil Hall",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "(John) Cecil Hall  (17 May 1804 - 8 February 1844) was Archdeacon of Man from 19 September 1839 until his death",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "The son of Charles Henry Hall, Dean of Christ Church he was educated at his father's college; and held incumbencies at Great Cressingham and Kirk Andreas",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": " In 1832 he married Frances Amelia, daughter of The Honourable John Wingfield-Stratford",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "This article about a Church of England archdeacon in the Province of York is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "This Manx biography article is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 6
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "The son of Charles Henry Hall , Dean of Christ Church he was educated at his father 's college ; and held incumbencies at Great Cressingham and Kirk Andreas ."
+    ],
+    "main_sentence_from_docx": [
+        "The son of Charles Henry Hall, Dean of Christ Church he was educated at his father's college; and held incumbencies at Great Cressingham and Kirk Andreas"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        1
+    ],
+    "global_sentence_index_spike": [
+        130961
+    ],
+    "score_of_similarity": [
+        0.03
+    ]
+}

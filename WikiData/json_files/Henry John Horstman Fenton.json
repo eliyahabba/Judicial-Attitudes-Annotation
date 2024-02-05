@@ -1,0 +1,74 @@
+{
+    "title": "Henry John Horstman Fenton",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Henry John Horstman Fenton (18 February 1854 – 13 January 1929) was a British chemist who, in the 1890s, invented Fenton's reagent, a solution of hydrogen peroxide and an iron catalyst that is used to oxidize contaminants or waste waters",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "Fenton's reagent can be used to destroy organic compounds such as trichloroethylene (TCE) and tetrachloroethylene (PCE)",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Born in London, Henry Fenton was educated at Magdalen College School, King's College London and Christ's College, Cambridge",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": " He became the university demonstrator in Chemistry at Cambridge in 1878, and was University Lecturer in Chemistry from 1904 to 1924.",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "This article about a British chemist is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "Born in London , Henry Fenton was educated at Magdalen College School , King 's College London and Christ 's College , Cambridge ."
+    ],
+    "main_sentence_from_docx": [
+        "Born in London, Henry Fenton was educated at Magdalen College School, King's College London and Christ's College, Cambridge"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        2
+    ],
+    "global_sentence_index_spike": [
+        519084
+    ],
+    "score_of_similarity": [
+        0.05
+    ]
+}

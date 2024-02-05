@@ -1,0 +1,68 @@
+{
+    "title": "James Croft (priest)",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "James Croft (2 July 1784  – 9 May 1869) was Archdeacon of Canterbury from 18 June 1825 until his death",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "The son of Robert Croft, Canon of York, he was educated at Peterhouse, Cambridge",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "Croft was ordained in 1810 and held incumbencies at Ingoldmells, Saltwood, Great Chart and Cliffe-at-Hoo",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "This article about a Church of England archdeacon in the Province of Canterbury is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "The son of Robert Croft , Canon of York , he was educated at Peterhouse , Cambridge ."
+    ],
+    "main_sentence_from_docx": [
+        "The son of Robert Croft, Canon of York, he was educated at Peterhouse, Cambridge"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        1
+    ],
+    "global_sentence_index_spike": [
+        649626
+    ],
+    "score_of_similarity": [
+        0.06
+    ]
+}

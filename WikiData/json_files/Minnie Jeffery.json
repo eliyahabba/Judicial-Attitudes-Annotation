@@ -1,0 +1,144 @@
+{
+    "title": "Minnie Jeffery",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Minnie Johns Jeffery MBE (22 June 1884 – 6 January 1963) was a New Zealand civilian and military nurse and midwife",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "She served as a nurse during World War I",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Jeffery was born in Dunedin to James Jeffery and his wife Annie (née Johns)",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "The family lived in Andersons Bay, and Jeffery was educated at Andersons Bay School, where her father taught and was headmaster",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Jeffery trained as a nurse and midwife in Dunedin, qualifying as a state registered nurse in 1910. She later became Matron at the Karitane Home, which specialised in babycare",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "She enlisted as a military nurse in 1914 and left New Zealand on Hospital Ship No",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "1, the Maheno",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": " Her war service was varied: she helped evacuate wounded soldiers from Gallipoli, worked in Alexandria at the New Zealand General Hospital and helped evacuate casualties from Solum and Tobruk to Alexandria",
+                    "sentence_id": "3",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "Later, she served on the French ship Valdivia and evacuated wounded from the Balkans",
+                    "sentence_id": "4",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": " In September 1915, she was injured and lost her right eye",
+                    "sentence_id": "5",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": " In October 1915, Jeffery was aboard the SS Marquette when it was torpedoed and sunk in the Aegean Sea",
+                    "sentence_id": "6",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": "She escaped in one of the few lifeboats to be successfully launched",
+                    "sentence_id": "7",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 11
+                },
+                {
+                    "sentence": " Jeffery also nursed at the New Zealand General Hospital in Walton-on-Thames, England",
+                    "sentence_id": "8",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 12
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "After the war, Jeffery returned to Dunedin and nursed in the soldiers' ward at the public hospital",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 13
+                },
+                {
+                    "sentence": "In 1920 she joined the Health Department and worked there as a nursing inspector until her retirement",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 14
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "Jeffery died in Dunedin on 6 January 1963 and is buried in Andersons Bay Cemetery",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 15
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "The family lived in Andersons Bay , and Jeffery was educated at Andersons Bay School , where her father taught and was headmaster ."
+    ],
+    "main_sentence_from_docx": [
+        "The family lived in Andersons Bay, and Jeffery was educated at Andersons Bay School, where her father taught and was headmaster"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_1"
+    ],
+    "global_sentence_index_docx": [
+        3
+    ],
+    "global_sentence_index_spike": [
+        492037
+    ],
+    "score_of_similarity": [
+        0.03
+    ]
+}

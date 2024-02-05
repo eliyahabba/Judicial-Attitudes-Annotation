@@ -1,0 +1,85 @@
+{
+    "title": "Ricky Marsh (journalist)",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Ernest Henry \"Ricky\" Marsh (26 August 1926 – 31 March 2015) was The Daily Telegraph’s foreign editor for 25 years from 1961.",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Marsh was educated at Ilford County High School after which he worked for the Ilford Guardian and the Dagenham Post",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "He worked as a Bevin Boy and subsequently as an officer in the Royal Army Service Corps and as a public relations officer in postwar Germany",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "Marsh then worked for British United Press and Associated Press before joining Reuters and lastly The Daily Telegraph",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Marsh married Kay Ramsay with whom he had two sons, one of whom was the literary agent Paul Marsh",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "This article about a British journalist is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 6
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "Marsh was educated at Ilford County High School after which he worked for the \" Ilford Guardian \" and the \" Dagenham Post \" ."
+    ],
+    "main_sentence_from_docx": [
+        "Marsh was educated at Ilford County High School after which he worked for the Ilford Guardian and the Dagenham Post"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        1
+    ],
+    "global_sentence_index_spike": [
+        1144731
+    ],
+    "score_of_similarity": [
+        0.08
+    ]
+}

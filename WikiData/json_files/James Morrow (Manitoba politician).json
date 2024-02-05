@@ -1,0 +1,161 @@
+{
+    "title": "James Morrow (Manitoba politician)",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "James Morrow (July 8, 1857 – March 1, 1949) was a politician in Manitoba, Canada",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "He served in the Legislative Assembly of Manitoba from 1911 to 1915, as a member of the Conservative Party",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Morrow was born to William Morrow and Nancy Booth, an Irish family in Mille-Isles, Canada East (now Quebec)",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "His father was a member of the 11th Argenteuil Rangers during the Fenian raids of 1866.  Morrow was educated at common school, and worked as a farmer",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "He moved to Manitoba in 1879, and served as councillor and reeve of the Rural Municipality of Louise for ten years",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "Morrow married Mary A",
+                    "sentence_id": "3",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "McDougall in 1883. In religion, he was a Presbyterian",
+                    "sentence_id": "4",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "He was first elected to the Manitoba legislature in a by-election held in the constituency of Manitou on October 31, 1911, after incumbent member Robert Rogers resigned to run for the House of Commons of Canada",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "Morrow was elected without opposition, and served as a backbench supporter of Rodmond Roblin's government",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": "He was re-elected by seventy votes over Liberal I",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": "H",
+                    "sentence_id": "3",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": "Davidson in the 1914 provincial election",
+                    "sentence_id": "4",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 11
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "The Roblin administration was forced to resign in 1915, after a report commissioned by the Lieutenant Governor found the government guilty of corruption in the tendering of contracts for new legislative buildings",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 12
+                },
+                {
+                    "sentence": " A new election was called, which the Liberals won in a landslide",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 13
+                },
+                {
+                    "sentence": "Morrow was not a candidate for re-election",
+                    "sentence_id": "2",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 14
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "He died at the Grace Hospital in Winnipeg",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 15
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "This article about a Manitoba politician is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 16
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 17
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "Morrow was educated at common school , and worked as a farmer ."
+    ],
+    "main_sentence_from_docx": [
+        "Morrow married Mary A"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_3"
+    ],
+    "global_sentence_index_docx": [
+        5
+    ],
+    "global_sentence_index_spike": [
+        911803
+    ],
+    "score_of_similarity": [
+        0.75
+    ]
+}

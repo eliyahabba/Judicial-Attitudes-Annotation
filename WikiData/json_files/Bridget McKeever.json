@@ -1,0 +1,148 @@
+{
+    "title": "Bridget McKeever",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Bridget McKeever (born 2 February 1983), also known as Bridget Cleland, is a former Ireland women's field hockey international",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "Between 2003 and 2010 she made 150 senior appearances for Ireland",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "She also captained Ireland",
+                    "sentence_id": "2",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "McKeever was educated at Dalriada School and Stranmillis University College",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "McKeever played senior club field hockey for Ballymoney, playing in various competitions including the Ulster Shield, the Irish Senior Cup",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "and the Women's Irish Hockey League",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "Her team mates at Ballymoney have included Angela Platt, Megan Frazer and Katie Mullan",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": " McKeever played for Ballymoney during 2016–17 Women's Irish Hockey League season",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "McKeever was first called up for a senior Ireland squad in June 2003 and in July 2003 she made her full debut against Japan",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": " Between 2003 and 2010 she made 150 senior appearances for Ireland",
+                    "sentence_id": "1",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": " In February 2008 McKeever captained Ireland as she made her 100th senior appearance against China",
+                    "sentence_id": "2",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": " She also captained Ireland when she made her final appearance against Australia in July 2010.",
+                    "sentence_id": "3",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 11
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "In 2006 McKeever began working as a PE teacher at Dalriada School",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 12
+                },
+                {
+                    "sentence": " She also coached at Ballymoney",
+                    "sentence_id": "1",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 13
+                },
+                {
+                    "sentence": "McKeever mentored Katie Mullan at both Dalriada and Ballymoney",
+                    "sentence_id": "2",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 14
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "McKeever was educated at Dalriada School and Stranmillis University College ."
+    ],
+    "main_sentence_from_docx": [
+        "McKeever was educated at Dalriada School and Stranmillis University College"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        3
+    ],
+    "global_sentence_index_spike": [
+        376476
+    ],
+    "score_of_similarity": [
+        0.03
+    ]
+}

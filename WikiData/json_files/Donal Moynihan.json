@@ -1,0 +1,97 @@
+{
+    "title": "Donal Moynihan",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Donal Moynihan (2 October 1941 – 29 October 2022) was an Irish Fianna Fáil politician who served as a Teachta Dála (TD) for the Cork North-West constituency from 1982 to 1989 and 1992 to 2007.",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Moynihan was born in Ballymakeera, County Cork, in 1941. He was educated at Ballyvourney Vocational School, and worked as a farmer before entering politics on a full-time basis",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "He was married to Catherine Twomey, and they had nine children",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "Moynihan first held political office when he was co-opted onto Cork County Council in 1970, taking over his father's seat which the elder Moynihan had held since 1928. Donal Moynihan was first elected to Dáil Éireann at the November 1982 general election",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "He retained his seat until the 1989 general election, when he lost out to his running mate, Laurence Kelly",
+                    "sentence_id": "3",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Moynihan regained his seat at the 1992 general election, unseating Kelly in the process and was re-elected at the 1997 and 2002 general elections",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "In Dáil Éireann, he was a member of the Oireachtas Joint Committee on Heritage and the Irish language, and was also a member of the Joint House Services Committee",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "He lost his seat at the 2007 general election to party colleague Batt O'Keeffe",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "His son Aindrias Moynihan was elected as a TD for Cork North-West in 2016. Donal Moynihan died on 29 October 2022.",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 8
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at Ballyvourney Vocational School , and worked as a farmer before entering politics on a full - time basis ."
+    ],
+    "main_sentence_from_docx": [
+        "Moynihan was born in Ballymakeera, County Cork, in 1941. He was educated at Ballyvourney Vocational School, and worked as a farmer before entering politics on a full-time basis"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        1
+    ],
+    "global_sentence_index_spike": [
+        121804
+    ],
+    "score_of_similarity": [
+        0.5
+    ]
+}

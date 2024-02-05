@@ -1,0 +1,80 @@
+{
+    "title": "Edward Ash",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Edward Philip Ash (25 December 1842 – 25 May 1909) was an English schoolmaster and a cricketer who played five first-class matches for Cambridge University Cricket Club in 1865. He was born at Brisley, Norfolk and died at Petersfield, Hampshire",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "The son of the rector of Brisley, Edward Ash was educated at Rugby School and at Gonville and Caius College, Cambridge",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": " Having played cricket at Rugby, he appeared in matches for Cambridge University only in his final year at the university, when he was awarded his Blue by playing in the 1865 University Match against Oxford University",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": " A right-handed middle-order batsman, Ash made scores of 18 and 8 in that game, which Cambridge lost",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": " Earlier in the same 1865 cricket season, Ash's best first-class match had been his first one: Eddie scored 47 (out of a total innings of 98) and 17 in the game against Cambridgeshire",
+                    "sentence_id": "3",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": " He played no further first-class cricket after the University Match",
+                    "sentence_id": "4",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Ash graduated from Cambridge University with a Bachelor of Arts degree in 1866; this was automatically converted to a Master of Arts in 1869. Before graduation, he had joined the staff of Haileybury College as an assistant master in 1865, and he stayed there until he retired in 1902.",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "The son of the rector of Brisley , Edward Ash was educated at Rugby School and at Gonville and Caius College , Cambridge ."
+    ],
+    "main_sentence_from_docx": [
+        "The son of the rector of Brisley, Edward Ash was educated at Rugby School and at Gonville and Caius College, Cambridge"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        1
+    ],
+    "global_sentence_index_spike": [
+        610280
+    ],
+    "score_of_similarity": [
+        0.03
+    ]
+}

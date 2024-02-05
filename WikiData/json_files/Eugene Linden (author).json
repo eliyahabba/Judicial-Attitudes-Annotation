@@ -1,0 +1,159 @@
+{
+    "title": "Eugene Linden (author)",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Eugene Linden (born 1947) is an American author of non-fiction books on animal intelligence, popular science, technology, the environment, and humanity's relationship with nature",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Linden was educated at Yale University",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": " He lives in Nyack, New York",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "Besides his books, Linden has published articles and essays in Time, Foreign Affairs, The Wall Street Journal et al",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "He published a cover story on the demoralization of American forces in Vietnam in Saturday Review, December 1971. Linden was a senior writer at Inc",
+                    "sentence_id": "3",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "in 1984, and a senior writer at Time in 1987-1995, followed by a contributor in 1995-2001.",
+                    "sentence_id": "4",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "His books The Parrot's Lament (1999) and The Octopus and the Orangutan (2002) have been positively reviewed as making a compelling argument for consciousness in animals",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "Linden serves on several nonprofit boards and advisory committees, and is an independent director of three companies",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "He has appeared on television, including The Daily Show and Comedy Central, and on radio, including National Public Radio (NPR)",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "Linden is currently Chief Investment Strategist at Bennett Management in Stamford, Connecticut, a family of investment funds specializing in distress and bankruptcies",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 9
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "Linden has been awarded a Citation for Excellence by the Overseas Press Club for his story \"The Rape of Siberia\", the Harry Chapin Media Awards for Best Periodical (1994), and Global Media Award for Best Periodical by the Population Institute (1994), both for his story \"Megacities\"",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": "He also received two Genesis Awards for writing on the subject of animals for his articles \"Can Animals Think",
+                    "sentence_id": "1",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 11
+                },
+                {
+                    "sentence": "\" (1995) and \"Doomed\"",
+                    "sentence_id": "2",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 12
+                },
+                {
+                    "sentence": "He received a Yale University Poynter Fellowship in 2001, the Walter Sullivan Award for Excellence in Science Journalism from the American Geophysical Union, and the Grantham Prize Special Award of Merit in 2007.",
+                    "sentence_id": "3",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 13
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "Articles",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 14
+                }
+            ]
+        },
+        {
+            "paragraph_index": 7,
+            "sentences": [
+                {
+                    "sentence": "Books",
+                    "sentence_id": "0",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 15
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at Yale University ."
+    ],
+    "main_sentence_from_docx": [
+        "Eugene Linden (born 1947) is an American author of non-fiction books on animal intelligence, popular science, technology, the environment, and humanity's relationship with nature"
+    ],
+    "main_sentence_id_in_docx": [
+        "0_0"
+    ],
+    "global_sentence_index_docx": [
+        0
+    ],
+    "global_sentence_index_spike": [
+        1120958
+    ],
+    "score_of_similarity": [
+        4.28
+    ]
+}

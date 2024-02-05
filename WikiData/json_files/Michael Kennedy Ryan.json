@@ -1,0 +1,135 @@
+{
+    "title": "Michael Kennedy Ryan",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Canon Michael Kennedy Ryan (4 October 1867 – 3 April 1925) was an Irish Catholic priest, teacher and supporter of the Gaelic Athletic Association",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Michael Kennedy Ryan was born at Knockfune, Newport, County Tipperary, on 4 October 1867.  (Other sources give an alternative birthdate of 29 September 1868.)",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "He was educated locally at Toor National School before going to Mount Mellery",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "He went to study for the priesthood in St",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "Patrick's College, Thurles, and from there he proceeded to Maynooth College where he was ordained in 1893.",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "He served as Chairman of the Tipperary County Board of the GAA",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "He taught at the seminary of St",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "Patrick's College, Thurles for four years",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "The New Stand, Ardán Ui Riain in Semple Stadium is named after Canon Ryan",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "The Canon Ryan Memorial Hall in Lattin, South Tipperary where he served as parish priest is also named after him",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 9
+                }
+            ]
+        },
+        {
+            "paragraph_index": 7,
+            "sentences": [
+                {
+                    "sentence": "His family were heavily involved in Gaelic sports and Irish nationalism, and two of his brothers were significant figures in the GAA",
+                    "sentence_id": "0",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": "His nephew Paddy Ryan (Lacken) played a significant role in the war of independence in Tipperary (Newport GAA's Lacken Park is named after him) and was elected TD for Tipperary in 1923. Another nephew Martin Ryan was a Fianna Fáil politician who represented Tipperary North in the Dáil",
+                    "sentence_id": "1",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 11
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated locally at Toor National School before going to Mount Mellery ."
+    ],
+    "main_sentence_from_docx": [
+        "He was educated locally at Toor National School before going to Mount Mellery"
+    ],
+    "main_sentence_id_in_docx": [
+        "2_0"
+    ],
+    "global_sentence_index_docx": [
+        2
+    ],
+    "global_sentence_index_spike": [
+        390712
+    ],
+    "score_of_similarity": [
+        0.03
+    ]
+}

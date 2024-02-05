@@ -1,0 +1,116 @@
+{
+    "title": "James Weldon Johnson Residence",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "The James Weldon Johnson Residence is a historic apartment house located at 187 West 135th Street, Harlem, Manhattan, New York City, New York",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "It is here where James Weldon Johnson (1871-1938) lived from 1925 until his death",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "In addition to being a composer, songwriter, and author, he was an outspoken advocate for civil rights, working in various roles at the NAACP, including as its General Secretary during his residency here",
+                    "sentence_id": "2",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "  The building was declared a National Historic Landmark in 1976.",
+                    "sentence_id": "3",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "The James Weldon Johnson Residence is located on the north side of West 135th Street, just east of its junction with Seventh Avenue in Manhattan's northern Harlem neighborhood",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "It is one of a pair of similar five-story brick buildings, which share styling and a party wall",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "The buildings have Romanesque styling, with that on the left exhibiting a curved corner bay",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "The buildings share a projecting cornice with modillion blocks, as well as gabled roof over their entrances, which stand on either side of the party wall",
+                    "sentence_id": "3",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "The facades are each three bays wide, with sash windows set in rectangular openings with limestone sills and lintels",
+                    "sentence_id": "4",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "James Weldon Johnson occupied one of the units at #187 from 1925 until his death in 1938.  Born in Florida in 1871 to middle-class African-Americans, Johnson was educated at Atlanta University, and had a diverse career as an educator, composer, singer, author, and journalist",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": "He was hired by the National Association for the Advancement of Colored People (NAACP) in 1916, and held positions of importance in the organization for the rest of his productive life",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": "He was instrumental in building the organization in the segregated South, and lobbied for anti-lynching legislation",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 11
+                },
+                {
+                    "sentence": "He died in a car accident in 1938.",
+                    "sentence_id": "3",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 12
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "Born in Florida in 1871 to middle - class African - Americans , Johnson was educated at Atlanta University , and had a diverse career as an educator , composer , singer , author , and journalist ."
+    ],
+    "main_sentence_from_docx": [
+        "James Weldon Johnson occupied one of the units at #187 from 1925 until his death in 1938.  Born in Florida in 1871 to middle-class African-Americans, Johnson was educated at Atlanta University, and had a diverse career as an educator, composer, singer, author, and journalist"
+    ],
+    "main_sentence_id_in_docx": [
+        "2_0"
+    ],
+    "global_sentence_index_docx": [
+        9
+    ],
+    "global_sentence_index_spike": [
+        245929
+    ],
+    "score_of_similarity": [
+        0.53
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "title": "Weston Cracroft Amcotts",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Weston Cracroft Amcotts (9 March 1815 – 14 July 1883) was an English Liberal Party politician who sat in the House of Commons from 1868 to 1874.",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Amcotts was born William Cracroft, son of Robert Cracroft of Hackthorn and his wife Augusta Ingilby, daughter of Sir John Ingilby, 1st Baronet",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "He was educated at Eton College",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "In 1855 he assumed by Royal licence the name of Amcotts when he inherited Kettlethorpe Hall in Lincolnshire from his uncle Sir William Amcotts-Ingilby, 2nd Baronet",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "He then inherited Hackthorn Hall from his father in 1862 but chose to live at Kettlethorpe after renovating it in 1863. He was a Deputy Lieutenant for Lincolnshire and a J",
+                    "sentence_id": "3",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "P",
+                    "sentence_id": "4",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "for Lindsey, Lincolnshire and was High Sheriff of Lincolnshire for 1861–62.",
+                    "sentence_id": "5",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "He was a major in the Royal North Lincoln Militia and the Lieutenant-colonel of the 1st Battalion Lincolnshire Rifle Volunteers",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "At the 1868 general election Amcotts was elected Member of Parliament for Mid Lincolnshire",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": "He held the seat until 1874.",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 9
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "Amcotts died at the age of 68 and was succeeded by his eldest surviving son",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 10
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "Amcotts married firstly (on 16 May 1844) Emma, second daughter of William George Cherry, of Buckland, Herefordshire, and had three sons; he then married secondly, on 21 April 1864, Ellen, widow of Henry Nevile, of Wellingore, and daughter of Rev",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 11
+                },
+                {
+                    "sentence": "Charles Bryne",
+                    "sentence_id": "1",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 12
+                },
+                {
+                    "sentence": "His three sons were:",
+                    "sentence_id": "2",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 13
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "This article about a Liberal Member of the Parliament of the United Kingdom representing an English constituency is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 14
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 15
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at Eton College ."
+    ],
+    "main_sentence_from_docx": [
+        "He was educated at Eton College"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_1"
+    ],
+    "global_sentence_index_docx": [
+        2
+    ],
+    "global_sentence_index_spike": [
+        1066036
+    ],
+    "score_of_similarity": [
+        0.06
+    ]
+}

@@ -1,0 +1,164 @@
+{
+    "title": "Gerald R. Leighton",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Prof Gerald Rowley Leighton FRSE OBE (12 December 1868 – 8 September 1953) was a British physician, zoologist and specialist in reptiles",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "He founded the magazine Field Naturalists Quarterly in 1902.",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Leighton was born on 12 December 1868 in Bispham a suburb of Blackpool, the son of Rev James Leighton of Hereford",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "He was educated at Nelson College in New Zealand and Manchester Grammar School",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "He then studied Medicine at Edinburgh University, graduating MB in 1895. He decided to specialise in animal health",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "In 1901 he received his doctorate (MD)",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": " That same year he was lecturing at the Dick Vet College and living at 17 Hartington Place in Edinburgh",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": " The college later made him Professor of Comparative Pathology and Bacteriology",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "Edinburgh Corporation appointed him Inspector of Abattoires and Dairies",
+                    "sentence_id": "3",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "In 1903 he was elected a Fellow of the Royal Society of Edinburgh",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": "His proposers were James Cossar Ewart, Sir William Turner, Ramsay Heatley Traquair, and George Alexander Gibson",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 10
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "Syracuse University in New York awarded him an honorary doctorate (DSc)",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 11
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "In the First World War he served as a Lieutenant Colonel in the Royal Army Service Corps",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 12
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "He died on the Isle of Man on 8 September 1953.",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 13
+                }
+            ]
+        },
+        {
+            "paragraph_index": 7,
+            "sentences": [
+                {
+                    "sentence": "Leighton was married to Clara Gordon",
+                    "sentence_id": "0",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 14
+                }
+            ]
+        },
+        {
+            "paragraph_index": 8,
+            "sentences": [
+                {
+                    "sentence": "Leighton is commemorated in the scientific name of a species of snake, Psammophis leightoni",
+                    "sentence_id": "0",
+                    "paragraph_index": 8,
+                    "global_sentence_index": 15
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at Nelson College in New Zealand and Manchester Grammar School ."
+    ],
+    "main_sentence_from_docx": [
+        "He was educated at Nelson College in New Zealand and Manchester Grammar School"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_1"
+    ],
+    "global_sentence_index_docx": [
+        3
+    ],
+    "global_sentence_index_spike": [
+        236662
+    ],
+    "score_of_similarity": [
+        0.03
+    ]
+}

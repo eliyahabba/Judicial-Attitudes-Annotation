@@ -1,0 +1,125 @@
+{
+    "title": "Sonam Dechen Wangchuck (born 1981)",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Princess Sonam Dechen Wangchuck (born 5 August 1981) is a princess of Bhutan",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "She is the daughter of the Fourth King of Bhutan Jigme Singye Wangchuck and Queen Mother Dorji Wangmo Wangchuck",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "She is half-sister of the fifth King, Jigme Khesar Namgyel Wangchuck",
+                    "sentence_id": "2",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "She was educated at Lungtenzampa Middle Secondary School and Yangchenphug Higher Secondary School, Choate Rosemary Hall, Wallingford, Connecticut, US",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "She has a degree in international relations from Stanford University (1999) and a Masters in law from Harvard Law School (2007)",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "  She also clerked for the Royal High Court of Bhutan, later working at the Judiciary of the Kingdom of Bhutan as President of the Bhutan National Legal Institute (BNLI)",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "Sonam is a Bhutanese name denoting merit, longevity and good fortune",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "She married a distant relative, Phub W",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "Dorji (born on 1 January 1980) at the Motithang Palace on 5 April 2009. He is a son of Zepon Wangchuck, a former monk, Chief Architect and project manager, from Takchu Gompa, Haa, by his wife, Ugyen Dolma, from Gaselo",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": "Phub W",
+                    "sentence_id": "2",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": "Dorji has degrees from US universities, later working in the Finance Ministry",
+                    "sentence_id": "3",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 10
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "They have two sons:",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 11
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "She was educated at Luntenzampa Middle Secondary School and Yangchenphug Higher Secondary School , Choate Rosemary Hall , Wallingford , Connecticut ."
+    ],
+    "main_sentence_from_docx": [
+        "She was educated at Lungtenzampa Middle Secondary School and Yangchenphug Higher Secondary School, Choate Rosemary Hall, Wallingford, Connecticut, US"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        3
+    ],
+    "global_sentence_index_spike": [
+        170412
+    ],
+    "score_of_similarity": [
+        0.05
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "title": "John Alleyn (barrister)",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "John Alleyn or Allen (1 March 1621 – 26 June 1663) was an English barrister and Fellow of the Royal Society who also sat in the Convention Parliament from April to December 1660.",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "John Alleyn was probably the son of Giles Allen, Rector of Little Waltham, and his wife Elizabeth, daughter of William Massam",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "He was educated at Emmanuel College, Cambridge, where he matriculated in 1639, before being admitted to Gray's Inn in 1642.",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "He was returned as one of the Members of Parliament for St Michael, Cornwall in April 1660. He was elected a Fellow of the Royal Society in May, 1663 just before his death in Little Waltham, Essex",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "This article about a 17th-century Member of the Parliament of England (up to 1707) is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 5
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at Emmanuel College , Cambridge , where he matriculated in 1639 , before being admitted to Gray 's Inn in 1642 ."
+    ],
+    "main_sentence_from_docx": [
+        "He was educated at Emmanuel College, Cambridge, where he matriculated in 1639, before being admitted to Gray's Inn in 1642."
+    ],
+    "main_sentence_id_in_docx": [
+        "1_1"
+    ],
+    "global_sentence_index_docx": [
+        2
+    ],
+    "global_sentence_index_spike": [
+        485937
+    ],
+    "score_of_similarity": [
+        0.04
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "title": "Julius Leopold Klein",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Julius Leopold Klein (Hungarian: Klein Gyula Lipót; 1810 – 2 August 1876) was a German writer of Jewish origin born at Miskolc, Hungary",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Klein was educated at the gymnasium in Pest, and studied medicine in Vienna and Berlin",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "After travelling in Italy and Greece, he settled as a man of letters in Berlin, where he remained until his death",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "He was the author of many dramatic works, among others the historical tragedies Maria von Medici (1841), Luines (1842), Zenobia (1847), Moreto (1859), Maria (1860), Strafford (1862), and Heliodora (1867); and the comedies Die Herzogin (1848), Ein Schützling (1850), and Voltaire (1862)",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "The tendency of Klein as a dramatist was to become bombastic and obscure, but many of his characters are vigorously conceived, and in nearly all his tragedies there are passages of brilliant rhetoric",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "Klein is chiefly known as the author of the elaborate though uncompleted Geschichte des Dramas (1865–1876), in which he undertook to record the history of the drama from the earliest times",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "He died when about to enter upon the Elizabethan era, to the treatment of which he had looked forward as the chief part of his task",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "The work, which is in thirteen bulky volumes, gives proof of immense learning, but is marred by eccentricities of style and judgment",
+                    "sentence_id": "2",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "Klein's Dramatische Werke were collected in 7 vols",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 8
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "Klein was educated at the gymnasium in Pest , and studied medicine in Vienna and Berlin ."
+    ],
+    "main_sentence_from_docx": [
+        "Klein was educated at the gymnasium in Pest, and studied medicine in Vienna and Berlin"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        1
+    ],
+    "global_sentence_index_spike": [
+        1091733
+    ],
+    "score_of_similarity": [
+        0.03
+    ]
+}

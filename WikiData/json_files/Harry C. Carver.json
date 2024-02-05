@@ -1,0 +1,155 @@
+{
+    "title": "Harry C. Carver",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Harry Clyde Carver (December 4, 1890 – January 30, 1977) was an American mathematician and academic, primarily associated with the University of Michigan",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "He was a major influence in the development of mathematical statistics as an academic discipline",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Born in Waterbury, Connecticut, Carver was educated at the University of Michigan, earning his B",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "S",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "degree in 1915, and the next year becoming an instructor in mathematics; he taught statistics in actuarial applications",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "At the time, the University of Michigan was only the second such institution in the United States to offer this type of course, after the pioneering Iowa State University",
+                    "sentence_id": "3",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "Carver was appointed assistant professor at Michigan in 1918, then associate professor (1921) and full professor (1936); during this period the University's program in mathematical statistics and probability underwent significant expansion",
+                    "sentence_id": "4",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "In 1930, Carver founded the journal Annals of Mathematical Statistics, which over time became an important periodical in the field",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "Financial support, however, was lacking in the midst of the Great Depression; in January 1934, Carver undertook financial responsibility for the Annals and maintained the existence of the journal at his own expense",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": "In 1935, he helped to start the Institute of Mathematical Statistics, which in 1938 assumed control over the journal; Samuel S",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": "Wilks succeeded Carver as editor in the same year",
+                    "sentence_id": "3",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": "The Institute has named its Harry C",
+                    "sentence_id": "4",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 11
+                },
+                {
+                    "sentence": "Carver Medal after him",
+                    "sentence_id": "5",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 12
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "With the coming of World War II, Carver devoted his energies to solving problems in aerial navigation, an interest he maintained for the remainder of his life",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 13
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "In one lecture titled \"Let Us Own Data Science\" given by Bin Yu in 2014 at Peking University, Carver was described as in the following formula: Turner + Carver = \"Data Scientist\"",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 14
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "This article about a statistician from the United States is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 15
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 16
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "Born in Waterbury , Connecticut , Carver was educated at the University of Michigan , earning his B.S. degree in 1915 , and the next year becoming an instructor in mathematics ; he taught statistics in actuarial applications ."
+    ],
+    "main_sentence_from_docx": [
+        "degree in 1915, and the next year becoming an instructor in mathematics; he taught statistics in actuarial applications"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_2"
+    ],
+    "global_sentence_index_docx": [
+        4
+    ],
+    "global_sentence_index_spike": [
+        163952
+    ],
+    "score_of_similarity": [
+        0.47
+    ]
+}

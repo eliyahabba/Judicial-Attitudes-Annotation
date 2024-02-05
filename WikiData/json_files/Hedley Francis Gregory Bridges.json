@@ -1,0 +1,103 @@
+{
+    "title": "Hedley Francis Gregory Bridges",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Hedley Francis Gregory Bridges, PC (April 7, 1902 – August 10, 1947) was a Canadian politician",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Born in Fredericton, New Brunswick, the son of Hedley Vicars Burpee Bridges and Mabel Eloise Fulton Gregory, he was educated at the University of New Brunswick",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "He studied law and was called to the Bar of New Brunswick in 1927. Bridges served as solicitor for the Royal Bank of Canada at Campbellton",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "He also taught school and was a high school principal",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Bridges was a member of the Legislative Assembly of New Brunswick for the electoral district of Restigouche from 1935 to 1939. From 1936 to 1938, he was the Speaker of the Legislative Assembly",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "During World War II, he served in the Canadian Army with the II Canadian Corps",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "After the war, he was elected to the House of Commons of Canada representing the riding of York—Sunbury in the 1945 federal election",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "A Liberal, from 1945 until his death in 1947, he was the Minister of Fisheries",
+                    "sentence_id": "3",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "This article about a member of the Legislative Assembly of New Brunswick is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 9
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "Born in Fredericton , New Brunswick , the son of Hedley Vicars Burpee Bridges and Mabel Eloise Fulton Gregory , he was educated at the University of New Brunswick ."
+    ],
+    "main_sentence_from_docx": [
+        "Born in Fredericton, New Brunswick, the son of Hedley Vicars Burpee Bridges and Mabel Eloise Fulton Gregory, he was educated at the University of New Brunswick"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        1
+    ],
+    "global_sentence_index_spike": [
+        1011555
+    ],
+    "score_of_similarity": [
+        0.03
+    ]
+}

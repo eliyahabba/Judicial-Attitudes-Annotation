@@ -1,0 +1,180 @@
+{
+    "title": "Alexander McDonnell (engineer)",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Alexander McDonnell was an Irish locomotive engineer and civil engineer",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "He was born in Dublin on 18 December 1829 and died in Holyhead on 14 December 1904.  He was educated at Trinity College Dublin, where he graduated with an honours BA in mathematics (1851)",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": " He brought order and standardisation to the workshops and locomotive designs of the Great Southern and Western Railway of Ireland, and was later employed to do the same for the North Eastern Railway in England, although resistance to his changes meant little progress was made before he left",
+                    "sentence_id": "2",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "McDonnell was apprenticed at Newall and Gordon in Westminster before working as an engineer at the Newport, Abergavenny and Hereford Railway – later to become part of the Great Western Railway",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "From 1864 to 1883 he was Locomotive, Carriage and Wagon Superintendent of the Great Southern and Western Railway of Ireland at Inchicore",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "McDonnell reformed the GS&WR workshop practices and improved their speed and efficiency",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "He also introduced practices then in use at Crewe Works and standardised parts between locomotive classes",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "McDonnell was noted for his ability to recognise, and employ, men of talent",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "By doing this, he initiated the \"Inchicore school\" of locomotive engineers, who would include Sir John Aspinall, H",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": "A",
+                    "sentence_id": "2",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": "Ivatt, and R",
+                    "sentence_id": "3",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": "E",
+                    "sentence_id": "4",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 11
+                },
+                {
+                    "sentence": "L",
+                    "sentence_id": "5",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 12
+                },
+                {
+                    "sentence": "Maunsell",
+                    "sentence_id": "6",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 13
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "From 1 November 1882, McDonnell was Locomotive Superintendent of the North Eastern Railway (NER) in England; he succeeded Edward Fletcher, who had retired",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 14
+                },
+                {
+                    "sentence": "He found that Fletcher's locomotives, although good, did not use standardised components",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 15
+                },
+                {
+                    "sentence": "McDonnell decided that in future, locomotives would use shared standard parts where possible, and that locomotive design and construction would utilise the practices which he had used at Inchicore",
+                    "sentence_id": "2",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 16
+                },
+                {
+                    "sentence": " His first locomotive design for the NER, the '38' class 4-4-0, incorporated a number of unpopular features; and some popular features of Fletcher's engines were omitted",
+                    "sentence_id": "3",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 17
+                },
+                {
+                    "sentence": "Worse, although the new locomotives were larger than Fletcher's most recent designs, they were no more capable",
+                    "sentence_id": "4",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 18
+                },
+                {
+                    "sentence": " His only other design for the NER, the '59' class 0-6-0, were also unpopular; in this case, the engines were of similar size to Fletcher's most recent 0-6-0, but were less powerful",
+                    "sentence_id": "5",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 19
+                },
+                {
+                    "sentence": " As a consequence, McDonnell resigned from the NER in September 1884, receiving a year's salary as severance pay",
+                    "sentence_id": "6",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 20
+                },
+                {
+                    "sentence": " McDonnell was not replaced immediately, the NER's locomotive department then being managed by a committee chaired by Henry Tennant",
+                    "sentence_id": "7",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 21
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at Trinity College , Dublin , where he graduated with an honours BA in mathematics ( 1851 ) ."
+    ],
+    "main_sentence_from_docx": [
+        "Alexander McDonnell was an Irish locomotive engineer and civil engineer"
+    ],
+    "main_sentence_id_in_docx": [
+        "0_0"
+    ],
+    "global_sentence_index_docx": [
+        0
+    ],
+    "global_sentence_index_spike": [
+        528712
+    ],
+    "score_of_similarity": [
+        0.79
+    ]
+}

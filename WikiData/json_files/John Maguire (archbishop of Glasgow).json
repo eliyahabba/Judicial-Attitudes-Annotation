@@ -1,0 +1,129 @@
+{
+    "title": "John Maguire (archbishop of Glasgow)",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "John Aloysius Maguire (1851–1920) was a Roman Catholic bishop who served as the Archbishop of Glasgow from 1902 to 1920.",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Born in Glasgow on 8 September 1851, he was educated successively at St Mungo's Academy and St Aloysius' College, Glasgow, at Stonyhurst College, Glasgow University, and the Collegio di Propaganda Fide, Rome",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Following his ordination to the priesthood on 27 March 1875, he became an assistant priest in St",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "Andrew's Pro-Cathedral, Glasgow, and Diocesan Secretary four years later",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "In 1883, he was made incumbent at Partick, he became a Canon in 1884, Vicar-General in 1885, and Provost of the Chapter in 1893.",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "He was appointed an Auxiliary Bishop of Glasgow and Titular Bishop of Trocmades by Pope Leo XIII on 6 April 1894. His consecration to the Episcopate on 11 June 1894; the principal consecrator was Archbishop Angus MacDonald of Saint Andrews and Edinburgh, with Bishop James August Smith of Dunkeld and Bishop William Turner of Galloway, serving as co-consecrators",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "Following the death of Archbishop Charles Petre Eyre on 27 March 1902, Maguire was appointed the Archbishop of the archiepiscopal see of Glasgow on 4 August 1902. He took formal possession of his cathedral church St Andrew's Cathedral and was enthroned on 21 September 1902. He received the pallium on 10 September 1903 in his cathedral",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "His power of swaying a large multitude by oratory was demonstrated at the 19th International Eucharistic Congress, held in London in 1908, when he quieted the thousands of assembled Roman Catholics who were infuriated at the government's interference with the proposed procession of the Blessed Sacrament in the streets of Westminster",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "Due to his failing health in around 1912, it became necessary for a coadjutor to be appointed to assist in the administration of the archdiocese",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": "Donald Aloysius Mackintosh was appointed and served in this capacity from 1 June 1912 until his death on 8 October 1919.",
+                    "sentence_id": "1",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 9
+                }
+            ]
+        },
+        {
+            "paragraph_index": 7,
+            "sentences": [
+                {
+                    "sentence": "Archbishop Maguire died at his residence at Crosshill House in Glasgow on 14 October 1920, aged 69, and was buried in Old Dalbeth cemetery, Braidfauld",
+                    "sentence_id": "0",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 10
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "Born in Glasgow on 8 September 1851 , he was educated successively at St Mungo 's Academy and St Aloysius ' College , Glasgow , at Stonyhurst College , Glasgow University , and the Collegio di Propaganda Fide , Rome ."
+    ],
+    "main_sentence_from_docx": [
+        "Born in Glasgow on 8 September 1851, he was educated successively at St Mungo's Academy and St Aloysius' College, Glasgow, at Stonyhurst College, Glasgow University, and the Collegio di Propaganda Fide, Rome"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        1
+    ],
+    "global_sentence_index_spike": [
+        257664
+    ],
+    "score_of_similarity": [
+        0.05
+    ]
+}

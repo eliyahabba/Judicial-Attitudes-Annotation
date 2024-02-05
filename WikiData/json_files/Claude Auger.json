@@ -1,0 +1,167 @@
+{
+    "title": "Claude Auger",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Brigadier-General C",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "Auger SBStJ, CD, QHS, MD, FRCPC (8 February 1951 – 16 December 2007) was the 34th Canadian Surgeon General",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Born in Lévis, Quebec, Claude, the son of Thérèse (née Pouliot) and Raoul Auger, was educated at Laval University, where he graduated magna cum laude with a bachelor's degree in Health Sciences",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "He obtained a Medical Degree in 1974. Auger completed post-graduate training from 1978 to 1983, also at Laval University, in General Surgery, and became a Fellow of the Royal College of Physicians and Surgeons of Canada",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Auger joined the Canadian Armed Forces, under the Medical Officer Training Plan (MOTP) in 1970. His first posting was to Canadian Forces Base (CFB) Halifax as a General Duty Medical Officer and then subsequently to Lahr, Germany in 1975. There he spent a year as the regimental physician of the 1er Battalion du Royal 22ème Régiment, followed by two years at Canadian Forces Hospital (CFH) Europe",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "In 1978, he was promoted to Major shortly before returning to Laval University to complete post-graduate training in General Surgery",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "In 1984, Auger was posted to CFH Valcartier, as a general surgeon and in the following year he returned to CFH Europe",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "In 1985, Auger was promoted to Lieutenant-Colonel and became the Chief of Surgery",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "Three years later, he was promoted to Colonel and transferred to CFH Halifax, as Chief of Surgery",
+                    "sentence_id": "2",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "During the Gulf War, Auger led the first two Canadian Forces Advanced Surgical Teams into Saudi Arabia (Operation Scalpel) as part of the Canadian Government's commitment to the Gulf War (Operation Desert Storm) in 1991. In the summer of the same year, Auger was transferred to Ottawa, as Chief of Surgery at the National Defence Medical Centre (NDMC), a position he held until 1996. During this posting he was deployed to Somalia and twice to Bosnia as a surgeon with the Advanced Surgical Centre",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 9
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "In 1996, Auger was posted to the staff of the Surgeon General, as Director of Medical Treatment Services, and later Chief of Staff",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": "In 1998, Col Auger was promoted to Brigadier-General, and appointed Surgeon General",
+                    "sentence_id": "1",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 11
+                },
+                {
+                    "sentence": "He remained in the position until his retirement from the military in January 2000.",
+                    "sentence_id": "2",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 12
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "Between 2000 and 2001, Auger worked at the Hôpital de Gatineau as a general surgeon",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 13
+                },
+                {
+                    "sentence": "In 2002, he began working for the Canadian Medical Protective Association in Ottawa, Ontario, until his retirement in 2006.",
+                    "sentence_id": "1",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 14
+                }
+            ]
+        },
+        {
+            "paragraph_index": 7,
+            "sentences": [
+                {
+                    "sentence": "After a short battle with cancer, Brigadier-General Auger died in his home surrounded by his family 16 December 2007 at the age of 56.",
+                    "sentence_id": "0",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 15
+                }
+            ]
+        },
+        {
+            "paragraph_index": 8,
+            "sentences": []
+        },
+        {
+            "paragraph_index": 9,
+            "sentences": []
+        }
+    ],
+    "main_sentence_from_spike": [
+        "Born in Lévis , Quebec , Claude , the son of Thérèse ( née Pouliot ) and Raoul Auger , was educated at Laval University , where he graduated magna cum laude with a bachelor 's degree in Health Sciences ."
+    ],
+    "main_sentence_from_docx": [
+        "Born in Lévis, Quebec, Claude, the son of Thérèse (née Pouliot) and Raoul Auger, was educated at Laval University, where he graduated magna cum laude with a bachelor's degree in Health Sciences"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        2
+    ],
+    "global_sentence_index_spike": [
+        493511
+    ],
+    "score_of_similarity": [
+        0.05
+    ]
+}

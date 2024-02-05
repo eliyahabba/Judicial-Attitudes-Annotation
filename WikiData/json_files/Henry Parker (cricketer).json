@@ -1,0 +1,80 @@
+{
+    "title": "Henry Parker (cricketer)",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Henry Parker (3 August 1819 – 20 October 1901) was an English clergyman and a cricketer who played first-class cricket for Cambridge University, the Cambridge Town Club, Kent and other amateur teams between 1839 and 1854. He was born at Ongar, Essex, and died at St Mary in the Marsh, Kent",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "The son of Henry J",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "Parker who was Gresham Professor of Divinity and vicar of High Halden in Kent, Parker was educated at Maidstone and at Corpus Christi College, Cambridge",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": " Parker played most of his early cricket as a middle-order batsman, though he rarely seemed to make many runs; an exception was his solitary appearance in the University Match between Cambridge University and Oxford in 1839, in which he made 43, by some distance his best score in first-class cricket",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": " After a solitary appearance for Kent in 1841, the rest of his cricket was played for the amateur Gentlemen of Kent side, and though detailed scorecards from his era are not often available, he seems to have developed as a bowler: against the Gentlemen of England in 1845, he batted at No 11 but took four wickets, though the scorecard also records he bowled 12 wides",
+                    "sentence_id": "3",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": " It is not known whether batted or bowled right- or left-handed, nor his style of bowling",
+                    "sentence_id": "4",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Parker graduated from Cambridge University with a Bachelor of Arts degree in 1842. He was ordained as a Church of England clergyman and served as curate to his father at High Halden from 1842 to 1849. He then moved to Old Romney for four years, then to Whitstable and Seasalter, all in Kent, before becoming rector of St Mary in the Marsh in 1857, where he stayed in post until his death 44 years later",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "The son of Henry J. Parker who was Gresham Professor of Divinity and vicar of High Halden in Kent , Parker was educated at Maidstone and at Corpus Christi College , Cambridge ."
+    ],
+    "main_sentence_from_docx": [
+        "Parker who was Gresham Professor of Divinity and vicar of High Halden in Kent, Parker was educated at Maidstone and at Corpus Christi College, Cambridge"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_1"
+    ],
+    "global_sentence_index_docx": [
+        2
+    ],
+    "global_sentence_index_spike": [
+        358188
+    ],
+    "score_of_similarity": [
+        0.14
+    ]
+}

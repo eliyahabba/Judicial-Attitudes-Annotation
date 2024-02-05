@@ -1,0 +1,175 @@
+{
+    "title": "Katharina Nuttall",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Katharina Nuttall (born 14 July 1972) is an artist, film composer and music producer who was born in Drammen, Norway",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "Nuttall lives in Stockholm, Sweden but is a Norwegian citizen with a Norwegian mother and a father from the UK",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Her debut album This Is How I Feel was released in 2007, followed by Cherry Flavour Substitute in 2008. Songs from the two albums were put together on the European release Cherry Flavour Substitute Limited Edition, an album that was awarded a German Record Critics Award in 2009. Katharina Nuttall has also made her name as a producer to other artists, most notably Ane Brun",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "In 2008, Nuttall composed and recorded the music to the Swedish feature film Rosa the Movie",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "In September 2010, Nuttall announced on her Facebook fan page that she will be going back into the studio to work on a new album in collaboration with the English producer Head, known for his longstanding working relationship with PJ Harvey",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "The album was released in April 2011 with the title Turn Me On",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "In 2013, Katharina Nuttall composed music for the play \"Fåglar\" by a Swedish playwright Christina Ouzounidis ",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "The first performance of the play took place on 10 January 2014 in Stockholm City Theatre",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "Katharina is educated in Stockholm with a master's degree in Film music composition from The Royal College of Music (KMH) and Stockholm Academy of Dramatic Arts",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": "In addition she has a master's degree in Performing arts and media with a major in Sound Art from Stockholm Academy of Dramatic Arts",
+                    "sentence_id": "1",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 9
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "She has written music for short movies, features, documentaries, TV and commercials",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": "Among others are such films as Moja Mama by Ellen Fiske, Girls and Boys by Ninja Thyberg, Pappa by Nina Bergström, The Heart by Fanni Metelius, Andra stranden by Åsa Sandzén and En armé av älskande by Ingrid Ryberg",
+                    "sentence_id": "1",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 11
+                },
+                {
+                    "sentence": " She was also the voice behind Ryberg's documentary",
+                    "sentence_id": "2",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 12
+                }
+            ]
+        },
+        {
+            "paragraph_index": 7,
+            "sentences": [
+                {
+                    "sentence": "In 2018 she wrote music for Hampus Linder's movie The Feminist: A Swedish Inspiration for which she received award for Best Musical Score at Vancouver International Film Festival",
+                    "sentence_id": "0",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 13
+                }
+            ]
+        },
+        {
+            "paragraph_index": 8,
+            "sentences": [
+                {
+                    "sentence": "In 2019 she wrote the music for Ellen Fiske and Joanna Karlbergs movie Josefin & Florin, Kurs i självutplåning a tv-serie by Isabella Rodriguez for SVT and is currently[when",
+                    "sentence_id": "0",
+                    "paragraph_index": 8,
+                    "global_sentence_index": 14
+                },
+                {
+                    "sentence": "] writing the music for director Maja Borg's movie Passion and Into the Bank by Eva Hillström, Oskar Hedin and Åsa Ekman",
+                    "sentence_id": "1",
+                    "paragraph_index": 8,
+                    "global_sentence_index": 15
+                }
+            ]
+        },
+        {
+            "paragraph_index": 9,
+            "sentences": [
+                {
+                    "sentence": "Katharina will also record her fourth studio album 2020.",
+                    "sentence_id": "0",
+                    "paragraph_index": 9,
+                    "global_sentence_index": 16
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "Katharina is educated in Stockholm with a master 's degree in Film music composition from The Royal College of Music ( KMH ) and Stockholm Academy of Dramatic Arts ."
+    ],
+    "main_sentence_from_docx": [
+        "Katharina is educated in Stockholm with a master's degree in Film music composition from The Royal College of Music (KMH) and Stockholm Academy of Dramatic Arts"
+    ],
+    "main_sentence_id_in_docx": [
+        "5_0"
+    ],
+    "global_sentence_index_docx": [
+        8
+    ],
+    "global_sentence_index_spike": [
+        976833
+    ],
+    "score_of_similarity": [
+        0.03
+    ]
+}

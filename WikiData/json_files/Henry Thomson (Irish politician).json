@@ -1,0 +1,120 @@
+{
+    "title": "Henry Thomson (Irish politician)",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Henry Thomson (1840 – 30 December 1916) was an Irish Justice of the Peace and Conservative politician",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "From 1880 to 1885 he was a Member of Parliament, representing Newry in the House of Commons of the United Kingdom of Great Britain and Ireland, of which the whole of Ireland was then a part",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Born in 1840, Thomson was the second son of Henry Thomson of Newry, County Down, by his marriage to Anne, daughter of the Rev",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "William Henry, of Tassagh, County Armagh",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "He was educated at Trinity College, Dublin",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "In 1866, he married Alice Cecilia, the youngest daughter of Henry Corbet-Singleton of Aclare, County Meath",
+                    "sentence_id": "3",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "He was a significant supporter of hare-coursing, and from 1878 onwards kept his own pack of harriers, described in 1886 as \"consisting of thirteen couples, average height seventeen inches\", with kennels at Newry, but with a hunting country more in County Armagh than County Down",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "He was also for a time Master of the Newry Harriers, but by 1886 had been succeeded as Master by Thomas D'Arcy Hoey JP",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "In 1893, his name was published as one of the \"six hundred gentlemen\" of the new Ulster Defence Union",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "In London, Thomson was a member of the Carlton Club",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": "At the time of his death on 30 December 1916, his address was given in Who's Who as Scarvagle House, Scarva, Co",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": "Newry (sic)",
+                    "sentence_id": "2",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 11
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at Trinity College , Dublin ."
+    ],
+    "main_sentence_from_docx": [
+        "He was educated at Trinity College, Dublin"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_2"
+    ],
+    "global_sentence_index_docx": [
+        4
+    ],
+    "global_sentence_index_spike": [
+        643455
+    ],
+    "score_of_similarity": [
+        0.07
+    ]
+}

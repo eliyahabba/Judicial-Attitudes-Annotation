@@ -1,0 +1,160 @@
+{
+    "title": "James Headlam-Morley",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Sir James Wycliffe Headlam-Morley, CBE (24 December 1863 – 6 September 1929) was a British academic historian and classicist",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "He became a civil servant and government advisor on current foreign policy",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "He was known as James Wycliffe Headlam until 1918, when he changed his surname to Headlam-Morley by royal licence",
+                    "sentence_id": "2",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "He was knighted in 1929 for public service",
+                    "sentence_id": "3",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "He was the second son of Arthur William Headlam (1826–1908), vicar of Whorlton, County Durham, and was the younger brother of Arthur Cayley Headlam (1862–1947), Bishop of Gloucester",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "In 1893, he married Elisabeth Charlotta Henrietta Ernestina Sonntag (1866–1950), a German musician and composer who was also known as Else Headlam-Morley",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": " The historian Agnes Headlam-Morley (1902–1986) was their daughter",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "He was educated at Eton, King's College, Cambridge, and in Germany where he studied with Treitschke and Hans Delbrück",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "From 1894–1900 he was Professor of Greek and Ancient History at Queen's College, London",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "An influential figure, he worked on propaganda in World War I, and when the war was over, he was involved in the drafting of the Versailles Treaty, especially regarding Danzig",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": " He effectively sponsored Arnold J",
+                    "sentence_id": "1",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": "Toynbee for appointment in 1924 to Chatham House",
+                    "sentence_id": "2",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 11
+                },
+                {
+                    "sentence": "He also gathered materials on the diplomatic history of the origins of the war as an official production of the British government and contributed to it though the main editor was Harold Temperley",
+                    "sentence_id": "3",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 12
+                },
+                {
+                    "sentence": "The historian Anna Cienciala attributes to Headlam and Sidney Edward Mezes, an academic and advisor to Woodrow Wilson and Executive Director of the Inquiry group, the 1919 proposal to make Danzig a free city",
+                    "sentence_id": "4",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 13
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "He wrote numerous historical articles for the Encyclopædia Britannica editions of 1902 in 1911 by signing them \"J",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 14
+                },
+                {
+                    "sentence": "W",
+                    "sentence_id": "1",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 15
+                },
+                {
+                    "sentence": "He",
+                    "sentence_id": "2",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 16
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at Eton , King 's College , Cambridge , and in Germany where he studied with Treitschke and Hans Delbrück ."
+    ],
+    "main_sentence_from_docx": [
+        "He was educated at Eton, King's College, Cambridge, and in Germany where he studied with Treitschke and Hans Delbrück"
+    ],
+    "main_sentence_id_in_docx": [
+        "3_0"
+    ],
+    "global_sentence_index_docx": [
+        7
+    ],
+    "global_sentence_index_spike": [
+        548930
+    ],
+    "score_of_similarity": [
+        0.05
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "title": "Emil Friedrich Kautzsch",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Emil Friedrich Kautzsch (4 September 1841 – 7 May 1910) was a German Hebrew scholar and biblical critic, born at Plauen, Saxony",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "He was educated at Leipzig, in whose theological faculty he was appointed privatdozent (1869) and professor (1871)",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "Subsequently he held chairs at Basel (1872–80), where he received an honorary Swiss citizenship and made friends with Friedrich Nietzsche, after which he moved to Tübingen (1880–88) until receiving a professorship at Halle in 1888.",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Kautzsch traveled to Ottoman Palestine in 1876, and became one of the founding members of the \"German Society for the Exploration of Palestine\" (Deutscher Palästina-Verein) the following year",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "  He was also one of the editors of the Theologische Studien und Kritiken, beginning in 1888.",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "Kautzsch edited the following works:",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "In addition, Kautzsch wrote:",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 6
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at Leipzig , in whose theological faculty he was appointed privatdozent ( 1869 ) and professor ( 1871 ) ."
+    ],
+    "main_sentence_from_docx": [
+        "He was educated at Leipzig, in whose theological faculty he was appointed privatdozent (1869) and professor (1871)"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        1
+    ],
+    "global_sentence_index_spike": [
+        59397
+    ],
+    "score_of_similarity": [
+        0.06
+    ]
+}

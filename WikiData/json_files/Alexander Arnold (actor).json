@@ -1,0 +1,119 @@
+{
+    "title": "Alexander Arnold (actor)",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Alexander Arnold (born 21 December 1992) is an English actor, singer, and musician, best known for his role as Rich Hardbeck in the E4 teen drama Skins",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Arnold made his professional debut in the fifth and sixth series of the E4 teen drama Skins, playing the keen metalhead Rich Hardbeck",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "He got the role while still in the sixth form through the open audition process in London",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": " In September 2011, he starred in the music video “Death Cloud” by Cloud Control",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "Directed by the award-winning Luke Snellin, it was shot in Spain over two days",
+                    "sentence_id": "3",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "He starred in a two-part ITV drama called A Mother's Son, written by Chris Lang and first screened in September 2012. In 2013, he appeared in the BBC Three zombie drama In the Flesh, and in the third series of crime drama Vera",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": " He also earned a starring role as Adam in the television series What Remains",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": " In 2015, he joined the cast of Poldark, a new BBC series based on The Poldark Novels",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "Arnold landed his first film role in the 2014 western The Salvation, shot in South Africa",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "Arnold enjoys playing the bass guitar, and is the lead singer of an indie band called Circuithouse",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 9
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "In April 2011, Arnold donated a painting of his childhood bear to The Bristol Autism Project, which helps autistic children in Bristol",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 10
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at The Norton Knatchbull School in Ashford , where he pursued his interests in art and drama in his GCSE choices ."
+    ],
+    "main_sentence_from_docx": [
+        "He got the role while still in the sixth form through the open audition process in London"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_1"
+    ],
+    "global_sentence_index_docx": [
+        2
+    ],
+    "global_sentence_index_spike": [
+        109791
+    ],
+    "score_of_similarity": [
+        0.72
+    ]
+}

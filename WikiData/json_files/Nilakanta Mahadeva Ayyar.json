@@ -1,0 +1,132 @@
+{
+    "title": "Nilakanta Mahadeva Ayyar",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Nilakanta Mahadeva Ayyar CIE (18 May 1899 to 29 March 1971) was a member of the erstwhile Indian Civil Service",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "He was born at Nagercoil in a Tamil Brahmin family on 18 May 1899 as the eldest of twelve children of Rao Bahadur Mahadeva Nilakanta Ayyar (an executive engineer  )",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": " He was educated at the Presidency College in Madras and later at Cambridge",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": " His younger brothers included Prof N",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "A",
+                    "sentence_id": "3",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "Subramanian, an advocate specializing in Constitutional Law and Vice Admiral Nilakanta Krishnan",
+                    "sentence_id": "4",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Mahadeva Ayyar joined the ICS cadre in October 1922. He was initially posted in Bengal as assistant magistrate and collector and subsequently rose to the post of sub-divisional officer in 1924. From 1925 to 1927 he served the Finance Department of the Government of India as assistant collector of customs at Calcutta and Madras",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "In 1928 Ayyar was appointed as magistrate and collector of Bengal",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "From 1936 to 1942 he served as deputy secretary to the Industries and Labour Department, and then as the  first chairman of the Coal Mines Stowing Board in 1939. In 1943 he served for a term as director and secretary of Civil Supplies, Government of Bengal, and then as Provincial Transport Commissioner",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": "In 1947, after Independence he was appointed the first Indian chairman of the commissioners for the Port of Calcutta",
+                    "sentence_id": "3",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": " While serving as the chairman, Coal Mining Stowing Board, Ayyar  was awarded Companions of the Order of the Indian Empire (CIE)in 1941 and later Honorary Lieutenant Colonel",
+                    "sentence_id": "4",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": "In 1952 he was appointed secretary to the Transport Ministry, Government of India",
+                    "sentence_id": "5",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 11
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "Ayyar retired in 1958 and died in Bangalore in 1971. He was survived by two daughters and a son",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 12
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "1. India Office list of civil servants in the Indian Civil Services issued by the India office, at London",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 13
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at the Presidency College in Madras and later at Cambridge ."
+    ],
+    "main_sentence_from_docx": [
+        " He was educated at the Presidency College in Madras and later at Cambridge"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_1"
+    ],
+    "global_sentence_index_docx": [
+        2
+    ],
+    "global_sentence_index_spike": [
+        454912
+    ],
+    "score_of_similarity": [
+        0.03
+    ]
+}

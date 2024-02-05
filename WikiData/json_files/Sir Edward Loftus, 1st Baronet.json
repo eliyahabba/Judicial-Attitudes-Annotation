@@ -1,0 +1,97 @@
+{
+    "title": "Sir Edward Loftus, 1st Baronet",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Sir Edward Loftus, 1st Baronet (c",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "1742 – 17 May 1818) was an Anglo-Irish politician",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Loftus was the illegitimate son of Nicholas Loftus, 1st Viscount Loftus by a woman with the surname of Phillips",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": " He was educated at Kilkenny College",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "Loftus served as the Member of Parliament for Jamestown in the Irish House of Commons between 1761 and 1768. On 16 July 1768, he was created a baronet, of Mount Loftus in the Baronetage of Ireland",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "He was High Sheriff of Tyrone in 1777 and High Sheriff of Wexford in 1784.",
+                    "sentence_id": "3",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "On 18 March 1758 he married Anne Read, with whom he had four children, two of whom survived to adulthood",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "This article about a Member of the Parliament of Ireland (up to 1800) is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 8
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at Kilkenny College ."
+    ],
+    "main_sentence_from_docx": [
+        " He was educated at Kilkenny College"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_1"
+    ],
+    "global_sentence_index_docx": [
+        3
+    ],
+    "global_sentence_index_spike": [
+        31596
+    ],
+    "score_of_similarity": [
+        0.05
+    ]
+}

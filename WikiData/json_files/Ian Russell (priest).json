@@ -1,0 +1,79 @@
+{
+    "title": "Ian Russell (priest)",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Harold Ian Lyle Russell (17 October 1934 – 9 August 2021) was an English Anglican priest who was Archdeacon of Coventry from 1989 to 2000 and an Honorary Chaplain to the Queen from 1997 to 2004. ",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Russell was educated at Epsom College",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "He worked for Shell from 1951 to 1953; and was in the RAF Regiment from 1953 to 1956. He studied for ordination at the London College of Divinity, and was ordained deacon in 1960 and priest in 1961. After curacies in Iver (1960–63) and Lodge Moor (1963–67) he was Vicar of St John, Chapeltown, South Yorkshire (1967–75) then St Jude, Mapperley (1975–89)",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "He died in 2021, aged 86.",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "This article about a Church of England archdeacon in the Province of Canterbury is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 5
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "Russell was educated at Epsom College ."
+    ],
+    "main_sentence_from_docx": [
+        "Russell was educated at Epsom College"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        1
+    ],
+    "global_sentence_index_spike": [
+        632972
+    ],
+    "score_of_similarity": [
+        0.05
+    ]
+}

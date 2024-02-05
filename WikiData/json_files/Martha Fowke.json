@@ -1,0 +1,167 @@
+{
+    "title": "Martha Fowke",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Martha Fowke, later  Martha Sansom, (1 May 1689 – 1736) was an English poet associated chiefly with the circle about Aaron Hill",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "She was the daughter of Major Thomas Fowke, an army officer murdered in 1708, and his wife Mary (née Cullen)",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "Born in Hertfordshire on 1 May 1689 to a family of Roman Catholic gentry, she was educated at home and at boarding school",
+                    "sentence_id": "2",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "Her mother had been less supportive of her daughter's writing than her father",
+                    "sentence_id": "3",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "Fowke lived in London after her mother died in 1705, but moved to East Anglia in 1730 with her husband, Arnold Sansom, whom she had married around 1721. Their marriage was not a happy one",
+                    "sentence_id": "4",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Fowke's work started to gain public attention notably with Clio and Strephon (1720), published anonymously and reprinted several times under various titles up to 1732. Clio was Fowke's \"literary\" name for herself while Strephon was the poet and journalist William Bond",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "The book was an exchange of letters in verse and prose, popular enough to be republished twice in Fowke's lifetime",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "The first edition in 1720 was called  The Epistles of Clio and Strephon, being a collection of letters that passed between an English Lady, and an English Gentleman in France, who took an Affection to each other, by reading accidentally one another's Occasional Compositions both in Prose and Verse",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "The third edition in 1732 was published with some literary criticism and commentary by John Porter",
+                    "sentence_id": "3",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Other poetry appeared in the monthly Delights for the Ingenious (1711), Anthony Hammond's New Miscellany (1720), Richard Savage's compilation, Miscellaneous Poems and Translations (1726), and in the Barbados Gazette",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 9
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "Fowke's poetry sometimes expresses frustration with the conventional expectations of a woman in 18th-century society",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": "She did not wish to be limited to a domestic role, and was serious about her literary work and her concern for woman and man to be equals in a marriage of true minds",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 11
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "Within her circle of literary acquaintances Fowke had various important friendships, notably with Aaron Hill",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 12
+                },
+                {
+                    "sentence": "Her correspondence with him was published after her death as Clio: or, a secret history of the life and amours of the late celebrated Mrs",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 13
+                },
+                {
+                    "sentence": "S-n---m",
+                    "sentence_id": "2",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 14
+                },
+                {
+                    "sentence": "Written by herself, in a letter to Hillarius",
+                    "sentence_id": "3",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 15
+                },
+                {
+                    "sentence": " Another of her friends, the poet and painter John Dyer, painted her portrait and expressed devotion to her in two poems written from Wales that appeared, along with her verses in reply, in the Richard Savage miscellany of 1726.",
+                    "sentence_id": "4",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 16
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "Because of her association with fellow writers as an equal, her former friend and fellow-writer Eliza Haywood attacked Fowke in a scandalous account of her relationships, which affected her reputation badly",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 17
+                },
+                {
+                    "sentence": " Her autobiographical work Clio, published in 1752, has a preface dated 1723 and probably circulated in manuscript",
+                    "sentence_id": "1",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 18
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "Born in Hertfordshire on 1 May 1689 to a family of Roman Catholic gentry , she was educated at home and at boarding school ."
+    ],
+    "main_sentence_from_docx": [
+        "Born in Hertfordshire on 1 May 1689 to a family of Roman Catholic gentry, she was educated at home and at boarding school"
+    ],
+    "main_sentence_id_in_docx": [
+        "0_2"
+    ],
+    "global_sentence_index_docx": [
+        2
+    ],
+    "global_sentence_index_spike": [
+        21536
+    ],
+    "score_of_similarity": [
+        0.02
+    ]
+}

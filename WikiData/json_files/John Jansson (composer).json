@@ -1,0 +1,143 @@
+{
+    "title": "John Jansson (composer)",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "John Jansson (born 15 January 1958) is a British conductor, composer, arranger and pianist",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "John Denis Ingvar Jansson was born in Torquay, Devon, the son of a Swedish musician and an English singer",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "He was educated at University College School in Hampstead, and then trained at the Royal Academy of Music and Trinity College of Music, where his tutors included Alexander Kelly, Alfred Kitchin, Bernard Keefe and Paul Patterson",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "John Jansson has conducted several productions at the Royal National Theatre, among them Sondheim's Sunday in the Park with George (Olivier Award) and Brecht's The Resistible Rise of Arturo Ui (with Antony Sher)",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "At the Royal Opera House's Linbury Studio Theatre he conducted the London premiere of John Adams's I Was Looking at the Ceiling and Then I Saw the Sky (also at the Huddersfield Contemporary Music Festival), and he was the conductor for Bernstein's Trouble in Tahiti and Barber's A Hand of Bridge (Southwark Playhouse), Marc Blitzstein's The Cradle Will Rock (Battersea Arts Centre) and Mel Smith's The Gambler (Jermyn Street Theatre)",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "As composer, he composed the scores for the York Mystery Plays, productions at the Donmar Warehouse and King's Head Theatre, and community projects in Banbury, Kilburn and Bridlington",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "He also collaborated with Stephen Sondheim on a presentation of Sondheim's unpublished songs at the National's Lyttelton Theatre",
+                    "sentence_id": "3",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "He was also the artistic director of the Blue Rider Ensemble, formed whilst still a student, giving many premières including works by William Walton, James MacMillan, John Tavener and Toru Takemitsu",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "He also worked with composer Dominic Muldowney and the BBC Symphony Orchestra in devising the electronic cueing system for the première of Three Pieces for Orchestra",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": "With the Opera24 company, he conducted Così fan Tutte for the 2013 Grimeborn festival, as well as the revival of that production this year",
+                    "sentence_id": "2",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 9
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "He is the artistic director of the London Jazz Sinfonia and has worked with Cleo Laine, Guy Barker, Stacey Kent, Jacqui Dankworth, Tina May and the late John Dankworth",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": "He has arranged for Digby Fairweather, Alan Barnes, and Julian Stringle",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 11
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "John Jansson's recordings include: The Isles of Greece, an orchestral song cycle arranged from the serious songs of Donald Swann, and a disc of Hoagy Carmichael songs (arrangements for Digby Fairweather), and My Kinda Love (arrangements for Tina May)",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 12
+                },
+                {
+                    "sentence": "He edited several collections of Donald Swann's songs for Lengnick and Thames",
+                    "sentence_id": "1",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 13
+                },
+                {
+                    "sentence": "He was also a lecturer at Goldsmiths College, London University",
+                    "sentence_id": "2",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 14
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at University College School in Hampstead , and then trained at the Royal Academy of Music and Trinity College of Music , where his tutors included Alexander Kelly , Alfred Kitchin , Bernard Keefe and Paul Patterson ."
+    ],
+    "main_sentence_from_docx": [
+        "He was educated at University College School in Hampstead, and then trained at the Royal Academy of Music and Trinity College of Music, where his tutors included Alexander Kelly, Alfred Kitchin, Bernard Keefe and Paul Patterson"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_1"
+    ],
+    "global_sentence_index_docx": [
+        2
+    ],
+    "global_sentence_index_spike": [
+        503909
+    ],
+    "score_of_similarity": [
+        0.03
+    ]
+}

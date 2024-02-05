@@ -1,0 +1,107 @@
+{
+    "title": "Gordon Barnier",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Gordon Arthur Barnier (14 April 1928 – 11 July 2000) was an Australian politician",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "He was the Labor member for Blacktown in the New South Wales Legislative Assembly from 1971 to 1981.",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "The son of Roy and Gertrude Barnier, he was educated at Cleveland Street High School",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "On 27 February 1954 he married Pamela, with whom he had seven children",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "He served on a number of local councils, including Blacktown Council, Prospect Council and Hawkesbury River Council, and was an executive member of the Local Government Election Association of New South Wales from 1964 to 1965.",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "In 1971, Barnier was selected as the Labor Party's candidate for the seat of Blacktown (the sitting member, Jim Southee, was contesting the new seat of Mount Druitt)",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "He was elected without difficulty, and was returned in 1973, 1976 and 1978. In 1981 he was defeated for preselection by John Aquilina and retired",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": " He died in Hornsby in 2000.",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": []
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "This article about an Australian Labor Party member of the Parliament of New South Wales is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 9
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "The son of Roy and Gertrude Barnier , he was educated at Cleveland Street High School ."
+    ],
+    "main_sentence_from_docx": [
+        "The son of Roy and Gertrude Barnier, he was educated at Cleveland Street High School"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        2
+    ],
+    "global_sentence_index_spike": [
+        662653
+    ],
+    "score_of_similarity": [
+        0.03
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "title": "Robert Okine",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Robert Garshong Allotey Okine (born 12 July 1937) is a former Ghanaian Anglican bishop",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "He was Bishop of Koforidua and Archbishop of West Africa",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Okine was educated at Anglican Church schools in the Gold Coast and Gambia, the Methodist Boys' High School in Bathurst, The Gambia, and Adisadel College, Ghana",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": " He was ordained deacon in 1964 and priest in 1965. He was an Assistant Curate at St Andrew's, Sekondi then Chaplain at his Adisadel College",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "He held incumbencies at  St James, Agona Swedru, Bishop Aglionby Memorial Parish, Tamale; St George's, London, Ontario; Holy Trinity Episcopal Church, Nashville; and  Christ Church Parish, Cape Coast before being appointed Headmaster of the Academy  of Christ the King in 1976. Later he was Principal  of St Nicholas Theological  College and Archdeacon of Koforidua before being elevated to the episcopate as Bishop of Koforidua-Ho, Ghana in 1981. Twelve years later he became Archbishop of West Africa, retiring from both posts in 2003.",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "This article about an African Anglican bishop is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "Okine was educated at Anglican Church schools in the Gold Coast and Gambia , the Methodist Boys ' High School in Bathurst , The Gambia , and Adisadel College , Ghana ."
+    ],
+    "main_sentence_from_docx": [
+        "Okine was educated at Anglican Church schools in the Gold Coast and Gambia, the Methodist Boys' High School in Bathurst, The Gambia, and Adisadel College, Ghana"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        2
+    ],
+    "global_sentence_index_spike": [
+        401856
+    ],
+    "score_of_similarity": [
+        0.04
+    ]
+}

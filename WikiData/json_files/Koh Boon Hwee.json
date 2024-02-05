@@ -1,0 +1,130 @@
+{
+    "title": "Koh Boon Hwee",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Koh Boon Hwee, DUBC (Chinese: 许文辉; born 1950) is a Singaporean businessman",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Koh was educated at Saint Andrew's School, Singapore",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "He went on to receive a first class honours degree in mechanical engineering from the Imperial College of Science and Technology, University of London, and an MBA (Distinction) from the Harvard Business School",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Koh was appointed Chairman of the Singapore Telecom Group in 1986 and then joined the Singapore Airlines board in March 2001.",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "He served as Chairman of the SIA Engineering Company; a Director of Agilent Technologies Inc, Four Soft Ltd and Norelco UMS Holdings Limited; Executive Director of MediaRing Limited and Tech Group Asia Limited",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "He serves on the boards of Temasek Holdings (Private) Limited as a Director; AAC Acoustic Technologies Holdings Ltd and Infiniti Solutions Private Limited",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "He is also a Council Member of the Singapore Business Federation",
+                    "sentence_id": "2",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "On 1 January 2006, Koh became chairman of DBS Bank",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "He joined DBS as a director on 15 June 2005. He stepped down on 30 April 2010, replaced by Peter Seah",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "At the 2008 National Day Awards, Koh was awarded the Darjah Utama Bakti Cemerlang (Distinguished Service Order)",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 9
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "This business-related biographical article from Singapore is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 11
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "Koh was educated at Saint Andrew 's School , Singapore ."
+    ],
+    "main_sentence_from_docx": [
+        "Koh was educated at Saint Andrew's School, Singapore"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        1
+    ],
+    "global_sentence_index_spike": [
+        482480
+    ],
+    "score_of_similarity": [
+        0.07
+    ]
+}

@@ -1,0 +1,178 @@
+{
+    "title": "David Davies (textile merchant)",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Sir David Sanders Davies JP (11 May 1852 – 28 February 1934) was a Welsh businessman, merchant and Liberal Party politician",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "David Sanders Davies was the son of John Owen Davies   He was educated  at Llandovery College  In 1886,he married  Jane Emily Gee and they made their home at Dolgelly in Merionethshire",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "They had one daughter  who married Lt-Col J E Lewis DSO",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Davies went into the textile business",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "By the end of the First World War he was described as a successful Manchester merchant",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": " He became Governing Director of Pugh, Davies & Co",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "Ltd, Manchester   wholesale milliners, warehousemen  and textile merchants",
+                    "sentence_id": "3",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": " Davies clearly acquired great wealth through his business interests",
+                    "sentence_id": "4",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "In 1913 he presented 244 acres (0.99 km2) of land near Denbigh, worth £5000, to the Welsh National Memorial Association for the building of a sanatorium for people suffering from Tuberculosis",
+                    "sentence_id": "5",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": " He served for a while as the Treasurer of the Welsh National Memorial Association",
+                    "sentence_id": "6",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 9
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "Davies involved himself in local government affairs",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": "He took a leading part in county council and educational work in Denbighshire",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 11
+                },
+                {
+                    "sentence": " He was High Sheriff of Denbighshire in 1915. He was Chairman of the Denbighshire County Appeal Tribunal and Pensions Committee   and also served as a Justice of the Peace",
+                    "sentence_id": "2",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 12
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "Davies was selected to fight the Denbigh Division of Denbighshire at the 1918 general election as a Coalition Liberal",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 13
+                },
+                {
+                    "sentence": "He had no Unionist opponent, so was presumably awarded the Coalition coupon",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 14
+                },
+                {
+                    "sentence": "He won the seat easily in a straight fight with Labour, gaining 83% of the poll",
+                    "sentence_id": "2",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 15
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "Davies did not contest Denbigh again, intimating as early as the autumn of 1921 that he wished to stand down at the next election (by which time he would be 70 years old)",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 16
+                },
+                {
+                    "sentence": "It was reported at that time that his likely successor as Coalition Liberal candidate would be Alderman Walter Gummow Dodd, the Chairman of the Denbighshire Education Committee",
+                    "sentence_id": "1",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 17
+                },
+                {
+                    "sentence": " Dodd was not selected however but the seat was won by another member of the Denbighshire Education establishment, John Cledwyn Davies, for the Lloyd George National Liberals",
+                    "sentence_id": "2",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 18
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "Davies was knighted in the 1918 New Years Honours List",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 19
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at Llandovery College"
+    ],
+    "main_sentence_from_docx": [
+        "They had one daughter  who married Lt-Col J E Lewis DSO"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_1"
+    ],
+    "global_sentence_index_docx": [
+        2
+    ],
+    "global_sentence_index_spike": [
+        923493
+    ],
+    "score_of_similarity": [
+        1.08
+    ]
+}

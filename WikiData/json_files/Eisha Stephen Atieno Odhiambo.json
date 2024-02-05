@@ -1,0 +1,74 @@
+{
+    "title": "Eisha Stephen Atieno Odhiambo",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Eisha Stephen Atieno Odhiambo (1945 – 25 February 2009)) was a Kenyan academic born in Muhoroni, known for his contributions to the understanding of dangers inherent in politics of knowledge and sociology of power",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "Dr Odhiambo was professor of history at Rice University in the United States, where he led in the study of cultures",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "He was educated at Makerere University in Uganda and the University of Nairobi in Kenya",
+                    "sentence_id": "2",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Odhiambo retired from Rice University due to illness and moved back with his wife to their home in Ndere, Siaya, Kenya, before his 2009 death at the Aga Khan Hospital in Kisumu",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "This Kenyan biographical article is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at Makerere University in Uganda and the University of Nairobi in Kenya ."
+    ],
+    "main_sentence_from_docx": [
+        "He was educated at Makerere University in Uganda and the University of Nairobi in Kenya"
+    ],
+    "main_sentence_id_in_docx": [
+        "0_2"
+    ],
+    "global_sentence_index_docx": [
+        2
+    ],
+    "global_sentence_index_spike": [
+        1056486
+    ],
+    "score_of_similarity": [
+        0.02
+    ]
+}

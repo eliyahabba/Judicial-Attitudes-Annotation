@@ -1,0 +1,163 @@
+{
+    "title": "Sorcha MacMahon",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Sorcha MacMahon (20 July 1888 – 13 December 1970) was an Irish nationalist and republican who was active during the Easter Rising of 1916 and both the War of Independence and the Irish Civil War",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "She was born Sarah Teresa MacMahon to James and Sarah MacMahon of  Coas, County Monaghan in 1888. She was one of four boys and three girls",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "She  used the Irish form of her name, Sorcha",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "Irish was the family's first language",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "She was educated in Laggan National School and St Louis School in Monaghan",
+                    "sentence_id": "3",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "After school she went to Dublin and took a commercial course",
+                    "sentence_id": "4",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "She then worked as a bookkeeper for Taggart's Garage",
+                    "sentence_id": "5",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "An early member of Cumann na mBan, in 1914 MacMahon was the local secretary of the Central Branch and was secretary nationally in 1916. She also trained the other women in the branch in first aid and nursing as well as related branch duties",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "She was on the executive committee for Cumann na mBan from 1915 to 1919. She was an organiser for the O'Donovan Rossa funeral, a mass demonstration arranged when the body of the Fenian was returned from America for burial",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": "Prior to the Easter Rising most Irish Volunteers and Cumann na mBan members believed they were simply going out on major maneuvers and only a few members knew that a armed rebellion was about to occur",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": "MacMahon was aware of the plans",
+                    "sentence_id": "3",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": " MacMahon was selected by Kathleen Clarke as one of the women to deliver messages around Ireland for leading up to the Easter Rising",
+                    "sentence_id": "4",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 11
+                },
+                {
+                    "sentence": "Once the Rising began MacMahon delivered the mobilisation orders to the Cumann section leaders and also delivered guns, both hidden in her bicycle basket",
+                    "sentence_id": "5",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 12
+                },
+                {
+                    "sentence": "She continued to act as courier throughout the Rising, moving between garrisons, such as the Four Courts, all week",
+                    "sentence_id": "6",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 13
+                },
+                {
+                    "sentence": "She was estimated to have made more than 50 trips out of the General Post Office",
+                    "sentence_id": "7",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 14
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "After the Rising she assisted Clarke with the Irish Volunteer Dependants’ Fund, running it when Clarke had to take time off due to a miscarriage, postponing her own marriage to Tom Rogers to do it",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 15
+                },
+                {
+                    "sentence": "She was very involved in the work and finances of the fund Then she began working directly for Michael Collins",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 16
+                },
+                {
+                    "sentence": "On his instructions she resigned from Cumann na mBan when a majority of its members voted to reject the Treaty terms in February 1922. MacMahon did not publicly support either side during the Irish civil war",
+                    "sentence_id": "2",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 17
+                },
+                {
+                    "sentence": "Her public political activities had ended on 6 December 1921. However she continued to work for Collins and hold papers for him until his death in 1922. Collins was aware that his activities would put people working for him in danger so he was concerned",
+                    "sentence_id": "3",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 18
+                },
+                {
+                    "sentence": "MacMahon had married and moved when she did which added to her safety",
+                    "sentence_id": "4",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 19
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "She was educated in Laggan National School and St Louis School in Monaghan ."
+    ],
+    "main_sentence_from_docx": [
+        "She was educated in Laggan National School and St Louis School in Monaghan"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_3"
+    ],
+    "global_sentence_index_docx": [
+        4
+    ],
+    "global_sentence_index_spike": [
+        700106
+    ],
+    "score_of_similarity": [
+        0.03
+    ]
+}

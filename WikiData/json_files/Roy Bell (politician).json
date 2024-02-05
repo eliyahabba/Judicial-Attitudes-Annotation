@@ -1,0 +1,85 @@
+{
+    "title": "Roy Bell (politician)",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Roy Mackenzie Bell (20 March 1885 – 20 August 1953) was a member of the Queensland Legislative Assembly",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Bell was born at Denman, New South Wales, the son of Federick Samuel Bell and his wife Mary Charlotte  (née Mackenzie)",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "He was educated at The King's School, Parramatta and owned or managed a series of Stations in Queensland and New South Wales",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "On 22 July 1915 he married Annie Agnes Herbert (died 1964) in Singleton and together had two sons and one daughter",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": " He died in Brisbane in August 1953 and his funeral was held at St John's Church of England Cathedral, Brisbane with his body then taken to Sydney for burial",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "Bell was an executive councilor on the Esk Shire Council and then in 1933 he won the by-election for the seat of Stanley, following the death of Ernest Grimstone",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "He held the seat until the 1938 state election when he retired from politics",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 6
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at The King 's School , Parramatta and owned or managed a series of Stations in Queensland and New South Wales ."
+    ],
+    "main_sentence_from_docx": [
+        "He was educated at The King's School, Parramatta and owned or managed a series of Stations in Queensland and New South Wales"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_1"
+    ],
+    "global_sentence_index_docx": [
+        2
+    ],
+    "global_sentence_index_spike": [
+        359720
+    ],
+    "score_of_similarity": [
+        0.03
+    ]
+}

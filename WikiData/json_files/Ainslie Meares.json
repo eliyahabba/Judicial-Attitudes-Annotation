@@ -1,0 +1,140 @@
+{
+    "title": "Ainslie Meares",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Ainslie Dixon Meares (3 March 1910 – 19 September 1986) was an Australian psychiatrist, scholar of hypnotism, psychotherapist, authority on stress and a prolific author who lived and practised in Melbourne",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Ainslie Meares was born in Malvern, Victoria, on 3 March 1910, the eldest son of medical practitioner Albert George Meares, (1875–1928), and Eva Gertrude Meares (1875–1926) (née Ham), who were married on 14 July 1903. He married Bonnie Sylvia Byrne on 18 June 1934.",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Meares was educated at Melbourne Grammar School, where he boxed and played tennis, at Trinity College, and at the University of Melbourne, from which he graduated with a Bachelor of Agricultural Science degree in 1934, and a Bachelor of Medicine and Surgery degree in 1940.",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "Meares received his Diploma in Psychological Medicine from the University of Melbourne in September 1947, and, on the basis of his presentation of a collection of 17 published papers relating to medical hypnotism (with each paper being independent of the others), he was awarded the higher degree of Doctor of Medicine by the University of Melbourne in 1958.",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "Meares also served as a captain in the Royal Australian Army Medical Corps (1941–1945)",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "Meares was a founding fellow of the Royal Australian and New Zealand College of Psychiatrists and, for a time, the president of the International Society for Clinical and Experimental Hypnosis",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "Meares was an internationally recognised expert in the medical uses of hypnotism, and wrote a number of books describing his approach",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "His work may be divided into three periods: the hypnosis period, relief without drugs period and the stillness meditation period",
+                    "sentence_id": "1",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "These categories reflect the simplification and fine tuning of his method that occurred over time",
+                    "sentence_id": "2",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 7,
+            "sentences": [
+                {
+                    "sentence": "Meares died suddenly, of pneumonia, in a Melbourne hospital on 19 September 1986. He was cremated",
+                    "sentence_id": "0",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": " His wife, Bonnie, died on 27 December 1978. He was survived by their three children, Russell Meares (also a psychiatrist), Garda Meares Langley and Sylvia Meares Black",
+                    "sentence_id": "1",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 10
+                }
+            ]
+        },
+        {
+            "paragraph_index": 8,
+            "sentences": [
+                {
+                    "sentence": "Meares was a prolific author, mainly on psychiatry, hypnotism, the treatment of cancer, and meditation",
+                    "sentence_id": "0",
+                    "paragraph_index": 8,
+                    "global_sentence_index": 11
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "Meares was educated at Melbourne Grammar School , where he boxed and played tennis , at Trinity College , and at the University of Melbourne , from which he graduated with a Bachelor of Agricultural Science degree in 1934 , and a Bachelor of Medicine and Surgery degree in 1940 ."
+    ],
+    "main_sentence_from_docx": [
+        "Meares was educated at Melbourne Grammar School, where he boxed and played tennis, at Trinity College, and at the University of Melbourne, from which he graduated with a Bachelor of Agricultural Science degree in 1934, and a Bachelor of Medicine and Surgery degree in 1940."
+    ],
+    "main_sentence_id_in_docx": [
+        "2_0"
+    ],
+    "global_sentence_index_docx": [
+        2
+    ],
+    "global_sentence_index_spike": [
+        966368
+    ],
+    "score_of_similarity": [
+        0.02
+    ]
+}

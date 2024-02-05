@@ -1,0 +1,91 @@
+{
+    "title": "Gay Mandeville",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Gay Lisle Griffith Mandeville (20 May 1894 – 19 July 1969) was the first native-born Bishop of Barbados from 1951 until 1960.",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "He was educated at Harrison College and Codrington College, Barbados",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": " After graduation, he was ordained in 1918 and began his ecclesiastical career with a curacy at St George, St Kitts followed by the post of Rector of Saba in what was then the Dutch West Indies and is now Netherlands Antilles",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "He then returned to his home country where he was successively Vicar of St Bartholomew then St Stephen; Rector of St Philip (1943–1950), Vicar General (1948–1951) and Dean (1950–1951) and finally Bishop of Barbados",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "This Barbadian biographical article is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "This article about a member of the Christian clergy in the United Kingdom is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 7
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at Harrison College and Codrington College , Barbados ."
+    ],
+    "main_sentence_from_docx": [
+        "He was educated at Harrison College and Codrington College, Barbados"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        1
+    ],
+    "global_sentence_index_spike": [
+        806234
+    ],
+    "score_of_similarity": [
+        0.04
+    ]
+}

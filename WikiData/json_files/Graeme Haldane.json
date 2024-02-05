@@ -1,0 +1,147 @@
+{
+    "title": "Graeme Haldane",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Thomas Graeme Nelson Haldane, known as Graeme Haldane (14 December 1897 – 24 June 1981), was a Scottish engineer",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "He was the son of Sir William Haldane and his wife Edith Nelson",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "He was a nephew of Elizabeth Haldane, Richard Burdon Haldane, 1st Viscount Haldane and John Scott Haldane",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "He was educated at Royal Naval College, Osborne and Royal Naval College, Dartmouth and in the First World War served in the Royal Navy on HM Ships Doris Valiant and Tiger",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "He was present at the Battle of Jutland",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "In 1919 he went to Trinity College, Cambridge and worked at the Cavendish Laboratory under Rutherford",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "He helped establish the National Grid",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "In 1928 he joined Merz and McLellan engineering firm, and in 1941 became a partner",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "In 1948 he was President of the Institution of Electrical Engineers and won its James Watt Gold Medal in 1953.  He retired in 1972.",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "He had a son named Richard W",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": "Haldane",
+                    "sentence_id": "1",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 10
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "In 2021 he was inducted into the Scottish Engineering Hall of Fame",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 11
+                }
+            ]
+        },
+        {
+            "paragraph_index": 7,
+            "sentences": [
+                {
+                    "sentence": "This article about a Scottish engineer, inventor or industrial designer is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 12
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 13
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at Royal Naval College , Osborne and Royal Naval College , Dartmouth and in the First World War served in the Royal Navy on HM Ships \" Doris \" \" Valiant \" and \" Tiger \" ."
+    ],
+    "main_sentence_from_docx": [
+        "He was educated at Royal Naval College, Osborne and Royal Naval College, Dartmouth and in the First World War served in the Royal Navy on HM Ships Doris Valiant and Tiger"
+    ],
+    "main_sentence_id_in_docx": [
+        "2_0"
+    ],
+    "global_sentence_index_docx": [
+        3
+    ],
+    "global_sentence_index_spike": [
+        503593
+    ],
+    "score_of_similarity": [
+        0.09
+    ]
+}

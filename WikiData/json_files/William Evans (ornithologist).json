@@ -1,0 +1,188 @@
+{
+    "title": "William Evans (ornithologist)",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "William Evans FRSE FFA FSA MBOU (1851–1922) was a Scottish naturalist, ornithologist and actuary",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "He was described as one of the most competent field naturalists of his day",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": " He served as President of the Royal Physical Society of Edinburgh",
+                    "sentence_id": "2",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "He was born at the Royal Botanic Garden Edinburgh (presumably in the East Lodge), where his father, William Wilson Evans, was Curator, on 9 May 1851.",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "After a wonderful early exposure to botany, his family moved in 1857 to Tynefield Farm near East Linton (east of Edinburgh) where his interests continued with a more practical vein",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "Here though, he came under the influence of Charles Nelson of Pitcox, who extended his interests from plant life to birds, William also taking a keen interest in sculpting birds from wood from this time",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "During this time he was educated at the Free Kirk School in East Linton",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "William also spent some later years with his uncle at Buckstone Farm near Mortonhall, Edinburgh (the farm now giving rise to the name of one of Edinburgh's suburbs)",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "Around 1865 his father received an appointment as Agent and Factor on the estate of Sir George Clerk of Penicuik and  the family therefore moved to Penicuik (south of Edinburgh)",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": "William was then sent to the Edinburgh Institution (now Stewart's Melville College) for further schooling",
+                    "sentence_id": "2",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": "At age 17 (in 1868) he was apprenticed as an actuary in the Scottish Widows Fund",
+                    "sentence_id": "3",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": "By 1892 he had reached the level of Assistant Actuary to the Fund, but had to retire due to ill-health",
+                    "sentence_id": "4",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 11
+                },
+                {
+                    "sentence": "Curiously, his election as a Fellow of the Royal Society of Edinburgh in 1884 is minuted as being due to his actuarial skills rather than naturalist skills",
+                    "sentence_id": "5",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 12
+                },
+                {
+                    "sentence": " His proposers were Robert Gray, Thomas Bond Sprague, John MacGregor McCandlish, and Sir Peter Redford Scott",
+                    "sentence_id": "6",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 13
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "In later life he lived at 38 Morningside Park in south-west Edinburgh",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 14
+                },
+                {
+                    "sentence": " In the later 19th century he conducted a correspondence with the German ornithologist Ernst Hartert, these documents are now held in the Natural History Museum, London",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 15
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "He died on 23 October 1922.",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 16
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "In 1879 he married Patricia Jane Deuchar (1849–1921)",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 17
+                },
+                {
+                    "sentence": "They had one son, William Edgar Evans (1882-1963), and one daughter, Charlotte E",
+                    "sentence_id": "1",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 18
+                },
+                {
+                    "sentence": "Evans",
+                    "sentence_id": "2",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 19
+                },
+                {
+                    "sentence": "William Edgar Evans followed in his father's footsteps becoming a botanist and Assistant in Charge of the Herbarium at the Royal Botanic Garden Edinburgh from 1919 to 1944. He was also a Fellow of the Royal Society of Edinburgh",
+                    "sentence_id": "3",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 20
+                }
+            ]
+        },
+        {
+            "paragraph_index": 7,
+            "sentences": []
+        }
+    ],
+    "main_sentence_from_spike": [
+        "During this time he was educated at the Free Kirk School in East Linton ."
+    ],
+    "main_sentence_from_docx": [
+        "During this time he was educated at the Free Kirk School in East Linton"
+    ],
+    "main_sentence_id_in_docx": [
+        "2_2"
+    ],
+    "global_sentence_index_docx": [
+        6
+    ],
+    "global_sentence_index_spike": [
+        395240
+    ],
+    "score_of_similarity": [
+        0.03
+    ]
+}

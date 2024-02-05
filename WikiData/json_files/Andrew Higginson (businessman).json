@@ -1,0 +1,141 @@
+{
+    "title": "Andrew Higginson (businessman)",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Andrew Thomas Higginson (born 10 July 1957) is a British business executive",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "As of 2017, he was the Chairman of Morrisons, Non-Executive Director of Woolworths in South Africa, Chairman of N Brown Group and Chairman of ITC Luxury Travel Group, and Chairman of corporate finance firm Clearwater International",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Higginson was educated at Bury Grammar School",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "He studied town planning at Birmingham Polytechnic",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Higginson started his career at Unilever and Guinness Brewing before moving into retail in 1990. He was Group Finance Director of Laura Ashley Holdings and The Burton Group before joining Tesco in 1997. At Tesco he was an executive director for 15 years, including finance and strategy director and Chief Executive of retailing services",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "In 2012 he was appointed Non-Executive Chairman at Poundland and in the same year became Non-Executive Chairman at McCurrach",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": " He was SID at BskyB until 2014. Higginson is currently Non-Executive Chairman at N Brown and was appointed Chairman of Wm Morrison in 2015, replacing Sir Ian Gibson",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "Private equity firm Warburg Pincus appointed Higginson as a senior advisor to the firm in 2015. In 2016 Higginson was appointed as a senior advisor to Shore Capital Markets",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "He was an Independent Non-Executive director of the Rugby Football Union from 2011 to 2016.",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "In September 2018, Higginson was appointed president of IGD",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": " In October, Higginson was appointed as Non-Executive Chairman of online parking portal YourParkingSpace",
+                    "sentence_id": "1",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 10
+                }
+            ]
+        },
+        {
+            "paragraph_index": 7,
+            "sentences": [
+                {
+                    "sentence": "His wife June (from whom he is separated) is an age-group national triathlete",
+                    "sentence_id": "0",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 11
+                },
+                {
+                    "sentence": " Together they have three children",
+                    "sentence_id": "1",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 12
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "Higginson was educated at Bury Grammar School ."
+    ],
+    "main_sentence_from_docx": [
+        "Higginson was educated at Bury Grammar School"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        2
+    ],
+    "global_sentence_index_spike": [
+        190340
+    ],
+    "score_of_similarity": [
+        0.04
+    ]
+}

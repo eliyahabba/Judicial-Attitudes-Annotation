@@ -1,0 +1,152 @@
+{
+    "title": "John Harvey Finlayson",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "John Harvey Finlayson (3 February 1843 – 30 March 1915) was the editor and part-owner of the South Australian Register",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "He joined The Register in 1861 and became head reporter 1866, a proprietor in 1877 and editor in 1878, succeeding John Howard Clark, resigning in 1899 due to ill-health",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "He was then appointed resident reporter in Britain until retiring and returning to Adelaide in 1908, dying 7 years later",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "As an editor he was an outspoken supporter of female suffrage, free secular education, free trade between the Colonies, and Federation",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "Finlayson was an active Congregational churchman and was appointed Justice of the Peace in 1880.",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "In 1878 Finlayson built a residence \"Strelda\" in North Adelaide which still stands, at 217-221 Stanley Street",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "Finlayson Place, in the Canberra suburb of Gilmore, is named in his honour",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "Finlayson was born at \"Helenholm\", Mitcham, South Australia",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "  He was one of nine children born to William Finlayson (1813 – 18 December 1897) and his wife, née Helen Harvey (born Edinburgh 1811 – 20 October 1884)",
+                    "sentence_id": "1",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 7,
+            "sentences": [
+                {
+                    "sentence": "He was educated at George Mugg's school (founded 1847, later to become Mitcham Primary School, the oldest in South Australia) and Adelaide Educational Institution, where he emulated the successes of his older brother R",
+                    "sentence_id": "0",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": "K",
+                    "sentence_id": "1",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": "Finlayson",
+                    "sentence_id": "2",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 11
+                }
+            ]
+        },
+        {
+            "paragraph_index": 8,
+            "sentences": [
+                {
+                    "sentence": "Finlayson married Alice Shoobridge (ca",
+                    "sentence_id": "0",
+                    "paragraph_index": 8,
+                    "global_sentence_index": 12
+                },
+                {
+                    "sentence": "1847 – 6 June 1933) on 20 March 1878. They had a son Harvey Pym Finlayson (a Boer War hero killed 27 February 1915 in Elwood, Victoria when the car he was driving left the road,) and a daughter Katharine, \"Kate\", who never married",
+                    "sentence_id": "1",
+                    "paragraph_index": 8,
+                    "global_sentence_index": 13
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at George Mugg 's school ( founded 1847 , later to become Mitcham Primary School , the oldest in South Australia ) and Adelaide Educational Institution , where he emulated the successes of his older brother R. K. Finlayson ."
+    ],
+    "main_sentence_from_docx": [
+        "He was educated at George Mugg's school (founded 1847, later to become Mitcham Primary School, the oldest in South Australia) and Adelaide Educational Institution, where he emulated the successes of his older brother R"
+    ],
+    "main_sentence_id_in_docx": [
+        "7_0"
+    ],
+    "global_sentence_index_docx": [
+        9
+    ],
+    "global_sentence_index_spike": [
+        237733
+    ],
+    "score_of_similarity": [
+        0.09
+    ]
+}

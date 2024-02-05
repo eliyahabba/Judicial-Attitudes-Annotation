@@ -1,0 +1,268 @@
+{
+    "title": "Jan Bergstra",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Johannes Aldert \"Jan\" Bergstra (born 1951) is a Dutch computer scientist",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "His work has focussed on logic and the theoretical foundations of software engineering, especially on formal methods for system design",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "He is best known as an expert on algebraic methods for the specification of data and computational processes in general",
+                    "sentence_id": "2",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "",
+                    "sentence_id": "3",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Jan Bergstra was born in 1951 in Rotterdam, the son of Tjeerd Bergstra and Johanna Bisschop",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": " He was educated at the Montessori Lyceum Rotterdam (gymnasium beta) and then studied mathematics at Utrecht University, starting in 1969. After an MSc he wrote a PhD thesis, defended in 1976, on recursion theory in higher types, under the supervision of Dirk van Dalen",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Bergstra held posts at the Institute of Applied Mathematics and Computer Science of the University of Leiden (1976–82), and the Centrum Wiskunde & Informatica (CWI) in Amsterdam",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "In 1985 he was appointed Professor of Programming and Software Engineering at the Informatics Institute of the University of Amsterdam and, at the same time, Professor of Applied Logic at Utrecht University; such split positions are not uncommon in the Netherlands",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "These two chairs he continues to hold",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "He has been an Advisor of the CWI (1985–2004)",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": "In 1989 he worked for a year at Philips Research in Eindhoven as a project leader and, subsequently, continued as a consultant there until 2002. While at Philips he was involved in industrial projects on consumer electronics and medical equipment",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 10
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "He founded CONCUR, the international conference series in Concurrency Theory, by organising the first two conferences in Amsterdam in 1990 and 1991. He is a member of several editorial boards, and is the managing editor of Science of Computer Programming and the Journal of Logic and Algebraic Programming",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 11
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "In 2004 Jan Bergstra contacted Mark Burgess of the Oslo University College, looking for scientific backing for a proposed one year masters course at the University in system administration",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 12
+                },
+                {
+                    "sentence": "In spite of very different backgrounds, they shared a likeness of mind in their attitudes to science and research",
+                    "sentence_id": "1",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 13
+                },
+                {
+                    "sentence": "This resulted in them becoming friends and going on to discuss and hone several parts of Promise theory together on mutual visits between Norway and the Netherlands",
+                    "sentence_id": "2",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 14
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "He is honorary Professor of Computer Science at Swansea University and a member of Academia Europaea since 2006.",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 15
+                }
+            ]
+        },
+        {
+            "paragraph_index": 7,
+            "sentences": [
+                {
+                    "sentence": "Bergstra's research on computation has focussed on fundamental concepts, mathematical theories and practical tools",
+                    "sentence_id": "0",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 16
+                },
+                {
+                    "sentence": "His main theoretical research programmes are:",
+                    "sentence_id": "1",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 17
+                }
+            ]
+        },
+        {
+            "paragraph_index": 8,
+            "sentences": [
+                {
+                    "sentence": "Based in this theoretical research, he has designed various formal methods and tools",
+                    "sentence_id": "0",
+                    "paragraph_index": 8,
+                    "global_sentence_index": 18
+                },
+                {
+                    "sentence": "In cooperation with Paul Klint and Jan Heering he designed the specification language ASF (in 1984) and the related ToolBus coordination language and system (in 1995)",
+                    "sentence_id": "1",
+                    "paragraph_index": 8,
+                    "global_sentence_index": 19
+                },
+                {
+                    "sentence": "Some of his work has been undertaken in the setting of the ESPRIT programme",
+                    "sentence_id": "2",
+                    "paragraph_index": 8,
+                    "global_sentence_index": 20
+                },
+                {
+                    "sentence": "For example, the software projects FAST and METEOR funded the beginnings of the development of the process algebra ACP, and the telecommunications project SPECS led to the development of the specification language muCRL",
+                    "sentence_id": "3",
+                    "paragraph_index": 8,
+                    "global_sentence_index": 21
+                },
+                {
+                    "sentence": "All systems are still in daily use for research purposes, while ASF has been extensively used in the Dutch banking industry",
+                    "sentence_id": "4",
+                    "paragraph_index": 8,
+                    "global_sentence_index": 22
+                }
+            ]
+        },
+        {
+            "paragraph_index": 9,
+            "sentences": [
+                {
+                    "sentence": "Through his research and organisational activities, Bergstra has had considerable influence on computer science in the Netherlands",
+                    "sentence_id": "0",
+                    "paragraph_index": 9,
+                    "global_sentence_index": 23
+                },
+                {
+                    "sentence": "For example, he has supervised the work of over 40 PhD students, many of whom have become academic computer scientists, 12 at professorial level",
+                    "sentence_id": "1",
+                    "paragraph_index": 9,
+                    "global_sentence_index": 24
+                },
+                {
+                    "sentence": " He set up the new computer science curriculum at Leiden in 1976, and for cognitive artificial intelligence at Utrecht University in 1989.",
+                    "sentence_id": "2",
+                    "paragraph_index": 9,
+                    "global_sentence_index": 25
+                }
+            ]
+        },
+        {
+            "paragraph_index": 10,
+            "sentences": [
+                {
+                    "sentence": "In 2000 he became the Director of the Teaching Institute of Information Sciences at the University of Amsterdam",
+                    "sentence_id": "0",
+                    "paragraph_index": 10,
+                    "global_sentence_index": 26
+                },
+                {
+                    "sentence": "In this role he has been responsible for the redesign of all courses when the bachelor-master system of degrees was introduced into the Netherlands",
+                    "sentence_id": "1",
+                    "paragraph_index": 10,
+                    "global_sentence_index": 27
+                }
+            ]
+        },
+        {
+            "paragraph_index": 11,
+            "sentences": [
+                {
+                    "sentence": "Bergstra became a member of the Royal Netherlands Academy of Arts and Sciences in 2011.",
+                    "sentence_id": "0",
+                    "paragraph_index": 11,
+                    "global_sentence_index": 28
+                }
+            ]
+        },
+        {
+            "paragraph_index": 12,
+            "sentences": [
+                {
+                    "sentence": "Publications, a selection:",
+                    "sentence_id": "0",
+                    "paragraph_index": 12,
+                    "global_sentence_index": 29
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at the Montessori Lyceum Rotterdam ( gymnasium beta ) and then studied mathematics at Utrecht University , starting in 1969 ."
+    ],
+    "main_sentence_from_docx": [
+        "Jan Bergstra was born in 1951 in Rotterdam, the son of Tjeerd Bergstra and Johanna Bisschop"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        4
+    ],
+    "global_sentence_index_spike": [
+        99161
+    ],
+    "score_of_similarity": [
+        0.75
+    ]
+}

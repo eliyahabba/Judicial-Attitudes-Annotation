@@ -1,0 +1,172 @@
+{
+    "title": "Thomas H. McKittrick",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Thomas Harrington McKittrick (1889–1970) was an American banker and president of the Bank for International Settlements during World War II whose close relationship with Hitler's Third Reich has stirred controversy",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "McKittrick was educated at Harvard University and graduated in 1911. He joined the National City Bank in 1916, assigned to assist in opening a branch of the bank in Geneva, Switzerland",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": " He served in the American Expeditionary Force during World War I",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "In the interwar years he was a banker with Lee, Higginson & Co",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "McKittrick was president of the Bank for International Settlements (BIS) from 1940 to June 1943, under the chairmanship of Otto Niemeyer and Ernst Weber",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": " BIS, intended to facilitate effective monetary co-operation, declared its neutrality in World War II",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "After the war was declared in September 1939, it was no longer possible for representatives of Germany, France or the United Kingdom to attend BIS meetings",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": " Due to the commencement of hostilities in France, only a few miles from BIS headquarters in Basel, Switzerland, McKittrick was the only member of its assembly to attend the May 1940 annual meeting",
+                    "sentence_id": "3",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "McKittrick was a family friend of Allen Dulles, a US intelligence officer also based in Switzerland during World War II",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": " Dulles later became a Director of the Central Intelligence Agency",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 9
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "In 1941 Fortune magazine claimed that Germany had gained control of BIS by purchasing shares from other shareholders",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": "McKittrick denied allegations that the bank was being used to escape the foreign funds controls put in place by the US Government against the Axis powers",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 11
+                },
+                {
+                    "sentence": " During World War II BIS received gold as interest payments from the German Reichstag which later investigations showed had been looted from the central banks of Belgium and the Netherlands",
+                    "sentence_id": "2",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 12
+                },
+                {
+                    "sentence": " McKittrick was re-elected to the post of president of the BIS in 1942.",
+                    "sentence_id": "3",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 13
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "From 1946 to 1954 McKittrick worked for the Chase National Bank, becoming a senior vice president and director",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 14
+                },
+                {
+                    "sentence": "He headed a survey mission for the International Bank for Reconstruction and Development to India in the 1950s",
+                    "sentence_id": "1",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 15
+                },
+                {
+                    "sentence": "He died on January 21, 1970, in Newton, New Jersey",
+                    "sentence_id": "2",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 16
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "This article about an American businessperson born in the 1880s is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 17
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 18
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "McKittrick was educated at Harvard University and graduated in 1911 ."
+    ],
+    "main_sentence_from_docx": [
+        "In the interwar years he was a banker with Lee, Higginson & Co"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_2"
+    ],
+    "global_sentence_index_docx": [
+        3
+    ],
+    "global_sentence_index_spike": [
+        699376
+    ],
+    "score_of_similarity": [
+        0.78
+    ]
+}

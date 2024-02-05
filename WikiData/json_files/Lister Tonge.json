@@ -1,0 +1,183 @@
+{
+    "title": "Lister Tonge",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Lister Tonge, AKC (born 23 December 1951) is a Roman Catholic Transitional Deacon and former British Anglican vicar",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "He was Dean of Monmouth from 2012 until the style of the post was changed to Dean of Newport in 2018. He retired as Dean in 2020.",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Tonge was born on 23 December 1951 in Oldham, Lancashire, England",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": " He was educated at Heywood Grammar School, Salford Grammar School, King's College London and Loyola University Chicago",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": " He is the second child of Edward Tonge and Dorothy Tonge (née Clough)",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Tonge was ordained as an Anglican in 1975. After a curacy at Liverpool Parish Church he was Precentor of Johannesburg Cathedral from 1978 to 1979. From then until 1991 he was a member of the Community of the Resurrection",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "He was then resident Chaplain to the Community of St John the Baptist until his appointment as Dean",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "He, alongside Archdeacons Jonathan Williams and Ambrose Mason, raised grievances - which they termed \"concerns about the well-being\" - against the Bishop of Monmouth, Richard Pain",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "Despite an internal investigation which determined that there was insufficient evidence to proceed with a formal disciplinary tribunal and finding \"there was no case to answer\", the three men remained unsatisfied",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": "Tonge, Williams and Mason then wrote a letter to the Archbishop, John Davies, and all Welsh bishops expressing how unhappy they were with the outcome",
+                    "sentence_id": "2",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": "A process of mediation was then put into place, they withdrew from this in December 2018 when a press release from the Church in Wales seemed to confirm the breakdown-in-relationships rumours",
+                    "sentence_id": "3",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": "Bishop Pain later retired on ill health",
+                    "sentence_id": "4",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 11
+                },
+                {
+                    "sentence": "The Archbishop, who would not take questions from clergy, claimed in a meeting that the three senior clerics had behaved properly throughout",
+                    "sentence_id": "5",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 12
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "He retired as Dean in 2020.",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 13
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "Following his conversion to Catholicism, Rev",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 14
+                },
+                {
+                    "sentence": "Tonge was ordained a Roman Catholic transitional Deacon on 13th December 2023 at St Francis Xavier Catholic Church, Everton by Archbishop Malcolm McMahon OP, Archbishop of Liverpool",
+                    "sentence_id": "1",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 15
+                },
+                {
+                    "sentence": "His ordination to the Sacred Catholic Priesthood is expected to take place in 2024.",
+                    "sentence_id": "2",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 16
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "{{S- Ian Black}}",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 17
+                }
+            ]
+        },
+        {
+            "paragraph_index": 7,
+            "sentences": [
+                {
+                    "sentence": "This article about a member of the Christian clergy is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 18
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 19
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at Heywood Grammar School , Salford Grammar School , King 's College London and Loyola University Chicago ."
+    ],
+    "main_sentence_from_docx": [
+        " He was educated at Heywood Grammar School, Salford Grammar School, King's College London and Loyola University Chicago"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_1"
+    ],
+    "global_sentence_index_docx": [
+        3
+    ],
+    "global_sentence_index_spike": [
+        74454
+    ],
+    "score_of_similarity": [
+        0.04
+    ]
+}

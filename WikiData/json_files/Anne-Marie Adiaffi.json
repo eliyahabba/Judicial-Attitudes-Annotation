@@ -1,0 +1,74 @@
+{
+    "title": "Anne-Marie Adiaffi",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Anne-Marie Adiaffi (1951–1994) was an Ivorian writer who gained fame in 1983 with her novel Une vie hypothéquée (A Mortgaged Life)",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Born in 1951 in Abengourou, Adiaffi was educated in Côte d'Ivoire schools before studying in Marseille and ultimately in Dakar, where she received a diploma as a bilingual secretary",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "After first working in a bank, she joined the publishing house Novelles Éditions Africaines in 1983. After her satiric Une vie hypothéquée, she published La ligne brisée (1989) about a man banished from his village after constant bad luck",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "She died in Abidjan in 1994.",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "This article about an Ivorian writer or poet is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "Born in 1951 in Abengourou , Adiaffi was educated in Côte d'Ivoire schools before studying in Marseille and ultimately in Dakar , where she received a diploma as a bilingual secretary ."
+    ],
+    "main_sentence_from_docx": [
+        "Born in 1951 in Abengourou, Adiaffi was educated in Côte d'Ivoire schools before studying in Marseille and ultimately in Dakar, where she received a diploma as a bilingual secretary"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        1
+    ],
+    "global_sentence_index_spike": [
+        500253
+    ],
+    "score_of_similarity": [
+        0.02
+    ]
+}

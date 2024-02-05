@@ -1,0 +1,68 @@
+{
+    "title": "William Greenway",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "William Whitmore Greenway (5 March 1798, Nuneaton, Warwickshire – 28 May 1868, Mount Bosworth, Leicestershire) was an English amateur cricketer who played first-class cricket from 1819 to 1820 for Cambridge University Cricket Club, making 3 known appearances",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "William Greenway was educated at Rugby School and Trinity Hall, Cambridge",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": " He subsequently became ordained as an Anglican clergyman",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "This biographical article related to an English cricket person born in the 1790s is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "William Greenway was educated at Rugby School and Trinity Hall , Cambridge ."
+    ],
+    "main_sentence_from_docx": [
+        "William Greenway was educated at Rugby School and Trinity Hall, Cambridge"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        1
+    ],
+    "global_sentence_index_spike": [
+        232268
+    ],
+    "score_of_similarity": [
+        0.04
+    ]
+}

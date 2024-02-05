@@ -1,0 +1,109 @@
+{
+    "title": "Patrick O'Connor (bishop)",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Dr Patrick J",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "O'Connor DD (1848 – 15 July 1932) was an Irish-born Roman Catholic Bishop of Armidale, in the Sydney Diocese, New South Wales, Australia",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "His only brother David O'Connor also became a priest",
+                    "sentence_id": "2",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": " An uncle, Fr",
+                    "sentence_id": "3",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "Joseph Meany, was a priest in Blackburn, England",
+                    "sentence_id": "4",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "",
+                    "sentence_id": "5",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Patrick Joseph O'Connor born at Clonea, County Waterford on 25 December 1848. He was educated by the Christian Brothers in Dungarvan, County Waterford and he went on to study for the priesthood at All Hallows College, Dublin, where he was ordained on 15 September 1875 for Armidale, New South Wales, Australia, on 15 September 1875.",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "He was made dean and Vicar General in 1882, later he was awarded the title of Monsignor, and on 3 May 1903 he was made Bishop of Armidale, consecrated by the Archbishop of Sydney Cardinal Moran",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "He was a driving force behind the new Catholic cathedral in Sydney",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": "O'Connor Catholic College is named in his honour",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 9
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "O'Connor died on 15 July 1932, and is buried in front of Our Lady's altar, in the Cathedral",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 10
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated by the Christian Brothers in Dungarvan , County Waterford and he went on to study for the priesthood at All Hallows College , Dublin , where he was ordained on 15 September 1875 for Armidale , New South Wales , Australia , on 15 September 1875 ."
+    ],
+    "main_sentence_from_docx": [
+        "Patrick Joseph O'Connor born at Clonea, County Waterford on 25 December 1848. He was educated by the Christian Brothers in Dungarvan, County Waterford and he went on to study for the priesthood at All Hallows College, Dublin, where he was ordained on 15 September 1875 for Armidale, New South Wales, Australia, on 15 September 1875."
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        6
+    ],
+    "global_sentence_index_spike": [
+        1067306
+    ],
+    "score_of_similarity": [
+        0.33
+    ]
+}

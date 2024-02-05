@@ -1,0 +1,156 @@
+{
+    "title": "Robert Jacomb",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Robert Jacomb (6 December 1680 – 1732) of Feltwell, Norfolk, and Whitehall, London, was a British financier and politician who sat in the House of Commons from 1722 to 1732.",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Jacomb was the third son of William Jacomb of St",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "Mary Aldermary, London, and his wife Mary Blayney, daughter of Robert Blayney of London",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "He was educated at Eton College from 1692 to 1695. He married Francis Eyre who died in 1716 and then, as his second wife, Lucy Pemberton",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": " At some time he purchased Dunton's Manor at Feltwell, Norfolk from the Fleetwood family",
+                    "sentence_id": "3",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Jacomb was a clerk to Thomas Gibson",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "Later, he became a partner in the firm of Gibson, Jacob & Jacomb who were scriveners and bankers",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "From 1716 to 1720 he was Inspector General of Accounts of the Outports",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "Gibson recommended him to Sir Robert Walpole for his expertise in funds and government accounts and",
+                    "sentence_id": "3",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": "Walpole began to rely on him",
+                    "sentence_id": "4",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": "When Walpole returned to the pay office in 1720, he appointed Jacomb as deputy paymaster general",
+                    "sentence_id": "5",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": "Jacomb handled Walpole's private and official investments during the South Sea Bubble crisis",
+                    "sentence_id": "6",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 11
+                },
+                {
+                    "sentence": "He conceived the 'ingraftment scheme', under which the Bank of England and the East India Company would take on some of the inflated capital of the South Sea Company",
+                    "sentence_id": "7",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 12
+                },
+                {
+                    "sentence": "This scheme was adopted by Walpole and passed into law, but was never implemented",
+                    "sentence_id": "8",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 13
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "Jacomb was returned unopposed as Member of Parliament for Thetford through Walpole's influence at the 1722 general election",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 14
+                },
+                {
+                    "sentence": "He often sat on the committees appointed to prepare the finance bills each session",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 15
+                },
+                {
+                    "sentence": "He was returned unopposed again as MP for Thetford at the 1727 general election",
+                    "sentence_id": "2",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 16
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "Jacomb died on 14 December 1732. He had a son by each of his wives",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 17
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at Eton College from 1692 to 1695 ."
+    ],
+    "main_sentence_from_docx": [
+        "Jacomb was the third son of William Jacomb of St"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        1
+    ],
+    "global_sentence_index_spike": [
+        1123314
+    ],
+    "score_of_similarity": [
+        0.8
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "title": "Tim Jones (writer)",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Tim Jones (born 15 June 1959) is a New Zealand writer and poet",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Born in Cleethorpes, near Grimsby, England, Jones moved to Southland, New Zealand at a young age",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "He was educated at the University of Otago in Dunedin, and has lived in Wellington since 1993.",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Jones has published six books: a novel, two short story collections, and three collections of poetry",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "In addition, he is the co-editor, with Mark Pirie, of an anthology of New Zealand science fiction poetry",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "Jones has long been associated with the New Zealand science fiction fan community and also with New Zealand's environmental movement",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "Both themes are present in his books, though neither dominates his writing",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "Jones's work was nominated for a Sir Julius Vogel Award for poetry in 2004, and Anarya's Secret was nominated for Best Novel in the 2008 awards",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "The anthology Voyagers: Science Fiction Poetry From New Zealand, of which Jones was a co-editor, won the 2010 Sir Julius Vogel Award for best Collected Work",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": "His poem \"Shostakovich in America\" was a finalist in the 2007 Bravado International Poetry Competition, finishing in third place, and his poem \"The Outsider\" was a finalist in the 2008 Bravado International Poetry Competition, finishing in second place",
+                    "sentence_id": "2",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 9
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "Jones's short story collection Transported, published in 2008, was longlisted for the 2008 Frank O'Connor International Short Story Award",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 10
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "Jones's story \"The New Neighbours\" was included in The Penguin Book of Contemporary New Zealand Short Stories, published in 2009, and will appear in The Apex Book of World SF 2, to be published in 2012.",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 11
+                }
+            ]
+        },
+        {
+            "paragraph_index": 7,
+            "sentences": [
+                {
+                    "sentence": "In 2010, Jones was the winner of the New Zealand Society of Authors (NZSA) Janet Frame Memorial Award for Literature",
+                    "sentence_id": "0",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 12
+                },
+                {
+                    "sentence": "The award of $3,000 is offered to support a mid-career or established author to further their literary career",
+                    "sentence_id": "1",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 13
+                }
+            ]
+        },
+        {
+            "paragraph_index": 8,
+            "sentences": [
+                {
+                    "sentence": "He was awarded the NZSA Peter and Dianne Beatson Fellowship for 2022–2023.",
+                    "sentence_id": "0",
+                    "paragraph_index": 8,
+                    "global_sentence_index": 14
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at the University of Otago in Dunedin , and has lived in Wellington since 1993 ."
+    ],
+    "main_sentence_from_docx": [
+        "He was educated at the University of Otago in Dunedin, and has lived in Wellington since 1993."
+    ],
+    "main_sentence_id_in_docx": [
+        "1_1"
+    ],
+    "global_sentence_index_docx": [
+        2
+    ],
+    "global_sentence_index_spike": [
+        327565
+    ],
+    "score_of_similarity": [
+        0.02
+    ]
+}

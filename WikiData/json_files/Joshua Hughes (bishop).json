@@ -1,0 +1,114 @@
+{
+    "title": "Joshua Hughes (bishop)",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Joshua Hughes (7 October 1807 – 21 January 1889) was Bishop of St Asaph, an Anglican diocese in Wales, United Kingdom",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Hughes was educated at Cardigan and Ystradmeurig grammar schools and at St David's College, Lampeter (1828–30), where he was placed in the first class in the examinations every year and gained prizes for Latin and Welsh essays",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "After ordination he served curacies in Aberystwyth and Carmarthen before becoming the vicar of the nearby village of Abergwili in 1837. He then become the vicar of Llandovery (Llandingat) in 1846. During this time, he also returned to Lampeter to complete a second degree, a Bachelor of Divinity, in 1867.",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "In 1870, William Ewart Gladstone was seeking to fill the vacant bishopric of St Asaph",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "One of his criteria was that the new bishop would be Welsh-speaking",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "After consulting with Connop Thirlwall, the position was offered to Hughes",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "Despite being regarded by many as underqualified (most bishops at the time were expected to be Oxbridge graduates), the appointment was soon justified",
+                    "sentence_id": "3",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "He was particularly efficient at appointing Welsh-speaking vicars into bilingual churches and thus promoting the church amongst Welsh-monoglots",
+                    "sentence_id": "4",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "He was also a staunch supporter of the developing movement for promoting higher education in Wales, initially hoping that his alma mater, St David's College, would become the centre of a Welsh university",
+                    "sentence_id": "5",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "In August 1888 Hughes was struck with paralysis while staying at Crieff in Perthshire",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": "He never recovered and was unable to sign a deed of resignation from the see",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": "He died on 21 January 1889 and was buried at St Asaph Cathedral",
+                    "sentence_id": "2",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 11
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "Hughes' sons were the geologist Thomas McKenny Hughes, and Joshua Pritchard Hughes, appointed Bishop of Llandaff in 1905.",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 12
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [],
+    "main_sentence_from_docx": [],
+    "main_sentence_id_in_docx": [],
+    "global_sentence_index_docx": [],
+    "global_sentence_index_spike": [],
+    "score_of_similarity": []
+}

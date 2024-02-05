@@ -1,0 +1,110 @@
+{
+    "title": "Lemmy Jackson",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Otu Udofa, professionally known as Lemmy Jackson, is a Nigerian music producer who produced songs for many prominent Nigerians artists of the 1980s",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "He produced Wait for Me a duet by Onyeka Onwenu and King Sunny Adé, he also worked with Alex O, the Mandators, Tera Kota and Ras Kimono",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Jackson was educated at QIC Primary School, Eket and at the Etinan Institute",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "He later studied metallurgy in Russia before moving to England",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "In London, Jackson worked as a session musician, an encounter with Laolu Akins and his band BLO  led to him playing as a keyboardist for BLO",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": " His career took off in 1981 after he was hired as an in-house producer by Pail Aifuwa, a businessman who had founded a new record label, Time Communications in Lagos",
+                    "sentence_id": "3",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": " At Time, he produced Oby Onyioha's record I Want To Feel Your Love and also Tonight, Jackson's debut album",
+                    "sentence_id": "4",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "In addition, Jackson performed production duties on Christy Essien-Igbokwe's Ever Liked My Person",
+                    "sentence_id": "5",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": " Both his record and that of Onyioha were recorded at Haruna Isbola's Phondisk Studio in Ijebu-Ode and as was common in that era it was sent to London for mixing",
+                    "sentence_id": "6",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Jackson later joined EMI and got into producing reggae records",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": " He was a session musician and producer on Ras Kimono's What's Gwan",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": "and produced Tera Kota's Lamentation of Sodom in 1984. He also contributed production wise to The Mandators third album Rebel and also produced Majek Fashek's Send Down the Rain",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 11
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "Jackson was educated at QIC Primary School , Eket and at the Etinan Institute ."
+    ],
+    "main_sentence_from_docx": [
+        "Jackson was educated at QIC Primary School, Eket and at the Etinan Institute"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        2
+    ],
+    "global_sentence_index_spike": [
+        946546
+    ],
+    "score_of_similarity": [
+        0.04
+    ]
+}

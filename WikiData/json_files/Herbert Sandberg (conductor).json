@@ -1,0 +1,148 @@
+{
+    "title": "Herbert Sandberg (conductor)",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Herbert Ludwig Sandberg (26 February 1902 – 7 January 1966) was a Swedish conductor, librettist, and composer of Polish Jewish descent",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Born in Breslau (now Wrocław), Sandberg was the son of Dr",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "Richard and",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Franziska Betty (née Rosenthal) Sandberg",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": " He was educated in Germany where he was a pupil of Julius Prüwer in Breslau and Leo Blech in Berlin",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": " He later married Blech's daughter, Lisel Blech, on 19 August 1939.",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "Sandberg began his career as a répétiteur at the Breslau Opera in 1919 when he was only 17 years old; a position he remained in through 1922. He then became the kapellmeister  and assistant conductor to Blech at the Theater des Westens in Berlin (also known as the Berlin Volksoper) in 1923. This was followed by a post at the Deutsche Oper Berlin as assistant to Bruno Walter",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": " He then became a conductor at the Royal Swedish Opera (RSO) in Stockholm in 1926 where he remained for the rest of his career",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "He notably conducted several world premieres at the RSO, including Lars-Erik Larsson's Prinsessan av Cypern (1937), Hilding Rosenberg's Lycksalighetens ö (1945), Natanael Berg's Genoveva (1947), and Ture Rangström's Gilgamesj (1952)",
+                    "sentence_id": "2",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": "In 1950 he conducted the world premiere of Birgit Cullberg's ballet Medea to music by Béla Bartók at the Riksteatern Gävle, a work he also conducted for its American premiere with the New York City Ballet at Lincoln Center in 1958. He was a guest conductor on several occasions at the Bavarian State Opera, the Hamburg State Opera, and the Semperoper among other houses, and with the Nordwestdeutscher Rundfunk in Hamburg and the RIAS Symphony Orchestra in Berlin",
+                    "sentence_id": "3",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 9
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "Sandberg's recordings as a conductor include a 1955 recording of Edvard Grieg’s Holberg Suite with the RIAS Symphony Orchestra for Deutsche Grammophon and a 1956 recording of Camille Saint-Saëns's Samson et Dalila with Set Svanholm (Samson), Blanche Thebom (Dalila), and the RSO Orchestra",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": "As a composer he wrote a few orchestral pieces, some lieder, and the scores to four Swedish films: Blod och eld (1945), Det vackraste på jorden (1947), Giftas (1955), and Ett dockhem (1956)",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 11
+                },
+                {
+                    "sentence": " He is perhaps best remembered for translating several major German operas into the Swedish language; some of which are still used by the RSO and other opera houses in Sweden",
+                    "sentence_id": "2",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 12
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "Sandberg died in Danderyd, aged 63.",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 13
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "Eva Sandberg is his sister",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 14
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated in Germany where he was a pupil of Julius Prüwer in Breslau and Leo Blech in Berlin ."
+    ],
+    "main_sentence_from_docx": [
+        " He then became a conductor at the Royal Swedish Opera (RSO) in Stockholm in 1926 where he remained for the rest of his career"
+    ],
+    "main_sentence_id_in_docx": [
+        "3_1"
+    ],
+    "global_sentence_index_docx": [
+        7
+    ],
+    "global_sentence_index_spike": [
+        1118683
+    ],
+    "score_of_similarity": [
+        0.89
+    ]
+}

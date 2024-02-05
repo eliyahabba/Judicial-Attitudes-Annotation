@@ -1,0 +1,143 @@
+{
+    "title": "William A. Slater",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "William Albert Slater (1857–1919), was an American businessman, art collector, and philanthropist from Connecticut who was a member of the prominent Slater family",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "William Slater, the son of John Fox Slater and grandson of John Slater (Samuel Slater's brother and partner), was born in Norwich, Connecticut, on December 25, 1857. He was educated at Norwich Free Academy, then studied abroad, and later graduated from Harvard College in 1881. He studied art history under Charles Eliot Norton, and after graduating, Slater went on to acquire a notable art collection, including works by Rembrandt, and eventually began lending his paintings to the Slater Museum",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Slater married Ellen Burdett Peck on June 11, 1885. He worked in the family's textile business, the Slatersville Mills and Jewett City Mills",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "William Slater also served as a trustee of the Slater Fund",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "In 1886, Slater presented the Slater Memorial Museum to Norwich Free Academy in memory of his father",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": " He also constructed Norwich's \"Broadway Theater\" and sponsored various shows there",
+                    "sentence_id": "2",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "In 1894, the Slaters and their two young children, William and Eleanor, travelled around the world in their 232-foot yacht, the Eleanor, named after their daughter",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": " It had been constructed at Bath Iron Works in 1893–1894. Slater had an office in Boston, Massachusetts, and was a member of the Somerset Club and Tavern Club",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": " In 1900 Slater sold the village of Slatersville, Rhode Island and the mill within it to James Hooper",
+                    "sentence_id": "2",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "Slater died in Washington, D",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": "C",
+                    "sentence_id": "1",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": ", on February 25, 1919. He was survived by his wife Ellen and two children – William A",
+                    "sentence_id": "2",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 11
+                },
+                {
+                    "sentence": "Slater, Jr",
+                    "sentence_id": "3",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 12
+                },
+                {
+                    "sentence": "of Norwich and Eleanor Halsey Malone of New York",
+                    "sentence_id": "4",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 13
+                },
+                {
+                    "sentence": " After his death, Slater's family sold the remaining Jewett City Mills",
+                    "sentence_id": "5",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 14
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "William A. Slater was educated at Norwich Free Academy , then studied abroad , and later graduated from Harvard College in 1881 ."
+    ],
+    "main_sentence_from_docx": [
+        "William Slater, the son of John Fox Slater and grandson of John Slater (Samuel Slater's brother and partner), was born in Norwich, Connecticut, on December 25, 1857. He was educated at Norwich Free Academy, then studied abroad, and later graduated from Harvard College in 1881. He studied art history under Charles Eliot Norton, and after graduating, Slater went on to acquire a notable art collection, including works by Rembrandt, and eventually began lending his paintings to the Slater Museum"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        1
+    ],
+    "global_sentence_index_spike": [
+        787775
+    ],
+    "score_of_similarity": [
+        2.9
+    ]
+}

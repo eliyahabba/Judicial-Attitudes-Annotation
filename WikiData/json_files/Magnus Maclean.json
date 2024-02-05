@@ -1,0 +1,170 @@
+{
+    "title": "Magnus Maclean",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Prof Magnus Maclean FRSE MIEE MICE LLD (1857-1937) was an electrical engineer who assisted Lord Kelvin in his electrical experiments and later became Professor of Electrical Engineering in Glasgow (one of the first to hold such a title)",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "The Magnus Maclean Memorial Prize given to students of electrical engineering is named in his honour",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "A native speaker of Scottish Gaelic, he also lectured in Celtic Studies at the University of Glasgow, delivering the MacCallum lectures, in English between 1901 and 1093.  These lectures constituted the first official lectures in Celtic studies at the University",
+                    "sentence_id": "2",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "He was born in Fasach, Skye on 1 November 1857. He was educated at Colbost on the island then sent to Glasgow for secondary education",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "He then began training as a Free Church minister at the Free Church Training College in Glasgow and also studied at the University of Glasgow",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "However, her abandoned this after two years and became a teacher in Sutherland",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Re-entering the University of Glasgow in 1881 with a Lorimer bursary for Mathematics, and a London Highland Society scholarship",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "He studied Natural Philosophy (Physics) and Mathematics  at Glasgow University graduating MA around 1883.",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "From at least 1880 he was the personal assistant to William Thomson, Lord Kelvin in his electrical experiments",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": "In 1888 he was elected a Fellow of the Royal Society of Edinburgh",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": "His proposers were William Thomson, Lord Kelvin, William Jack, Thomas Muir, and Thomas Gray",
+                    "sentence_id": "2",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 10
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "In 1899 he became Professor of Electrical Engineering at the Royal Technical College in Glasgow",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 11
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "Glasgow University gave him an honorary doctorate (LLD) in 1919.",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 12
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "In later life he lived at 51 Kersland Terrace in Glasgow",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 13
+                },
+                {
+                    "sentence": "  Maclean was an active member of Comunn Gàidhlig Ghlaschu",
+                    "sentence_id": "1",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 14
+                }
+            ]
+        },
+        {
+            "paragraph_index": 7,
+            "sentences": [
+                {
+                    "sentence": "He retired in 1924 and died on 2 September 1937.",
+                    "sentence_id": "0",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 15
+                }
+            ]
+        },
+        {
+            "paragraph_index": 8,
+            "sentences": [
+                {
+                    "sentence": "His portrait by James Raeburn Middleton is held by Strathclyde University",
+                    "sentence_id": "0",
+                    "paragraph_index": 8,
+                    "global_sentence_index": 16
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at Colbost on the island then sent to Glasgow for secondary education ."
+    ],
+    "main_sentence_from_docx": [
+        "He was born in Fasach, Skye on 1 November 1857. He was educated at Colbost on the island then sent to Glasgow for secondary education"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        3
+    ],
+    "global_sentence_index_spike": [
+        425796
+    ],
+    "score_of_similarity": [
+        0.57
+    ]
+}

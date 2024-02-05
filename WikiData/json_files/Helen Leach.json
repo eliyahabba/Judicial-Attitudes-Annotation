@@ -1,0 +1,136 @@
+{
+    "title": "Helen Leach",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Helen May Leach ONZM (née Keedwell; born 3 July 1945) is a New Zealand academic specialising in food anthropology",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "She is currently a professor emerita at the University of Otago",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Born Helen May Keedwell in Wellington on 3 July 1945, Leach is the daughter of Peggy and Harvey Keedwell",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": " Her older sister, Nancy Tichborne, was a watercolour artist",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "After moving with her family to Dunedin in the early 1950s, Leach was educated at Otago Girls' High School",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": " She went on to study at the University of Otago, from where she graduated Master of Arts",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "Leach was appointed to the staff of the University of Otago in 1972, and was appointed to a chair in anthropology in 2002. Originally trained in archaeology, she completed a PhD in 1976 at Otago, with a thesis titled Horticulture in prehistoric New Zealand: an investigation of the function of the stone walls of Palliser Bay",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "Leach has studied food, eating, cooking, associated equipment and paraphernalia in New Zealand",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "Her interests range from prehistoric horticulture and the evolution of human diet to the history of cooking, the origins of recipes as well as the development of kitchens and batteries de cuisine in the twentieth century",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": "Her extensive collection of cookery books, especially community cookbooks, has provided a significant resource for colleagues' investigations  that compensated for the incompleteness of that of the National Library of New Zealand",
+                    "sentence_id": "2",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": "Reviewing Leach's most recent book Kitchens, Barbara Santich observed that \"New Zealanders are indeed fortunate to have Helen Leach as guide, guardian and safe-keeper of their gastronomic past\", noting too that the work was illustrated with images of artefacts from Leach's own personal collection",
+                    "sentence_id": "3",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 10
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "When Leach retired from the University of Otago in 2008, she was granted the title of emeritus professor",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 11
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "Leach was elected a Fellow of the Royal Society of New Zealand in 2004. In the 2018 Queen's Birthday Honours, she was appointed an Officer of the New Zealand Order of Merit, for services to culinary anthropology",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 12
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "After moving with her family to Dunedin in the early 1950s , Leach was educated at Otago Girls ' High School ."
+    ],
+    "main_sentence_from_docx": [
+        "After moving with her family to Dunedin in the early 1950s, Leach was educated at Otago Girls' High School"
+    ],
+    "main_sentence_id_in_docx": [
+        "2_0"
+    ],
+    "global_sentence_index_docx": [
+        4
+    ],
+    "global_sentence_index_spike": [
+        708972
+    ],
+    "score_of_similarity": [
+        0.04
+    ]
+}

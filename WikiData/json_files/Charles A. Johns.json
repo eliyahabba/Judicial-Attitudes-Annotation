@@ -1,0 +1,163 @@
+{
+    "title": "Charles A. Johns",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Charles A",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "Johns (June 25, 1857 – January 11, 1932) was an American lawyer, jurist and politician who served as the 47th justice of the Oregon Supreme Court",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "Johns also served as mayor of Baker City in Eastern Oregon and as an associate justice of the Supreme Court of the Philippines while that archipelago was under U",
+                    "sentence_id": "2",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "S",
+                    "sentence_id": "3",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "jurisdiction",
+                    "sentence_id": "4",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Charles Johns was born to James McClellan Johns and Elizabeth Ann Darby Johns in Jackson County, Missouri",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": " In 1858, the family immigrated to the Oregon Territory and settled in the Willamette Valley",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": " Charles was then educated in the local schools of Marion and Linn counties",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": " For college he attended Willamette University in Salem, where he graduated in 1878 with his Bachelor of Arts",
+                    "sentence_id": "3",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": " He was admitted to the bar in 1881. The following year Johns married Mabel Ellis with whom he fathered three children",
+                    "sentence_id": "4",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": " He would also have three children by his second wife Elizabeth Busch",
+                    "sentence_id": "5",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 10
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "After being accepted to practice law, Johns then became a judge in Polk County, Oregon, in the Willamette Valley from 1883 to 1885 and served as mayor of Baker City in Eastern Oregon from 1900 to 1908. He was also a lieutenant colonel on the staff of Oregon Governor Theodore Thurston Geer",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 11
+                },
+                {
+                    "sentence": " In 1912, Charles Johns moved to Portland, Oregon, where he practiced law",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 12
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "On June 4, 1918, Johns was appointed to the Oregon Supreme Court to replace Wallace McCamant by Governor James Withycombe after McCamant resigned",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 13
+                },
+                {
+                    "sentence": " Johns then won election to a full six-year term that same year, but resigned on October 7, 1921, following his appointment to the Supreme Court of the Philippines by U",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 14
+                },
+                {
+                    "sentence": "S",
+                    "sentence_id": "2",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 15
+                },
+                {
+                    "sentence": "President Warren G",
+                    "sentence_id": "3",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 16
+                },
+                {
+                    "sentence": "Harding",
+                    "sentence_id": "4",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 17
+                },
+                {
+                    "sentence": " In 1924, he served as a delegate to the Republican National Convention from Philippines",
+                    "sentence_id": "5",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 18
+                },
+                {
+                    "sentence": " Johns served on the Philippine court until dying in office on January 11, 1932, at the age of 74.",
+                    "sentence_id": "6",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 19
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "Charles was then educated in the local schools of Marion and Linn counties ."
+    ],
+    "main_sentence_from_docx": [
+        " Charles was then educated in the local schools of Marion and Linn counties"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_2"
+    ],
+    "global_sentence_index_docx": [
+        7
+    ],
+    "global_sentence_index_spike": [
+        337537
+    ],
+    "score_of_similarity": [
+        0.03
+    ]
+}

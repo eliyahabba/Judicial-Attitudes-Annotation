@@ -1,0 +1,177 @@
+{
+    "title": "Jin Yuzhang",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Jin Yuzhang (Chinese: 金毓嶂, born 3 May 1942), born Aisin-Gioro Yuzhang, is a Chinese civil servant, politician and former nobleman",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "He is the current head of the House of Aisin-Gioro, the ruling house of the late Qing dynasty",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "His father was Manchu nobleman Jin Youzhi, and he is a nephew of Puyi (The Xuantong Emperor), the last emperor of the Qing dynasty of China",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Jin was born in Beijing on 3 May 1942. His father Prince Puren was the youngest brother of Puyi",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "Puyi was the last emperor of the Qing dynasty and who later became emperor of Manchukuo, a Japanese puppet state in northeastern China",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "Jin was educated at China University of Geosciences",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "Jin expressed his father's desire for him to avoid the fate of idleness suffered by the privileged nobles of the late Qing dynasty, who were disregarded by society",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": " After graduation he worked at the Qinghai Bureau of Geology and Mineral Resources from 1968 to 1985, before returning to Beijing to work at the Chongwen district Bureau of Environmental Protection",
+                    "sentence_id": "2",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "Jin is not a member of the Chinese Communist Party, but has served on various elected assemblies as a non-partisan member",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": " In 1999, he was elected to the Beijing People's Political Consultative Conference",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": "He retired as vice-director of the Chongwen district government in Beijing in 2008.",
+                    "sentence_id": "2",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 10
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "Jin married an ethnic Han Chinese woman in 1974. The couple has a daughter named Jin Xin (金鑫; b",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 11
+                },
+                {
+                    "sentence": "1979), born Aisin-Gioro Hengxin",
+                    "sentence_id": "1",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 12
+                },
+                {
+                    "sentence": "Jin's daughter graduated from university with a major in computer science and now works for Motorola China Electronics Co",
+                    "sentence_id": "2",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 13
+                },
+                {
+                    "sentence": "Ltd",
+                    "sentence_id": "3",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 14
+                },
+                {
+                    "sentence": "She is a member of the Chinese People's Political Consultative Conference in the Dongcheng District of Beijing and a famous painter",
+                    "sentence_id": "4",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 15
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "In December 2022, Jin won the \"Jinghua Concentric Award\" as a member of the 13th CPPCC",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 16
+                }
+            ]
+        },
+        {
+            "paragraph_index": 7,
+            "sentences": [
+                {
+                    "sentence": "This patrilineal line shows that Jin Yuzhang was a descendant of rulers of Qing dynasty and ultimately from Odoli tribe",
+                    "sentence_id": "0",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 17
+                },
+                {
+                    "sentence": "The patrilineal line traced back to Bukūri Yongšon",
+                    "sentence_id": "1",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 18
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "Jin was educated at China University of Geosciences ."
+    ],
+    "main_sentence_from_docx": [
+        "Jin was educated at China University of Geosciences"
+    ],
+    "main_sentence_id_in_docx": [
+        "3_0"
+    ],
+    "global_sentence_index_docx": [
+        5
+    ],
+    "global_sentence_index_spike": [
+        60553
+    ],
+    "score_of_similarity": [
+        0.04
+    ]
+}

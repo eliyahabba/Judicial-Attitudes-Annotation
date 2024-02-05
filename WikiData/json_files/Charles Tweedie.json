@@ -1,0 +1,142 @@
+{
+    "title": "Charles Tweedie",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Charles Tweedie FRSE (27 June 1868–14 September 1925) was a Scottish mathematician and mathematical historian",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Tweedie was born in Swinton on 27 June 1868, the son of Charlotte Lugton (1836–1909) and George Tweedie (1837–1905) a schoolmaster originally from Cleish",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "He was from a large family, and his older brother, David Tweedie (b",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "1865), was also a mathematician, who worked mainly in Egypt",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "He was educated at Swinton Parish School and then George Watson's College in Edinburgh",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "He won the Sibbald Scholarship to study mathematics and physics at the University of Edinburgh",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "Here he was trusted enough by Professor George Chrystal to assist with the editing of Chrystal's textbook on algebra",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "Tweedie graduated with an MA BSc with honours in 1890. He won the Bruce of Grangehill Bursary which allowed him to undertake postgraduate study at the University of Göttingen 1890/91 and University of Berlin 1891/92.",
+                    "sentence_id": "3",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "In the autumn of 1892 he became an assistant in the mathematics department at the University of Edinburgh under Professor Chrystal and became an official soon after, as Chrystal's right-hand man",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "He was elected a Fellow of the Royal Society of Edinburgh in 1897. His proposers were George Chrystal, Peter Guthrie Tait, Cargill Gilston Knott and John Sturgeon Mackay",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": "He was President of the Edinburgh Mathematical Society 1903–1904.",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 10
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "He died in Edinburgh on 14 September 1925. He was unmarried and had no children",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 11
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "This article about a United Kingdom mathematician is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 12
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 13
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at Swinton Parish School and then George Watson 's College in Edinburgh ."
+    ],
+    "main_sentence_from_docx": [
+        "He was educated at Swinton Parish School and then George Watson's College in Edinburgh"
+    ],
+    "main_sentence_id_in_docx": [
+        "2_0"
+    ],
+    "global_sentence_index_docx": [
+        4
+    ],
+    "global_sentence_index_spike": [
+        931407
+    ],
+    "score_of_similarity": [
+        0.03
+    ]
+}

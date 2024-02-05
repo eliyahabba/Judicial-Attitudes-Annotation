@@ -1,0 +1,114 @@
+{
+    "title": "David Evans (bishop)",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "David Richard John Evans (born 5 June 1938) is a British former Anglican clergyman who was a missionary bishop from 1978 to 1988.",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Evans was educated at Gonville and Caius College, Cambridge and ordained in 1966. His first post was a curacy at  Christ Church, Cockfosters",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": " In 1968 he became a missionary pastor with the Argentine Inter-Varsity Christian Fellowship, serving until 1977. He was the Chaplain of the Good Shepherd Church in Lima then Bishop of Peru",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Returning to England in 1988, he was an Assistant Bishop of Bradford (including serving as archbishop's commissary, i",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "e",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "acting diocesan bishop in 1991–2) until 1 July 1993. He then served as General Secretary of the South American Mission Society until his retirement in 2003; meanwhile, he was also an assistant bishop in Chichester, Canterbury and Rochester (all 1994–1997), in Birmingham (1997–2003)",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": " In retirement, he was an associate priest for the Stourdene benefice from 2003 until 2010 and an honorary assistant bishop in the Diocese of Coventry",
+                    "sentence_id": "3",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "This article about an Anglican bishop is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "This biographical article about a Peruvian religious figure is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 10
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "Evans was educated at Gonville and Caius College , Cambridge and ordained in 1966 ."
+    ],
+    "main_sentence_from_docx": [
+        "Evans was educated at Gonville and Caius College, Cambridge and ordained in 1966. His first post was a curacy at  Christ Church, Cockfosters"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        1
+    ],
+    "global_sentence_index_spike": [
+        718799
+    ],
+    "score_of_similarity": [
+        0.72
+    ]
+}

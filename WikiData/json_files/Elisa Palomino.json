@@ -1,0 +1,161 @@
+{
+    "title": "Elisa Palomino",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Elisa Palomino (born 1969), also known as Elisa Asuncion Palomino Perez and Elisa Palomino-Perez, is a Spanish fashion designer and educator",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "Since 2012, she has directed the BA Fashion Print department Central Saint Martins of the University of the Arts London",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Palomino was born in Valencia in 1969. She was raised in Cuenca, and when Palomino was a child, her mother had a painting restoration workshop",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": " Palomino began her education in Fine Arts in Valencia but changed her focus to fashion and completed a postgraduate diploma in textile design and in 1992, a Master's degree at Saint Martins School of Design",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": " During her study of design, she had a class with Alexander McQueen",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": " She began her PhD program in 2017 at the London College of Fashion with a focus on Indigenous Arctic fish skin",
+                    "sentence_id": "3",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Palomino began her career in fashion at Moschino before she moved to Paris and became a workshop manager for John Galliano for seven years",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": " She then designed for Roberto Cavalli before moving to New York in 2008 to become a vice president of design for Diane Von Furstenberg",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "In 2010, she began her own brand and she won the Who is on Next",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": "Fashion Freedom award",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": " By 2012, she had moved to London and was showing her fourth collection at Madrid Fashion Week and London Fashion Week",
+                    "sentence_id": "2",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": " Her brand was shown for a total of five seasons",
+                    "sentence_id": "3",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 11
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "In 2012, Palomino joined the faculty of Central Saint Martins as the director of BA Fashion Print department",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 12
+                },
+                {
+                    "sentence": " In 2019, as an associate professor, she won a research grant from the Fulbright Visiting Scholar Program for her project titled \"Indigenous Arctic Fishskin Clothing: Cultural and Ecological Impacts on Fashion Higher Education\"",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 13
+                },
+                {
+                    "sentence": " Her research was mentored by the Arctic Studies Center at the Smithsonian Institution",
+                    "sentence_id": "2",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 14
+                },
+                {
+                    "sentence": " She has also worked with the FishSkin research project funded by the European Union",
+                    "sentence_id": "3",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 15
+                },
+                {
+                    "sentence": " In 2021, fishskin bags and sneakers Palomino made with National Museum of Natural History anthropologists were shown in the Smithsonian Arts and Industries Building exhibit \"FUTURES\", alongside earlier fishskin work in the museum collection",
+                    "sentence_id": "4",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 16
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "Palomino has also taught at Polimoda, the Royal Danish Academy of Fine Arts, Iceland Academy of the Arts, Academy of Art University, Fashion Institute of Technology, Shenkar College of Engineering and Design, and Bunka Gakuen University",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 17
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "Palomino was educated at Central Saint Martins [ http://1granary.com/interviews/elisa-palomino/ < nowiki>[4]</nowiki>](Postgraduate Textiles 1990 )"
+    ],
+    "main_sentence_from_docx": [
+        "Palomino has also taught at Polimoda, the Royal Danish Academy of Fine Arts, Iceland Academy of the Arts, Academy of Art University, Fashion Institute of Technology, Shenkar College of Engineering and Design, and Bunka Gakuen University"
+    ],
+    "main_sentence_id_in_docx": [
+        "5_0"
+    ],
+    "global_sentence_index_docx": [
+        17
+    ],
+    "global_sentence_index_spike": [
+        590037
+    ],
+    "score_of_similarity": [
+        1.24
+    ]
+}

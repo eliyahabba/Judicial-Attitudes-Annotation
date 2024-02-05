@@ -1,0 +1,98 @@
+{
+    "title": "William Hammond (hymnist)",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "William Hammond (6 January 1719 – 19 August 1783) was an English hymnist",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "He was born in Battle, Sussex, England",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                },
+                {
+                    "sentence": "He was educated at Saint John's College, Cambridge",
+                    "sentence_id": "2",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "In 1743 he joined the Calvinistic Methodists, and in 1745 joined the Moravian Brethren",
+                    "sentence_id": "3",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "His works include an autobiography in Greek, which has not been published",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "His original hymns, together with his translations of older Latin hymns, were published in his Psalms, Hymns and Spiritual Songs",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "Several of his hymns are included in the Sacred Harp",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "William Hammond is buried in the Moravian cemetery in Chelsea, London",
+                    "sentence_id": "3",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "This biographical article about person in connection with Christianity is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 8
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 9
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "He was educated at Saint John 's College , Cambridge ."
+    ],
+    "main_sentence_from_docx": [
+        "He was educated at Saint John's College, Cambridge"
+    ],
+    "main_sentence_id_in_docx": [
+        "0_2"
+    ],
+    "global_sentence_index_docx": [
+        2
+    ],
+    "global_sentence_index_spike": [
+        744389
+    ],
+    "score_of_similarity": [
+        0.07
+    ]
+}

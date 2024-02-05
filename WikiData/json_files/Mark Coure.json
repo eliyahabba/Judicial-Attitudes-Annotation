@@ -1,0 +1,130 @@
+{
+    "title": "Mark Coure",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Mark Joseph Coure is an Australian politician",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "He is a member of the New South Wales Legislative Assembly representing Oatley for the Liberal Party since 2011 and served in the second Perrottet ministry",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Coure was educated at St Joseph's at Oatley, then Marist College Penshurst and Kogarah",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": " He was a business operator and franchisee owner of Mortgage Choice, a mortgage broking service",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Coure was elected to Kogarah City Council representing West Ward in 2004, and was re-elected in 2008 with an increased majority",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": " He has been chair of the council's Development and Assessment Committee, the Assets & Services Committee, and the Governance & Finance Committee",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "In 2011 Coure contested the normally safe Labor seat of Oatley in the St George-Kogarah district",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": " Coure was elected with a swing of 15.9 points, winning the seat with 50.5 per cent of the two-party vote",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 7
+                },
+                {
+                    "sentence": " Coure's opponent was the incumbent Labor sitting member, Kevin Greene who had held the seat for 12 years",
+                    "sentence_id": "2",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "Coure was appointed to the Independent Commission Against Corruption Committee on 22 June 2011. Coure was appointed Deputy Whip of the New South Wales Parliament's Legislative Assembly in 2015. In 2019, he was elected Assistant Speaker of the Legislative Assembly",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 9
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "In July 2020 The Daily Telegraph reported on Coure's ties to a businessman linked to the United Front Work Department of the Chinese Communist Party",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 10
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "In December 2021 Coure was appointed as the Minister for Multiculturalism and the Minister for Seniors in the Perrottet government",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 11
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "Mark was educated at St Joseph 's at Oatley , then Marist College Penshurst and Kogarah ."
+    ],
+    "main_sentence_from_docx": [
+        "Coure was educated at St Joseph's at Oatley, then Marist College Penshurst and Kogarah"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        2
+    ],
+    "global_sentence_index_spike": [
+        1062012
+    ],
+    "score_of_similarity": [
+        0.09
+    ]
+}

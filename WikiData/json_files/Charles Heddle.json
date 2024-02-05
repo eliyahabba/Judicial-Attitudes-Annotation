@@ -1,0 +1,120 @@
+{
+    "title": "Charles Heddle",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Charles William Maxwell Heddle (1812 – 29 April 1889 Cannes) was a Scottish-Sierra Leonian businessman and shipowner",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "In 1870 he retired to France where he died in 1889.",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "Born in Sierra Leone in 1812, Charles was the illegitimate son of John Heddle from Kirkwall and Sophy Bouchier of Sierra Leone",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "His father died before he was born",
+                    "sentence_id": "1",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "Charles was educated in Kirkwall and at the Dollar Academy and in  Edinburgh",
+                    "sentence_id": "2",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": " He first set up in business in Banjul (Bathurst) in the Gambia in 1834. He returned to Sierra Leone a few years later",
+                    "sentence_id": "3",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": " Here he helped his uncle Robert Heddle grow his business into one of the most successful businesses in the country",
+                    "sentence_id": "4",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "The company branched out from trading in peanuts to owning ships and running a shipping company",
+                    "sentence_id": "5",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Charles Heddle bought Heddle's Farm on 23 April 1859. He subsequently sold it to the government",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "He was a cousin of Matthew Forster Heddle",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 9
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "This Scottish biographical article is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 11
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "Charles was educated in Kirkwall and at the Dollar Academy and in Edinburgh ."
+    ],
+    "main_sentence_from_docx": [
+        "Charles was educated in Kirkwall and at the Dollar Academy and in  Edinburgh"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_2"
+    ],
+    "global_sentence_index_docx": [
+        4
+    ],
+    "global_sentence_index_spike": [
+        761765
+    ],
+    "score_of_similarity": [
+        0.04
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "title": "Annemarie Munk",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "Annemarie Munk (born 25 March 1974) is a Hong Kong swimmer",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                },
+                {
+                    "sentence": "She competed in four events at the 1988 Summer Olympics",
+                    "sentence_id": "1",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "She was educated at Island School and Deerfield Academy, before enrolling at the University of Southern California",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "Munk is the cofounder of Swim Lab Asia, a triathlon and open water swimming coaching business, and as of 2018 was the director and head coach",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": " Munk is also a board member and the director of programs for Splash Foundation, a charity swim school for the underprivileged and under-resourced community in Hong Kong",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "This biographical article related to a Hong Kong swimmer is a stub",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "You can help Wikipedia by expanding it",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 6
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "She was educated at Island School and Deerfield Academy , before enrolling at the University of Southern California ."
+    ],
+    "main_sentence_from_docx": [
+        "She was educated at Island School and Deerfield Academy, before enrolling at the University of Southern California"
+    ],
+    "main_sentence_id_in_docx": [
+        "1_0"
+    ],
+    "global_sentence_index_docx": [
+        2
+    ],
+    "global_sentence_index_spike": [
+        200378
+    ],
+    "score_of_similarity": [
+        0.03
+    ]
+}
