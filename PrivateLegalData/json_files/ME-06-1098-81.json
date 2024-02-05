@@ -1,0 +1,1217 @@
+{
+    "title": "ME-06-1098-81",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "נוכחים: ב\"כ המאשימה עו\"ד מזור",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "הנאשם וב\"כ עו\"ד אוזן",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "להכרעת-דין במחוזי (06-04-2009): תפח 1098/06 מדינת ישראל נ' זיאדנה מהאר שופטים: ב",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "אזולאי, נ",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "זלוצ'ובר, צ",
+                    "sentence_id": "2",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 4
+                },
+                {
+                    "sentence": "צפת, עו\"ד: עינת נהון אפרתי, בר ציון אסתר, ויקטור אוזן",
+                    "sentence_id": "3",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "חקיקה שאוזכרה:",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": ": סע'  , , ,",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "הנאשם הורשע בהכרעת הדין מיום 6.4.09, שניתנה לאחר שמיעת ראיות, בעבירות של מעשה מגונה בכח ואינוס ובניסיון להשמיד ראיה – עבירות לפי ,  ו-  בצירוף  ל, התשל\"ז – 1977.",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "בהכרעת הדין נדחתה גרסת הבדים של הנאשם לפיה המתלוננת היא זונה שהסכימה למין בתשלום, קבענו, כי גרסת המתלוננת מהימנה והרשענו את הנאשם על פי העובדות הבאות שפורטו בכתב האישום:",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 9
+                }
+            ]
+        },
+        {
+            "paragraph_index": 7,
+            "sentences": [
+                {
+                    "sentence": "ביום 17/8/06 סמוך לשעה 10:00 נסע הנאשם ברכבו, מבאר שבע לכיוון נתיבות",
+                    "sentence_id": "0",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": "הנאשם שהבחין במתלוננת, שעמדה בטרמפיאדה בצד הכביש, עצר את רכבו והציע לה לנסוע עימו לנתיבות",
+                    "sentence_id": "1",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 11
+                },
+                {
+                    "sentence": "המתלוננת עלתה לרכב והנאשם נסע לנתיבות",
+                    "sentence_id": "2",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 12
+                },
+                {
+                    "sentence": "במהלך הנסיעה הציע הנאשם למתלוננת להסיעה חזרה לבאר שבע בגמר סידוריה ולצורך כך היא נתנה לו את מספר הטלפון הנייד שלה",
+                    "sentence_id": "3",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 13
+                },
+                {
+                    "sentence": "הנאשם התקשר למתלוננת מספר פעמים וסמוך לשעה 14:30 אסף את המתלוננת בנתיבות ונסע עימה חזרה לב\"ש",
+                    "sentence_id": "4",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 14
+                },
+                {
+                    "sentence": "במהלך הנסיעה טען הנאשם בפני המתלוננת, טענה שיקרית, כי עליו לפגוש את אחיו במושב תדהר ולשם כך פנה ימינה לכביש עפר סמוך ליער שרשרת",
+                    "sentence_id": "5",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 15
+                },
+                {
+                    "sentence": "שם ביקש הנאשם מהמתלוננת לעבור למושב האחורי, בתואנה שאינו רוצה שאחיו יראה אותה ברכבו",
+                    "sentence_id": "6",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 16
+                },
+                {
+                    "sentence": "המתלוננת שלא חשדה בדבר, עברה למושב האחורי",
+                    "sentence_id": "7",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 17
+                },
+                {
+                    "sentence": "הנאשם המשיך בנסיעתו עד שהגיעו לגן שעשועים ועשה עצמו כמי שממתין לאחיו",
+                    "sentence_id": "8",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 18
+                },
+                {
+                    "sentence": "לאחר מספר דקות נכנס הנאשם למושב האחורי, התיישב לצד המתלוננת, אמר לה שאחיו אמור להגיע עוד מספר דקות ודרש ממנה לנשק אותו",
+                    "sentence_id": "9",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 19
+                },
+                {
+                    "sentence": "המתלוננת סירבה וביקשה ממנו להתרחק ממנה, אולם הנאשם אחז במתלוננת, נישק אותה בכתפה, הזיז אותה לאחור, חיבק אותה, נשק לצווארה וניסה לנשקה על פיה",
+                    "sentence_id": "10",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 20
+                }
+            ]
+        },
+        {
+            "paragraph_index": 8,
+            "sentences": [
+                {
+                    "sentence": "המתלוננת ניסתה לדחוף את הנאשם ודרשה ממנו לחדול ממעשיו, אולם הנאשם התעלם מסירובה ומישש את חזה מעל בגדיה",
+                    "sentence_id": "0",
+                    "paragraph_index": 8,
+                    "global_sentence_index": 21
+                },
+                {
+                    "sentence": "הנאשם דרש מהמתלוננת שתיגע באיבר מינו ותסייע לו בידה להגיע לסיפוק מיני, אולם המתלוננת סירבה",
+                    "sentence_id": "1",
+                    "paragraph_index": 8,
+                    "global_sentence_index": 22
+                },
+                {
+                    "sentence": "הנאשם חשף את איבר מינו ואונן בפני המתלוננת",
+                    "sentence_id": "2",
+                    "paragraph_index": 8,
+                    "global_sentence_index": 23
+                },
+                {
+                    "sentence": "משך את חזייתה וחולצתה עד שחשף את חזה ומישש אותו, כשהמתלוננת מנסה לדחוף את הנאשם מעליה ולהיאבק בו",
+                    "sentence_id": "3",
+                    "paragraph_index": 8,
+                    "global_sentence_index": 24
+                }
+            ]
+        },
+        {
+            "paragraph_index": 9,
+            "sentences": [
+                {
+                    "sentence": "הנאשם נשכב על המתלוננת, הפשיט אותה ממכנסיה ותחתוניה, הרים את רגליה בידיו והחדיר את איבר מינו לאיבר מינה כשהמתלוננת בוכה וצועקת, כשהוא אוחז ברגליה של המתלוננת, מונע ממנה לזוז ומכה אותה בידיו באגן הירכיים",
+                    "sentence_id": "0",
+                    "paragraph_index": 9,
+                    "global_sentence_index": 25
+                },
+                {
+                    "sentence": "לבסוף הוציא הנאשם את איבר מינו מאיבר מינה של המתלוננת והגיע לסיפוקו על בטנה",
+                    "sentence_id": "1",
+                    "paragraph_index": 9,
+                    "global_sentence_index": 26
+                }
+            ]
+        },
+        {
+            "paragraph_index": 10,
+            "sentences": [
+                {
+                    "sentence": "המתלוננת התלבשה והנאשם הסיעה לכיוון באר שבע, כשהוא מודיעה, כי בפעם הבאה שירצה לקיים עימה יחסי מין, עליה להסכים לכך",
+                    "sentence_id": "0",
+                    "paragraph_index": 10,
+                    "global_sentence_index": 27
+                },
+                {
+                    "sentence": "לדרישת המתלוננת, הנאשם הוריד אותה בצומת הנשיא",
+                    "sentence_id": "1",
+                    "paragraph_index": 10,
+                    "global_sentence_index": 28
+                }
+            ]
+        },
+        {
+            "paragraph_index": 11,
+            "sentences": [
+                {
+                    "sentence": "על פי עובדות האישום השני שבכתב האישום, ביום 21/8/06, סמוך לשעה 14:00 הגיע הנאשם לצומת גילת, על פי תיאום שנעשה עם המתלוננת בהנחיית המשטרה",
+                    "sentence_id": "0",
+                    "paragraph_index": 11,
+                    "global_sentence_index": 29
+                },
+                {
+                    "sentence": "שוטרים שהגיעו למקום עיכבו את הנאשם והורו לו להתלוות אליהם לתחנת המשטרה באופקים",
+                    "sentence_id": "1",
+                    "paragraph_index": 11,
+                    "global_sentence_index": 30
+                },
+                {
+                    "sentence": "הנאשם הסכים ונהג ברכבו לעבר תחנת המשטרה כשלצידו יושב השוטר רפי טימסיט",
+                    "sentence_id": "2",
+                    "paragraph_index": 11,
+                    "global_sentence_index": 31
+                },
+                {
+                    "sentence": "במהלך הנסיעה זרק הנאשם מדלת הרכב פתק ועליו מספר הטלפון של המתלוננת כפי שמסרה לו, וזאת בכוונה להעלים ראיות ולהשמידן",
+                    "sentence_id": "3",
+                    "paragraph_index": 11,
+                    "global_sentence_index": 32
+                }
+            ]
+        },
+        {
+            "paragraph_index": 12,
+            "sentences": [
+                {
+                    "sentence": "בעניינו של הנאשם הוגש תסקיר ממנו עולה, כי הנאשם בן 28, נשוי 10 שנים",
+                    "sentence_id": "0",
+                    "paragraph_index": 12,
+                    "global_sentence_index": 33
+                },
+                {
+                    "sentence": "לנאשם ילדה כבת 7, ילדה כבת 6 המרותקת לכסא גלגלים ולה בעיות בריאות, שהתאומה שלה נפטרה לאחר לידתה",
+                    "sentence_id": "1",
+                    "paragraph_index": 12,
+                    "global_sentence_index": 34
+                },
+                {
+                    "sentence": "ילדה זו סובלת מבעיות התפתחות ונמצאת במעקב רפואי",
+                    "sentence_id": "2",
+                    "paragraph_index": 12,
+                    "global_sentence_index": 35
+                },
+                {
+                    "sentence": "בנו בן ה- 4 סובל מבעיות התפתחות שפה",
+                    "sentence_id": "3",
+                    "paragraph_index": 12,
+                    "global_sentence_index": 36
+                },
+                {
+                    "sentence": "בנוסף לנאשם זוג תאומים כבני שנתיים",
+                    "sentence_id": "4",
+                    "paragraph_index": 12,
+                    "global_sentence_index": 37
+                },
+                {
+                    "sentence": "הנאשם עובד כפועל בעוף הנגב ומתגורר בפזורה הבדואית בסמוך לרהט",
+                    "sentence_id": "5",
+                    "paragraph_index": 12,
+                    "global_sentence_index": 38
+                }
+            ]
+        },
+        {
+            "paragraph_index": 13,
+            "sentences": [
+                {
+                    "sentence": "הנאשם סיים 12 שנות לימוד עם בגרות חלקית",
+                    "sentence_id": "0",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 39
+                },
+                {
+                    "sentence": "הוא שירת בהתנדבות שנתיים במג\"ב, למרות התנגדות משפחתו",
+                    "sentence_id": "1",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 40
+                },
+                {
+                    "sentence": "לדבריו נמנע ממנו להתגייס לשירות קבע בשל מעצרו והיום הוא משרת במילואים",
+                    "sentence_id": "2",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 41
+                },
+                {
+                    "sentence": "הנאשם גם מתנדב במשמר האזרחי",
+                    "sentence_id": "3",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 42
+                },
+                {
+                    "sentence": "לדבריו, הוא מסייע להוריו הסובלים מבעיות בריאות",
+                    "sentence_id": "4",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 43
+                },
+                {
+                    "sentence": "המשפחה שכלה את אחיו הגדול במסגרת שירות צבאי במג\"ב ולדברי הנאשם הוא נטל על עצמו את הדאגה למשפחת אחיו הכוללת אישה ושמונה ילדים",
+                    "sentence_id": "5",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 44
+                },
+                {
+                    "sentence": "לנאשם אח נוסף הסובל מנכות ועבר אירוע מוחי",
+                    "sentence_id": "6",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 45
+                },
+                {
+                    "sentence": "עוד אח אובחן כחרש/אילם ואח נוסף סובל מבעיות לב קשות",
+                    "sentence_id": "7",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 46
+                },
+                {
+                    "sentence": "לדברי הנאשם הוא מטפל במשפחה המורחבת ומסייע לכולם",
+                    "sentence_id": "8",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 47
+                }
+            ]
+        },
+        {
+            "paragraph_index": 14,
+            "sentences": [
+                {
+                    "sentence": "הנאשם חזר בפני שירות המבחן על גרסתו לאירוע שנמסרה גם בבית המשפט ונדחתה בהכרעת הדין",
+                    "sentence_id": "0",
+                    "paragraph_index": 14,
+                    "global_sentence_index": 48
+                }
+            ]
+        },
+        {
+            "paragraph_index": 15,
+            "sentences": [
+                {
+                    "sentence": "השירות התרשם שהנאשם מתקשה לגלות אמפטיה כלפי המתלוננת, עסוק בתחושות של קורבנות סביב ההרשעה וממוקד בחרדות לעצמו ולמשפחתו במקרה שישלח למאסר",
+                    "sentence_id": "0",
+                    "paragraph_index": 15,
+                    "global_sentence_index": 49
+                }
+            ]
+        },
+        {
+            "paragraph_index": 16,
+            "sentences": [
+                {
+                    "sentence": "הנאשם שלל בעייתיות כלשהי בתחום המיני ועל כן השירות לא סבור שיש מקום להתערבות טיפולית",
+                    "sentence_id": "0",
+                    "paragraph_index": 16,
+                    "global_sentence_index": 50
+                },
+                {
+                    "sentence": "השרות נמנע מהמלצה כלשהי",
+                    "sentence_id": "1",
+                    "paragraph_index": 16,
+                    "global_sentence_index": 51
+                },
+                {
+                    "sentence": "יחד עם זאת, המליץ השירות במקרה של השתת מאסר לריצוי בפועל, לקחת בחשבון את מורכבות בעיותיו של הנאשם במישור המשפחתי",
+                    "sentence_id": "2",
+                    "paragraph_index": 16,
+                    "global_sentence_index": 52
+                }
+            ]
+        },
+        {
+            "paragraph_index": 17,
+            "sentences": [
+                {
+                    "sentence": "ביום 16.6.09 הוגש תסקיר נפגע עבירת מין בעניינה של המתלוננת, ממנו עולה, כי היא רווקה, בת 27, אם חד הורית לילדה בת 6 ותינוק בן 10 חודשים",
+                    "sentence_id": "0",
+                    "paragraph_index": 17,
+                    "global_sentence_index": 53
+                },
+                {
+                    "sentence": "המתלוננת גרה עם אימה ואינה עובדת",
+                    "sentence_id": "1",
+                    "paragraph_index": 17,
+                    "global_sentence_index": 54
+                },
+                {
+                    "sentence": "למתלוננת אין קשר עם אביה הביולוגי והיא סבלה מאלימות מצד אביה החורג בטרם הוא ואימה התגרשו",
+                    "sentence_id": "2",
+                    "paragraph_index": 17,
+                    "global_sentence_index": 55
+                },
+                {
+                    "sentence": "המתלוננת תיארה שני אירועים בהם בעבר אביה החורג ניסה לפגוע בה מינית",
+                    "sentence_id": "3",
+                    "paragraph_index": 17,
+                    "global_sentence_index": 56
+                },
+                {
+                    "sentence": "על רקע המצוקה בה גדלה, לא הצליחה להפנים את הצורך והיכולת להגן על עצמה ולהפעיל מנגנונים של זהירות ובשל הרעב הרגשי לקשר ולאהבה, הייתה חשופה לפגיעות נוספות ולאכזבות",
+                    "sentence_id": "4",
+                    "paragraph_index": 17,
+                    "global_sentence_index": 57
+                }
+            ]
+        },
+        {
+            "paragraph_index": 18,
+            "sentences": [
+                {
+                    "sentence": "עצמת הפגיעה של האירוע הנוכחי לא מאפשרת למתלוננת לנתק עצמה מהזיכרונות המציפים אותה והיא סובלת מחלומות, סיוטים ומראות מאירוע העבירה המשפיעים על יכולת תפקודה, אם כי עם חלוף הזמן, סימפטומים אלה שכחו במקצת",
+                    "sentence_id": "0",
+                    "paragraph_index": 18,
+                    "global_sentence_index": 58
+                }
+            ]
+        },
+        {
+            "paragraph_index": 19,
+            "sentences": [
+                {
+                    "sentence": "בתקופה הראשונה הייתה לדבריה בהלם, בנוסף לסיוטים הרבתה לבכות והזניחה את הטיפול בילדיה",
+                    "sentence_id": "0",
+                    "paragraph_index": 19,
+                    "global_sentence_index": 59
+                },
+                {
+                    "sentence": "לאחר מכן הפכה לתוקפנית, שברה חפצים ונאלצה לקבל תרופות הרגעה מרופאה",
+                    "sentence_id": "1",
+                    "paragraph_index": 19,
+                    "global_sentence_index": 60
+                },
+                {
+                    "sentence": "לדבריה מאז ביצוע העבירה, אינה חשה דבר בעת קיום קשר מיני ולא נהנית ממנו ומבחינה רגשית קיום קשר מיני מתאפשר רק כשהיא שותה אלכוהול, מה שמונע הצפה של זיכרונות מאירועי העבירה",
+                    "sentence_id": "2",
+                    "paragraph_index": 19,
+                    "global_sentence_index": 61
+                },
+                {
+                    "sentence": "לדבריה האירוע פוגע ביכולתה למצוא קשר זוגי ראוי",
+                    "sentence_id": "3",
+                    "paragraph_index": 19,
+                    "global_sentence_index": 62
+                }
+            ]
+        },
+        {
+            "paragraph_index": 20,
+            "sentences": [
+                {
+                    "sentence": "התסקיר סובר שהפגיעות המוקדמות במתלוננת החמירו את הפגיעה של האירוע הנוכחי ועל כן קשה לה לגייס משאבים רגשיים וכוחות להתמודדות ומתחזקים עמדות פסימיות ביחס לחיים, קושי לתת אמון באחרים וקשיי תפקוד בתחומים שונים",
+                    "sentence_id": "0",
+                    "paragraph_index": 20,
+                    "global_sentence_index": 63
+                }
+            ]
+        },
+        {
+            "paragraph_index": 21,
+            "sentences": [
+                {
+                    "sentence": "המתלוננת תופנה לטיפול במסגרת ציבורית, אך יתכן ותיזקק למימון של טיפול במסגרת פרטית ועל כן הומלץ לחייב את הנאשם לשלם לה פיצוי כספי למימון הטיפול ולשיקומה",
+                    "sentence_id": "0",
+                    "paragraph_index": 21,
+                    "global_sentence_index": 64
+                }
+            ]
+        },
+        {
+            "paragraph_index": 22,
+            "sentences": [
+                {
+                    "sentence": "עד הגנה 1 לעונש, עו\"ד כמאל אלזיאדנה, העיד שאביו של הנאשם נשוי לאחותו ואחיו עאקל ז\"ל היה נשוי לאחות אחרת, אח זה נהרג בפעילות במג\"ב והיא אלמנת צה\"ל",
+                    "sentence_id": "0",
+                    "paragraph_index": 22,
+                    "global_sentence_index": 65
+                },
+                {
+                    "sentence": "הנאשם נישא לאחות אחרת של העד",
+                    "sentence_id": "1",
+                    "paragraph_index": 22,
+                    "global_sentence_index": 66
+                },
+                {
+                    "sentence": "לדבריו, הנאשם רצה ללכת בדרכי האח המנוח, התגייס לצה\"ל - שירת במג\"ב ולאחר מכן התנדב במשטרה",
+                    "sentence_id": "2",
+                    "paragraph_index": 22,
+                    "global_sentence_index": 67
+                },
+                {
+                    "sentence": "לדבריו הנאשם אבא טוב, בעל טוב ועל כן מבוקש שבית המשפט יקל עמו",
+                    "sentence_id": "3",
+                    "paragraph_index": 22,
+                    "global_sentence_index": 68
+                }
+            ]
+        },
+        {
+            "paragraph_index": 23,
+            "sentences": [
+                {
+                    "sentence": "עד הגנה 2 לעונש, מר עאקיל אלזיאדנה – אחיו הגדול של הנאשם העיד, כי הוא חולה לב והנאשם מסייע לו, למשפחתו בת 9 הנפשות וגם לאחיו, כולל לעוד אח שהוא נכה",
+                    "sentence_id": "0",
+                    "paragraph_index": 23,
+                    "global_sentence_index": 69
+                }
+            ]
+        },
+        {
+            "paragraph_index": 24,
+            "sentences": [
+                {
+                    "sentence": "ב\"כ הנאשם הגישה אסופת מסמכים רפואיים ביחס למשפחת הנאשם, מסמכים הנוגעים לשירותו במג\"ב, לימודיו, אישורים מהמועצה המקומית ועוד",
+                    "sentence_id": "0",
+                    "paragraph_index": 24,
+                    "global_sentence_index": 70
+                }
+            ]
+        },
+        {
+            "paragraph_index": 25,
+            "sentences": [
+                {
+                    "sentence": "בנוסף הוגשה חוות דעת מטעם ד\"ר נמרוד שני – פסיכולוג קליני מומחה, ממנה עולה, כי הנאשם מתקשה להתמודד במצב בו הגבולות מעורפלים, מטושטשים וכוללים גירויים רגשיים, מה שמסביר, לדעת המומחה, את התנהגותו בעת ביצוע העבירות, כאשר בשל הפער התרבותי בינו לבין המתלוננת ובשל הפירוש השגוי לסיטואציה, הוא פעל מדחפיו המיניים בעת האירוע",
+                    "sentence_id": "0",
+                    "paragraph_index": 25,
+                    "global_sentence_index": 71
+                },
+                {
+                    "sentence": "המומחה סובר שהנאשם בעל משמעת ואם מוצבים בפניו גבולות וכללים ברורים, הוא ינהג לפיהם",
+                    "sentence_id": "1",
+                    "paragraph_index": 25,
+                    "global_sentence_index": 72
+                },
+                {
+                    "sentence": "ד\"ר שני המליץ שהנאשם יעבור טיפול יעודי בו ילמד על האלמנטים השגויים בהתנהגותו וגישותיו שעל בסיסם ביצע את העבירה",
+                    "sentence_id": "2",
+                    "paragraph_index": 25,
+                    "global_sentence_index": 73
+                },
+                {
+                    "sentence": "להערכתו, על סמך הנתונים שהוצגו, על סמך עברו הנקי, דפוס האישיות והיות ההליך המשפטי אלמנט מרתיע, רמת מסוכנותו המינית של הנאשם נמוכה",
+                    "sentence_id": "3",
+                    "paragraph_index": 25,
+                    "global_sentence_index": 74
+                }
+            ]
+        },
+        {
+            "paragraph_index": 26,
+            "sentences": [
+                {
+                    "sentence": "בטיעוניה לעונש הדגישה התובעת שתסקיר הנפגע מצביע על פגיעה קשה במתלוננת",
+                    "sentence_id": "0",
+                    "paragraph_index": 26,
+                    "global_sentence_index": 75
+                },
+                {
+                    "sentence": "בנוסף לענישה ממליץ תסקיר הנפגע גם על פיצוי",
+                    "sentence_id": "1",
+                    "paragraph_index": 26,
+                    "global_sentence_index": 76
+                }
+            ]
+        },
+        {
+            "paragraph_index": 27,
+            "sentences": [
+                {
+                    "sentence": "התובעת הוסיפה, כי הנאשם לא לקח אחריות על מעשיו גם בפני שירות המבחן והמשיך לטעון שהיחסים בינו לבין המתלוננת היו בהסכמה ועל כן שירות המבחן לא בא בהמלצה טיפולית ממשית בעניינו",
+                    "sentence_id": "0",
+                    "paragraph_index": 27,
+                    "global_sentence_index": 77
+                }
+            ]
+        },
+        {
+            "paragraph_index": 28,
+            "sentences": [
+                {
+                    "sentence": "לטענת התובעת אין משקל רב להערת שירות המבחן שבשיקולי ענישה יש לקחת בחשבון את המורכבות והבעייתיות המשפחתית של הנאשם, שכן הנאשם ביצע את העבירות שעה שהיה נשוי ובעל משפחה ו\"הוא בעצמו לא לקח בחשבון את המורכבות המשפחתית שלו\"",
+                    "sentence_id": "0",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 78
+                },
+                {
+                    "sentence": "התובעת סבורה שגם אם חוות דעת מומחה ההגנה, ד\"ר שני מצביעה על מסוכנות נמוכה, הרי המסוכנות קיימת ויש גם המלצה שיעבור טיפול",
+                    "sentence_id": "1",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 79
+                }
+            ]
+        },
+        {
+            "paragraph_index": 29,
+            "sentences": [
+                {
+                    "sentence": "עוד טענה עו\"ד אברהם, כי טבעו של משפט שמתנהל, שחולף זמן רב מביצוע העבירה ועד לסיום המשפט ואין בכך משקל משמעותי לקולא",
+                    "sentence_id": "0",
+                    "paragraph_index": 29,
+                    "global_sentence_index": 80
+                }
+            ]
+        },
+        {
+            "paragraph_index": 30,
+            "sentences": [
+                {
+                    "sentence": "התביעה סבורה שמשיקולים של הרתעה וגמול, יש להשית מאסר ארוך ומרתיע, מאסר על תנאי ופיצוי למתלוננת",
+                    "sentence_id": "0",
+                    "paragraph_index": 30,
+                    "global_sentence_index": 81
+                }
+            ]
+        },
+        {
+            "paragraph_index": 31,
+            "sentences": [
+                {
+                    "sentence": "ב\"כ הנאשם טענה, כי אמנם העבירה חמורה, אך הנאשם בן 28, אינו בעל דפוסים עברייניים, נשוי, אב לחמישה המטופל במשפחה בעלת בעיות רבות",
+                    "sentence_id": "0",
+                    "paragraph_index": 31,
+                    "global_sentence_index": 82
+                }
+            ]
+        },
+        {
+            "paragraph_index": 32,
+            "sentences": [
+                {
+                    "sentence": "עו\"ד בר ציון עמדה בטיעוניה על כך שכדי להתגייס לשירות צבאי במג\"ב, הנאשם שכנע את משפחתו שהתנגדה לכך בהיותה משפחה שכולה, לחתום על טפסים מתאימים על מנת שיוכל לממש את רצונו לשרת את המדינה",
+                    "sentence_id": "0",
+                    "paragraph_index": 32,
+                    "global_sentence_index": 83
+                }
+            ]
+        },
+        {
+            "paragraph_index": 33,
+            "sentences": [
+                {
+                    "sentence": "הנאשם שירת שירות צבאי למופת והמסמכים שהגישה מאשרים שהוא אמין, שקט, בעל מוסר עבודה גבוה",
+                    "sentence_id": "0",
+                    "paragraph_index": 33,
+                    "global_sentence_index": 84
+                },
+                {
+                    "sentence": "המעצר והחקירה נשוא כתב האישום קטעו את הליכי גיוסו לקבע",
+                    "sentence_id": "1",
+                    "paragraph_index": 33,
+                    "global_sentence_index": 85
+                },
+                {
+                    "sentence": "המעצר היה טראומתי מאוד עבור הנאשם ומשפחתו ובמיוחד ביחס לבת הנכה",
+                    "sentence_id": "2",
+                    "paragraph_index": 33,
+                    "global_sentence_index": 86
+                },
+                {
+                    "sentence": "הנאשם היה עצור מיום 21.8.06 עד יום 18.10.06, יום בו הוא שוחרר בתנאים מגבילים שאסרו את יציאתו מהבית עד יום 1.2.07 ולאחר מכן, בהדרגה, הקלו בתנאי השחרור בערובה",
+                    "sentence_id": "3",
+                    "paragraph_index": 33,
+                    "global_sentence_index": 87
+                }
+            ]
+        },
+        {
+            "paragraph_index": 34,
+            "sentences": [
+                {
+                    "sentence": "ב\"כ הנאשם הדגישה, כי עול הטיפול במשפחה המורחבת מונח על כתפי הנאשם העסוק כל הזמן בבעיות המשפחה ובטיפול בה",
+                    "sentence_id": "0",
+                    "paragraph_index": 34,
+                    "global_sentence_index": 88
+                }
+            ]
+        },
+        {
+            "paragraph_index": 35,
+            "sentences": [
+                {
+                    "sentence": "לדבריה, הנאשם נורמטיבי ותיפקד בכל מסגרות החיים עד עתה",
+                    "sentence_id": "0",
+                    "paragraph_index": 35,
+                    "global_sentence_index": 89
+                },
+                {
+                    "sentence": "מסוכנותו המינית של הנאשם נמוכה",
+                    "sentence_id": "1",
+                    "paragraph_index": 35,
+                    "global_sentence_index": 90
+                }
+            ]
+        },
+        {
+            "paragraph_index": 36,
+            "sentences": [
+                {
+                    "sentence": "לדבריה, מאסר בפועל ובוודאי אם יהיה ארוך, יגרום לנזק בלתי הפיך לנאשם יחשוף אותו לחברה עבריינית, משפחתו תקרוס וביתו ייהרס",
+                    "sentence_id": "0",
+                    "paragraph_index": 36,
+                    "global_sentence_index": 91
+                }
+            ]
+        },
+        {
+            "paragraph_index": 37,
+            "sentences": [
+                {
+                    "sentence": "ב\"כ הנאשם גילתה אמפטיה כלפי המתלוננת תוך שהיא מפנה לתסקיר הקורבן והציעה, כי במסגרת העונש שיושת, יועבר הסך של 15,000 ש\"ח שהופקד בקופת בית המשפט במסגרת הליכי המעצר, כפיצוי למתלוננת",
+                    "sentence_id": "0",
+                    "paragraph_index": 37,
+                    "global_sentence_index": 92
+                }
+            ]
+        },
+        {
+            "paragraph_index": 38,
+            "sentences": [
+                {
+                    "sentence": "עוד ביקשה ב\"כ הנאשם לקחת בחשבון את חלוף הזמן מאז ביצוע העבירה ועד מתן גזר הדין",
+                    "sentence_id": "0",
+                    "paragraph_index": 38,
+                    "global_sentence_index": 93
+                }
+            ]
+        },
+        {
+            "paragraph_index": 39,
+            "sentences": [
+                {
+                    "sentence": "ב\"כ הנאשם ביקשה לגזור על הנאשם שני חודשי מאסר לריצוי בעבודות שירות, מאסר על תנאי ופיצוי למתלוננת",
+                    "sentence_id": "0",
+                    "paragraph_index": 39,
+                    "global_sentence_index": 94
+                }
+            ]
+        },
+        {
+            "paragraph_index": 40,
+            "sentences": [
+                {
+                    "sentence": "הנאשם בדבריו לעניין העונש אמר שאינו עבריין והוא מצטער",
+                    "sentence_id": "0",
+                    "paragraph_index": 40,
+                    "global_sentence_index": 95
+                },
+                {
+                    "sentence": "כמו כן, הוסיף שהוא מכבד את ההרשעה וכל מילה של בית המשפט קדושה בשבילו והוא מבקש רחמים",
+                    "sentence_id": "1",
+                    "paragraph_index": 40,
+                    "global_sentence_index": 96
+                }
+            ]
+        },
+        {
+            "paragraph_index": 41,
+            "sentences": [
+                {
+                    "sentence": "הפסיקה קבעה אמות מידה ושיקולים לענישה:",
+                    "sentence_id": "0",
+                    "paragraph_index": 41,
+                    "global_sentence_index": 97
+                }
+            ]
+        },
+        {
+            "paragraph_index": 42,
+            "sentences": [
+                {
+                    "sentence": "\"מלאכת הענישה קשה באשר היא חותרת למצוא את נוסחת האיזון בין שיקולי גמול, הרתעה, מניעה, ושיקום ((3), 577, 581)",
+                    "sentence_id": "0",
+                    "paragraph_index": 42,
+                    "global_sentence_index": 98
+                },
+                {
+                    "sentence": "בית המשפט, כחלק ממערכת אכיפת החוק, מצווה להגן על החברה ועל הערכים המשותפים המאחדים אותה",
+                    "sentence_id": "1",
+                    "paragraph_index": 42,
+                    "global_sentence_index": 99
+                },
+                {
+                    "sentence": "הגנה זו משמעה, לעיתים, הצורך להוקיע ולהעניש את החריג, ולא רק כדי לגמול לו על מעשיו, אלא גם כדי להעביר מסר לעבריינים-בכוח, לפיו למי שאינו רואה עצמו מצווה לקיים צווים של לא-תעשה, עלול לשלם על כך מחיר יקר, ובין היתר, באובדן חירותו לתקופה כזו או אחרת שתיקבע על פי רוע מעלליו\"",
+                    "sentence_id": "2",
+                    "paragraph_index": 42,
+                    "global_sentence_index": 100
+                }
+            ]
+        },
+        {
+            "paragraph_index": 43,
+            "sentences": [
+                {
+                    "sentence": "ראה  פלוני נ' מדינת ישראל (פורסם בנבו)",
+                    "sentence_id": "0",
+                    "paragraph_index": 43,
+                    "global_sentence_index": 101
+                }
+            ]
+        },
+        {
+            "paragraph_index": 44,
+            "sentences": [
+                {
+                    "sentence": "בין שיקולי הענישה, במיוחד כאשר מדובר בעבירה חמורה, אין להתעלם מכך שצריכה להיות הלימה בין חומרת המעשה למידת העונש",
+                    "sentence_id": "0",
+                    "paragraph_index": 44,
+                    "global_sentence_index": 102
+                },
+                {
+                    "sentence": "ב(4), 744 , 747-748 (1981), נקבע:",
+                    "sentence_id": "1",
+                    "paragraph_index": 44,
+                    "global_sentence_index": 103
+                }
+            ]
+        },
+        {
+            "paragraph_index": 45,
+            "sentences": [
+                {
+                    "sentence": "\"סוגיה זו של שיקולי הענישה קשה וסבוכה היא עד מאוד, ורבו בה דיוניהם ולבטיהם של אנשי משפט, קרימינולוגים ואישי חינוך;",
+                    "sentence_id": "0",
+                    "paragraph_index": 45,
+                    "global_sentence_index": 104
+                },
+                {
+                    "sentence": "אכן, תגמול כנקמה אינו מידה בין מידות הענישה, וחלילה וחס שנהיה נוטרים ונוקמים בבואנו חשבון שיקולי העונש",
+                    "sentence_id": "1",
+                    "paragraph_index": 45,
+                    "global_sentence_index": 105
+                },
+                {
+                    "sentence": "משום כך, בבוא בית המשפט לגזור את העונש, שומה עליו להיות מתון ולהימלך בדעתו, להסיר כעס מלבו, שמא רגש הנקמה \"תהיה גורמת להעלם הדרך הטוב והנכון מעליו\" (שו\"ת הרשב\"א, ח\"ה, רלח [א]; וראה ע\"פ 212 /79 הנ\"ל, בעמ' 428)",
+                    "sentence_id": "2",
+                    "paragraph_index": 45,
+                    "global_sentence_index": 106
+                },
+                {
+                    "sentence": "אך אין בית המשפט רשאי להתעלם, בבואו לגזור דינו של עבריין בפשע חמור כגון זה שבפנינו, מהשיקול של תגמול, הבא לבטא יחס הולם בין חומרת העבירה לחומרת העונש",
+                    "sentence_id": "3",
+                    "paragraph_index": 45,
+                    "global_sentence_index": 107
+                },
+                {
+                    "sentence": "לא מעשה של נקמה יש כאן, אלא הבעת סלידה ושאט נפש ממעשה העבירה, אשר מפאת חומרתו חותר תחת עצם קיומה של חברה אנושית תרבותית",
+                    "sentence_id": "4",
+                    "paragraph_index": 45,
+                    "global_sentence_index": 108
+                },
+                {
+                    "sentence": "מסכים אני, עם כל הכבוד, לדבריו של חברי הנכבד השופט י' כהן, בדונו בשאלה כגון זו שלפנינו ב הנ\"ל, בעמ' 434-433: \t\n\"בפסיקת בתי-המשפט בארץ נאמר לא פעם שהעונש צריך להתאים לחומרת העבירה",
+                    "sentence_id": "5",
+                    "paragraph_index": 45,
+                    "global_sentence_index": 109
+                },
+                {
+                    "sentence": "לדעתי אין עקרון התגמול פסול, כאחד הגורמים במדיניות הענישה, ומן הראוי לא להעלים אותו ולהביאו בחשבון, יחד עם מטרות ענישה אחרות, בעבירות המעוררות רגש סלידה ממעשי העברין\"",
+                    "sentence_id": "6",
+                    "paragraph_index": 45,
+                    "global_sentence_index": 110
+                }
+            ]
+        },
+        {
+            "paragraph_index": 46,
+            "sentences": [
+                {
+                    "sentence": "חומרה יתרה, יש במעשיו של הנאשם שביצע את המעשים המיניים הבזויים בטרמפיסטית",
+                    "sentence_id": "0",
+                    "paragraph_index": 46,
+                    "global_sentence_index": 111
+                },
+                {
+                    "sentence": "בעניין זה ראה  עינאד יוסף נ' מדינת ישראל, תק-על 99(3), 1034, 1035(199):",
+                    "sentence_id": "1",
+                    "paragraph_index": 46,
+                    "global_sentence_index": 112
+                }
+            ]
+        },
+        {
+            "paragraph_index": 47,
+            "sentences": [
+                {
+                    "sentence": "\"במיגוון הבלתי -נדלה של מעשי אינוס, מסוגים שונים ומשונים, המובאים לפני בתי המשפט, האינוס של עוברות-אורח אקראיות (בכללן טרמפיסטיות) נמנה עם סוגי המקרים היותר חמורים",
+                    "sentence_id": "0",
+                    "paragraph_index": 47,
+                    "global_sentence_index": 113
+                },
+                {
+                    "sentence": "הצורך החברתי להגן על שלומן של נשים ונערות, מפני פגיעות מיניות אלימות בהן בהימצאן ברשות הרבים, מחייב הטלת עונשים קשים וחמורים על המורשעים\"",
+                    "sentence_id": "1",
+                    "paragraph_index": 47,
+                    "global_sentence_index": 114
+                }
+            ]
+        },
+        {
+            "paragraph_index": 48,
+            "sentences": [
+                {
+                    "sentence": "אין מחלוקת ששיקולי ההרתעה הינם מרכיב חשוב בגזר דין",
+                    "sentence_id": "0",
+                    "paragraph_index": 48,
+                    "global_sentence_index": 115
+                },
+                {
+                    "sentence": "עונש ראוי ומידתי לנסיבות המקרה וחומרתו יוצר הרתעה גם כלפי העבריין הספציפי בו דנים וגם כלפי כל אוכלוסיית העבריינים הפוטנציאליים",
+                    "sentence_id": "1",
+                    "paragraph_index": 48,
+                    "global_sentence_index": 116
+                },
+                {
+                    "sentence": "מצבה של קורבן העבירה כפי העולה מהתסקיר בעניינה אינו טוב",
+                    "sentence_id": "2",
+                    "paragraph_index": 48,
+                    "global_sentence_index": 117
+                },
+                {
+                    "sentence": "העבירה והנזקים שגרמו מעשי הנאשם, הינם שיקול חשוב בעת מתן גזר הדין",
+                    "sentence_id": "3",
+                    "paragraph_index": 48,
+                    "global_sentence_index": 118
+                },
+                {
+                    "sentence": "מעשיו העברייניים של הנאשם חמורים מאד",
+                    "sentence_id": "4",
+                    "paragraph_index": 48,
+                    "global_sentence_index": 119
+                },
+                {
+                    "sentence": "ונראה שנזקי העבירה ילוו את המתלוננת במשך שנים",
+                    "sentence_id": "5",
+                    "paragraph_index": 48,
+                    "global_sentence_index": 120
+                }
+            ]
+        },
+        {
+            "paragraph_index": 49,
+            "sentences": [
+                {
+                    "sentence": "ראה  ודים ליובין נ' מדינת ישראל, תק-על 2005(1), 2269, 2270 (2005): \"דומה שאין צורך להוסיף ולהסביר מה עינויים עברה המתלוננת תחת ידיו הטמאות ותחת גופו הטמא של המערער",
+                    "sentence_id": "0",
+                    "paragraph_index": 49,
+                    "global_sentence_index": 121
+                },
+                {
+                    "sentence": "דומה גם כי אין צורך להוסיף ולהסביר כי עד יומה האחרון תישא המתלוננת בנשמתה ובנפשה את ההשפלה הנוראה שעברה מידיו של המערער",
+                    "sentence_id": "1",
+                    "paragraph_index": 49,
+                    "global_sentence_index": 122
+                }
+            ]
+        },
+        {
+            "paragraph_index": 50,
+            "sentences": [
+                {
+                    "sentence": "8.\t\tבתיק זה נשמעו הראיות עד תומן",
+                    "sentence_id": "0",
+                    "paragraph_index": 50,
+                    "global_sentence_index": 123
+                },
+                {
+                    "sentence": "זכותו של כל נאשם לנהל את משפטו עד תום, אולם אז הוא אינו זכאי להתחשבות, כפי שזכאי נאשם שהודה בתחילת המשפט, הביע חרטה, חסך זמן שיפוטי, זמן תביעה ועוגמת נפש מהמתלוננת שנאלצה לעבור את החוויה הקשה של מסירת עדות בבית המשפט",
+                    "sentence_id": "1",
+                    "paragraph_index": 50,
+                    "global_sentence_index": 124
+                },
+                {
+                    "sentence": "לעניין זה יפים הדברים ב דוד תורג'מן נגד מדינת ישראל, דינים עליון, כרך עג 270:",
+                    "sentence_id": "2",
+                    "paragraph_index": 50,
+                    "global_sentence_index": 125
+                }
+            ]
+        },
+        {
+            "paragraph_index": 51,
+            "sentences": [
+                {
+                    "sentence": "\"לנאשם זכות יסוד בלתי מעורערת לנהל את הגנתו כפי הבנתו",
+                    "sentence_id": "0",
+                    "paragraph_index": 51,
+                    "global_sentence_index": 126
+                },
+                {
+                    "sentence": "ברם, עת עושה בית-משפט במלאכת קביעת העונש, רשאי גם רשאי הוא להביא בחשבון, במניין שיקוליו, שיקולים דוגמת חיסכון בזמן שיפוטי, נטילת אחריות על המעשה והבעת חרטה",
+                    "sentence_id": "1",
+                    "paragraph_index": 51,
+                    "global_sentence_index": 127
+                },
+                {
+                    "sentence": "אין משמעות הדבר \"החמרה\" עם אלו הבוחרים לנהל את הגנתם עד תום, כי אם הקלה לגיטימית עם אלו הבוחרים להודות",
+                    "sentence_id": "2",
+                    "paragraph_index": 51,
+                    "global_sentence_index": 128
+                },
+                {
+                    "sentence": "ואוסיף עוד זאת - בענייננו שלנו, נסיבות נוספות נזקפות לחובת הנאשם, כגון התרשמותו הקשה של בית- משפט השלום מהמבקש, והאופן בו בחר לנהג עצמו במהלך משפטו",
+                    "sentence_id": "3",
+                    "paragraph_index": 51,
+                    "global_sentence_index": 129
+                }
+            ]
+        },
+        {
+            "paragraph_index": 52,
+            "sentences": [
+                {
+                    "sentence": "יחד עם זאת, לזכותו של הנאשם לקחנו בחשבון את גילו הצעיר, את עברו הנקי ואת נסיבותיו האישיות כפי שפורטו בתסקיר ובטיעוני ההגנה, לרבות מצבו המשפחתי הקשה, התמיכה והסיוע שהוא נותן למשפחתו המורחבת, ובעניין זה נשמעו עדי אופי מטעמו והוגשו ראיות",
+                    "sentence_id": "0",
+                    "paragraph_index": 52,
+                    "global_sentence_index": 130
+                }
+            ]
+        },
+        {
+            "paragraph_index": 53,
+            "sentences": [
+                {
+                    "sentence": "כמו כן, בעניין השיקולים לקולא נלקח בחשבון גם פועלו של הנאשם במשך השנים",
+                    "sentence_id": "0",
+                    "paragraph_index": 53,
+                    "global_sentence_index": 131
+                },
+                {
+                    "sentence": "הנאשם הפגין רוח התנדבותית, ראה בשירות המדינה ערך חשוב ומצא לנכון להתגייס ולשרת במג\"ב ובכך להמשיך את דרכו של אחיו שנפל בעת שירותו הצבאי",
+                    "sentence_id": "1",
+                    "paragraph_index": 53,
+                    "global_sentence_index": 132
+                },
+                {
+                    "sentence": "הנאשם גם התנדב במשמר האזרחי",
+                    "sentence_id": "2",
+                    "paragraph_index": 53,
+                    "global_sentence_index": 133
+                }
+            ]
+        },
+        {
+            "paragraph_index": 54,
+            "sentences": [
+                {
+                    "sentence": "עוד נלקחים בחשבון השיקולים חלוף הזמן מעת ביצוע העבירה ועד מתן גזר הדין, העובדה שהנאשם הביע צער בבית המשפט וחוות דעתו של ד\"ר שני על פיה רמת מסוכנותו המינית של הנאשם נמוכה",
+                    "sentence_id": "0",
+                    "paragraph_index": 54,
+                    "global_sentence_index": 134
+                }
+            ]
+        },
+        {
+            "paragraph_index": 55,
+            "sentences": [
+                {
+                    "sentence": "9.\tלאור כל האמור, לאחר ששמענו את התובעת, את ב\"כ הנאשם, עיינו בתסקיר ובהתחשב בנימוקים לעיל, אנו דנים את הנאשם לעונשים הבאים: \t\nא",
+                    "sentence_id": "0",
+                    "paragraph_index": 55,
+                    "global_sentence_index": 135
+                },
+                {
+                    "sentence": "חמש וחצי שנות מאסר לריצוי בפועל בניכוי ימי מעצרו מיום 21/8/06 ועד 18/10/06.\t\nב",
+                    "sentence_id": "1",
+                    "paragraph_index": 55,
+                    "global_sentence_index": 136
+                },
+                {
+                    "sentence": "24 חודשי מאסר על תנאי שלא יעבור במשך 3 שנים מיום שחרורו מהכלא עבירת מין או",
+                    "sentence_id": "2",
+                    "paragraph_index": 55,
+                    "global_sentence_index": 137
+                }
+            ]
+        },
+        {
+            "paragraph_index": 56,
+            "sentences": [
+                {
+                    "sentence": "עבירת אלימות שהן פשע",
+                    "sentence_id": "0",
+                    "paragraph_index": 56,
+                    "global_sentence_index": 138
+                }
+            ]
+        },
+        {
+            "paragraph_index": 57,
+            "sentences": [
+                {
+                    "sentence": "ג",
+                    "sentence_id": "0",
+                    "paragraph_index": 57,
+                    "global_sentence_index": 139
+                },
+                {
+                    "sentence": "הנאשם יפצה את המתלוננת בסך של 30,000 ₪",
+                    "sentence_id": "1",
+                    "paragraph_index": 57,
+                    "global_sentence_index": 140
+                },
+                {
+                    "sentence": "זכות ערעור לבית המשפט העליון בתוך 45 יום מהיום",
+                    "sentence_id": "2",
+                    "paragraph_index": 57,
+                    "global_sentence_index": 141
+                }
+            ]
+        },
+        {
+            "paragraph_index": 58,
+            "sentences": [
+                {
+                    "sentence": "ניתן היום,  ב' ניסן תש\"ע, 17 מרץ 2010, במעמד הנ\"ל",
+                    "sentence_id": "0",
+                    "paragraph_index": 58,
+                    "global_sentence_index": 142
+                }
+            ]
+        },
+        {
+            "paragraph_index": 59,
+            "sentences": []
+        },
+        {
+            "paragraph_index": 60,
+            "sentences": []
+        },
+        {
+            "paragraph_index": 61,
+            "sentences": [
+                {
+                    "sentence": "ברוך אזולאי 54678313",
+                    "sentence_id": "0",
+                    "paragraph_index": 61,
+                    "global_sentence_index": 143
+                }
+            ]
+        },
+        {
+            "paragraph_index": 62,
+            "sentences": [
+                {
+                    "sentence": "נוסח מסמך זה כפוף לשינויי ניסוח ועריכה",
+                    "sentence_id": "0",
+                    "paragraph_index": 62,
+                    "global_sentence_index": 144
+                }
+            ]
+        },
+        {
+            "paragraph_index": 63,
+            "sentences": [
+                {
+                    "sentence": "הודעה למנויים על עריכה ושינויים במסמכי פסיקה, חקיקה ועוד באתר נבו - הקש כאן",
+                    "sentence_id": "0",
+                    "paragraph_index": 63,
+                    "global_sentence_index": 145
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "בהכרעת הדין נדחתה גרסת הבדים של הנאשם לפיה המתלוננת היא זונה שהסכימה למין בתשלום, קבענו, כי גרסת המתלוננת מהימנה והרשענו את הנאשם על פי העובדות הבאות שפורטו בכתב האישום:"
+    ],
+    "main_sentence_from_docx": [
+        "בהכרעת הדין נדחתה גרסת הבדים של הנאשם לפיה המתלוננת היא זונה שהסכימה למין בתשלום, קבענו, כי גרסת המתלוננת מהימנה והרשענו את הנאשם על פי העובדות הבאות שפורטו בכתב האישום:"
+    ],
+    "main_sentence_id_in_docx": [
+        "6_0"
+    ],
+    "global_sentence_index_docx": [
+        9
+    ],
+    "global_sentence_index_spike": [
+        935981
+    ],
+    "score_of_similarity": [
+        0.0
+    ]
+}

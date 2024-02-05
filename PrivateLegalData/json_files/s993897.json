@@ -1,0 +1,1787 @@
+{
+    "title": "s993897",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "בתי המשפט",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "נוכחים:\tב\"כ המאשימה עו\"ד איתן כהן",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "הנאשם וב\"כ עו\"ד עסלי",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "חקיקה שאוזכרה:",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": ": סע'",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": ": סע'",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": ": סע'  ,",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 7,
+            "sentences": [
+                {
+                    "sentence": "הכרעת - דין",
+                    "sentence_id": "0",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 8,
+            "sentences": [
+                {
+                    "sentence": "האישום",
+                    "sentence_id": "0",
+                    "paragraph_index": 8,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 9,
+            "sentences": [
+                {
+                    "sentence": "1.\tבכתב האישום מואשם הנאשם בביצוע שתי עבירות של מעשים מגונים בשנת  1999. העבירות בוצעו נגד הקטינה ילידת 1992 (להלן: \"הילדה\" או \"הקטינה\")",
+                    "sentence_id": "0",
+                    "paragraph_index": 9,
+                    "global_sentence_index": 9
+                },
+                {
+                    "sentence": "המעשה הראשון בוצע על שפת הים ביפו, עת יצאה המשפחה המורחבת לבלות (להלן: \"האירוע בים\")",
+                    "sentence_id": "1",
+                    "paragraph_index": 9,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": "המעשה השני בוצע במקלחת שבדירת הנאשם בקלנדיה (להלן: \"האירוע במקלחת\")",
+                    "sentence_id": "2",
+                    "paragraph_index": 9,
+                    "global_sentence_index": 11
+                },
+                {
+                    "sentence": "הכל כמתואר בכתב האישום",
+                    "sentence_id": "3",
+                    "paragraph_index": 9,
+                    "global_sentence_index": 12
+                }
+            ]
+        },
+        {
+            "paragraph_index": 10,
+            "sentences": []
+        },
+        {
+            "paragraph_index": 11,
+            "sentences": [
+                {
+                    "sentence": "ראיות המאשימה:",
+                    "sentence_id": "0",
+                    "paragraph_index": 11,
+                    "global_sentence_index": 13
+                }
+            ]
+        },
+        {
+            "paragraph_index": 12,
+            "sentences": [
+                {
+                    "sentence": "2.\tמטעם המאשימה העידו חוקרת ילדים שחקרה את הקטינה (להלן: \"החוקרת\"), אמה של הילדה, בעלה הנוכחי של האם שאינו אביה של הקטינה",
+                    "sentence_id": "0",
+                    "paragraph_index": 12,
+                    "global_sentence_index": 14
+                },
+                {
+                    "sentence": "נ",
+                    "sentence_id": "1",
+                    "paragraph_index": 12,
+                    "global_sentence_index": 15
+                }
+            ]
+        },
+        {
+            "paragraph_index": 13,
+            "sentences": [
+                {
+                    "sentence": "3.\tאיש מהעדים לא ראה את הנאשם מבצע את המיוחס לו",
+                    "sentence_id": "0",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 16
+                },
+                {
+                    "sentence": "האם ובעלה סיפרו על התנהגות הקטינה לאחר האירועים",
+                    "sentence_id": "1",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 17
+                },
+                {
+                    "sentence": "חוקרת הילדים העידה על התרשמותה מעדות הקטינה",
+                    "sentence_id": "2",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 18
+                },
+                {
+                    "sentence": "החוקרת, שאינה דוברת ערבית, נעזרה בשוטר דובר ערבית (שלא לבש מדים בעת החקירה) שתירגם לה את דברי הקטינה",
+                    "sentence_id": "3",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 19
+                },
+                {
+                    "sentence": "החוקרת קובעת שעדות הקטינה מהימנה",
+                    "sentence_id": "4",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 20
+                },
+                {
+                    "sentence": "הקביעה הזאת מבוססת, בין השאר, על כך שהתמלאו על הקריטריונים המקובלים במבחן CBCA",
+                    "sentence_id": "5",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 21
+                },
+                {
+                    "sentence": "על כך שהדברים נאמרו בצורה שוטפת, הגיונית ושהקטינה ידעה להקפיד ולספר את סיפורה בצורה מדוייקת, והוסיפה פרטים שניתן מהם ללמוד כי היא דוברת אמת",
+                    "sentence_id": "6",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 22
+                }
+            ]
+        },
+        {
+            "paragraph_index": 14,
+            "sentences": [
+                {
+                    "sentence": "ראיות ההגנה:",
+                    "sentence_id": "0",
+                    "paragraph_index": 14,
+                    "global_sentence_index": 23
+                }
+            ]
+        },
+        {
+            "paragraph_index": 15,
+            "sentences": [
+                {
+                    "sentence": "4.\tההגנה השמיעה את הנאשם את אחותו, את אשתו, ואת גיסתו הגב' אתי לוי אשת אחיו של הנאשם",
+                    "sentence_id": "0",
+                    "paragraph_index": 15,
+                    "global_sentence_index": 24
+                }
+            ]
+        },
+        {
+            "paragraph_index": 16,
+            "sentences": [
+                {
+                    "sentence": "5.\tהעדים הנ\"ל לא ראו דבר",
+                    "sentence_id": "0",
+                    "paragraph_index": 16,
+                    "global_sentence_index": 25
+                },
+                {
+                    "sentence": "האשה והאחות סיפרו שלא הגיוני שהנאשם ביצע את המיוחס לו בשפת הים ביפו מבלי שהיו רואות זאת",
+                    "sentence_id": "1",
+                    "paragraph_index": 16,
+                    "global_sentence_index": 26
+                },
+                {
+                    "sentence": "עדת ההגנה הגב' אתי לוי, התייחסה לאירוע במקלחת",
+                    "sentence_id": "2",
+                    "paragraph_index": 16,
+                    "global_sentence_index": 27
+                },
+                {
+                    "sentence": "היא אישרה שאמה של הקטינה באה לדירתה שבירושלים לאחר האירוע (האירוע היה בקלנדיה) וסיפרה לה על מה שאירע במקלחת",
+                    "sentence_id": "3",
+                    "paragraph_index": 16,
+                    "global_sentence_index": 28
+                },
+                {
+                    "sentence": "תגובתה לסיפור היתה שאינה רוצה להתערב ושעל האם לפנות להורי הנאשם ולהתלונן בפניהם",
+                    "sentence_id": "4",
+                    "paragraph_index": 16,
+                    "global_sentence_index": 29
+                },
+                {
+                    "sentence": "היא אישרה שהקטינה סיפרה לה את שאירע",
+                    "sentence_id": "5",
+                    "paragraph_index": 16,
+                    "global_sentence_index": 30
+                },
+                {
+                    "sentence": "היא ציינה שכאשר שאלה את הקטינה מי אמר לה לספר את הסיפור השיבה הקטינה שאף אחד לא אמר לה",
+                    "sentence_id": "6",
+                    "paragraph_index": 16,
+                    "global_sentence_index": 31
+                },
+                {
+                    "sentence": "על כל פנים, היא אומרת שעל סמך הכרותה את הנאשם היא לא מאמינה שעשה את המיוחס לו",
+                    "sentence_id": "7",
+                    "paragraph_index": 16,
+                    "global_sentence_index": 32
+                }
+            ]
+        },
+        {
+            "paragraph_index": 17,
+            "sentences": [
+                {
+                    "sentence": "דיון:",
+                    "sentence_id": "0",
+                    "paragraph_index": 17,
+                    "global_sentence_index": 33
+                }
+            ]
+        },
+        {
+            "paragraph_index": 18,
+            "sentences": [
+                {
+                    "sentence": "6. \tהוכחת ביצוע מעשים מגונים קשה להוכחה",
+                    "sentence_id": "0",
+                    "paragraph_index": 18,
+                    "global_sentence_index": 34
+                },
+                {
+                    "sentence": "הטעם העיקרי שבדרך כלל הם נעשים בהחבא בצינעה",
+                    "sentence_id": "1",
+                    "paragraph_index": 18,
+                    "global_sentence_index": 35
+                },
+                {
+                    "sentence": "להוכחת מעשה מגונה בקטין קושי נוסף והוא שהקטין אינו מעיד",
+                    "sentence_id": "2",
+                    "paragraph_index": 18,
+                    "global_sentence_index": 36
+                },
+                {
+                    "sentence": "מכאן, שבית המשפט נאלץ לסמוך על ממצאים שנקבעים ע\"י חוקר ילדים (ראה  משה כליפא נ' מדינת ישראל פ\"ד מ\"ו/3) 714 עמ' 716, 717)",
+                    "sentence_id": "3",
+                    "paragraph_index": 18,
+                    "global_sentence_index": 37
+                }
+            ]
+        },
+        {
+            "paragraph_index": 19,
+            "sentences": [
+                {
+                    "sentence": "7.\tהסניגור טוען שאין לסמוך על חוקרת הילדים שבקלות עלולה להיתפס לכלל טעות, כיוון שלא היה לה קשר ישיר עם הנחקרת",
+                    "sentence_id": "0",
+                    "paragraph_index": 19,
+                    "global_sentence_index": 38
+                },
+                {
+                    "sentence": "היא חיה  מפיו של המתורגמן, שהוא שוטר שלא הוכשר לחקור ילדים",
+                    "sentence_id": "1",
+                    "paragraph_index": 19,
+                    "global_sentence_index": 39
+                },
+                {
+                    "sentence": "לטענתו, התערבותו של המתורגמן בחקירה  הייתה אקטיבית עד כדי השפעה  על גיבוש  עמדתה של החוקרת ויש לראות בכך \"זיהום\" החקירה",
+                    "sentence_id": "2",
+                    "paragraph_index": 19,
+                    "global_sentence_index": 40
+                },
+                {
+                    "sentence": "ב",
+                    "sentence_id": "3",
+                    "paragraph_index": 19,
+                    "global_sentence_index": 41
+                }
+            ]
+        },
+        {
+            "paragraph_index": 20,
+            "sentences": [
+                {
+                    "sentence": "8. \tמסכים אני עם הסניגור שסוגיית זיהום החקירה  תיבחן בהתחשב עם \"איכותה\" של  ההתערבות,קרי: אם התערבותו של המתורגמן  נעשתה  בדברים מהותיים שיכולים  לפגוע  בהסקת המסקנות  באשר למהימנות  העדות יש לראות בכך זיהום של החקירה, אולם אם התערבותו של המתורגמן היא בשולי הדברים, אין לאמר שהחקירה זוהמה",
+                    "sentence_id": "0",
+                    "paragraph_index": 20,
+                    "global_sentence_index": 42
+                },
+                {
+                    "sentence": "ו",
+                    "sentence_id": "1",
+                    "paragraph_index": 20,
+                    "global_sentence_index": 43
+                }
+            ]
+        },
+        {
+            "paragraph_index": 21,
+            "sentences": [
+                {
+                    "sentence": "9.\tאין עוררין על כך, שהחלק המהותי ביותר בחקירתה של הקטינה  נגע לאירוע נשוא האישום השני, קרי: האירוע שבמקלחת דירתו של הנאשם",
+                    "sentence_id": "0",
+                    "paragraph_index": 21,
+                    "global_sentence_index": 44
+                },
+                {
+                    "sentence": "כפי שניתן להתרשם   מ- ת/13(ראה עמ' 14  שורות 337- 341, ועמ' 15 שורות 375-379 לתמליל חקירתה של הקטינה), המלל הראשוני של הקטינה על אשר אירע במקלחת נשמע באופן חופשי ללא כל התערבות  מצדו של המתורגמן, כאשר המתורגמן תירגם את הדברים מייד",
+                    "sentence_id": "1",
+                    "paragraph_index": 21,
+                    "global_sentence_index": 45
+                },
+                {
+                    "sentence": "על כן אני מאמץ את עמדת החוקרת, שלא הייתה התערבות של המתורגמן במהות החקירה ולכן החוקרת הסיקה שהקטינה מהימנה  (ראה עמ' 18 שורות 23-25 לפרוטוקול מיום 28/4/03, וכן ראה ת/10)",
+                    "sentence_id": "2",
+                    "paragraph_index": 21,
+                    "global_sentence_index": 46
+                },
+                {
+                    "sentence": "נוסף על כך, יש גם להתחשב בדבריה של החוקרת שמעידה כי לאחר שקראה את התימלולים היא יכולה לקבוע את מהימנות עדותה של הקטינה גם ללא קשר לזיהום או לאי זיהום החקירה(ראה  ע\"מ 19 שורה 6 לפרוטקול מיום  28/4/03)",
+                    "sentence_id": "3",
+                    "paragraph_index": 21,
+                    "global_sentence_index": 47
+                },
+                {
+                    "sentence": "אדגיש כי לא היה ניסיון לכפות על הילדה להעיד",
+                    "sentence_id": "4",
+                    "paragraph_index": 21,
+                    "global_sentence_index": 48
+                },
+                {
+                    "sentence": "היא באה להחקר כשאינה מלווה בהוריה (ע\"מ 19 לפרוטוקול מיום  28/4/03)",
+                    "sentence_id": "5",
+                    "paragraph_index": 21,
+                    "global_sentence_index": 49
+                },
+                {
+                    "sentence": "נ",
+                    "sentence_id": "6",
+                    "paragraph_index": 21,
+                    "global_sentence_index": 50
+                }
+            ]
+        },
+        {
+            "paragraph_index": 22,
+            "sentences": [
+                {
+                    "sentence": "10.\tעל כן אני סבור  כי החקירה לא זוהמה",
+                    "sentence_id": "0",
+                    "paragraph_index": 22,
+                    "global_sentence_index": 51
+                }
+            ]
+        },
+        {
+            "paragraph_index": 23,
+            "sentences": [
+                {
+                    "sentence": "11. \tאשר למסקנות בדבר מהימנות דברי הילדה בחקירה, קובעת החוקרת שלגבי האירוע האירוע בחוף הים, קשה לה לקבוע את מהימנות העדות  היות והקטינה נתנה  תיאור כללי  של הים",
+                    "sentence_id": "0",
+                    "paragraph_index": 23,
+                    "global_sentence_index": 52
+                }
+            ]
+        },
+        {
+            "paragraph_index": 24,
+            "sentences": [
+                {
+                    "sentence": "12. \tהכלל  הוא כי  אין לבסס הרשעה בפלילים על סמך הודעת קטין  שנתקבלה כראיה (ראה  ל, תשט\"ו-1955), אלא אם יש ראיה מסייעת לצידה (ראה קדמי, על הראיות, חלק ראשון, הדין בראי הפסיקה, מהדורה משולבת ומעודכנת, תשנ\"ט-1999, עמ' 180)",
+                    "sentence_id": "0",
+                    "paragraph_index": 24,
+                    "global_sentence_index": 53
+                }
+            ]
+        },
+        {
+            "paragraph_index": 25,
+            "sentences": [
+                {
+                    "sentence": "13.\tכיוון שלדעת החוקרת אין מספיק  מדדים לקבוע שדברי הילדה מהימנים ביחס לאירוע הים (ראה עמ' 20 שורות 25-28 לפרוטוקול מיום 28/4/03), הרי שלא הונחה אבן היסוד הראשונה הנחוצה להרשעת הנאשם, בא כוח המאשימה בהגינותו מאשר שאין די ראיות לגבי אישום הים (עמ' 70-71 לפרוטוקול מיום  25/6/03)",
+                    "sentence_id": "0",
+                    "paragraph_index": 25,
+                    "global_sentence_index": 54
+                },
+                {
+                    "sentence": "אמנם, הוא ממשיך ואומר שהחוקרת לא קבעה שעדות הילדה באירוע הים לא מהימנה, ולכן ניתן להרשיעה",
+                    "sentence_id": "1",
+                    "paragraph_index": 25,
+                    "global_sentence_index": 55
+                },
+                {
+                    "sentence": "אני דוחה את הטענה וקובע שמכיוון שהחוקרת קבעה שאינה יכולה לקבוע באופן חיובי שהעדות מהימנה בנושא זה אז אין מקום לקבלה",
+                    "sentence_id": "2",
+                    "paragraph_index": 25,
+                    "global_sentence_index": 56
+                },
+                {
+                    "sentence": "אדגיש, שבכל העדויות אין עדות אחת לפיה  נראה  הנאשם מבצע בילדה את המיוחס לו, אזי  לא מתקיים בסיס להרשעת הנאשם באישום  1 לכתב האישום, ואני מזכה אותו",
+                    "sentence_id": "3",
+                    "paragraph_index": 25,
+                    "global_sentence_index": 57
+                },
+                {
+                    "sentence": "ב",
+                    "sentence_id": "4",
+                    "paragraph_index": 25,
+                    "global_sentence_index": 58
+                }
+            ]
+        },
+        {
+            "paragraph_index": 26,
+            "sentences": [
+                {
+                    "sentence": "14. \tלענין האישום השני - אירוע במקלחת - מהודעת הילדה (ראה ת/13), עולה כי  הנאשם  לקח אותה למקלחת, הפשיט לה את החצאית וגם הפשיט לה קצת את התחתונים",
+                    "sentence_id": "0",
+                    "paragraph_index": 26,
+                    "global_sentence_index": 59
+                },
+                {
+                    "sentence": "ו",
+                    "sentence_id": "1",
+                    "paragraph_index": 26,
+                    "global_sentence_index": 60
+                }
+            ]
+        },
+        {
+            "paragraph_index": 27,
+            "sentences": [
+                {
+                    "sentence": "הנאשם הוריד את מכנסיו ותחתוניו כאשר הוא נשאר עם חולצתו בלבד",
+                    "sentence_id": "0",
+                    "paragraph_index": 27,
+                    "global_sentence_index": 61
+                },
+                {
+                    "sentence": "הנאשם הכניס כיסא למקלחת, כאשר הוא ישב על הכיסא  והילדה  עמדה  למולו",
+                    "sentence_id": "1",
+                    "paragraph_index": 27,
+                    "global_sentence_index": 62
+                },
+                {
+                    "sentence": "בפוזיציה זו  הנאשם חיכך את איבר מינו באיבר מינה, אחרי כן סובב  את הילדה  ושם את איבר מינו על ישבנה, כאשר הוא מתחכך בישבנה של הילדה עד לשפיכת הזרע, שנשפך בין היתר על רגליה",
+                    "sentence_id": "2",
+                    "paragraph_index": 27,
+                    "global_sentence_index": 63
+                }
+            ]
+        },
+        {
+            "paragraph_index": 28,
+            "sentences": [
+                {
+                    "sentence": "15.\tבאשר לאירוע במקלחת, מעידה החוקרת וקובעת בגיליון הערכת מהימנות  מיום 28/10/99 (ת/10), שעדות הילדה מהימנה",
+                    "sentence_id": "0",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 64
+                },
+                {
+                    "sentence": "לטעמה מתקיימים בעדות הרבה קריטריונים המחזקים אותה",
+                    "sentence_id": "1",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 65
+                },
+                {
+                    "sentence": "בתיאור שמסרה הילדה  מעוגן מקום, והסיטואציה  המתוארת  מעוגנת בהשתלשלות  אירועים הגיונית ורציפה",
+                    "sentence_id": "2",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 66
+                },
+                {
+                    "sentence": "התאור הוא עקבי והאינפורמציה שהיא מוסרת חופשית ללא התערבות מצד המתרגם, הקטינה מרבה להדגים במהלך החקירה באופן מוחשי את אשר אירע",
+                    "sentence_id": "3",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 67
+                },
+                {
+                    "sentence": "הילדה הרבתה להשתמש בביטוי \"את שלו\" במהלך החקירה, וכשנשאלה למה היא מתכוונת, היא הצביעה על  איבר מינה",
+                    "sentence_id": "4",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 68
+                },
+                {
+                    "sentence": "הילדה המחישה את תנועת חיכוך  איברי המין זה בזה  באמצעות בובות,  כשילד  מדגים, הדבר מבטא  זיכרון סנסורי, וזה מחזק את מהימנות העדות",
+                    "sentence_id": "5",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 69
+                },
+                {
+                    "sentence": "ככל שמתקדמת החקירה  תיאור האפיזודה  מורחב ע\"י הילדה, כאשר  היא מספרת  תיאור ספונטני על הכיסא שמכניס הנאשם למקלחת",
+                    "sentence_id": "6",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 70
+                },
+                {
+                    "sentence": "תיאור ספונטני אחר הוא \"רציתי לנגב את החלב  על הרגליים שלי\"",
+                    "sentence_id": "7",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 71
+                },
+                {
+                    "sentence": "כמו כן, הילדה מתארת אינטראקציה פיזית בינה לבין הנאשם \"לקח אותי\" ,\"סובב אותי\"",
+                    "sentence_id": "8",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 72
+                },
+                {
+                    "sentence": "הילדה מתארת  תיאור ייחודי אשר מגביר את מהימנותה,  כאשר  היא מספרת כי  יצא נוזל לבן \"הוא הוציא  משהו לבן  כמו חלב מהחור  הקטן וזה יצא  מהרגליים שלו באמצע\"",
+                    "sentence_id": "9",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 73
+                },
+                {
+                    "sentence": "ישנם תיאורים ספציפיים נוספים כמו הבגדים אותם לבשה  באירוע המקלחת \"לבשתי חולצה וחצאית בצורת פירות\"",
+                    "sentence_id": "10",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 74
+                },
+                {
+                    "sentence": "החוקרת עוד מתרשמת כי  במהלך החקירה הילדה  הייתה נתונה בלחץ נפשי עז ובמבוכה רבה",
+                    "sentence_id": "11",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 75
+                },
+                {
+                    "sentence": "(ראה ת/10, וכן ראה  עמ'  19-20 לפרוטוקול מיום  28/4/03)",
+                    "sentence_id": "12",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 76
+                },
+                {
+                    "sentence": "נ",
+                    "sentence_id": "13",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 77
+                }
+            ]
+        },
+        {
+            "paragraph_index": 29,
+            "sentences": [
+                {
+                    "sentence": "16. \tהתרשמתי כי עדות הילדה לפני החוקרת, ובתיאורה את האירוע שחוותה, היא ביטאה את עצמה בשפה חד-משמעית",
+                    "sentence_id": "0",
+                    "paragraph_index": 29,
+                    "global_sentence_index": 78
+                },
+                {
+                    "sentence": "הייתה לה עצמאות מחשבתית משלה לדוגמא כאשר דאגה לתקן את המתורגמן תיקון ספונטני (ראה עמ' 20 לפרוטוקול מיום 28/4/02)",
+                    "sentence_id": "1",
+                    "paragraph_index": 29,
+                    "global_sentence_index": 79
+                },
+                {
+                    "sentence": "בתחילת עדותה לפני החוקרת היו פרטים המתארים את הבנתה בדבר ההבדל בין אמת לשקר תוך מתן תשובות מדויקות לשאלות שנשאלה לשם עמידה על יכולתה לאבחן את ההבדל האמור; עובדות על אירועים ששימחו אותה בעבר, ללא קשר לנאשם, ועובדות על אירועים שהעציבו אותה, אף הן ללא קשר",
+                    "sentence_id": "2",
+                    "paragraph_index": 29,
+                    "global_sentence_index": 80
+                },
+                {
+                    "sentence": "במהלך השיחה עם החוקרת, היא ידעה לתת תיאור מלא של האירוע",
+                    "sentence_id": "3",
+                    "paragraph_index": 29,
+                    "global_sentence_index": 81
+                },
+                {
+                    "sentence": "התיאור יורד לפרטיו כגון הצפייה בטלוויזיה עם הבן-דוד, יציאת הבן דוד, העובדה שהנאשם מתלבש לאחר האירוע בחדר של אשתו",
+                    "sentence_id": "4",
+                    "paragraph_index": 29,
+                    "global_sentence_index": 82
+                },
+                {
+                    "sentence": "כל הפרטים שאינם קשורים לאירוע מחזקים את מהימנות הקטינה בנותנם תמונה שלימה ואמינה",
+                    "sentence_id": "5",
+                    "paragraph_index": 29,
+                    "global_sentence_index": 83
+                },
+                {
+                    "sentence": "יודגש שהילדה מתארת את כלל מעשי הנאשם כלפיה, לרבות המקום שבו בוצעו",
+                    "sentence_id": "6",
+                    "paragraph_index": 29,
+                    "global_sentence_index": 84
+                },
+                {
+                    "sentence": "כשעם התקדמות החקירה תיאור האירוע מורחב על ידה למשל, כאשר היא מספרת  באופן ספונטני על הכיסא שמכניס הנאשם למקלחת",
+                    "sentence_id": "7",
+                    "paragraph_index": 29,
+                    "global_sentence_index": 85
+                },
+                {
+                    "sentence": "תיאור ספונטני אחר הוא \"רציתי לנגב את החלב  על הרגליים שלי\" , עובדה היכולה להצביע בהחלט על עצמאות מחשבתית ולא על היגררות למתן תשובות חיוביות על כל שאלה שנשאלה כדי לספק את רצון השואל",
+                    "sentence_id": "8",
+                    "paragraph_index": 29,
+                    "global_sentence_index": 86
+                }
+            ]
+        },
+        {
+            "paragraph_index": 30,
+            "sentences": [
+                {
+                    "sentence": "17.\tסופו של דבר, שוכנעתי, אף מבלי שהעידה בפנינו הילדה , שאין זה סביר שילדה בת 7 מדמיינת את התיאור הפלסטי של שפיכת הזרע אם לא היה לכך כל עיגון במציאות",
+                    "sentence_id": "0",
+                    "paragraph_index": 30,
+                    "global_sentence_index": 87
+                },
+                {
+                    "sentence": "מהימנותה מתעצמת לנוכח העובדה, כי  עוד בטרם נשאלה על כך ע\"י החוקרת , תיארה הילדה במלל ראשוני חופשי את  האירוע במקלחת",
+                    "sentence_id": "1",
+                    "paragraph_index": 30,
+                    "global_sentence_index": 88
+                },
+                {
+                    "sentence": "ב",
+                    "sentence_id": "2",
+                    "paragraph_index": 30,
+                    "global_sentence_index": 89
+                }
+            ]
+        },
+        {
+            "paragraph_index": 31,
+            "sentences": [
+                {
+                    "sentence": "18. \tאני קובע איפוא, כממצא שהמעשים המתוארים על ידי הילדה כאלה שבוצעו על ידי הנאשם אכן בוצעו בה",
+                    "sentence_id": "0",
+                    "paragraph_index": 31,
+                    "global_sentence_index": 90
+                }
+            ]
+        },
+        {
+            "paragraph_index": 32,
+            "sentences": [
+                {
+                    "sentence": "19.\tלאור האמור לעיל, משהונחה אבן היסוד הראשונה, עלי לבדוק אם יש סיוע כדי לבסס את הרשעה עפ\"י הפסיקה",
+                    "sentence_id": "0",
+                    "paragraph_index": 32,
+                    "global_sentence_index": 91
+                },
+                {
+                    "sentence": "המצב הנפשי של קורבן עבירת מין עשוי לשמש סיוע, וזאת אם יש ביטוי  ברור לזעזוע נפשי  עמוק שעבר על הקורבן וזהות הנאשם  האחראי לביצוע המעשה אינה שנויה במחלוקת, 231), ראה  - פלוני נ' מדינת ישראל",
+                    "sentence_id": "1",
+                    "paragraph_index": 32,
+                    "global_sentence_index": 92
+                },
+                {
+                    "sentence": "פ\"ד נ(3), 353 ,עמ' 369-370.ו",
+                    "sentence_id": "2",
+                    "paragraph_index": 32,
+                    "global_sentence_index": 93
+                }
+            ]
+        },
+        {
+            "paragraph_index": 33,
+            "sentences": [
+                {
+                    "sentence": "20. \tבענייננו, יש  היכרות מוקדמת בין הקטינה לנאשם ושאלת הזיהוי לא הייתה בספק לכן הסיוע צריך להתמקד בסיוע להתרחשות המעשה",
+                    "sentence_id": "0",
+                    "paragraph_index": 33,
+                    "global_sentence_index": 94
+                },
+                {
+                    "sentence": "המצב הנפשי המוזכר לעיל, יוכל לשמש כסיוע רק אם  הוא מתגלה מייד לאחר ביצוע העבירה, ברם הפסיקה מלמדת  כי כל עוד קיים הסבר סביר  לכבישת גילויו החיצוני  של הזעזוע הנפשי  הרי שאם התגלו  סימניו החיצוניים  בפרק  זמן סביר לאחר המעשה עדין יש בכוחו לשמש סיוע ( ראה קדמי, על הראיות ,חלק ראשון,הדין בראי הפסיקה, מהדורה משולבת ומעודכנת, תשנ\"ט-1999, ע\"מ 231-233)",
+                    "sentence_id": "1",
+                    "paragraph_index": 33,
+                    "global_sentence_index": 95
+                },
+                {
+                    "sentence": "נ",
+                    "sentence_id": "2",
+                    "paragraph_index": 33,
+                    "global_sentence_index": 96
+                }
+            ]
+        },
+        {
+            "paragraph_index": 34,
+            "sentences": [
+                {
+                    "sentence": "21. \tאשר לסוגיה  מהו פרק \"זמן סביר\"  ב - מדינת ישראל נ' פלוני",
+                    "sentence_id": "0",
+                    "paragraph_index": 34,
+                    "global_sentence_index": 97
+                },
+                {
+                    "sentence": "תק-על 95(1), 93 ,עמ' 101, נאמר שבנסיבות מסוימות  גם מספר חודשים לאחר המעשה יחשבו כפרק זמן סביר",
+                    "sentence_id": "1",
+                    "paragraph_index": 34,
+                    "global_sentence_index": 98
+                }
+            ]
+        },
+        {
+            "paragraph_index": 35,
+            "sentences": [
+                {
+                    "sentence": "22.\tמעדויות הוריה  של  הילדה עולה  כי לאחר  האירוע במקלחת חל שינוי מהותי בהתנהגותה של הילדה , כאשר   את השינוי  ניתן לייחס באופן ישיר  למעשיו של הנאשם",
+                    "sentence_id": "0",
+                    "paragraph_index": 35,
+                    "global_sentence_index": 99
+                },
+                {
+                    "sentence": "אביה  החורג  מספר  כי  מאז המקרה התחוללו בילדה שינויים רבים",
+                    "sentence_id": "1",
+                    "paragraph_index": 35,
+                    "global_sentence_index": 100
+                },
+                {
+                    "sentence": "לפני האירוע הילדה הייתה ילדה חכמה, מבינה את הכל, אוהבת את אימא, אביה ואחיה, ילדה חופשייה",
+                    "sentence_id": "2",
+                    "paragraph_index": 35,
+                    "global_sentence_index": 101
+                },
+                {
+                    "sentence": "מאז האירוע התנהגותה השתנתה כלפי אחותה הקטנה   בכך שהיא מגוננת עליה  מפחדת עליה  מכל ילד, ומכל גבר שנכנס לביתם",
+                    "sentence_id": "3",
+                    "paragraph_index": 35,
+                    "global_sentence_index": 102
+                },
+                {
+                    "sentence": "היא לא מוכנה בשום אופן שאביה החורג יישב ליד אימה או ישהה ביחידות עם אימה  בחדר השינה",
+                    "sentence_id": "4",
+                    "paragraph_index": 35,
+                    "global_sentence_index": 103
+                },
+                {
+                    "sentence": "ב",
+                    "sentence_id": "5",
+                    "paragraph_index": 35,
+                    "global_sentence_index": 104
+                }
+            ]
+        },
+        {
+            "paragraph_index": 36,
+            "sentences": [
+                {
+                    "sentence": "יחסה  של הילדה  כלפי גברים השתנה , היא אינה  מדברת עמם, היא מפחדת מכל גבר שנכנס לבית",
+                    "sentence_id": "0",
+                    "paragraph_index": 36,
+                    "global_sentence_index": 105
+                },
+                {
+                    "sentence": "היא נכנסת למקלחת רק עם אחותה  או עם אמה",
+                    "sentence_id": "1",
+                    "paragraph_index": 36,
+                    "global_sentence_index": 106
+                },
+                {
+                    "sentence": "ו",
+                    "sentence_id": "2",
+                    "paragraph_index": 36,
+                    "global_sentence_index": 107
+                }
+            ]
+        },
+        {
+            "paragraph_index": 37,
+            "sentences": [
+                {
+                    "sentence": "עוד מספר האב כי כאשר ביקרו את הוריו, הילדה לא רצתה לבוא מחשש שמא תפגוש בנאשם",
+                    "sentence_id": "0",
+                    "paragraph_index": 37,
+                    "global_sentence_index": 108
+                },
+                {
+                    "sentence": "בפעמים בהם פגשה הילדה בנאשם היא התחבאה מאחורי אימה או סבתה",
+                    "sentence_id": "1",
+                    "paragraph_index": 37,
+                    "global_sentence_index": 109
+                },
+                {
+                    "sentence": "האב החורג  גם מציין  כי בעת  שסיפרה לו  הילדה את הסיפור היא הייתה מפוחדת, ואמרה לו שאינה רוצה לחזור לירושלים, כי היא מפחדת מהנאשם",
+                    "sentence_id": "2",
+                    "paragraph_index": 37,
+                    "global_sentence_index": 110
+                },
+                {
+                    "sentence": "נ",
+                    "sentence_id": "3",
+                    "paragraph_index": 37,
+                    "global_sentence_index": 111
+                }
+            ]
+        },
+        {
+            "paragraph_index": 38,
+            "sentences": [
+                {
+                    "sentence": "23.\tאמה  של הילדה מתארת באופן  מדויק את אותם התופעות שעולות גם מעדותו של האב החורג",
+                    "sentence_id": "0",
+                    "paragraph_index": 38,
+                    "global_sentence_index": 112
+                },
+                {
+                    "sentence": "היא  מספרת בעדותה כי לפני אירוע  במקלחת, הילדה הייתה ילדה טובת לב, עוזרת, אוהבת לשמור על תינוקות, לשחק עם אחיה הקטנים, אוהבת לעזור לכולם , חייכנית ואוהבת לחיות",
+                    "sentence_id": "1",
+                    "paragraph_index": 38,
+                    "global_sentence_index": 113
+                },
+                {
+                    "sentence": "מאז האירוע   הילדה החלה  לקום  בצעקות באמצע השינה",
+                    "sentence_id": "2",
+                    "paragraph_index": 38,
+                    "global_sentence_index": 114
+                },
+                {
+                    "sentence": "ב",
+                    "sentence_id": "3",
+                    "paragraph_index": 38,
+                    "global_sentence_index": 115
+                }
+            ]
+        },
+        {
+            "paragraph_index": 39,
+            "sentences": [
+                {
+                    "sentence": "מזמן שהתרחש האירוע הילדה אין  מוכנה שאביה החורג יתקרב  לאימה",
+                    "sentence_id": "0",
+                    "paragraph_index": 39,
+                    "global_sentence_index": 116
+                },
+                {
+                    "sentence": "אם הוא שם יד על אימה הילדה  מתחילה לבכות  מחשש שמא יקרה לאימה מה שקרה לה",
+                    "sentence_id": "1",
+                    "paragraph_index": 39,
+                    "global_sentence_index": 117
+                },
+                {
+                    "sentence": "אם הילדה מוסיפה שבמידה והיא ובעלה \"ננעלים\" בחדר, הילדה מציצה דרך חור המנעול",
+                    "sentence_id": "2",
+                    "paragraph_index": 39,
+                    "global_sentence_index": 118
+                },
+                {
+                    "sentence": "גם כאשר אמה מסבנת באמבטיה את הגב של בעלה, הילדה מציצה דרך התריס שבדלת מחשש לאמה",
+                    "sentence_id": "3",
+                    "paragraph_index": 39,
+                    "global_sentence_index": 119
+                },
+                {
+                    "sentence": "כל אותה תקופה עד שהאב החורג נכנס לכלא, הילדה  לא הייתה מאפשרת  לאמה להיות לבד עם אביה  החורג",
+                    "sentence_id": "4",
+                    "paragraph_index": 39,
+                    "global_sentence_index": 120
+                },
+                {
+                    "sentence": "כל הזמן ניסתה להרחיק אותו ממנה, דבר שלמעשה הרחיק אותם אחת מהשני",
+                    "sentence_id": "5",
+                    "paragraph_index": 39,
+                    "global_sentence_index": 121
+                },
+                {
+                    "sentence": "אשר לאמבטיות  הילדה לא נותנת לאף אחד להיכנס אתה לאמבטיה",
+                    "sentence_id": "6",
+                    "paragraph_index": 39,
+                    "global_sentence_index": 122
+                },
+                {
+                    "sentence": "אשר ליחסה לגברים, היא  עושה הכל כדי לסלק גברים מהבית",
+                    "sentence_id": "7",
+                    "paragraph_index": 39,
+                    "global_sentence_index": 123
+                },
+                {
+                    "sentence": "אשר לירושלים, היא  לא רוצה לבוא לגור בירושלים, היא פוחדת ושונאת את ירושלים",
+                    "sentence_id": "8",
+                    "paragraph_index": 39,
+                    "global_sentence_index": 124
+                },
+                {
+                    "sentence": "באחד הדיונים כאשר הנאשם ישב בחוץ, הוא החל לצחוק,  ועקב כך הילדה  אשר התלוותה עם אמה לדיון , נבהלה והתחבאה מאחורי אמה",
+                    "sentence_id": "9",
+                    "paragraph_index": 39,
+                    "global_sentence_index": 125
+                },
+                {
+                    "sentence": "היא גם החלה  להיות יותר אלימה כלפי ילדים",
+                    "sentence_id": "10",
+                    "paragraph_index": 39,
+                    "global_sentence_index": 126
+                },
+                {
+                    "sentence": "כמו כן היא מאוד מגוננת על אחותה",
+                    "sentence_id": "11",
+                    "paragraph_index": 39,
+                    "global_sentence_index": 127
+                },
+                {
+                    "sentence": "ו",
+                    "sentence_id": "12",
+                    "paragraph_index": 39,
+                    "global_sentence_index": 128
+                }
+            ]
+        },
+        {
+            "paragraph_index": 40,
+            "sentences": [
+                {
+                    "sentence": "24.\tאמה של הילדה מספרת  שכל אותם שינויים התרחשו  מזמן שהחלו לגור באילת (ראה ע\"מ 31 לפרוטוקול מיום  28/4/03), כך שלמעשה  השינוי במצבה הנפשי של הילדה אירע פחות או יותר  בסמוך לזמן האירוע",
+                    "sentence_id": "0",
+                    "paragraph_index": 40,
+                    "global_sentence_index": 129
+                },
+                {
+                    "sentence": "על כן   היות ומתקיים יסוד  \"הזמן הסביר\",   אני  סבור  כי  ניתן  לקבוע  שיש במצבה הנפשי של הילדה המתואר לעיל כדי לשמש סיוע, אולם זאת ייתכן רק בכפוף לכך שאותו ביטוי  ברור לזעזוע נפשי עמוק שעבר על הילדה, הוא בעל קשר ישיר למעשיו של הנאשם",
+                    "sentence_id": "1",
+                    "paragraph_index": 40,
+                    "global_sentence_index": 130
+                }
+            ]
+        },
+        {
+            "paragraph_index": 41,
+            "sentences": [
+                {
+                    "sentence": "25.\tהתרשמותי, שיש קשר ישיר  בין הזעזוע הנפשי העמוק שעבר על הילדה, כפי שתיארו ההורים למעשיו של הנאשם",
+                    "sentence_id": "0",
+                    "paragraph_index": 41,
+                    "global_sentence_index": 131
+                }
+            ]
+        },
+        {
+            "paragraph_index": 42,
+            "sentences": [
+                {
+                    "sentence": "26. \tאני דוחה את הטענה שההורים קשרו ביניהם קשר להפליל את הנאשם",
+                    "sentence_id": "0",
+                    "paragraph_index": 42,
+                    "global_sentence_index": 132
+                },
+                {
+                    "sentence": "אינני מקבל שההורים בחרו להעתיק את מקום מגוריה של המשפחה  מירושלים לאילת סתם כך, יתר על כן אין ספק שהפגיעה בקטינה בהטבעת \"אות קין\" בשל עבירת מין שבוצעה בה גדולה במיוחד, כיוון שהיא ממשיכה להתחנך ולגדול  במגזר  הערבי  לכן קשה להניח שההורים יכניסוה לפרשה שכזו, ברצון יתפור עלילה לנאשם",
+                    "sentence_id": "1",
+                    "paragraph_index": 42,
+                    "global_sentence_index": 133
+                },
+                {
+                    "sentence": "נ",
+                    "sentence_id": "2",
+                    "paragraph_index": 42,
+                    "global_sentence_index": 134
+                }
+            ]
+        },
+        {
+            "paragraph_index": 43,
+            "sentences": [
+                {
+                    "sentence": "27.\tהסניגור טוען שהעובדה שהילדה לא נלקחה לטיפול פסיכולוגי לאחר המקרה, מטילה ספק לגבי כל התלונה",
+                    "sentence_id": "0",
+                    "paragraph_index": 43,
+                    "global_sentence_index": 135
+                },
+                {
+                    "sentence": "הוא מדגיש שאין המדובר בהורים מסורים ודואגים הראיה שהיה חשד להזנחה מצד הורי הילדה",
+                    "sentence_id": "1",
+                    "paragraph_index": 43,
+                    "global_sentence_index": 136
+                },
+                {
+                    "sentence": "על כן, אומר שאין כל ראיה המצביעה על כך שהורי הילדה המציאו את הסיפור",
+                    "sentence_id": "2",
+                    "paragraph_index": 43,
+                    "global_sentence_index": 137
+                },
+                {
+                    "sentence": "(ראה סיכומי הסניגור, ראה ע\"מ   לפרוטוקול מיום 25/6/03), כמו כן   הנאשם הוא למעשה היחיד מבין כל עדי התביעה וההגנה שטוען כי עובר לאירוע  הוא היה בסכסוך עם הורי הילדה ועל כן הם רקמו נגדו את העלילה",
+                    "sentence_id": "3",
+                    "paragraph_index": 43,
+                    "global_sentence_index": 138
+                },
+                {
+                    "sentence": "טענה מוזרה לנוכח העובדה שבעדותו הוא מציין כי עובר לזמן האירוע נשוא האישום השני הוא עבד עם אביה החורג של הילדה בצבעות (ראה ע\"מ  48 שורה 22 לפרוטוקול מיום 11/6/03)",
+                    "sentence_id": "4",
+                    "paragraph_index": 43,
+                    "global_sentence_index": 139
+                }
+            ]
+        },
+        {
+            "paragraph_index": 44,
+            "sentences": [
+                {
+                    "sentence": "28. \tאני קובע שראיית הסיוע עולה  מתוך תיאור התנהגותה של  הילדה לאחר האירוע, ולכן  מתקיים הבסיס להרשעת  הנאשם  בביצוע  המעשים המיוחסים לו באישום מספר 2 לכתב האישום",
+                    "sentence_id": "0",
+                    "paragraph_index": 44,
+                    "global_sentence_index": 140
+                }
+            ]
+        },
+        {
+            "paragraph_index": 45,
+            "sentences": [
+                {
+                    "sentence": "29.\tבאשר לטענת השיהוי בהגשת התלונה אומר אומנם נכון שהתלונה בענין המקלחת הוגשה יומיים לאחר האירוע",
+                    "sentence_id": "0",
+                    "paragraph_index": 45,
+                    "global_sentence_index": 141
+                },
+                {
+                    "sentence": "אך אני סבור שבענייננו קיימות נסיבות  מיוחדות המסבירות את הגשת התלונה יומיים לאחר המקרה",
+                    "sentence_id": "1",
+                    "paragraph_index": 45,
+                    "global_sentence_index": 142
+                },
+                {
+                    "sentence": "ב",
+                    "sentence_id": "2",
+                    "paragraph_index": 45,
+                    "global_sentence_index": 143
+                }
+            ]
+        },
+        {
+            "paragraph_index": 46,
+            "sentences": [
+                {
+                    "sentence": "ראשית, התנהגותה של האם מאמתת את  הטענה שהילדה סיפרה לה מיד את שאירע",
+                    "sentence_id": "0",
+                    "paragraph_index": 46,
+                    "global_sentence_index": 144
+                },
+                {
+                    "sentence": "האם פנתה לאם על האירוע, עוד באותו הערב לגיסתה  אתי לוי עם הילדה",
+                    "sentence_id": "1",
+                    "paragraph_index": 46,
+                    "global_sentence_index": 145
+                },
+                {
+                    "sentence": "נוסף על כך, למחרת היום משנוכחה לדעת שאין לה תמיכה מצד המשפחה הדוחה את טענות הילדה, כולל היעדר תמיכה מצד בעלה, היא החליטה לנסוע לאילת ביחד עם הילדה לבית אמה, סבתא של הקטינה, כדי להגיש שם  את התלונה",
+                    "sentence_id": "2",
+                    "paragraph_index": 46,
+                    "global_sentence_index": 146
+                },
+                {
+                    "sentence": "נוסף על  כך יש גם להתחשב בחששה של הילדה שמא אם תספר  לאמה את שאירע אמה תכה אותה, כפי שגם הילך עליה אימים הנאשם( ע\"מ 28 לפרוטוקול מיום 28/4/03)",
+                    "sentence_id": "3",
+                    "paragraph_index": 46,
+                    "global_sentence_index": 147
+                },
+                {
+                    "sentence": "יש גם לקחת בחשבון  את תחושות הפחד והבושה של הילדה , כמו גם הצורך לדובב אותה",
+                    "sentence_id": "4",
+                    "paragraph_index": 46,
+                    "global_sentence_index": 148
+                },
+                {
+                    "sentence": "כל אלה ודאי שהם גורם  שעיכב את  צאתו של סיפור האירוע  לאוויר העולם",
+                    "sentence_id": "5",
+                    "paragraph_index": 46,
+                    "global_sentence_index": 149
+                },
+                {
+                    "sentence": "ו",
+                    "sentence_id": "6",
+                    "paragraph_index": 46,
+                    "global_sentence_index": 150
+                }
+            ]
+        },
+        {
+            "paragraph_index": 47,
+            "sentences": [
+                {
+                    "sentence": "אני קובע שלא היה שיהוי",
+                    "sentence_id": "0",
+                    "paragraph_index": 47,
+                    "global_sentence_index": 151
+                },
+                {
+                    "sentence": "נ",
+                    "sentence_id": "1",
+                    "paragraph_index": 47,
+                    "global_sentence_index": 152
+                }
+            ]
+        },
+        {
+            "paragraph_index": 48,
+            "sentences": [
+                {
+                    "sentence": "על כך מתווסף חששה המובן של האם לצאת בהאשמות שווא, ולכן היא גם  ניסתה  לברר את העניין עם גיסתה וחמתה  כדי לשמוע  חוות דעת נוספת בעניין  מחשש שמא היא טועה בהבחנתה, למרות שכאינסטינקט ראשוני היא רצתה ללכת למשטרה להגיש  תלונה, כפי שהיא גם מספרת \"אני בתור אימא  כבר נבהלתי",
+                    "sentence_id": "0",
+                    "paragraph_index": 48,
+                    "global_sentence_index": 153
+                },
+                {
+                    "sentence": "וכבר הייתי מוכנה לקפוץ עליו  ולמשטרה, אבל  הייתי צריכה לבדוק את זה\" (ע\"מ 28 שורות 26-27 לפרוטוקול מיום  28/4/03)",
+                    "sentence_id": "1",
+                    "paragraph_index": 48,
+                    "global_sentence_index": 154
+                },
+                {
+                    "sentence": "ב",
+                    "sentence_id": "2",
+                    "paragraph_index": 48,
+                    "global_sentence_index": 155
+                }
+            ]
+        },
+        {
+            "paragraph_index": 49,
+            "sentences": [
+                {
+                    "sentence": "מכיוון שכל הסיפור נודע לאם רק בשעות הערב והלילה  של יום האירוע ,אזי  התייעצות שכזו הייתה  צריכה להמתין למחרת היום,מה  שגם כן הביא לעיכוב  במיידיות התלונה",
+                    "sentence_id": "0",
+                    "paragraph_index": 49,
+                    "global_sentence_index": 156
+                }
+            ]
+        },
+        {
+            "paragraph_index": 50,
+            "sentences": [
+                {
+                    "sentence": "30. \tאין ספק שהחלטת האם לנסוע עד אילת  פגעה \"במיידיות התגובה\", שכן נסיעה מירושלים לאילת אורכת מספר שעות , כאשר יש לקחת  בחשבון כי  אמה של הקטינה גם  התעכבה  בירושלים  בניסיונות לגייס כסף לנסיעה באוטובוס לה ולבתה",
+                    "sentence_id": "0",
+                    "paragraph_index": 50,
+                    "global_sentence_index": 157
+                },
+                {
+                    "sentence": "ההחלטה לנסוע לאילת  מובנת לאור  תחושת האם  בהיעדר סביבה משפחתית תומכת בה ובבתה בירושלים   , והתחושה כי באילת  היכן   שמתגוררת  אמה  היא תימצא בין ידידים",
+                    "sentence_id": "1",
+                    "paragraph_index": 50,
+                    "global_sentence_index": 158
+                },
+                {
+                    "sentence": "ו",
+                    "sentence_id": "2",
+                    "paragraph_index": 50,
+                    "global_sentence_index": 159
+                }
+            ]
+        },
+        {
+            "paragraph_index": 51,
+            "sentences": [
+                {
+                    "sentence": "לפיכך, לאור הנסיבות המצוינות לעיל  ניתן לקבוע  כי התקיימה \"מידיות  התגובה\"",
+                    "sentence_id": "0",
+                    "paragraph_index": 51,
+                    "global_sentence_index": 160
+                },
+                {
+                    "sentence": "נ",
+                    "sentence_id": "1",
+                    "paragraph_index": 51,
+                    "global_sentence_index": 161
+                }
+            ]
+        },
+        {
+            "paragraph_index": 52,
+            "sentences": [
+                {
+                    "sentence": "31. \tאשר על כן, בהתקיימותה של תלונה המיידית , מתקיימת  גם  \"חובת ההנמקה\" הקבועה   ל, ולכן אני  סבור  כי מתקיים הבסיס  להרשעת הנאשם  בביצוע  המעשים המיוחסים לו באישום 2 לכתב האישום",
+                    "sentence_id": "0",
+                    "paragraph_index": 52,
+                    "global_sentence_index": 162
+                }
+            ]
+        },
+        {
+            "paragraph_index": 53,
+            "sentences": [
+                {
+                    "sentence": "סיכום",
+                    "sentence_id": "0",
+                    "paragraph_index": 53,
+                    "global_sentence_index": 163
+                }
+            ]
+        },
+        {
+            "paragraph_index": 54,
+            "sentences": [
+                {
+                    "sentence": "32.\tלפיכך  הכרעת הדין היא כדלקמן:",
+                    "sentence_id": "0",
+                    "paragraph_index": 54,
+                    "global_sentence_index": 164
+                }
+            ]
+        },
+        {
+            "paragraph_index": 55,
+            "sentences": [
+                {
+                    "sentence": "א",
+                    "sentence_id": "0",
+                    "paragraph_index": 55,
+                    "global_sentence_index": 165
+                },
+                {
+                    "sentence": "אני מזכה את הנאשם  מהמעשים המיוחסים לו  באישום 1  לכתב האישום",
+                    "sentence_id": "1",
+                    "paragraph_index": 55,
+                    "global_sentence_index": 166
+                },
+                {
+                    "sentence": "ב",
+                    "sentence_id": "2",
+                    "paragraph_index": 55,
+                    "global_sentence_index": 167
+                }
+            ]
+        },
+        {
+            "paragraph_index": 56,
+            "sentences": [
+                {
+                    "sentence": "ב",
+                    "sentence_id": "0",
+                    "paragraph_index": 56,
+                    "global_sentence_index": 168
+                },
+                {
+                    "sentence": "אני מרשיע את הנאשם  בביצוע  המעשים המיוחסים לו  באישום 2 -  מעשה מגונה עבירה  לפי    בנסיבות",
+                    "sentence_id": "1",
+                    "paragraph_index": 56,
+                    "global_sentence_index": 169
+                },
+                {
+                    "sentence": "ו",
+                    "sentence_id": "2",
+                    "paragraph_index": 56,
+                    "global_sentence_index": 170
+                }
+            ]
+        },
+        {
+            "paragraph_index": 57,
+            "sentences": [
+                {
+                    "sentence": "ניתנה היום ו' בתמוז, תשס\"ג (6 ביולי 2003), שעה ‏1:30 אחה\"צ, במעמד הצדדים",
+                    "sentence_id": "0",
+                    "paragraph_index": 57,
+                    "global_sentence_index": 171
+                },
+                {
+                    "sentence": "נ",
+                    "sentence_id": "1",
+                    "paragraph_index": 57,
+                    "global_sentence_index": 172
+                }
+            ]
+        },
+        {
+            "paragraph_index": 58,
+            "sentences": [
+                {
+                    "sentence": "ערעור תוך 45 יום לבית המשפט המחוזי",
+                    "sentence_id": "0",
+                    "paragraph_index": 58,
+                    "global_sentence_index": 173
+                },
+                {
+                    "sentence": "ב",
+                    "sentence_id": "1",
+                    "paragraph_index": 58,
+                    "global_sentence_index": 174
+                }
+            ]
+        },
+        {
+            "paragraph_index": 59,
+            "sentences": [
+                {
+                    "sentence": "מותר לפרסום מיום 6/7/03.ו",
+                    "sentence_id": "0",
+                    "paragraph_index": 59,
+                    "global_sentence_index": 175
+                }
+            ]
+        },
+        {
+            "paragraph_index": 60,
+            "sentences": [
+                {
+                    "sentence": "ב\"כ הנאשם: אבקש שיוצא תסקיר של שירות המבחן",
+                    "sentence_id": "0",
+                    "paragraph_index": 60,
+                    "global_sentence_index": 176
+                },
+                {
+                    "sentence": "כי היום נקי מסמים ואני חושב שתסקיר מפורט יהיה בו כדי להשפיע על גרז הדין",
+                    "sentence_id": "1",
+                    "paragraph_index": 60,
+                    "global_sentence_index": 177
+                },
+                {
+                    "sentence": "נ",
+                    "sentence_id": "2",
+                    "paragraph_index": 60,
+                    "global_sentence_index": 178
+                }
+            ]
+        },
+        {
+            "paragraph_index": 61,
+            "sentences": [
+                {
+                    "sentence": "ב\"כ המאשימה:",
+                    "sentence_id": "0",
+                    "paragraph_index": 61,
+                    "global_sentence_index": 179
+                }
+            ]
+        },
+        {
+            "paragraph_index": 62,
+            "sentences": [
+                {
+                    "sentence": "אני משאיר לשיקול דעת בית המשפט",
+                    "sentence_id": "0",
+                    "paragraph_index": 62,
+                    "global_sentence_index": 180
+                },
+                {
+                    "sentence": "אני לא בטוח שיש קשר בין המעשה לסמים, בפרט שהנאשם הורשע בעבר בעבירות מין נגד קטינים",
+                    "sentence_id": "1",
+                    "paragraph_index": 62,
+                    "global_sentence_index": 181
+                }
+            ]
+        },
+        {
+            "paragraph_index": 63,
+            "sentences": [
+                {
+                    "sentence": "ב\"כ הנאשם:",
+                    "sentence_id": "0",
+                    "paragraph_index": 63,
+                    "global_sentence_index": 182
+                }
+            ]
+        },
+        {
+            "paragraph_index": 64,
+            "sentences": [
+                {
+                    "sentence": "ההרשעה היא מאוד ישנה",
+                    "sentence_id": "0",
+                    "paragraph_index": 64,
+                    "global_sentence_index": 183
+                }
+            ]
+        },
+        {
+            "paragraph_index": 65,
+            "sentences": [
+                {
+                    "sentence": "החלטה",
+                    "sentence_id": "0",
+                    "paragraph_index": 65,
+                    "global_sentence_index": 184
+                }
+            ]
+        },
+        {
+            "paragraph_index": 66,
+            "sentences": [
+                {
+                    "sentence": "1.\tאני מורה לשירות המבחן כדלקמן:",
+                    "sentence_id": "0",
+                    "paragraph_index": 66,
+                    "global_sentence_index": 185
+                }
+            ]
+        },
+        {
+            "paragraph_index": 67,
+            "sentences": [
+                {
+                    "sentence": "א",
+                    "sentence_id": "0",
+                    "paragraph_index": 67,
+                    "global_sentence_index": 186
+                },
+                {
+                    "sentence": "להמציא תסקיר לגבי הנאשם, אשר יתייחס גם לשאלה האם יש מקום להטיל על הנאשם עונש של עבודות לתועלת הציבור",
+                    "sentence_id": "1",
+                    "paragraph_index": 67,
+                    "global_sentence_index": 187
+                }
+            ]
+        },
+        {
+            "paragraph_index": 68,
+            "sentences": [
+                {
+                    "sentence": "ב",
+                    "sentence_id": "0",
+                    "paragraph_index": 68,
+                    "global_sentence_index": 188
+                },
+                {
+                    "sentence": "אם ימליץ שירות המבחן על עבודה לתועלת הציבור יכלול התסקיר גם את תוכנית העבודה",
+                    "sentence_id": "1",
+                    "paragraph_index": 68,
+                    "global_sentence_index": 189
+                },
+                {
+                    "sentence": "ב",
+                    "sentence_id": "2",
+                    "paragraph_index": 68,
+                    "global_sentence_index": 190
+                }
+            ]
+        },
+        {
+            "paragraph_index": 69,
+            "sentences": [
+                {
+                    "sentence": "ג",
+                    "sentence_id": "0",
+                    "paragraph_index": 69,
+                    "global_sentence_index": 191
+                },
+                {
+                    "sentence": "תסקיר המבחן יומצא לי לא יאוחר מיום 1/9/03.ו",
+                    "sentence_id": "1",
+                    "paragraph_index": 69,
+                    "global_sentence_index": 192
+                }
+            ]
+        },
+        {
+            "paragraph_index": 70,
+            "sentences": [
+                {
+                    "sentence": "2.\tלהסרת ספקות, אין בעובדה שביקשתי תסקיר כאמור, למנוע ממני לגזור על הנאשם עונש של מאסר בפועל אפילו יהיה התסקיר חיובי ולא ידרוש זאת",
+                    "sentence_id": "0",
+                    "paragraph_index": 70,
+                    "global_sentence_index": 193
+                }
+            ]
+        },
+        {
+            "paragraph_index": 71,
+            "sentences": [
+                {
+                    "sentence": "3.\tהנאשם או ב\"כ יצרו קשר עם שירות המבחן תוך 14 יום מהיום באם לא ייווצר קשר עימם, טלפון - 6247511.נ",
+                    "sentence_id": "0",
+                    "paragraph_index": 71,
+                    "global_sentence_index": 194
+                }
+            ]
+        },
+        {
+            "paragraph_index": 72,
+            "sentences": [
+                {
+                    "sentence": "4.\tאת הנאשם ניתן להשיג דרך שב\"ס",
+                    "sentence_id": "0",
+                    "paragraph_index": 72,
+                    "global_sentence_index": 195
+                }
+            ]
+        },
+        {
+            "paragraph_index": 73,
+            "sentences": [
+                {
+                    "sentence": "5.\tהנאשם יובא באמצעות שב\"ס",
+                    "sentence_id": "0",
+                    "paragraph_index": 73,
+                    "global_sentence_index": 196
+                }
+            ]
+        },
+        {
+            "paragraph_index": 74,
+            "sentences": [
+                {
+                    "sentence": "6.\tאני קובע את התיק ליום 7/9/03 בשעה 9:00.",
+                    "sentence_id": "0",
+                    "paragraph_index": 74,
+                    "global_sentence_index": 197
+                }
+            ]
+        },
+        {
+            "paragraph_index": 75,
+            "sentences": [
+                {
+                    "sentence": "7.\tהמזכירות תשלח העתק מהחלטה זו לשירות המבחן",
+                    "sentence_id": "0",
+                    "paragraph_index": 75,
+                    "global_sentence_index": 198
+                }
+            ]
+        },
+        {
+            "paragraph_index": 76,
+            "sentences": [
+                {
+                    "sentence": "ניתנה היום ו' בתמוז, תשס\"ג (6 ביולי 2003), בשעה ‏1:30 אחה\"צ במעמד הצדדים",
+                    "sentence_id": "0",
+                    "paragraph_index": 76,
+                    "global_sentence_index": 199
+                },
+                {
+                    "sentence": "ב",
+                    "sentence_id": "1",
+                    "paragraph_index": 76,
+                    "global_sentence_index": 200
+                }
+            ]
+        },
+        {
+            "paragraph_index": 77,
+            "sentences": [
+                {
+                    "sentence": "הנאשם: אני מבקש לסיים את התיק היום",
+                    "sentence_id": "0",
+                    "paragraph_index": 77,
+                    "global_sentence_index": 201
+                },
+                {
+                    "sentence": "אני לא רוצה תסקיר של שירות מבחן, אני יושב על תיק אחר, משיכת התיק פוגעת בהפחתת שליש",
+                    "sentence_id": "1",
+                    "paragraph_index": 77,
+                    "global_sentence_index": 202
+                }
+            ]
+        },
+        {
+            "paragraph_index": 78,
+            "sentences": [
+                {
+                    "sentence": "ב\"כ הנאשם:",
+                    "sentence_id": "0",
+                    "paragraph_index": 78,
+                    "global_sentence_index": 203
+                }
+            ]
+        },
+        {
+            "paragraph_index": 79,
+            "sentences": [
+                {
+                    "sentence": "אני חוזר בי מבקשתי להוצאת תסקיר, ומבקש לדחות לדיון ליום אחר לטעונים לעונש",
+                    "sentence_id": "0",
+                    "paragraph_index": 79,
+                    "global_sentence_index": 204
+                },
+                {
+                    "sentence": "ו",
+                    "sentence_id": "1",
+                    "paragraph_index": 79,
+                    "global_sentence_index": 205
+                }
+            ]
+        },
+        {
+            "paragraph_index": 80,
+            "sentences": [
+                {
+                    "sentence": "ב\"כ המאשימה:",
+                    "sentence_id": "0",
+                    "paragraph_index": 80,
+                    "global_sentence_index": 206
+                }
+            ]
+        },
+        {
+            "paragraph_index": 81,
+            "sentences": [
+                {
+                    "sentence": "אני מוכן שהטעונים ישמעו גם לא ביום תביעה",
+                    "sentence_id": "0",
+                    "paragraph_index": 81,
+                    "global_sentence_index": 207
+                }
+            ]
+        },
+        {
+            "paragraph_index": 82,
+            "sentences": [
+                {
+                    "sentence": "החלטה",
+                    "sentence_id": "0",
+                    "paragraph_index": 82,
+                    "global_sentence_index": 208
+                }
+            ]
+        },
+        {
+            "paragraph_index": 83,
+            "sentences": [
+                {
+                    "sentence": "אני דוחה את התיק ליום 7/7/03 בשעה 13:00.נ",
+                    "sentence_id": "0",
+                    "paragraph_index": 83,
+                    "global_sentence_index": 209
+                }
+            ]
+        },
+        {
+            "paragraph_index": 84,
+            "sentences": [
+                {
+                    "sentence": "הנאשם יובא באמצעות שב\"ס",
+                    "sentence_id": "0",
+                    "paragraph_index": 84,
+                    "global_sentence_index": 210
+                }
+            ]
+        },
+        {
+            "paragraph_index": 85,
+            "sentences": [
+                {
+                    "sentence": "המזכירות תדאג למתורגמן לשפה הערבית",
+                    "sentence_id": "0",
+                    "paragraph_index": 85,
+                    "global_sentence_index": 211
+                }
+            ]
+        },
+        {
+            "paragraph_index": 86,
+            "sentences": [
+                {
+                    "sentence": "ניתנה היום ו' בתמוז, תשס\"ג (6 ביולי 2003), בשעה ‏1:30 אחה\"צ במעמד הצדדים",
+                    "sentence_id": "0",
+                    "paragraph_index": 86,
+                    "global_sentence_index": 212
+                },
+                {
+                    "sentence": "ב",
+                    "sentence_id": "1",
+                    "paragraph_index": 86,
+                    "global_sentence_index": 213
+                }
+            ]
+        },
+        {
+            "paragraph_index": 87,
+            "sentences": [
+                {
+                    "sentence": "003897/99פ  130 מ",
+                    "sentence_id": "0",
+                    "paragraph_index": 87,
+                    "global_sentence_index": 214
+                },
+                {
+                    "sentence": "ב",
+                    "sentence_id": "1",
+                    "paragraph_index": 87,
+                    "global_sentence_index": 215
+                },
+                {
+                    "sentence": "ו",
+                    "sentence_id": "2",
+                    "paragraph_index": 87,
+                    "global_sentence_index": 216
+                }
+            ]
+        },
+        {
+            "paragraph_index": 88,
+            "sentences": [
+                {
+                    "sentence": "נוסח זה כפוף לשינויי עריכה וניסוח",
+                    "sentence_id": "0",
+                    "paragraph_index": 88,
+                    "global_sentence_index": 217
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        " החוקרת קובעת שעדות הקטינה מהימנה",
+        " אמנם, הוא ממשיך ואומר שהחוקרת לא קבעה שעדות הילדה באירוע הים לא מהימנה, ולכן ניתן להרשיעה",
+        " באשר לאירוע במקלחת, מעידה החוקרת וקובעת בגיליון הערכת מהימנות  מיום 28/10/99 (ת/10), שעדות הילדה מהימנה"
+    ],
+    "main_sentence_from_docx": [
+        "החוקרת קובעת שעדות הקטינה מהימנה",
+        "אמנם, הוא ממשיך ואומר שהחוקרת לא קבעה שעדות הילדה באירוע הים לא מהימנה, ולכן ניתן להרשיעה",
+        "15.\tבאשר לאירוע במקלחת, מעידה החוקרת וקובעת בגיליון הערכת מהימנות  מיום 28/10/99 (ת/10), שעדות הילדה מהימנה"
+    ],
+    "main_sentence_id_in_docx": [
+        "13_4",
+        "25_1",
+        "28_0"
+    ],
+    "global_sentence_index_docx": [
+        20,
+        55,
+        64
+    ],
+    "global_sentence_index_spike": [
+        1569840,
+        1569893,
+        1569905
+    ],
+    "score_of_similarity": [
+        0.0,
+        0.0,
+        0.03
+    ]
+}

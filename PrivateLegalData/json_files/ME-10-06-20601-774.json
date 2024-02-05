@@ -1,0 +1,3557 @@
+{
+    "title": "ME-10-06-20601-774",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "נוכחים:",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "ב\"כ המאשימה עו\"ד רונית פוזננסקי",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "ב\"כ הנאשם עו\"ד טלי גוטליב",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "הנאשם הובא באמצעות שב\"ס",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": []
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "להחלטה במחוזי (13-01-2011):  מדינת ישראל נ' דמיטרי פשיקוב (אסיר) שופטים: רות לורך, זהבה בוסתן, צבי דותן, עו\"ד: רונית פוזננסקי, טלי גוטליב",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "להחלטה במחוזי (18-07-2011):  מדינת ישראל נ' דמיטרי פשיקוב (אסיר) שופטים: רות לורך, זהבה בוסתן, צבי דותן, עו\"ד: רונית פוזננסקי, רויטל גוטליב, הובא, הובא שב\"ס",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 7,
+            "sentences": [
+                {
+                    "sentence": "לגזר-דין במחוזי (22-09-2011):  מדינת ישראל נ' דמיטרי פשיקוב שופטים: רות לורך, זהבה בוסתן, צבי דותן, עו\"ד: קרן בר מנחם, טלי גוטליב",
+                    "sentence_id": "0",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 8,
+            "sentences": [
+                {
+                    "sentence": "להחלטה בעליון (05-01-2012):  דמיטרי פשיקוב נ' מדינת ישראל שופטים: דנה כהן לקח",
+                    "sentence_id": "0",
+                    "paragraph_index": 8,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 9,
+            "sentences": [
+                {
+                    "sentence": "חקיקה שאוזכרה:",
+                    "sentence_id": "0",
+                    "paragraph_index": 9,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 10,
+            "sentences": [
+                {
+                    "sentence": ": סע'  , , , , ,",
+                    "sentence_id": "0",
+                    "paragraph_index": 10,
+                    "global_sentence_index": 9
+                }
+            ]
+        },
+        {
+            "paragraph_index": 11,
+            "sentences": [
+                {
+                    "sentence": "הכרעת דין",
+                    "sentence_id": "0",
+                    "paragraph_index": 11,
+                    "global_sentence_index": 10
+                }
+            ]
+        },
+        {
+            "paragraph_index": 12,
+            "sentences": [
+                {
+                    "sentence": "השופט :",
+                    "sentence_id": "0",
+                    "paragraph_index": 12,
+                    "global_sentence_index": 11
+                }
+            ]
+        },
+        {
+            "paragraph_index": 13,
+            "sentences": [
+                {
+                    "sentence": "1.\tנגד הנאשם הוגש כתב אישום, המייחס לו עבירות של כליאת שווא, לפי  ל התשל\"ז-1977 (להלן- \"החוק\"); אינוס, לפי סעיף  לחוק; שלילת כושר ההתנגדות לשם ביצוע עבירה, לפי  לחוק; וחבלה חמורה, לפי  לחוק",
+                    "sentence_id": "0",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 12
+                }
+            ]
+        },
+        {
+            "paragraph_index": 14,
+            "sentences": [
+                {
+                    "sentence": "2.\tבעובדות כתב האישום נטען כי הנאשם התגורר במועד הרלוונטי בדירה ברחוב רוטשילד בראשון לציון (להלן – \"הדירה\"), וכי אנדריי דודרב (להלן – \"אנדריי\") הוא חברו של הנאשם",
+                    "sentence_id": "0",
+                    "paragraph_index": 14,
+                    "global_sentence_index": 13
+                },
+                {
+                    "sentence": "ביום 4/6/10, בשעת ערב, הגיע אנדריי, יחד עם אדם נוסף, בוריס רטושניאק (להלן – \"בוריס\"), אל דירת הנאשם, ושלשתם שתו יחד משקאות משכרים",
+                    "sentence_id": "1",
+                    "paragraph_index": 14,
+                    "global_sentence_index": 14
+                },
+                {
+                    "sentence": "בשלב מסוים, בוריס עזב את הדירה, ונותרו רק הנאשם ואנדריי",
+                    "sentence_id": "2",
+                    "paragraph_index": 14,
+                    "global_sentence_index": 15
+                },
+                {
+                    "sentence": "בשעה 23:30 או בסמוך לכך התקשר אנדריי אל המתלוננת, איתה היה בקשרי ידידות, וביקש שהיא תגיע לדירה על מנת ללוות אותו חזרה לביתו",
+                    "sentence_id": "3",
+                    "paragraph_index": 14,
+                    "global_sentence_index": 16
+                },
+                {
+                    "sentence": "סמוך לחצות הגיעה המתלוננת לדירת הנאשם, נכנסה פנימה, והנאשם נעל אחריה את הדלת",
+                    "sentence_id": "4",
+                    "paragraph_index": 14,
+                    "global_sentence_index": 17
+                },
+                {
+                    "sentence": "היא המתינה עד שאנדריי יסיים לעשן, והשלשה שוחחו בסלון",
+                    "sentence_id": "5",
+                    "paragraph_index": 14,
+                    "global_sentence_index": 18
+                },
+                {
+                    "sentence": "בשלב זה פנה הנאשם אל המתלוננת באמירות בעלות אופי מיני והכל תוך שהוא מפציר בה לגעת בשדיה ולקיים עימה יחסי מין",
+                    "sentence_id": "6",
+                    "paragraph_index": 14,
+                    "global_sentence_index": 19
+                },
+                {
+                    "sentence": "המתלוננת סירבה, ואף אנדריי מחה על כך, והשניים הלכו לכיוון דלת הדירה על מנת לצאת, אך גילו כי היא נעולה",
+                    "sentence_id": "7",
+                    "paragraph_index": 14,
+                    "global_sentence_index": 20
+                },
+                {
+                    "sentence": "הם ביקשו מהנאשם לפתוח את הדלת ולאפשר להם לצאת, אך הנאשם סירב ודרש לקיים יחסי מין עם המתלוננת",
+                    "sentence_id": "8",
+                    "paragraph_index": 14,
+                    "global_sentence_index": 21
+                }
+            ]
+        },
+        {
+            "paragraph_index": 15,
+            "sentences": [
+                {
+                    "sentence": "הנאשם החזיק בדירה כלבה מסוג שארפיי",
+                    "sentence_id": "0",
+                    "paragraph_index": 15,
+                    "global_sentence_index": 22
+                },
+                {
+                    "sentence": "בשלב זה הנאשם פתח את החדר שבו  היתה הכלבה, הורה לכלבה לצאת, ואמר למתלוננת ולאנדריי שהכלבה מצייתת לכל דרישותיו, וזאת במטרה להטיל עליהם אימה, ולמנוע התנגדותה של המתלוננת והתנגדותו של אנדריי",
+                    "sentence_id": "1",
+                    "paragraph_index": 15,
+                    "global_sentence_index": 23
+                }
+            ]
+        },
+        {
+            "paragraph_index": 16,
+            "sentences": [
+                {
+                    "sentence": "הנאשם הורה לכלבה לתקוף את אנדריי, כשהוא משסה אותה באנדריי",
+                    "sentence_id": "0",
+                    "paragraph_index": 16,
+                    "global_sentence_index": 24
+                },
+                {
+                    "sentence": "הכלבה מיד קפצה לעבר אנדריי ונשכה אותו בפניו",
+                    "sentence_id": "1",
+                    "paragraph_index": 16,
+                    "global_sentence_index": 25
+                },
+                {
+                    "sentence": "אנדריי החל לדמם וניגש עם המתלוננת לשטוף את פניו",
+                    "sentence_id": "2",
+                    "paragraph_index": 16,
+                    "global_sentence_index": 26
+                },
+                {
+                    "sentence": "אח\"כ חזר אנדריי לסלון, התיישב על הספה וניסה לעצור את הדימום",
+                    "sentence_id": "3",
+                    "paragraph_index": 16,
+                    "global_sentence_index": 27
+                },
+                {
+                    "sentence": "הנאשם הורה לכלבה לשוב ולתקוף את אנדריי, אנדריי נעמד, ואז הכלבה תקפה אותו ברגלו",
+                    "sentence_id": "4",
+                    "paragraph_index": 16,
+                    "global_sentence_index": 28
+                }
+            ]
+        },
+        {
+            "paragraph_index": 17,
+            "sentences": [
+                {
+                    "sentence": "הנאשם לקח סכין מטבח, הצמיד אותה לגרונו של אנדריי, הורה לו שלא יזוז, ופקד על הכלבה לשבת לידו ולשמור עליו",
+                    "sentence_id": "0",
+                    "paragraph_index": 17,
+                    "global_sentence_index": 29
+                },
+                {
+                    "sentence": "הכלבה אכן התיישבה לרגלי אנדריי",
+                    "sentence_id": "1",
+                    "paragraph_index": 17,
+                    "global_sentence_index": 30
+                },
+                {
+                    "sentence": "כל אימת שאנדריי ניסה לסייע למתלוננת להפסיק את מעשי הנאשם שיתוארו בהמשך, חשפה הכלבה את שיניה ונבחה לפי הוראת הנאשם, וכך נמנע מאנדריי לסייע למתלוננת ולהפסיק את מעשי הנאשם",
+                    "sentence_id": "2",
+                    "paragraph_index": 17,
+                    "global_sentence_index": 31
+                }
+            ]
+        },
+        {
+            "paragraph_index": 18,
+            "sentences": [
+                {
+                    "sentence": "הנאשם התקרב אל המתלוננת, כשהוא אוחז בסכין, דרש ממנה כי תוריד את חולצתה ותאפשר לו לגעת בשדיה, אך היא סירבה",
+                    "sentence_id": "0",
+                    "paragraph_index": 18,
+                    "global_sentence_index": 32
+                },
+                {
+                    "sentence": "אז העביר הנאשם את הסכין על צווארה בתנועת איום",
+                    "sentence_id": "1",
+                    "paragraph_index": 18,
+                    "global_sentence_index": 33
+                },
+                {
+                    "sentence": "המתלוננת אמרה לנאשם כי היא תסכים לפשוט את חולצתה, אם יאפשר לה ולאנדריי לצאת מהדירה",
+                    "sentence_id": "2",
+                    "paragraph_index": 18,
+                    "global_sentence_index": 34
+                },
+                {
+                    "sentence": "הנאשם ניאות לכך, אך כשפשטה את חולצתה, אחז הנאשם באחת מכתפיות חזייתה, ודרש שתוריד את החזייה, תוך שהוא ממשיך להחזיק בסכין",
+                    "sentence_id": "3",
+                    "paragraph_index": 18,
+                    "global_sentence_index": 35
+                },
+                {
+                    "sentence": "כשסירבה, העביר את הסכין מתחת לכתפיית החזיה, המתלוננת בכתה, והורידה את הכתפייה",
+                    "sentence_id": "4",
+                    "paragraph_index": 18,
+                    "global_sentence_index": 36
+                },
+                {
+                    "sentence": "הנאשם משך בכח כלפי מטה את הכתפייה השניה וצעק \"תורידי, אני רוצה כבר לראות את זה\" ותפס בשדיה",
+                    "sentence_id": "5",
+                    "paragraph_index": 18,
+                    "global_sentence_index": 37
+                },
+                {
+                    "sentence": "המתלוננת נפלה על הספה, הנאשם תפס במכנסיה, משך אותם, הכניס את הסכין בין המכנסיים לבין גופה וצעק \"תורידי את המכנסיים או שאני חותך אותם\"",
+                    "sentence_id": "6",
+                    "paragraph_index": 18,
+                    "global_sentence_index": 38
+                },
+                {
+                    "sentence": "המתלוננת ביקשה שירחיק את הסכין, אולם הנאשם נופף בסכין באויר ואמר \"תורידי את המכנס, אני אהרוג אותך, אין לי מה לאבד\"",
+                    "sentence_id": "7",
+                    "paragraph_index": 18,
+                    "global_sentence_index": 39
+                },
+                {
+                    "sentence": "בשל פחדה מפני הנאשם, המתלוננת הפשילה את מכנסיה, ונשארה עם תחתונים בלבד",
+                    "sentence_id": "8",
+                    "paragraph_index": 18,
+                    "global_sentence_index": 40
+                },
+                {
+                    "sentence": "המתלוננת ישבה על הספה, והתכופפה כדי להסתיר את גופה",
+                    "sentence_id": "9",
+                    "paragraph_index": 18,
+                    "global_sentence_index": 41
+                },
+                {
+                    "sentence": "בתגובה לכך, הנאשם דקר אותה באמצעות הסכין בגבה",
+                    "sentence_id": "10",
+                    "paragraph_index": 18,
+                    "global_sentence_index": 42
+                },
+                {
+                    "sentence": "הנאשם תפס בתחתוניה והורה לה להוריד אותם או שהוא יחתוך אותם, המתלוננת סירבה והנאשם הוריד את תחתוניה",
+                    "sentence_id": "11",
+                    "paragraph_index": 18,
+                    "global_sentence_index": 43
+                },
+                {
+                    "sentence": "אח\"כ הוא הורה לה, תוך איומי סכין, לפשוט את מכנסיו ותחתוניו, והמתלוננת עשתה כן",
+                    "sentence_id": "12",
+                    "paragraph_index": 18,
+                    "global_sentence_index": 44
+                },
+                {
+                    "sentence": "הנאשם צעק על המתלוננת שתשב עליו",
+                    "sentence_id": "13",
+                    "paragraph_index": 18,
+                    "global_sentence_index": 45
+                },
+                {
+                    "sentence": "המתלוננת הדליקה סיגריה, בכדי לעכב את מעשיו",
+                    "sentence_id": "14",
+                    "paragraph_index": 18,
+                    "global_sentence_index": 46
+                },
+                {
+                    "sentence": "הנאשם אחז בה בכח במתניים, והמתלוננת נפלה עליו",
+                    "sentence_id": "15",
+                    "paragraph_index": 18,
+                    "global_sentence_index": 47
+                },
+                {
+                    "sentence": "הוא התעצבן והורה לה לקום ולפסק את רגליה",
+                    "sentence_id": "16",
+                    "paragraph_index": 18,
+                    "global_sentence_index": 48
+                },
+                {
+                    "sentence": "היא התעכבה בכך, ואז תפס ברגלה, פיסק אותה, אחז בידו באיבר מינו והחל להחדירו לאיבר מינה",
+                    "sentence_id": "17",
+                    "paragraph_index": 18,
+                    "global_sentence_index": 49
+                },
+                {
+                    "sentence": "היא צעקה שכואב לה וכיווצה את שריריה",
+                    "sentence_id": "18",
+                    "paragraph_index": 18,
+                    "global_sentence_index": 50
+                },
+                {
+                    "sentence": "משלא הצליח הנאשם לחדור חדירה מלאה, הורה לה לעמוד, לשים ידיה על גב הספה, כשגבה מופנה אליו, שוב תפס במתניה, והחדיר באופן חלקי את איבר מינו לאיבר מינה של המתלוננת",
+                    "sentence_id": "19",
+                    "paragraph_index": 18,
+                    "global_sentence_index": 51
+                },
+                {
+                    "sentence": "לבסוף, כשהתעייף, הניח למתלוננת",
+                    "sentence_id": "20",
+                    "paragraph_index": 18,
+                    "global_sentence_index": 52
+                }
+            ]
+        },
+        {
+            "paragraph_index": 19,
+            "sentences": [
+                {
+                    "sentence": "אחר כך דרש הנאשם מהמתלוננת כי תחתום לו על התחייבות שהיא לא תתלונן, ואף איים עליה כי יהרוג אותה, יחלק אותה לחלקים וישים בשקית ולזבל",
+                    "sentence_id": "0",
+                    "paragraph_index": 19,
+                    "global_sentence_index": 53
+                },
+                {
+                    "sentence": "כך גם דרש הנאשם מאנדריי כי יכתוב התחייבות שלא יתלונן נגדו על נשיכות הכלבה",
+                    "sentence_id": "1",
+                    "paragraph_index": 19,
+                    "global_sentence_index": 54
+                }
+            ]
+        },
+        {
+            "paragraph_index": 20,
+            "sentences": [
+                {
+                    "sentence": "משך כל האירועים הללו, שבו המתלוננת ואנדריי והתחננו בפני הנאשם כי יחדל ממעשיו ויאפשר להם לצאת מהדירה, עד שלבסוף נתרצה הנאשם, איפשר להם לצאת, והם נמלטו מהדירה",
+                    "sentence_id": "0",
+                    "paragraph_index": 20,
+                    "global_sentence_index": 55
+                }
+            ]
+        },
+        {
+            "paragraph_index": 21,
+            "sentences": [
+                {
+                    "sentence": "לאנדריי נגרמו סימני נשיכה ניכרים בירך ימין, סימני נשיכה בלחי ימין, ומספר שריטות או נשיכות באמת יד שמאל",
+                    "sentence_id": "0",
+                    "paragraph_index": 21,
+                    "global_sentence_index": 56
+                }
+            ]
+        },
+        {
+            "paragraph_index": 22,
+            "sentences": [
+                {
+                    "sentence": "עד כאן – העובדות כמפורט בכתב האישום",
+                    "sentence_id": "0",
+                    "paragraph_index": 22,
+                    "global_sentence_index": 57
+                }
+            ]
+        },
+        {
+            "paragraph_index": 23,
+            "sentences": [
+                {
+                    "sentence": "3.\tבמענה לכתב האישום טען הנאשם כי כאשר ישבו השלשה (הוא, אנדריי ובוריס) בדירה, אנדריי ובוריס שתו משקאות משכרים, אולם הוא עצמו לא שתה, בשל טיפול נגד אלכוהוליזם שקיבל בחו\"ל",
+                    "sentence_id": "0",
+                    "paragraph_index": 23,
+                    "global_sentence_index": 58
+                },
+                {
+                    "sentence": "הנאשם כפר וטען כי לא ביצע את שיוחס לו בכתב האישום",
+                    "sentence_id": "1",
+                    "paragraph_index": 23,
+                    "global_sentence_index": 59
+                },
+                {
+                    "sentence": "לגירסתו, הכלבה נשכה את אנדריי מפני שאנדריי רב עם הכלבה",
+                    "sentence_id": "2",
+                    "paragraph_index": 23,
+                    "global_sentence_index": 60
+                },
+                {
+                    "sentence": "הנאשם נתן לאנדריי טיפול ראשוני בדירה, ואח\"כ הגיעה חברתו של אנדריי (המתלוננת), והנאשם ביקש מהם בחלוף זמן מה לעזוב את הדירה",
+                    "sentence_id": "3",
+                    "paragraph_index": 23,
+                    "global_sentence_index": 61
+                }
+            ]
+        },
+        {
+            "paragraph_index": 24,
+            "sentences": [
+                {
+                    "sentence": "בישיבה מאוחרת יותר ביקש הנאשם לתקן את המענה לכתב האישום, וטען, שהוא לא שתה וודקה, אלא שתה בירות בלבד",
+                    "sentence_id": "0",
+                    "paragraph_index": 24,
+                    "global_sentence_index": 62
+                },
+                {
+                    "sentence": "ובאשר לנוכחותה של המתלוננת, טען כי, בזמן שאנדריי רב עם הכלבה והותקף על ידה, המתלוננת כבר היתה נוכחת בדירה",
+                    "sentence_id": "1",
+                    "paragraph_index": 24,
+                    "global_sentence_index": 63
+                }
+            ]
+        },
+        {
+            "paragraph_index": 25,
+            "sentences": [
+                {
+                    "sentence": "4.\tמטעם המאשימה העידו המתלוננת ואנדריי",
+                    "sentence_id": "0",
+                    "paragraph_index": 25,
+                    "global_sentence_index": 64
+                },
+                {
+                    "sentence": "כמו כן העידו השוטר ירוסלב איוושין, שהיה שותף למעצרו של הנאשם, והשוטרת טלי ואקנין, שערכה את העימותים בין הנאשם והמתלוננת,  ובין הנאשם ואנדריי, וכן תפסה את הסכין בה השתמש הנאשם",
+                    "sentence_id": "1",
+                    "paragraph_index": 25,
+                    "global_sentence_index": 65
+                },
+                {
+                    "sentence": "בנוסף, הוגשו דו\"חות רפואיים, הנוגעים לפציעתו של אנדריי (ת/9), ולבדיקה רפואית שעברה המתלוננת לאחר האירוע (ת/10), מזכרים ודו\"חות פעולה של שוטרים, וחוות דעת של המכון לרפואה משפטית (ת/14)",
+                    "sentence_id": "2",
+                    "paragraph_index": 25,
+                    "global_sentence_index": 66
+                }
+            ]
+        },
+        {
+            "paragraph_index": 26,
+            "sentences": [
+                {
+                    "sentence": "מטעם הנאשם העידו הנאשם ובוריס רטושניאק, והוגשו הודעות המתלוננת במשטרה, ומספר מוצגים נוספים (נ/1 – נ/5)",
+                    "sentence_id": "0",
+                    "paragraph_index": 26,
+                    "global_sentence_index": 67
+                }
+            ]
+        },
+        {
+            "paragraph_index": 27,
+            "sentences": [
+                {
+                    "sentence": "עדויות אנדריי והמתלוננת",
+                    "sentence_id": "0",
+                    "paragraph_index": 27,
+                    "global_sentence_index": 68
+                }
+            ]
+        },
+        {
+            "paragraph_index": 28,
+            "sentences": [
+                {
+                    "sentence": "שיחת הסקייפ הראשונה",
+                    "sentence_id": "0",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 69
+                }
+            ]
+        },
+        {
+            "paragraph_index": 29,
+            "sentences": [
+                {
+                    "sentence": "5.\tאנדריי העיד כי הוא והנאשם בקשרי חברות משנת 2006, וכי הם נפגשים בימי שישי ושותים בירה יחדיו",
+                    "sentence_id": "0",
+                    "paragraph_index": 29,
+                    "global_sentence_index": 70
+                },
+                {
+                    "sentence": "ביחס למתלוננת העיד אנדריי כי הוא מכיר אותה מהעבודה, כי הם חוזרים מהעבודה ביחד בלילה, וכי הם משוחחים ביניהם דרך \"סקייפ\", ולפעמים בטלפון",
+                    "sentence_id": "1",
+                    "paragraph_index": 29,
+                    "global_sentence_index": 71
+                },
+                {
+                    "sentence": "אנדריי סיפר לנאשם על המתלוננת, כמי שהגיעה לעבוד במקום עבודתו",
+                    "sentence_id": "2",
+                    "paragraph_index": 29,
+                    "global_sentence_index": 72
+                },
+                {
+                    "sentence": "הנאשם ביקש מאנדריי את כתובתה של המתלוננת בסקייפ, והוא נתן לו",
+                    "sentence_id": "3",
+                    "paragraph_index": 29,
+                    "global_sentence_index": 73
+                },
+                {
+                    "sentence": "הנאשם שוחח עם המתלוננת בסקייפ לראשונה, כשבועיים לפני האירוע נושא האישום",
+                    "sentence_id": "4",
+                    "paragraph_index": 29,
+                    "global_sentence_index": 74
+                },
+                {
+                    "sentence": "בשיחה זו השתתפו שלשתם (גם אנדריי)",
+                    "sentence_id": "5",
+                    "paragraph_index": 29,
+                    "global_sentence_index": 75
+                },
+                {
+                    "sentence": "לפי עדותו של אנדריי, הנאשם בשיחה זו ביקש מהמתלוננת כי תפעיל את המצלמה ותתפשט ותראה לו את השדיים (פרו', עמ' 10), והמתלוננת עקב כך ניתקה מיד",
+                    "sentence_id": "6",
+                    "paragraph_index": 29,
+                    "global_sentence_index": 76
+                }
+            ]
+        },
+        {
+            "paragraph_index": 30,
+            "sentences": [
+                {
+                    "sentence": "עדותו זו של אנדריי תואמת ומשתלבת עם עדותה של המתלוננת עצמה, שאף היא מסרה דברים דומים אודות אותה שיחת \"סקייפ\", כשבועיים לפני האירוע, לרבות העובדה שהיא מיד סגרה את הסקייפ, וגם שמה \"בלוק\" עליו, \"חסמתי אותו בגלל הדיבורים האלה\" (פרו', עמ' 30)",
+                    "sentence_id": "0",
+                    "paragraph_index": 30,
+                    "global_sentence_index": 77
+                }
+            ]
+        },
+        {
+            "paragraph_index": 31,
+            "sentences": [
+                {
+                    "sentence": "שיחת הסקייפ ביום האירוע",
+                    "sentence_id": "0",
+                    "paragraph_index": 31,
+                    "global_sentence_index": 78
+                }
+            ]
+        },
+        {
+            "paragraph_index": 32,
+            "sentences": [
+                {
+                    "sentence": "6.\tאנדריי העיד כי ביום האירוע, יום שישי, 4/6/10, הוא, בוריס והנאשם שתו וודקה, ואז הוא התקשר אל המתלוננת ב\"סקייפ\" כדי לשאול לשלומה",
+                    "sentence_id": "0",
+                    "paragraph_index": 32,
+                    "global_sentence_index": 79
+                },
+                {
+                    "sentence": "הנאשם נכנס לשיחה, וגם הפעם, ביקש ממנה להפעיל את המצלמה ולהראות לו את השדיים",
+                    "sentence_id": "1",
+                    "paragraph_index": 32,
+                    "global_sentence_index": 80
+                },
+                {
+                    "sentence": "היא ניתקה מיד (פרו', עמ' 12)",
+                    "sentence_id": "2",
+                    "paragraph_index": 32,
+                    "global_sentence_index": 81
+                },
+                {
+                    "sentence": "גם המתלוננת בעדותה מסרה גירסה דומה בענין זה (פרו', עמ' 30)",
+                    "sentence_id": "3",
+                    "paragraph_index": 32,
+                    "global_sentence_index": 82
+                }
+            ]
+        },
+        {
+            "paragraph_index": 33,
+            "sentences": [
+                {
+                    "sentence": "אנדריי מבקש מהמתלוננת להגיע לדירה",
+                    "sentence_id": "0",
+                    "paragraph_index": 33,
+                    "global_sentence_index": 83
+                }
+            ]
+        },
+        {
+            "paragraph_index": 34,
+            "sentences": [
+                {
+                    "sentence": "7.\tבשעות הערב המאוחרות של אותו יום שישי, בסביבות השעה 23:30, טילפן אנדריי אל המתלוננת וביקש כי היא תבוא ותלווה אותו לביתו, מכיון שהבין שאינו יכול להגיע הביתה בעצמו, בהיותו שתוי (פרו', עמ' 12)",
+                    "sentence_id": "0",
+                    "paragraph_index": 34,
+                    "global_sentence_index": 84
+                }
+            ]
+        },
+        {
+            "paragraph_index": 35,
+            "sentences": [
+                {
+                    "sentence": "כך גם העידה המתלוננת, כי אנדריי טילפן, ולפי הקול שלו היא הבינה שהוא שתה, ועליה לעזור לו להגיע לביתו (עמ' 30)",
+                    "sentence_id": "0",
+                    "paragraph_index": 35,
+                    "global_sentence_index": 85
+                }
+            ]
+        },
+        {
+            "paragraph_index": 36,
+            "sentences": [
+                {
+                    "sentence": "8.\tהמתלוננת העידה כי הסכימה לבוא, התלבשה, וטילפנה אל אנדריי כדי להודיעו שהיא כבר יוצאת",
+                    "sentence_id": "0",
+                    "paragraph_index": 36,
+                    "global_sentence_index": 86
+                },
+                {
+                    "sentence": "אך מי שענה, בפלאפון של אנדריי, לא היה אנדריי, אלא הנאשם, והוא התחיל לכנות אותה \"פוסיקט\" ו\"באני\", והיא מיד סגרה את הטלפון",
+                    "sentence_id": "1",
+                    "paragraph_index": 36,
+                    "global_sentence_index": 87
+                },
+                {
+                    "sentence": "כך היה גם בפעם השניה שטילפנה",
+                    "sentence_id": "2",
+                    "paragraph_index": 36,
+                    "global_sentence_index": 88
+                },
+                {
+                    "sentence": "בפעם השלישית, אנדריי ענה לה לטלפון, ואמר כי נרדם קצת ולכן לא שמע את הטלפון",
+                    "sentence_id": "3",
+                    "paragraph_index": 36,
+                    "global_sentence_index": 89
+                },
+                {
+                    "sentence": "היא אמרה לו שהיא עכשיו יוצאת מהבית, וכשהגיעה לבית הנאשם, טילפנה אל אנדריי מלמטה, ואמרה לו שהוא יכול לרדת",
+                    "sentence_id": "4",
+                    "paragraph_index": 36,
+                    "global_sentence_index": 90
+                },
+                {
+                    "sentence": "אנדריי ביקש כי היא תעלה למעלה, לדירה (עמ' 31)",
+                    "sentence_id": "5",
+                    "paragraph_index": 36,
+                    "global_sentence_index": 91
+                }
+            ]
+        },
+        {
+            "paragraph_index": 37,
+            "sentences": [
+                {
+                    "sentence": "אנדריי זכר את האירועים באופן מעט שונה",
+                    "sentence_id": "0",
+                    "paragraph_index": 37,
+                    "global_sentence_index": 92
+                },
+                {
+                    "sentence": "לדבריו, הוא טילפן אליה שתבוא לקחתו, היא אמרה שהיא תגיע עוד מעט ותטלפן אליו",
+                    "sentence_id": "1",
+                    "paragraph_index": 37,
+                    "global_sentence_index": 93
+                },
+                {
+                    "sentence": "בפועל, היא לא התקשרה, אך הגיעה לדירה ודפקה בדלת (פרו', עמ' 13, עמ' 22)",
+                    "sentence_id": "2",
+                    "paragraph_index": 37,
+                    "global_sentence_index": 94
+                }
+            ]
+        },
+        {
+            "paragraph_index": 38,
+            "sentences": [
+                {
+                    "sentence": "על אף ההבדלים בגירסאות, אין כאן סתירה, בוודאי לא סתירה מהותית",
+                    "sentence_id": "0",
+                    "paragraph_index": 38,
+                    "global_sentence_index": 95
+                },
+                {
+                    "sentence": "אנדריי היה עייף ושיכור והעיד כי נרדם ולכן לא שמע את שתי ההתקשרויות הראשונות של המתלוננת",
+                    "sentence_id": "1",
+                    "paragraph_index": 38,
+                    "global_sentence_index": 96
+                },
+                {
+                    "sentence": "למעשה הוא כלל לא ידע עליהן",
+                    "sentence_id": "2",
+                    "paragraph_index": 38,
+                    "global_sentence_index": 97
+                },
+                {
+                    "sentence": "ניתן להניח שמאותה סיבה (עייפותו, שכרותו), הוא לא זכר את ההתקשרות שבה היא כן הגיעה אליו, והוא אמר לה שתעלה למעלה",
+                    "sentence_id": "3",
+                    "paragraph_index": 38,
+                    "global_sentence_index": 98
+                }
+            ]
+        },
+        {
+            "paragraph_index": 39,
+            "sentences": [
+                {
+                    "sentence": "הגעת המתלוננת לדירה",
+                    "sentence_id": "0",
+                    "paragraph_index": 39,
+                    "global_sentence_index": 99
+                }
+            ]
+        },
+        {
+            "paragraph_index": 40,
+            "sentences": [
+                {
+                    "sentence": "9.\tהמתלוננת העידה כי הגיעה אל דירת הנאשם, וראתה את מפתחות הבית תקועים בחור המנעול, מצידה החיצוני של הדלת",
+                    "sentence_id": "0",
+                    "paragraph_index": 40,
+                    "global_sentence_index": 100
+                },
+                {
+                    "sentence": "הנאשם פתח לה את הדלת, והיא הסבה תשומת לבו לכך שהמפתחות בחוץ",
+                    "sentence_id": "1",
+                    "paragraph_index": 40,
+                    "global_sentence_index": 101
+                },
+                {
+                    "sentence": "הנאשם לקח את המפתחות, סגר את הדלת אחריה, היא שמעה את נעילת הדלת עם המפתח, אך לא שמה לב היכן הוא הניח את המפתח (עמ' 31)",
+                    "sentence_id": "2",
+                    "paragraph_index": 40,
+                    "global_sentence_index": 102
+                }
+            ]
+        },
+        {
+            "paragraph_index": 41,
+            "sentences": [
+                {
+                    "sentence": "10.\tהמתלוננת העידה כי כאשר היא נכנסה לדירה, אנדריי קם, ואמר לה שרק יסיים את הסיגריה, ונשתה עוד כוסית אחרונה, ונלך, כי כבר מאוחר וכולם עייפים",
+                    "sentence_id": "0",
+                    "paragraph_index": 41,
+                    "global_sentence_index": 103
+                },
+                {
+                    "sentence": "אח\"כ הנאשם הציע לה שתיה ואוכל,  והיא סירבה",
+                    "sentence_id": "1",
+                    "paragraph_index": 41,
+                    "global_sentence_index": 104
+                },
+                {
+                    "sentence": "אז הציע ששלשתם יישבו עוד כמה דקות, לעוד סיגריה אחת, ואח\"כ הם ילכו",
+                    "sentence_id": "2",
+                    "paragraph_index": 41,
+                    "global_sentence_index": 105
+                },
+                {
+                    "sentence": "הם התיישבו שלשתם על הספה ודיברו (עמ' 31 – 32)",
+                    "sentence_id": "3",
+                    "paragraph_index": 41,
+                    "global_sentence_index": 106
+                }
+            ]
+        },
+        {
+            "paragraph_index": 42,
+            "sentences": [
+                {
+                    "sentence": "ב\"כ הנאשם מקשה בסיכומיה: אם המתלוננת באה ללוות את אנדריי לביתו, משום שהיה שיכור, ולא יכל להגיע הביתה בכוחות עצמו, למה כשהוא אומר שהוא רוצה לשתות עוד, היא נשארת איתו בדירה",
+                    "sentence_id": "0",
+                    "paragraph_index": 42,
+                    "global_sentence_index": 107
+                },
+                {
+                    "sentence": "ולמה היא מניחה לו, במצבו זה, לשתות עוד",
+                    "sentence_id": "1",
+                    "paragraph_index": 42,
+                    "global_sentence_index": 108
+                }
+            ]
+        },
+        {
+            "paragraph_index": 43,
+            "sentences": [
+                {
+                    "sentence": "אציין כי הן המתלוננת והן אנדריי העידו, שכאשר היא הגיעה לדירה, הוא ביקש לשתות עוד כוסית אחת אחרונה של וודקה (עמ' 13 ש' 6 – 7, עמ' 31 ש' 22 – 24, עמ' 42 ש' 33)",
+                    "sentence_id": "0",
+                    "paragraph_index": 43,
+                    "global_sentence_index": 109
+                },
+                {
+                    "sentence": "ולשאלה מדוע נשארה איתו אם הוא רוצה עוד לשתות – התשובה היא שלא מדובר במצב שאנדריי רצה להישאר, ולהמשיך לשתות",
+                    "sentence_id": "1",
+                    "paragraph_index": 43,
+                    "global_sentence_index": 110
+                },
+                {
+                    "sentence": "הוא רצה רק עוד כוסית אחת אחרונה, שזה ענין של כמה שניות (עמ' 43, ש' 3 – 5) ואין שום סיבה מדוע היא, ידידתו, שבאה לעזור לו, לא תמתין לו לצורך כך",
+                    "sentence_id": "2",
+                    "paragraph_index": 43,
+                    "global_sentence_index": 111
+                },
+                {
+                    "sentence": "ובאשר לשאלה מדוע היא הרשתה לו, במצבו, לשתות עוד כוסית, השיבה המתלוננת:  \"כי אני לא אמא שלו, הוא לא ילד קטן",
+                    "sentence_id": "3",
+                    "paragraph_index": 43,
+                    "global_sentence_index": 112
+                },
+                {
+                    "sentence": "מי אני שאני יאסור עליו לעשות משהו\" (עמ' 43 ש' 12)",
+                    "sentence_id": "4",
+                    "paragraph_index": 43,
+                    "global_sentence_index": 113
+                },
+                {
+                    "sentence": "זהו הסבר סביר והגיוני בעיניי",
+                    "sentence_id": "5",
+                    "paragraph_index": 43,
+                    "global_sentence_index": 114
+                }
+            ]
+        },
+        {
+            "paragraph_index": 44,
+            "sentences": [
+                {
+                    "sentence": "הנאשם מבקש לקיים עמה יחסי מין, והמתלוננת מסרבת",
+                    "sentence_id": "0",
+                    "paragraph_index": 44,
+                    "global_sentence_index": 115
+                }
+            ]
+        },
+        {
+            "paragraph_index": 45,
+            "sentences": [
+                {
+                    "sentence": "11.\tבעודם ישובים על הספה בסלון, הנאשם, לפי עדותה של המתלוננת, התחיל שוב לדבר על יחסי מין, ושהוא רוצה לקיים איתה יחסי מין",
+                    "sentence_id": "0",
+                    "paragraph_index": 45,
+                    "global_sentence_index": 116
+                },
+                {
+                    "sentence": "היא ענתה לו שדבר  כזה לא יכול להיות ולא יהיה, סקס לא יהיה בינינו",
+                    "sentence_id": "1",
+                    "paragraph_index": 45,
+                    "global_sentence_index": 117
+                },
+                {
+                    "sentence": "לפי עדותה, אנדריי \"לקח את הצד שלה\", ואמר לנאשם שהיא רצינית, ואם היא אמרה לא, זאת אומרת לא (עמ' 32)",
+                    "sentence_id": "2",
+                    "paragraph_index": 45,
+                    "global_sentence_index": 118
+                }
+            ]
+        },
+        {
+            "paragraph_index": 46,
+            "sentences": [
+                {
+                    "sentence": "הנאשם מציג את הכלבה כמי שמצייתת לפקודותיו",
+                    "sentence_id": "0",
+                    "paragraph_index": 46,
+                    "global_sentence_index": 119
+                }
+            ]
+        },
+        {
+            "paragraph_index": 47,
+            "sentences": [
+                {
+                    "sentence": "12.\tהמתלוננת העידה כי בשלב זה הנאשם הוציא את הכלבה שלו והתחיל לספר להם עליה, שהיא עושה מה שהוא אומר לה",
+                    "sentence_id": "0",
+                    "paragraph_index": 47,
+                    "global_sentence_index": 120
+                },
+                {
+                    "sentence": "אם הוא אומר \"חבר\", אז הכלבה לא עושה שום דבר",
+                    "sentence_id": "1",
+                    "paragraph_index": 47,
+                    "global_sentence_index": 121
+                },
+                {
+                    "sentence": "אם הוא אומר \"אוייב\", אז הכלבה מתחילה לעשות משהו",
+                    "sentence_id": "2",
+                    "paragraph_index": 47,
+                    "global_sentence_index": 122
+                },
+                {
+                    "sentence": "אח\"כ הנאשם ליפף חולצה על היד, והצביע לכלבה לעבר אנדריי, ואמר \"חבר, בסדר, חבר\", ואז הכלבה לא עשתה כלום",
+                    "sentence_id": "3",
+                    "paragraph_index": 47,
+                    "global_sentence_index": 123
+                },
+                {
+                    "sentence": "אח\"כ הוא אמר \"אוייב\", והכלבה פתחה שיניים, עדין לא עשתה כלום, אך היתה בכוננות (פרו', עמ' 33)",
+                    "sentence_id": "4",
+                    "paragraph_index": 47,
+                    "global_sentence_index": 124
+                }
+            ]
+        },
+        {
+            "paragraph_index": 48,
+            "sentences": [
+                {
+                    "sentence": "הנאשם מאיים על אנדריי עם סכין, ואומר לכלבה לשמור עליו",
+                    "sentence_id": "0",
+                    "paragraph_index": 48,
+                    "global_sentence_index": 125
+                }
+            ]
+        },
+        {
+            "paragraph_index": 49,
+            "sentences": [
+                {
+                    "sentence": "13.\tהמתלוננת העידה כי לפתע ראתה בידיו של הנאשם סכין גדולה לחיתוך בשר, והנאשם הצמיד את הסכין לגרונו של אנדריי ואמר לו \"שב בשקט בספה הזאת\", \"שב ותשתוק\", ולכלבה הוא אמר לשמור על אנדריי",
+                    "sentence_id": "0",
+                    "paragraph_index": 49,
+                    "global_sentence_index": 126
+                },
+                {
+                    "sentence": "בשלב הזה הוא גם נתן לאנדריי מחברת והורה לו לכתוב התחייבות שאין לו טענות כלפיו או כלפי הכלבה (פרו', עמ' 33)",
+                    "sentence_id": "1",
+                    "paragraph_index": 49,
+                    "global_sentence_index": 127
+                }
+            ]
+        },
+        {
+            "paragraph_index": 50,
+            "sentences": [
+                {
+                    "sentence": "אנדריי זכר באופן קצת שונה את סדר ההתרחשויות, אך עדותו, גם בענין זה, אינה שונה מהותית והיא מתיישבת ותומכת בעדותה של המתלוננת",
+                    "sentence_id": "0",
+                    "paragraph_index": 50,
+                    "global_sentence_index": 128
+                },
+                {
+                    "sentence": "לפי עדותו, כשהמתלוננת נכנסה, הוא קם, התלבש, והציע לנאשם לשתות עוד  וודקה",
+                    "sentence_id": "1",
+                    "paragraph_index": 50,
+                    "global_sentence_index": 129
+                },
+                {
+                    "sentence": "כבר בשלב הזה הנאשם הופיע עם סכין גדולה, סכין מטבח של 10 –",
+                    "sentence_id": "2",
+                    "paragraph_index": 50,
+                    "global_sentence_index": 130
+                },
+                {
+                    "sentence": "הנאשם אמר שהוא נעל את הדלת והחביא את המפתחות",
+                    "sentence_id": "3",
+                    "paragraph_index": 50,
+                    "global_sentence_index": 131
+                },
+                {
+                    "sentence": "הוא דחף את אנדריי על הספה והצמיד הסכין לגרונו, ואמר לו שהוא יהרוג אותו עכשיו",
+                    "sentence_id": "4",
+                    "paragraph_index": 50,
+                    "global_sentence_index": 132
+                },
+                {
+                    "sentence": "אחרי זה אמר לכלבה לשמור עליו",
+                    "sentence_id": "5",
+                    "paragraph_index": 50,
+                    "global_sentence_index": 133
+                },
+                {
+                    "sentence": "כמו כן נתן לאנדריי מחברת וביקש שיכתוב שאין לו טענות כלפיו או כלפי הכלבה (פרו' עמ' 13)",
+                    "sentence_id": "6",
+                    "paragraph_index": 50,
+                    "global_sentence_index": 134
+                }
+            ]
+        },
+        {
+            "paragraph_index": 51,
+            "sentences": [
+                {
+                    "sentence": "הנאשם, באיומי סכין, דורש ממנה להוריד חולצתה",
+                    "sentence_id": "0",
+                    "paragraph_index": 51,
+                    "global_sentence_index": 135
+                }
+            ]
+        },
+        {
+            "paragraph_index": 52,
+            "sentences": [
+                {
+                    "sentence": "14.\tבהמשך, לפי עדות המתלוננת, הנאשם הצמיד את הסכין לגרון שלה, ואמר שהוא רוצה לראות את הגוף שלה, יש לה גוף יפה ושדיים יפים, הוא רוצה לנגוע בהם",
+                    "sentence_id": "0",
+                    "paragraph_index": 52,
+                    "global_sentence_index": 136
+                },
+                {
+                    "sentence": "הוא דרש שהיא תוריד את החולצה, כך שיוכל לראות, ואז הם יילכו הביתה",
+                    "sentence_id": "1",
+                    "paragraph_index": 52,
+                    "global_sentence_index": 137
+                },
+                {
+                    "sentence": "היא פחדה מאד",
+                    "sentence_id": "2",
+                    "paragraph_index": 52,
+                    "global_sentence_index": 138
+                },
+                {
+                    "sentence": "היא הבינה שהוא רציני ושהוא לא יעזוב אותם",
+                    "sentence_id": "3",
+                    "paragraph_index": 52,
+                    "global_sentence_index": 139
+                },
+                {
+                    "sentence": "היא אמרה שהיא מוכנה להוריד את החולצה, אך היא תעשה זאת במדרגות",
+                    "sentence_id": "4",
+                    "paragraph_index": 52,
+                    "global_sentence_index": 140
+                },
+                {
+                    "sentence": "היא אמרה זאת כדי שיהיו כבר מחוץ לדירה, ויוכלו לברוח",
+                    "sentence_id": "5",
+                    "paragraph_index": 52,
+                    "global_sentence_index": 141
+                },
+                {
+                    "sentence": "הוא אמר \"אני לא רוצה, את תעשי מה שאני אומר\"",
+                    "sentence_id": "6",
+                    "paragraph_index": 52,
+                    "global_sentence_index": 142
+                },
+                {
+                    "sentence": "היא לא יכלה להימלט, שכן, בצד אחד של הספה ישב אנדריי והכלבה לידו, ובצד השני עמד הנאשם עם הסכין בידו (פרו', עמ' 33)",
+                    "sentence_id": "7",
+                    "paragraph_index": 52,
+                    "global_sentence_index": 143
+                }
+            ]
+        },
+        {
+            "paragraph_index": 53,
+            "sentences": [
+                {
+                    "sentence": "הכלבה תוקפת את אנדריי",
+                    "sentence_id": "0",
+                    "paragraph_index": 53,
+                    "global_sentence_index": 144
+                }
+            ]
+        },
+        {
+            "paragraph_index": 54,
+            "sentences": [
+                {
+                    "sentence": "15.\tהמתלוננת העידה כי בשלב זה אנדריי ניסה להגן עליה, הוא רצה לעשות משהו, הוא נעמד והכלבה קפצה והשמיעה קולות",
+                    "sentence_id": "0",
+                    "paragraph_index": 54,
+                    "global_sentence_index": 145
+                },
+                {
+                    "sentence": "אנדריי ניסה לעשות משהו נגד הכלבה, כדי שהיא לפחות תזוז ותיתן לעבור, אך הכלבה קפצה עליו ושרטה אותו בפנים, קרוב לאוזן, ונזל לו דם בכמות מאד גדולה",
+                    "sentence_id": "1",
+                    "paragraph_index": 54,
+                    "global_sentence_index": 146
+                },
+                {
+                    "sentence": "הכלבה הריחה דם, והיא כמו השתגעה, וניסתה לתפוס אותו עוד פעם, והפעם פצעה אותו ביד וברגל",
+                    "sentence_id": "2",
+                    "paragraph_index": 54,
+                    "global_sentence_index": 147
+                },
+                {
+                    "sentence": "המתלוננת לקחה את אנדריי לחדר האמבטיה, כדי לשטוף את הפצעים, והנאשם לבקשתה הביא סמרטוט עם וודקה כדי לשים לו על הפצעים (עמ' 34)",
+                    "sentence_id": "3",
+                    "paragraph_index": 54,
+                    "global_sentence_index": 148
+                }
+            ]
+        },
+        {
+            "paragraph_index": 55,
+            "sentences": [
+                {
+                    "sentence": "גם אנדריי העיד בענין זה, כי הנאשם דרש מהמתלוננת שהיא תתפשט ואיים עליה עם סכין",
+                    "sentence_id": "0",
+                    "paragraph_index": 55,
+                    "global_sentence_index": 149
+                },
+                {
+                    "sentence": "אנדריי לפי עדותו קם מהספה כדי לעזור למתלוננת, הוא חשב אולי לקחת כיסא ולתת לנאשם על הראש",
+                    "sentence_id": "1",
+                    "paragraph_index": 55,
+                    "global_sentence_index": 150
+                },
+                {
+                    "sentence": "אך כשקם מהספה, הכלבה תקפה אותו, קפצה עליו ונשכה אותו",
+                    "sentence_id": "2",
+                    "paragraph_index": 55,
+                    "global_sentence_index": 151
+                },
+                {
+                    "sentence": "לדבריו, היא תקפה אותו מפני שהנאשם אמר לה לשמור עליו (עמ' 21)",
+                    "sentence_id": "3",
+                    "paragraph_index": 55,
+                    "global_sentence_index": 152
+                },
+                {
+                    "sentence": "הוא ניסה להגן על עצמו ולתת לה מכה באף, אך \"פיספס\", והכלבה נשכה אותו בפנים, ביד, בבטן וברגל (עמ' 13, עמ' 24 – 25)",
+                    "sentence_id": "4",
+                    "paragraph_index": 55,
+                    "global_sentence_index": 153
+                }
+            ]
+        },
+        {
+            "paragraph_index": 56,
+            "sentences": [
+                {
+                    "sentence": "16.\tטוענת ב\"כ הנאשם בסיכומיה, כי ישנה סתירה קוטבית בין עדות המתלוננת לעדותו של אנדריי בשאלה מתי הוא הותקף ע\"י הכלבה, לפני או אחרי שהנאשם הביא סכין",
+                    "sentence_id": "0",
+                    "paragraph_index": 56,
+                    "global_sentence_index": 154
+                }
+            ]
+        },
+        {
+            "paragraph_index": 57,
+            "sentences": [
+                {
+                    "sentence": "אינני מקבל טענה זו",
+                    "sentence_id": "0",
+                    "paragraph_index": 57,
+                    "global_sentence_index": 155
+                },
+                {
+                    "sentence": "מעיון בפרוטוקול עולה כי שניהם העידו כי תחילה הוציא הנאשם סכין ואיים באמצעותה על אנדריי, ואחר כך היה האירוע שבו הכלבה תקפה ונשכה את אנדריי (עדות אנדריי, עמ' 13, ועדות המתלוננת, עמ' 33 – 34, עמ' 49)",
+                    "sentence_id": "1",
+                    "paragraph_index": 57,
+                    "global_sentence_index": 156
+                }
+            ]
+        },
+        {
+            "paragraph_index": 58,
+            "sentences": [
+                {
+                    "sentence": "17.\tועוד מקשה ב\"כ הנאשם: לו בכוונת מכוון רצה הנאשם לפגוע באנדריי באמצעות הכלבה, כדי לאפשר לו לבצע את זממו במתלוננת, ללא \"הפרעה\" מצד אנדריי, מדוע הנאשם עצמו עוזר למתלוננת לטפל באנדריי אחרי פציעתו",
+                    "sentence_id": "0",
+                    "paragraph_index": 58,
+                    "global_sentence_index": 157
+                }
+            ]
+        },
+        {
+            "paragraph_index": 59,
+            "sentences": [
+                {
+                    "sentence": "אינני רואה בכך קושי",
+                    "sentence_id": "0",
+                    "paragraph_index": 59,
+                    "global_sentence_index": 158
+                },
+                {
+                    "sentence": "הכלבה נשכה ושרטה את אנדריי בפנים, ביד, בבטן וברגל",
+                    "sentence_id": "1",
+                    "paragraph_index": 59,
+                    "global_sentence_index": 159
+                },
+                {
+                    "sentence": "בכך השיג הנאשם את מבוקשו, היינו, להטיל אימה על אנדריי ולרתק אותו למקומו, לבל יזוז ולבל יקום לעזור למתלוננת",
+                    "sentence_id": "2",
+                    "paragraph_index": 59,
+                    "global_sentence_index": 160
+                },
+                {
+                    "sentence": "אך ירד לאנדריי דם רב מאד, \"ממש כמו ניאגרה\", \"והדם לא רצה לעצור\" (עמ' 34, ש' 12, ש' 17)",
+                    "sentence_id": "3",
+                    "paragraph_index": 59,
+                    "global_sentence_index": 161
+                },
+                {
+                    "sentence": "\"אני חשבתי אולי שני ליטר יצא משם\" (נ/3 שורה 145)",
+                    "sentence_id": "4",
+                    "paragraph_index": 59,
+                    "global_sentence_index": 162
+                },
+                {
+                    "sentence": "הנאשם לא התכוון להמית את אנדריי, או לגרום לו נזק גופני בלתי הפיך",
+                    "sentence_id": "5",
+                    "paragraph_index": 59,
+                    "global_sentence_index": 163
+                },
+                {
+                    "sentence": "לכן, כשראה את כמויות הדם הגדולות, נעתר לבקשתה של המתלוננת ועזר לה בטיפולה באנדריי",
+                    "sentence_id": "6",
+                    "paragraph_index": 59,
+                    "global_sentence_index": 164
+                },
+                {
+                    "sentence": "ואחרי שחזרו שלשתם מהאמבטיה לסלון, \"התוכנית\" המשיכה, והכלבה, גם בשלב הזה, המשיכה \"לשמור\" על אנדריי לבל יזוז, שאחרת, היא תתקוף אותו שוב, בכל הכח (עמ' 34, ש' 28 – 29, עמ' 50 ש' 13)",
+                    "sentence_id": "7",
+                    "paragraph_index": 59,
+                    "global_sentence_index": 165
+                }
+            ]
+        },
+        {
+            "paragraph_index": 60,
+            "sentences": [
+                {
+                    "sentence": "18.\tיצוין כי הכלבה בה מדובר היא כלבה מסוג \"שארפיי\"",
+                    "sentence_id": "0",
+                    "paragraph_index": 60,
+                    "global_sentence_index": 166
+                },
+                {
+                    "sentence": "השוטר רס\"ל ירוסלב איוושין, שהיה זה שעצר את הנאשם בדירה, תיאר בעדותו כי הכלבה נראית כמו כלבת תקיפה, והוא אף ציין כי הכלבה ניסתה לתקוף גם אותו (עמ' 53, ש' 2, ש' 6)",
+                    "sentence_id": "1",
+                    "paragraph_index": 60,
+                    "global_sentence_index": 167
+                }
+            ]
+        },
+        {
+            "paragraph_index": 61,
+            "sentences": [
+                {
+                    "sentence": "בבדיקה רפואית שעבר אנדריי (ת/9) נמצאו: המטומה וסימני נשיכה ניכרים בירך ימין; סימני נשיכות בלחי ימין; מספר שריטות/נשיכות באמת יד שמאל",
+                    "sentence_id": "0",
+                    "paragraph_index": 61,
+                    "global_sentence_index": 168
+                }
+            ]
+        },
+        {
+            "paragraph_index": 62,
+            "sentences": [
+                {
+                    "sentence": "את הסימנים הללו ניתן לראות בתמונות ת/6.",
+                    "sentence_id": "0",
+                    "paragraph_index": 62,
+                    "global_sentence_index": 169
+                }
+            ]
+        },
+        {
+            "paragraph_index": 63,
+            "sentences": [
+                {
+                    "sentence": "הכלבה ממשיכה \"לשמור\" על אנדריי",
+                    "sentence_id": "0",
+                    "paragraph_index": 63,
+                    "global_sentence_index": 170
+                }
+            ]
+        },
+        {
+            "paragraph_index": 64,
+            "sentences": [
+                {
+                    "sentence": "19.\tהמתלוננת העידה כי כאשר הם חזרו מהאמבטיה לסלון, היא שמה לב שהמפתח איננו בתוך הדלת, והמחשבה (לדבריה) התחילה לעבוד, מה לעשות",
+                    "sentence_id": "0",
+                    "paragraph_index": 64,
+                    "global_sentence_index": 171
+                },
+                {
+                    "sentence": "לא ניתן לברוח מהדירה, כי המפתח לא נמצא",
+                    "sentence_id": "1",
+                    "paragraph_index": 64,
+                    "global_sentence_index": 172
+                },
+                {
+                    "sentence": "הם חזרו לשבת בסלון, אנדריי ישב, ו\"הכלבה היתה על ידו כל כך עצבנית, שאנדריי רק התחיל לזוז, אפילו הוא הזיז אצבע, והכלבה כבר קפצה והתחילה לתת קול, וזה היה פשוט מפחיד מאד\" (עמ' 34)",
+                    "sentence_id": "2",
+                    "paragraph_index": 64,
+                    "global_sentence_index": 173
+                },
+                {
+                    "sentence": "\"ברגע שהוא התחיל לזוז, הכלבה התחילה להתנהג אגרסיבית",
+                    "sentence_id": "3",
+                    "paragraph_index": 64,
+                    "global_sentence_index": 174
+                },
+                {
+                    "sentence": "ככה זה היה נראה, שאם הוא יזוז יותר, אז הכלבה באמת תתקוף אותו בכל הכח\" (עמ' 50)",
+                    "sentence_id": "4",
+                    "paragraph_index": 64,
+                    "global_sentence_index": 175
+                }
+            ]
+        },
+        {
+            "paragraph_index": 65,
+            "sentences": [
+                {
+                    "sentence": "הנאשם, באיומי סכין, דורש ממנה להוריד את החזיה ואת המכנסיים",
+                    "sentence_id": "0",
+                    "paragraph_index": 65,
+                    "global_sentence_index": 176
+                }
+            ]
+        },
+        {
+            "paragraph_index": 66,
+            "sentences": [
+                {
+                    "sentence": "20.\tהמתלוננת העידה כי הנאשם התקרב אליה, עם הסכין ביד, תפס אותה ביד אחת בגרון, ובידו השניה החזיק בסכין, ואמר שאין לו מה לאבד, הוא יחתוך את שניהם לחלקים, וכל חלק בנפרד יזרוק לפח זבל אחר, ולא ימצאו אותם אף פעם, לכן עליהם לעשות מה שהוא אומר (עמ' 34)",
+                    "sentence_id": "0",
+                    "paragraph_index": 66,
+                    "global_sentence_index": 177
+                },
+                {
+                    "sentence": "הוא החזיק הסכין מתחת לכתפיה של החזיה, ואמר לה שאם היא לא מורידה את החזיה, הוא יחתוך בסכין",
+                    "sentence_id": "1",
+                    "paragraph_index": 66,
+                    "global_sentence_index": 178
+                },
+                {
+                    "sentence": "היא פחדה מכיון שהסכין היתה על הגוף שלה, והורידה את החזיה",
+                    "sentence_id": "2",
+                    "paragraph_index": 66,
+                    "global_sentence_index": 179
+                },
+                {
+                    "sentence": "לדבריה, בשלב הזה היא כבר היתה בהיסטריה, לא הצליחה להחזיק את עצמה להישאר רגועה (עמ' 35)",
+                    "sentence_id": "3",
+                    "paragraph_index": 66,
+                    "global_sentence_index": 180
+                }
+            ]
+        },
+        {
+            "paragraph_index": 67,
+            "sentences": [
+                {
+                    "sentence": "21.\tבהמשך, לפי עדותה, הנאשם הצמיד את החלק החד של הסכין לבטן שלה, ודרש כי תוריד את מכנסיה, או שהוא יחתוך אותם",
+                    "sentence_id": "0",
+                    "paragraph_index": 67,
+                    "global_sentence_index": 181
+                },
+                {
+                    "sentence": "\"הוא היה שם את זה, והפנים שלו התקרבו אלי, ואני ראיתי שהוא לא יכול לשלוט על עצמו, הוא כבר עצבני יותר מדי, ובצדדים של הפה יש לו קצף לבן מעצבים\" (עמ' 35), והיא הורידה את המכנסיים",
+                    "sentence_id": "1",
+                    "paragraph_index": 67,
+                    "global_sentence_index": 182
+                }
+            ]
+        },
+        {
+            "paragraph_index": 68,
+            "sentences": [
+                {
+                    "sentence": "22.\tבמשך הזמן הזה, אנדריי ישב על הספה, תחת שמירתה של הכלבה",
+                    "sentence_id": "0",
+                    "paragraph_index": 68,
+                    "global_sentence_index": 183
+                },
+                {
+                    "sentence": "הוא העיד כי הבין שאינו יכול לשלוט על הכלבה, ונשאר לשבת",
+                    "sentence_id": "1",
+                    "paragraph_index": 68,
+                    "global_sentence_index": 184
+                },
+                {
+                    "sentence": "הנאשם, לפי עדות אנדריי, המשיך לאיים על המתלוננת ולדרוש שהיא תתפשט",
+                    "sentence_id": "2",
+                    "paragraph_index": 68,
+                    "global_sentence_index": 185
+                },
+                {
+                    "sentence": "הוא כל הזמן אמר לה להתפשט, והיא צעקה",
+                    "sentence_id": "3",
+                    "paragraph_index": 68,
+                    "global_sentence_index": 186
+                },
+                {
+                    "sentence": "אנדריי העיד כי הוא עצם עיניים כדי לא לראות את זה",
+                    "sentence_id": "4",
+                    "paragraph_index": 68,
+                    "global_sentence_index": 187
+                },
+                {
+                    "sentence": "כשפתח את עיניו, היא היתה רק בתחתונים (עמ' 14)",
+                    "sentence_id": "5",
+                    "paragraph_index": 68,
+                    "global_sentence_index": 188
+                }
+            ]
+        },
+        {
+            "paragraph_index": 69,
+            "sentences": [
+                {
+                    "sentence": "דקירה קלה ביותר בסכין, בגבה של המתלוננת",
+                    "sentence_id": "0",
+                    "paragraph_index": 69,
+                    "global_sentence_index": 189
+                }
+            ]
+        },
+        {
+            "paragraph_index": 70,
+            "sentences": [
+                {
+                    "sentence": "23.\tבשלב הזה, כשהמתלוננת בתחתוניה בלבד, היא העידה במשטרה כי הנאשם התחיל לדקור אותה עם הסכין בגב",
+                    "sentence_id": "0",
+                    "paragraph_index": 70,
+                    "global_sentence_index": 190
+                },
+                {
+                    "sentence": "היא ישבה על הספה, והתכופפה כדי לנסות להסתיר את החזה שלה, ולכן הוא דקר אותה בגב, כנראה כדי שהיא תתיישר, והוא יוכל לראות (נ/3, ש' 206 – 214)",
+                    "sentence_id": "1",
+                    "paragraph_index": 70,
+                    "global_sentence_index": 191
+                },
+                {
+                    "sentence": "ב\"כ הנאשם תמהה בסיכומיה על כך, שבחקירתה הראשית לא הזכירה המתלוננת כלל את ענין הדקירות בגב (פרו' עמ' 35)",
+                    "sentence_id": "2",
+                    "paragraph_index": 70,
+                    "global_sentence_index": 192
+                },
+                {
+                    "sentence": "המתלוננת השיבה על כך בחקירתה הנגדית, כי שכחה לציין זאת, \"בראש היה לי להגיד את זה, חשבתי שאמרתי, ולא אמרתי\" (עמ' 40)",
+                    "sentence_id": "3",
+                    "paragraph_index": 70,
+                    "global_sentence_index": 193
+                },
+                {
+                    "sentence": "ההסבר שניתן לתת לשיכחה זו הוא, שהדקירות בגב היו מינוריות ביותר, \"אני לא הרגשתי שום דקירות",
+                    "sentence_id": "4",
+                    "paragraph_index": 70,
+                    "global_sentence_index": 194
+                },
+                {
+                    "sentence": "זה היה משהו מאד קטן",
+                    "sentence_id": "5",
+                    "paragraph_index": 70,
+                    "global_sentence_index": 195
+                },
+                {
+                    "sentence": "הוא הצמיד את הסכין לגב והזיז אותו בלחץ מאד קל",
+                    "sentence_id": "6",
+                    "paragraph_index": 70,
+                    "global_sentence_index": 196
+                },
+                {
+                    "sentence": "הוא חתך אותי, אני לא הרגשתי את זה\" (עמ' 39, ש' 25 – 33)",
+                    "sentence_id": "7",
+                    "paragraph_index": 70,
+                    "global_sentence_index": 197
+                },
+                {
+                    "sentence": "וראה תמונותיה של המתלוננת, ת/7, מהן ניתן להיווכח עד כמה הפגיעה קטנה ולא משמעותית, וניתן להבין מדוע שכחה להזכיר זאת בחקירתה הראשית",
+                    "sentence_id": "8",
+                    "paragraph_index": 70,
+                    "global_sentence_index": 198
+                }
+            ]
+        },
+        {
+            "paragraph_index": 71,
+            "sentences": [
+                {
+                    "sentence": "הנאשם, באיומי סכין, מפשיט אותה מתחתוניה",
+                    "sentence_id": "0",
+                    "paragraph_index": 71,
+                    "global_sentence_index": 199
+                }
+            ]
+        },
+        {
+            "paragraph_index": 72,
+            "sentences": [
+                {
+                    "sentence": "24.\tכאמור, על פי עדות המתלוננת, בשלב זה היא היתה בתחתוניה בלבד",
+                    "sentence_id": "0",
+                    "paragraph_index": 72,
+                    "global_sentence_index": 200
+                },
+                {
+                    "sentence": "הנאשם קצת משך את תחתוניה, והצמיד את הסכין באופן שהסכין נצמדה לגוף והחלק החד של הסכין היה בכיוון של התחתונים",
+                    "sentence_id": "1",
+                    "paragraph_index": 72,
+                    "global_sentence_index": 201
+                },
+                {
+                    "sentence": "הוא דרש כי תוריד את תחתוניה, או שהוא יחתוך אותם",
+                    "sentence_id": "2",
+                    "paragraph_index": 72,
+                    "global_sentence_index": 202
+                },
+                {
+                    "sentence": "היא התחילה לבכות, והתחתונים נפלו, היא אינה יודעת איך, אולי היא זזה, אולי משהו עם הגומי (עמ' 35)",
+                    "sentence_id": "3",
+                    "paragraph_index": 72,
+                    "global_sentence_index": 203
+                },
+                {
+                    "sentence": "היא נשאלה בחקירתה הנגדית מדוע  היא אומרת שהתחתונים \"נפלו\" ממנה, ולא כפי שאמרה במשטרה, שהיא הורידה אותם",
+                    "sentence_id": "4",
+                    "paragraph_index": 72,
+                    "global_sentence_index": 204
+                },
+                {
+                    "sentence": "מתשובתה לשאלה זו עולה, שהיא בשלב הזה היתה כבר בהיסטריה מוחלטת, ולכן לא שמה לב",
+                    "sentence_id": "5",
+                    "paragraph_index": 72,
+                    "global_sentence_index": 205
+                },
+                {
+                    "sentence": "לדבריה, הנאשם משך את הגומי של התחתונים, והתחתונים הם כאלה שניתן למשוך את הגומי, והם יכולים ליפול",
+                    "sentence_id": "6",
+                    "paragraph_index": 72,
+                    "global_sentence_index": 206
+                },
+                {
+                    "sentence": "\"אולי בגלל שהוא משך אותם, הם נפלו\" (עמ' 49)",
+                    "sentence_id": "7",
+                    "paragraph_index": 72,
+                    "global_sentence_index": 207
+                },
+                {
+                    "sentence": "אעיר כי בהודעתה במשטרה היא לא אמרה שהיא הורידה אותם",
+                    "sentence_id": "8",
+                    "paragraph_index": 72,
+                    "global_sentence_index": 208
+                },
+                {
+                    "sentence": "בהודעתה המלאה והמפורטת ביותר, מיום 7/6/10, היא העידה שהנאשם הוא זה שהתחיל להוריד לה את התחתונים, והתחתונים נפלו על הריצפה (נ/3 שורות 215 – 216)",
+                    "sentence_id": "9",
+                    "paragraph_index": 72,
+                    "global_sentence_index": 209
+                }
+            ]
+        },
+        {
+            "paragraph_index": 73,
+            "sentences": [
+                {
+                    "sentence": "מעשה הבעילה",
+                    "sentence_id": "0",
+                    "paragraph_index": 73,
+                    "global_sentence_index": 210
+                }
+            ]
+        },
+        {
+            "paragraph_index": 74,
+            "sentences": [
+                {
+                    "sentence": "25.\tלאחר שהמתלוננת הופשטה אף מתחתוניה, היא אמרה (לפי עדותה) שהיא רוצה לעשן סיגריה",
+                    "sentence_id": "0",
+                    "paragraph_index": 74,
+                    "global_sentence_index": 211
+                },
+                {
+                    "sentence": "היא אמרה זאת, לדבריה, כדי למשוך זמן, אולי בדקות האלה הוא יירגע",
+                    "sentence_id": "1",
+                    "paragraph_index": 74,
+                    "global_sentence_index": 212
+                },
+                {
+                    "sentence": "היא הדליקה סיגריה והתחילה לעשן",
+                    "sentence_id": "2",
+                    "paragraph_index": 74,
+                    "global_sentence_index": 213
+                },
+                {
+                    "sentence": "בשלב זה הנאשם תפס אותה בירכיה והפיל אותה על עצמו",
+                    "sentence_id": "3",
+                    "paragraph_index": 74,
+                    "global_sentence_index": 214
+                },
+                {
+                    "sentence": "הוא הפשיל את מכנסיו ותחתוניו עד מתחת לברכיים (עמ' 35) ואיבר מינו היה זקור",
+                    "sentence_id": "4",
+                    "paragraph_index": 74,
+                    "global_sentence_index": 215
+                },
+                {
+                    "sentence": "הוא הורה לה לפסק את רגליה, והיא, לדבריה, עשתה מעצמה כאילו מטומטמת, ולא יודעת איך ומה לעשות, \"אבל בכל מקרה הוא יותר חזק ממני, הוא הזיז רגליים גם שלו וגם שלי כמה שהוא צריך, והחזיק אותי והושיב אותי",
+                    "sentence_id": "5",
+                    "paragraph_index": 74,
+                    "global_sentence_index": 216
+                },
+                {
+                    "sentence": "קודם הייתי עם הגב לכיוון דימה, ואח\"כ אני הסתובבתי אליו מן הצד",
+                    "sentence_id": "6",
+                    "paragraph_index": 74,
+                    "global_sentence_index": 217
+                },
+                {
+                    "sentence": "כשהוא התחיל לאנוס אותי, בכיתי אליו שכואב לי, שאני לא רוצה את זה, שישחרר אותי",
+                    "sentence_id": "7",
+                    "paragraph_index": 74,
+                    "global_sentence_index": 218
+                },
+                {
+                    "sentence": "בשלב הזה הוא היה כבר בתוכי, הוא היה מנסה והתחיל וכשאמרתי לו שכואב לי, החזקתי את כל השרירים שלי כדי שהוא לא ייכנס, שלא יכניס אותו כמה שהוא רוצה\" (עמ' 36)",
+                    "sentence_id": "8",
+                    "paragraph_index": 74,
+                    "global_sentence_index": 219
+                }
+            ]
+        },
+        {
+            "paragraph_index": 75,
+            "sentences": [
+                {
+                    "sentence": "26.\tהמתלוננת העידה שבשלב זה, תפיסת ידיו של הנאשם נחלשה קצת, והיא קמה, הוא תפס אותה עוד פעם, וניסה עוד פעם לאנוס אותה",
+                    "sentence_id": "0",
+                    "paragraph_index": 75,
+                    "global_sentence_index": 220
+                },
+                {
+                    "sentence": "\"החזקתי את הספה בידיים שלי והוא התחיל  והכניס עוד הפעם ואני עוד פעם ניסיתי לא לתת לו",
+                    "sentence_id": "1",
+                    "paragraph_index": 75,
+                    "global_sentence_index": 221
+                },
+                {
+                    "sentence": "הוא נכנס קצת, אבל להכניס כמה שהוא רוצה ניסיתי לא לתת לו, עד כמה שיכולתי, אני החזקתי רגליים ושרירים שהוא לא יעשה את זה בסוף, והייתי ממשיכה לבכות בהיסטריה כזאת\" (עמ' 36)",
+                    "sentence_id": "2",
+                    "paragraph_index": 75,
+                    "global_sentence_index": 222
+                }
+            ]
+        },
+        {
+            "paragraph_index": 76,
+            "sentences": [
+                {
+                    "sentence": "אנדריי העיד שהוא ראה את הנאשם כשהוא שוכב על גבו על הספה, מכנסיו ותחתוניו מופשלים למטה, והוא הורה לה לשבת עליו, עם הפנים אליו",
+                    "sentence_id": "0",
+                    "paragraph_index": 76,
+                    "global_sentence_index": 223
+                },
+                {
+                    "sentence": "אנדריי עצם את עיניו וכשפתח אותן ראה את המתלוננת יושבת על איבר המין של הנאשם עם הפנים לנאשם, ומקיימים יחסי מין",
+                    "sentence_id": "1",
+                    "paragraph_index": 76,
+                    "global_sentence_index": 224
+                },
+                {
+                    "sentence": "המתלוננת, לפי עדותו, צעקה כל הזמן \"אנדריי תעשה משהו, תעזור לי\", וביקשה מהנאשם שישחרר אותה",
+                    "sentence_id": "2",
+                    "paragraph_index": 76,
+                    "global_sentence_index": 225
+                },
+                {
+                    "sentence": "אח\"כ הנאשם הורה לה להסתובב עם הגב אליו, היא עשתה כן, והוא המשיך ביחסי המין (עמ' 14)",
+                    "sentence_id": "3",
+                    "paragraph_index": 76,
+                    "global_sentence_index": 226
+                },
+                {
+                    "sentence": "בעימות שנערך בין אנדריי לבין הנאשם במשטרה, ביום 7/6/10, אישר אנדריי מפורשות כי הוא ראה שהנאשם החדיר את איבר מינו לתוך איבר מינה של המתלוננת (ת/4, ש' 61)",
+                    "sentence_id": "4",
+                    "paragraph_index": 76,
+                    "global_sentence_index": 227
+                }
+            ]
+        },
+        {
+            "paragraph_index": 77,
+            "sentences": [
+                {
+                    "sentence": "הנאשם דורש הבטחה שהמתלוננת לא תפנה למשטרה",
+                    "sentence_id": "0",
+                    "paragraph_index": 77,
+                    "global_sentence_index": 228
+                }
+            ]
+        },
+        {
+            "paragraph_index": 78,
+            "sentences": [
+                {
+                    "sentence": "27.\tהמתלוננת העידה כי בסופו של דבר הנאשם לא הצליח להחדיר איבר מינו עד הסוף, הוא עזב אותה, הוא אמר שהוא עייף, ולקח את ידה של המתלוננת, שם אותה על איבר מינו, ואמר לה שהיא תאונן לו",
+                    "sentence_id": "0",
+                    "paragraph_index": 78,
+                    "global_sentence_index": 229
+                },
+                {
+                    "sentence": "היא השיבה שהיא לא יודעת לעשות זאת והיא רק רוצה הביתה ולצאת מכאן",
+                    "sentence_id": "1",
+                    "paragraph_index": 78,
+                    "global_sentence_index": 230
+                },
+                {
+                    "sentence": "הוא אמר שהוא לא ייתן להם לצאת בכלל כי הם בוודאי יילכו מיד למשטרה (עמ' 36)",
+                    "sentence_id": "2",
+                    "paragraph_index": 78,
+                    "global_sentence_index": 231
+                },
+                {
+                    "sentence": "הוא דרש ממנה להישבע שהיא לא תלך למשטרה ולא תספר על מה שקרה בדירה",
+                    "sentence_id": "3",
+                    "paragraph_index": 78,
+                    "global_sentence_index": 232
+                },
+                {
+                    "sentence": "היא היתה מוכנה להבטיח כל דבר, ובלבד לצאת משם",
+                    "sentence_id": "4",
+                    "paragraph_index": 78,
+                    "global_sentence_index": 233
+                },
+                {
+                    "sentence": "הוא רצה להשביע אותה בילדיה או באמא שלה, אך היא ענתה לו שאין לה אמא, ואין לה ילדים",
+                    "sentence_id": "5",
+                    "paragraph_index": 78,
+                    "global_sentence_index": 234
+                },
+                {
+                    "sentence": "בהודעתה במשטרה אמרה המתלוננת שהוא גם רצה שהיא תישבע באלוקים, אך השיבה לו שאינה מאמינה באלוקים (נ/1, שורה 58)",
+                    "sentence_id": "6",
+                    "paragraph_index": 78,
+                    "global_sentence_index": 235
+                },
+                {
+                    "sentence": "אח\"כ הוא דרש שהיא תכתוב התחייבות, עם שם ומס' ת",
+                    "sentence_id": "7",
+                    "paragraph_index": 78,
+                    "global_sentence_index": 236
+                },
+                {
+                    "sentence": "ז",
+                    "sentence_id": "8",
+                    "paragraph_index": 78,
+                    "global_sentence_index": 237
+                },
+                {
+                    "sentence": "שלה, שהיא לא תלך למשטרה, אך היא השיבה שהיא לא זוכרת את מספר תעודת הזהות שלה",
+                    "sentence_id": "9",
+                    "paragraph_index": 78,
+                    "global_sentence_index": 238
+                },
+                {
+                    "sentence": "אז הנאשם אמר בסדר, הוא יקליט את ההתחייבות שלה במכשיר הקלטה",
+                    "sentence_id": "10",
+                    "paragraph_index": 78,
+                    "global_sentence_index": 239
+                },
+                {
+                    "sentence": "היא אמרה שהיא תעשה מה שהוא דורש, אבל קודם שיחזיר את הסכין למקומה במטבח, ויוציא את הכלבה",
+                    "sentence_id": "11",
+                    "paragraph_index": 78,
+                    "global_sentence_index": 240
+                }
+            ]
+        },
+        {
+            "paragraph_index": 79,
+            "sentences": [
+                {
+                    "sentence": "הנאשם מאפשר להם לצאת מהדירה",
+                    "sentence_id": "0",
+                    "paragraph_index": 79,
+                    "global_sentence_index": 241
+                }
+            ]
+        },
+        {
+            "paragraph_index": 80,
+            "sentences": [
+                {
+                    "sentence": "28.\tבשלב הזה, לפי עדותה, האגרסיה שלו כבר התחילה לרדת, אבל הוא עדיין עמד עם הסכין, צחק, והמתלוננת פחדה שהוא שוב יתחיל לאיים,  ויצמיד את הסכין לגרונה",
+                    "sentence_id": "0",
+                    "paragraph_index": 80,
+                    "global_sentence_index": 242
+                },
+                {
+                    "sentence": "היא דיברה ושיכנעה אותו להחזיר הסכין למקומה, זה לקח זמן עד שהוא השתכנע, ולבסוף, שם את הסכין במקומה (במטבח)",
+                    "sentence_id": "1",
+                    "paragraph_index": 80,
+                    "global_sentence_index": 243
+                },
+                {
+                    "sentence": "בשלב זה היא ביקשה שיסגור את הכלבה בחדר שלה, כי היא מפחדת לחזור לסלון",
+                    "sentence_id": "2",
+                    "paragraph_index": 80,
+                    "global_sentence_index": 244
+                },
+                {
+                    "sentence": "הנאשם הסכים, והחזיר את הכלבה לחדרה",
+                    "sentence_id": "3",
+                    "paragraph_index": 80,
+                    "global_sentence_index": 245
+                },
+                {
+                    "sentence": "היא שאלה אותו אם אפשר להתלבש, הוא אמר שכן, והיא התלבשה תוך שניות",
+                    "sentence_id": "4",
+                    "paragraph_index": 80,
+                    "global_sentence_index": 246
+                },
+                {
+                    "sentence": "הוא שאל אותה כמה פעמים אם הם לא יילכו לשום מקום להתלונן, והיא הבטיחה לו שלא תתלונן, רק תלך ישר הביתה לישון",
+                    "sentence_id": "5",
+                    "paragraph_index": 80,
+                    "global_sentence_index": 247
+                },
+                {
+                    "sentence": "הוא נפל בתוך הכורסה שלו, אמר שאין לו כח והוא רוצה לישון",
+                    "sentence_id": "6",
+                    "paragraph_index": 80,
+                    "global_sentence_index": 248
+                },
+                {
+                    "sentence": "היא ביקשה ממנו את המפתחות, הוא חיפש ומצא אותם בכיס מכנסיו, נתן לה את המפתח, היא פתחה את הדלת, \"ואנחנו עם אנדריי כמו זבובים ברחנו מהדירה\"",
+                    "sentence_id": "7",
+                    "paragraph_index": 80,
+                    "global_sentence_index": 249
+                },
+                {
+                    "sentence": "לפי עדותה היא היתה בהיסטריה, היא רעדה ולא יכלה לעצור את עצמה מלבכות (עמ' 37 – 38)",
+                    "sentence_id": "8",
+                    "paragraph_index": 80,
+                    "global_sentence_index": 250
+                }
+            ]
+        },
+        {
+            "paragraph_index": 81,
+            "sentences": [
+                {
+                    "sentence": "טענה כי התנהגות המתלוננת בלתי הגיונית, ופוגעת במהימנותה",
+                    "sentence_id": "0",
+                    "paragraph_index": 81,
+                    "global_sentence_index": 251
+                }
+            ]
+        },
+        {
+            "paragraph_index": 82,
+            "sentences": [
+                {
+                    "sentence": "29.\tשואלת ב\"כ הנאשם בסיכומיה כיצד ייתכן הדבר שהמתלוננת נדרשה ע\"י הנאשם רק לרשום התחייבות עם מס' ת",
+                    "sentence_id": "0",
+                    "paragraph_index": 82,
+                    "global_sentence_index": 252
+                },
+                {
+                    "sentence": "ז",
+                    "sentence_id": "1",
+                    "paragraph_index": 82,
+                    "global_sentence_index": 253
+                },
+                {
+                    "sentence": "שלה, ותשובתה היא, שאיננה זוכרת את מספר ת",
+                    "sentence_id": "2",
+                    "paragraph_index": 82,
+                    "global_sentence_index": 254
+                },
+                {
+                    "sentence": "ז",
+                    "sentence_id": "3",
+                    "paragraph_index": 82,
+                    "global_sentence_index": 255
+                },
+                {
+                    "sentence": "שלה",
+                    "sentence_id": "4",
+                    "paragraph_index": 82,
+                    "global_sentence_index": 256
+                },
+                {
+                    "sentence": "וכי מה מנע ממנה לרשום סתם מספר כלשהו, והתחייבות כלשהי, ובכך לקבל את חרותה",
+                    "sentence_id": "5",
+                    "paragraph_index": 82,
+                    "global_sentence_index": 257
+                },
+                {
+                    "sentence": "כיוצא בזה, כאשר דרש ממנה להישבע באלוקים, תשובתה היא, כי אינה מאמינה באלוקים",
+                    "sentence_id": "6",
+                    "paragraph_index": 82,
+                    "global_sentence_index": 258
+                },
+                {
+                    "sentence": "וכי זה הזמן לשיחות על אמונה",
+                    "sentence_id": "7",
+                    "paragraph_index": 82,
+                    "global_sentence_index": 259
+                },
+                {
+                    "sentence": "מה מנע ממנה – כפי שהיה עושה כל אדם סביר – להישבע בכל אשר יחפוץ, ובלבד – שישחרר אותה",
+                    "sentence_id": "8",
+                    "paragraph_index": 82,
+                    "global_sentence_index": 260
+                }
+            ]
+        },
+        {
+            "paragraph_index": 83,
+            "sentences": [
+                {
+                    "sentence": "המתלוננת נשאלה שאלות אלו בחקירתה הנגדית",
+                    "sentence_id": "0",
+                    "paragraph_index": 83,
+                    "global_sentence_index": 261
+                },
+                {
+                    "sentence": "בענין תעודת הזהות הסבירה, כי לא עשתה זאת משום שלא היה לה הביטחון שהנאשם באמת יתן להם ללכת (עמ' 48)",
+                    "sentence_id": "1",
+                    "paragraph_index": 83,
+                    "global_sentence_index": 262
+                },
+                {
+                    "sentence": "ובענין שבועה באלוקים, תשובתה בח\"נ היא, שהנאשם מעולם לא העלה זאת",
+                    "sentence_id": "2",
+                    "paragraph_index": 83,
+                    "global_sentence_index": 263
+                },
+                {
+                    "sentence": "הוא רק ביקש שהיא תישבע באמה או בילדיה (עמ' 45)",
+                    "sentence_id": "3",
+                    "paragraph_index": 83,
+                    "global_sentence_index": 264
+                },
+                {
+                    "sentence": "בתשובתה זו ככל הנראה אין היא מדייקת, שהרי השוטרת רשמה מפיה מלה במלה את אשר אמרה, והיא אמרה שדרש ממנה להישבע באלוקים, והיא השיבה לו שאינה מאמינה (נ/1 שורה 58)",
+                    "sentence_id": "4",
+                    "paragraph_index": 83,
+                    "global_sentence_index": 265
+                }
+            ]
+        },
+        {
+            "paragraph_index": 84,
+            "sentences": [
+                {
+                    "sentence": "אכן, ייתכן מאד שבמבט לאחור ומהצד ניתן לומר כי התנהגותה זו היתה \"בלתי הגיונית\"",
+                    "sentence_id": "0",
+                    "paragraph_index": 84,
+                    "global_sentence_index": 266
+                },
+                {
+                    "sentence": "אך אני מקבל את טענת ב\"כ המאשימה כי אין מקום לשפוט את הלך מחשבתה אז, לאחר האונס האכזרי שעברה, וכשהיא עדיין מצויה בחשש אמיתי לחייה",
+                    "sentence_id": "1",
+                    "paragraph_index": 84,
+                    "global_sentence_index": 267
+                },
+                {
+                    "sentence": "נזכור כי אנדריי היה שיכור ועייף, מאוים ע\"י הנאשם, האוחז בסכין, פצוע ושותת דם בעקבות תקיפת הכלבה, מפוחד פחד מוות (\"אני חשבתי שאני לא אצא משם יותר\", עמ' 14 ש' 12)",
+                    "sentence_id": "2",
+                    "paragraph_index": 84,
+                    "global_sentence_index": 268
+                },
+                {
+                    "sentence": "בו בזמן, המתלוננת מאויימת אף היא בסכינו של הנאשם (\"תפס אותי ביד אחת בגרון וביד שניה מחזיק את הסכין (מדגימה), והוא לא בשקט, אבל בלחץ התחיל לדבר שאין לו מה לאבד פה, אין לו מה לעשות, הוא חותך את שנינו לחלקים וכל חלק בנפרד זורק לפח זבל אחר, ולא ימצאו אותנו אף אחד אף פעם\" (עמ' 34))",
+                    "sentence_id": "3",
+                    "paragraph_index": 84,
+                    "global_sentence_index": 269
+                },
+                {
+                    "sentence": "הנאשם שב ומניח את הסכין על גופה, והיא עירומה, מושפלת, נאנסת בנוכחותו של הידיד שלה, אנדריי, צועקת לעזרתו, אך מבינה כי הוא אינו יכול לסייע לה, וכן שהדירה נעולה, ולא ניתן להימלט",
+                    "sentence_id": "4",
+                    "paragraph_index": 84,
+                    "global_sentence_index": 270
+                },
+                {
+                    "sentence": "בסיטואציה נוראה זו, היא הבינה כי לא תוכל להיחלץ מידיו של הנאשם, אלא אם היא תעשה כל שניתן כדי להרגיע אותו, לדבר על לבו, ולהימלט",
+                    "sentence_id": "5",
+                    "paragraph_index": 84,
+                    "global_sentence_index": 271
+                },
+                {
+                    "sentence": "ייתכן שסברה שדווקא התנהלותה זו היא שתביא לשחרורם, ועובדה היא, שכך אכן היה, בסופו של דבר, והדיבורים שלה עם הנאשם (פרו', עמ' 37 – 38), לאחר שלא הצליח להגיע לסיפוקו  והתעייף,  שכנעוהו בסופו של דבר להחזיר הסכין למקומה, להחזיר הכלבה לחדרה, לתת למתלוננת את המפתח, וכך הם נמלטו מהדירה כל עוד נפשם בם, ובטרם יפגע בהם עוד יותר מכפי שכבר פגע",
+                    "sentence_id": "6",
+                    "paragraph_index": 84,
+                    "global_sentence_index": 272
+                },
+                {
+                    "sentence": "כאשר אנו מנסים לתאר לעצמנו את הסיטואציה בעת התרחשותה, עם כל הלחץ, ההיסטריה, סכנת החיים, וחוסר היכולת לצאת, ולא לשפוט את התנהגותה של המתלוננת היום, באולם הממוזג, בחכמה שלאחר מעשה, דעתי היא כי אין לראות את סירובה לכתוב התחייבות עם מספר תעודת זהות, או סירובה להישבע באלוקים, כהתנהגות \"בלתי הגיונית\" או שיש בה כדי לפגוע פגיעה כלשהי במהימנותה",
+                    "sentence_id": "7",
+                    "paragraph_index": 84,
+                    "global_sentence_index": 273
+                }
+            ]
+        },
+        {
+            "paragraph_index": 85,
+            "sentences": [
+                {
+                    "sentence": "טענת הנאשם כי מדובר בקנוניה, כדי להוציא ממנו כספי פיצויים",
+                    "sentence_id": "0",
+                    "paragraph_index": 85,
+                    "global_sentence_index": 274
+                }
+            ]
+        },
+        {
+            "paragraph_index": 86,
+            "sentences": [
+                {
+                    "sentence": "30.\tמצד הנאשם הועלתה טענה כי מדובר בעלילה אותה רקמו נגדו המתלוננת ואנדריי בכדי לסחוט ממנו כספי פיצויים שהוא אמור לקבל בעקבות תאונת עבודה שעבר לדבריו בשנת 2001.",
+                    "sentence_id": "0",
+                    "paragraph_index": 86,
+                    "global_sentence_index": 275
+                }
+            ]
+        },
+        {
+            "paragraph_index": 87,
+            "sentences": [
+                {
+                    "sentence": "טענה זו יש לדחות מכל וכל",
+                    "sentence_id": "0",
+                    "paragraph_index": 87,
+                    "global_sentence_index": 276
+                }
+            ]
+        },
+        {
+            "paragraph_index": 88,
+            "sentences": [
+                {
+                    "sentence": "ראשית, לא הוצג בפני בית המשפט כל מסמך המלמד כי הנאשם אכן עבר תאונת עבודה כלשהי, או כי הגיש תביעת פיצויים בקשר לאותה תאונה נטענת,   או כי הוא   עתיד לקבל פיצויים",
+                    "sentence_id": "0",
+                    "paragraph_index": 88,
+                    "global_sentence_index": 277
+                },
+                {
+                    "sentence": "לו היו מסמכים כאמור ברשות הנאשם, אין ספק שהוא היה מגיש אותם כראיה, על מנת לתמוך ולחזק טענתו בענין זה",
+                    "sentence_id": "1",
+                    "paragraph_index": 88,
+                    "global_sentence_index": 278
+                }
+            ]
+        },
+        {
+            "paragraph_index": 89,
+            "sentences": [
+                {
+                    "sentence": "שנית, כל הסיפור שסיפר הנאשם אודות אותה תאונה משנת 2001, והפיצוי המגיע בגינה, לרבות הטענה כי הוא סיפר על כך לאנדריי (עמ' 59), ולרבות הטענה כי שמע את המתלוננת אומרת לאנדריי שניתן להוציא ממנו (הנאשם) כספים (עמ' 59), כל אלה הם בבחינת עדות כבושה ולא עקבית, שאין לה זכר באמרותיו של הנאשם במשטרה",
+                    "sentence_id": "0",
+                    "paragraph_index": 89,
+                    "global_sentence_index": 279
+                }
+            ]
+        },
+        {
+            "paragraph_index": 90,
+            "sentences": [
+                {
+                    "sentence": "בחקירותיו במשטרה מסר הנאשם הסבר שונה כאשר נשאל מדוע שהמתלוננת ואנדריי יעלילו עליו עלילת שווא (כטענתו)",
+                    "sentence_id": "0",
+                    "paragraph_index": 90,
+                    "global_sentence_index": 280
+                },
+                {
+                    "sentence": "ההסבר הוא, שהם כפי הנראה מקנאים בו, שיש לו משפחה טובה, ולהם אין כלום (ת/15, ש' 67, ת/16, ש' 51, ת/5 ש' 55)",
+                    "sentence_id": "1",
+                    "paragraph_index": 90,
+                    "global_sentence_index": 281
+                }
+            ]
+        },
+        {
+            "paragraph_index": 91,
+            "sentences": [
+                {
+                    "sentence": "רק בעימות ת/5 העלה הנאשם לראשונה את האפשרות שהם רוצים כסף (ת/5, ש' 154), אך מיד התברר, שזו טענה מופרכת, מכיון שאין לו כסף, וכאשר הוטח בפניו שאין לו כסף, \"איזה כסף הם יכולים לרצות",
+                    "sentence_id": "0",
+                    "paragraph_index": 91,
+                    "global_sentence_index": 282
+                },
+                {
+                    "sentence": "\",  הוא אינו מזכיר כלל את עניין התאונה והפיצוי הנטען, אלא משיב: \"לא יודע\"",
+                    "sentence_id": "1",
+                    "paragraph_index": 91,
+                    "global_sentence_index": 283
+                }
+            ]
+        },
+        {
+            "paragraph_index": 92,
+            "sentences": [
+                {
+                    "sentence": "ושלישית, גם אם אניח (דבר שלא הוכח כלל) כי אכן היתה תאונה, ואכן מגיע לנאשם פיצוי, הרי הוברר במשפט כי אנדריי והמתלוננת לא היו מודעים לכך",
+                    "sentence_id": "0",
+                    "paragraph_index": 92,
+                    "global_sentence_index": 284
+                },
+                {
+                    "sentence": "אנדריי נשאל האם הנאשם סיפר לו כי הוא עתיד לקבל פיצוי גבוה בגין תאונה שהיתה לו, והשיב: \"לא",
+                    "sentence_id": "1",
+                    "paragraph_index": 92,
+                    "global_sentence_index": 285
+                },
+                {
+                    "sentence": "אולי על כוס בירה סיפר, אבל יכול להיות שלא שמתי לב\" (עמ' 19)",
+                    "sentence_id": "2",
+                    "paragraph_index": 92,
+                    "global_sentence_index": 286
+                }
+            ]
+        },
+        {
+            "paragraph_index": 93,
+            "sentences": [
+                {
+                    "sentence": "ומה שיותר חשוב: גם המתלוננת לא ידעה שהנאשם עתיד לקבל פיצויים (ואין כל סיבה שהיא תדע: היא איננה ידידה או מכרה של הנאשם)",
+                    "sentence_id": "0",
+                    "paragraph_index": 93,
+                    "global_sentence_index": 287
+                },
+                {
+                    "sentence": "הדבר חשוב, משום שהנאשם מייחס למתלוננת את הדיבורים על כך ש\"יש מצב לקבל כסף\" מהנאשם (פרו' עמ' 59 ש' 14, ועמ' 66, ש' 16), אלא שהמתלוננת, כאמור, כלל לא ידעה על התאונה ועל הפיצוי העתידי (עמ' 47), וגם הנאשם אישר, שהיא לא ידעה על כך (עמ' 66 ש' 20)",
+                    "sentence_id": "1",
+                    "paragraph_index": 93,
+                    "global_sentence_index": 288
+                }
+            ]
+        },
+        {
+            "paragraph_index": 94,
+            "sentences": [
+                {
+                    "sentence": "יצוין כי הן המתלוננת (עמ' 47 ש' 27) והן אנדריי (ת/4 ש' 37) אמרו שלא רצו ואינם רוצים כסף מהנאשם",
+                    "sentence_id": "0",
+                    "paragraph_index": 94,
+                    "global_sentence_index": 289
+                },
+                {
+                    "sentence": "וכן יצוין, כי איש מהם לא הגיש נגד הנאשם תביעת פיצויים",
+                    "sentence_id": "1",
+                    "paragraph_index": 94,
+                    "global_sentence_index": 290
+                },
+                {
+                    "sentence": "וכי יעלה על הדעת – שואלת ב\"כ המאשימה בצדק רב בסיכומיה – שאנדריי והמתלוננת יעברו את כל הדרך הארוכה הזאת, החקירות, העימותים, העדות בביהמ\"ש, מבלי שהאירוע אכן התרחש בפועל, והכל בשביל לזכות בפיצוי, שאותו כלל לא תבעו",
+                    "sentence_id": "2",
+                    "paragraph_index": 94,
+                    "global_sentence_index": 291
+                }
+            ]
+        },
+        {
+            "paragraph_index": 95,
+            "sentences": [
+                {
+                    "sentence": "עדות הנאשם",
+                    "sentence_id": "0",
+                    "paragraph_index": 95,
+                    "global_sentence_index": 292
+                }
+            ]
+        },
+        {
+            "paragraph_index": 96,
+            "sentences": [
+                {
+                    "sentence": "31.\tאעבור עתה לבחינת גירסתו של הנאשם לאירועים",
+                    "sentence_id": "0",
+                    "paragraph_index": 96,
+                    "global_sentence_index": 293
+                },
+                {
+                    "sentence": "לטענתו, כל שמתארים המתלוננת ואנדריי לא היה ולא נברא, וגם משל לא היה",
+                    "sentence_id": "1",
+                    "paragraph_index": 96,
+                    "global_sentence_index": 294
+                },
+                {
+                    "sentence": "לגירסתו (עמ' 59) לאחר שבוריס הלך לביתו, נשארו בדירה רק הוא ואנדריי",
+                    "sentence_id": "2",
+                    "paragraph_index": 96,
+                    "global_sentence_index": 295
+                },
+                {
+                    "sentence": "אנדריי אמר שהכלבה מפריעה לשתות וודקה",
+                    "sentence_id": "3",
+                    "paragraph_index": 96,
+                    "global_sentence_index": 296
+                },
+                {
+                    "sentence": "אח\"כ הוא אמר שהוא \"מסטול\" ואינו יכול ללכת הביתה, וטילפן אל המתלוננת כדי שהיא תבוא ותלווה אותו לביתו",
+                    "sentence_id": "4",
+                    "paragraph_index": 96,
+                    "global_sentence_index": 297
+                },
+                {
+                    "sentence": "אחרי שהיא באה ונכנסה לדירה, אנדריי קם מהסלון, הלך לחדר שבו היתה הכלבה, ורצה להכות אותה, כי היא מפריעה",
+                    "sentence_id": "5",
+                    "paragraph_index": 96,
+                    "global_sentence_index": 298
+                },
+                {
+                    "sentence": "הכלבה קפצה, אך לא נשכה את אנדריי",
+                    "sentence_id": "6",
+                    "paragraph_index": 96,
+                    "global_sentence_index": 299
+                },
+                {
+                    "sentence": "הוא ראה דם באזור הלחי הימנית של אנדריי",
+                    "sentence_id": "7",
+                    "paragraph_index": 96,
+                    "global_sentence_index": 300
+                },
+                {
+                    "sentence": "הוא יחד עם המתלוננת לקחו את אנדריי למקלחת כדי לשטוף את פניו",
+                    "sentence_id": "8",
+                    "paragraph_index": 96,
+                    "global_sentence_index": 301
+                },
+                {
+                    "sentence": "אח\"כ הלך למטבח לחפש סמרטוט",
+                    "sentence_id": "9",
+                    "paragraph_index": 96,
+                    "global_sentence_index": 302
+                },
+                {
+                    "sentence": "בשלב זה שמע הנאשם את המתלוננת אומרת לאנדריי \"יש מצב לקבל כסף, אתה רוצה",
+                    "sentence_id": "10",
+                    "paragraph_index": 96,
+                    "global_sentence_index": 303
+                },
+                {
+                    "sentence": "\" הנאשם אמר \"איזה כסף אתה רוצה",
+                    "sentence_id": "11",
+                    "paragraph_index": 96,
+                    "global_sentence_index": 304
+                },
+                {
+                    "sentence": "\" ואנדריי לא אמר כלום",
+                    "sentence_id": "12",
+                    "paragraph_index": 96,
+                    "global_sentence_index": 305
+                },
+                {
+                    "sentence": "הנאשם פתח את הדלת, והמתלוננת ואנדריי עזבו את המקום",
+                    "sentence_id": "13",
+                    "paragraph_index": 96,
+                    "global_sentence_index": 306
+                },
+                {
+                    "sentence": "הוא, לגירסתו, לא החזיק סכין ולא איים בסכין, לא הכריח את המתלוננת לקיים עמו יחסי מין ולא קיים איתה יחסי מין",
+                    "sentence_id": "14",
+                    "paragraph_index": 96,
+                    "global_sentence_index": 307
+                }
+            ]
+        },
+        {
+            "paragraph_index": 97,
+            "sentences": [
+                {
+                    "sentence": "הנאשם משקר בענין שיחת הסקייפ הראשונה",
+                    "sentence_id": "0",
+                    "paragraph_index": 97,
+                    "global_sentence_index": 308
+                }
+            ]
+        },
+        {
+            "paragraph_index": 98,
+            "sentences": [
+                {
+                    "sentence": "32.\tבגירסתו של הנאשם נתגלעו סתירות לא מעטות, שלא ניתן להן הסבר מניח את הדעת",
+                    "sentence_id": "0",
+                    "paragraph_index": 98,
+                    "global_sentence_index": 309
+                },
+                {
+                    "sentence": "כזכור, לפי עדות המתלוננת, הנתמכת בעדות אנדריי, הנאשם שוחח איתה בסקייפ לראשונה כשבועיים לפני האירוע מושא כתב האישום, ובשיחה זו ביקש הנאשם ממנה להפעיל את המצלמה, להתפשט, ולהראות לו את שדיה, והיא ניתקה מיד",
+                    "sentence_id": "1",
+                    "paragraph_index": 98,
+                    "global_sentence_index": 310
+                },
+                {
+                    "sentence": "כאשר נחקר על כך הנאשם במשטרה ונשאל האם הוא היה באופן כלשהו בקשר עם המתלוננת, השיב כי לא היה לו שום קשר איתה (ת/15 ש' 35), וכאשר נשאל האם הוא התכתב איתה בפייסבוק או באתר אחר, השיב כי לא היה לו כל קשר ישיר עם המתלוננת, לא התכתב איתה ולא היה לו דיבור ישיר איתה (ת/15 ש' 120)",
+                    "sentence_id": "2",
+                    "paragraph_index": 98,
+                    "global_sentence_index": 311
+                }
+            ]
+        },
+        {
+            "paragraph_index": 99,
+            "sentences": [
+                {
+                    "sentence": "לעומת זאת, בעימות עם המתלוננת, יומיים לאחר מכן, כשנשאל האם שוחח עם המתלוננת בעבר, השיב שאכן שוחח איתה דרך הסקייפ (ת/5 ש' 68 – 75), וכך גם אישר בעדותו בביהמ\"ש (עמ' 63)",
+                    "sentence_id": "0",
+                    "paragraph_index": 99,
+                    "global_sentence_index": 312
+                }
+            ]
+        },
+        {
+            "paragraph_index": 100,
+            "sentences": [
+                {
+                    "sentence": "הוא נשאל מדוע אם כן אמר בחקירתו במשטרה שלא היה לו שום קשר איתה, והשיב כי במשטרה שאלו אותו לגבי יום האירוע, ולא לגבי מועד קודם (עמ' 63)",
+                    "sentence_id": "0",
+                    "paragraph_index": 100,
+                    "global_sentence_index": 313
+                }
+            ]
+        },
+        {
+            "paragraph_index": 101,
+            "sentences": [
+                {
+                    "sentence": "ואולם עיון בחקירתו במשטרה ת/15 מלמד כי השאלות לגבי קשר שלו עם המתלוננת לא התייחסו ליום האירוע, אלא נשאלו באופן כללי (ת/15 ש' 34 ש' 119)",
+                    "sentence_id": "0",
+                    "paragraph_index": 101,
+                    "global_sentence_index": 314
+                }
+            ]
+        },
+        {
+            "paragraph_index": 102,
+            "sentences": [
+                {
+                    "sentence": "ומשלא ידע הנאשם  כיצד לתרץ את הסתירה, הסביר לפתע שיש לו בעיה בעברית (עמ' 63)",
+                    "sentence_id": "0",
+                    "paragraph_index": 102,
+                    "global_sentence_index": 315
+                }
+            ]
+        },
+        {
+            "paragraph_index": 103,
+            "sentences": [
+                {
+                    "sentence": "נראה כי הנאשם ניסה להרחיק עצמו ככל שניתן מקשר, לרבות קשר קודם כלשהו, עם המתלוננת, ומשום כך טען באופן שיקרי בחקירתו במשטרה כי לא היה לו שום קשר עמה",
+                    "sentence_id": "0",
+                    "paragraph_index": 103,
+                    "global_sentence_index": 316
+                }
+            ]
+        },
+        {
+            "paragraph_index": 104,
+            "sentences": [
+                {
+                    "sentence": "הנאשם משקר בענין תוכן שיחת הסקייפ הראשונה",
+                    "sentence_id": "0",
+                    "paragraph_index": 104,
+                    "global_sentence_index": 317
+                }
+            ]
+        },
+        {
+            "paragraph_index": 105,
+            "sentences": [
+                {
+                    "sentence": "33.\tהמתלוננת ואנדריי העידו כי בשיחת הסקייפ, כשבועיים לפני האירוע נשוא האישום, ביקש הנאשם ממנה כי תתפשט ותראה לו את שדיה, ואז היא מיד ניתקה את השיחה וחסמה אותו מליצור איתה קשר באמצעות הסקייפ",
+                    "sentence_id": "0",
+                    "paragraph_index": 105,
+                    "global_sentence_index": 318
+                },
+                {
+                    "sentence": "הנאשם מודה כי באותה שיחת סקייפ, המתלוננת אכן ניתקה וחסמה אותו, אך טוען כי לא אמר את הדברים שהם מייחסים לו",
+                    "sentence_id": "1",
+                    "paragraph_index": 105,
+                    "global_sentence_index": 319
+                }
+            ]
+        },
+        {
+            "paragraph_index": 106,
+            "sentences": [
+                {
+                    "sentence": "הוא נשאל מדוע אם כן היא חסמה אותו והשיב: \"היא חסמה אותי כי אמרתי לה שאתם זונות, אני אמרתי לך תזדיין, שהיא שרמוטה, כי היא יכולה להתקשר\" (עמ' 63)",
+                    "sentence_id": "0",
+                    "paragraph_index": 106,
+                    "global_sentence_index": 320
+                },
+                {
+                    "sentence": "היא חסמה אותו לדבריו \"כי אני כתבתי את המלים הלא יפות",
+                    "sentence_id": "1",
+                    "paragraph_index": 106,
+                    "global_sentence_index": 321
+                },
+                {
+                    "sentence": "קיללתי\" (עמ' 64)",
+                    "sentence_id": "2",
+                    "paragraph_index": 106,
+                    "global_sentence_index": 322
+                },
+                {
+                    "sentence": "בעימות במשטרה אמר שהיא חסמה אותו \"בגלל שהיא חברה של חבר שלי\" (ת/5 ש' 83)",
+                    "sentence_id": "3",
+                    "paragraph_index": 106,
+                    "global_sentence_index": 323
+                }
+            ]
+        },
+        {
+            "paragraph_index": 107,
+            "sentences": [
+                {
+                    "sentence": "תשובותיו של הנאשם הן משתנות וסותרות זו את זו, ובכל מקרה, הנאשם לא נתן כל הסבר הגיוני (ראה פרו' עמ' 63 – 64) מדוע המתלוננת ניתקה וחסמה אותו בסקייפ, ויש להעדיף את גירסת המתלוננת, שהינה הגיונית ונתמכת בגירסת אנדריי, שהיא עשתה זאת מפני שהנאשם ביקש שהיא תתפשט ותראה לו את שדיה",
+                    "sentence_id": "0",
+                    "paragraph_index": 107,
+                    "global_sentence_index": 324
+                },
+                {
+                    "sentence": "אחרת לא ניתן להבין מדוע החליטה המתלוננת לחסום את הנאשם בסקייפ",
+                    "sentence_id": "1",
+                    "paragraph_index": 107,
+                    "global_sentence_index": 325
+                }
+            ]
+        },
+        {
+            "paragraph_index": 108,
+            "sentences": [
+                {
+                    "sentence": "הנאשם גורס, בתחילה, כי המתלוננת כלל לא היתה אצלו",
+                    "sentence_id": "0",
+                    "paragraph_index": 108,
+                    "global_sentence_index": 326
+                }
+            ]
+        },
+        {
+            "paragraph_index": 109,
+            "sentences": [
+                {
+                    "sentence": "34.\tהנאשם, בעת מעצרו, נשאל ע\"י השוטרים האם מישהו היה אצלו בדירה בשעות הערב/הלילה והשיב כי רק חבר היה בדירה (ת/11)",
+                    "sentence_id": "0",
+                    "paragraph_index": 109,
+                    "global_sentence_index": 327
+                },
+                {
+                    "sentence": "הוא מסר לשוטרים כי שתה יחד עם חברו אנדריי, ולא היתה שום בחורה בדירה (ת/2)",
+                    "sentence_id": "1",
+                    "paragraph_index": 109,
+                    "global_sentence_index": 328
+                }
+            ]
+        },
+        {
+            "paragraph_index": 110,
+            "sentences": [
+                {
+                    "sentence": "אין חולק, והנאשם הודה בכך מאוחר יותר, בחקירתו במשטרה, כמו גם בעדותו בביהמ\"ש, שהמתלוננת אכן היתה בדירה באותו לילה, וגירסתו כי \"רק חבר היה  בדירה\" וכי \"לא היתה שום בחורה בדירה\" היא גירסה שיקרית, אותה העלה בתחילה, כדי להרחיק עצמו מהאירוע מושא האישום",
+                    "sentence_id": "0",
+                    "paragraph_index": 110,
+                    "global_sentence_index": 329
+                }
+            ]
+        },
+        {
+            "paragraph_index": 111,
+            "sentences": [
+                {
+                    "sentence": "הנאשם משקר בענין תקיפת הכלבה",
+                    "sentence_id": "0",
+                    "paragraph_index": 111,
+                    "global_sentence_index": 330
+                }
+            ]
+        },
+        {
+            "paragraph_index": 112,
+            "sentences": [
+                {
+                    "sentence": "35.\tהנאשם העיד כי הכלבה תקפה את אנדריי רק פעם אחת, וכי הוא ראה רק פציעה של אנדריי באזור הלחי, ולא במקומות נוספים בגופו (עמ' 62)",
+                    "sentence_id": "0",
+                    "paragraph_index": 112,
+                    "global_sentence_index": 331
+                }
+            ]
+        },
+        {
+            "paragraph_index": 113,
+            "sentences": [
+                {
+                    "sentence": "אין ספק כי הנאשם אינו מדייק בענין זה שהרי הן התמונות (ת/6) והן התיעוד הרפואי (ת/9) מוכיחים כי אנדריי נפצע לא רק באיזור הלחי, אלא גם בירך ימין ובאמת יד שמאל",
+                    "sentence_id": "0",
+                    "paragraph_index": 113,
+                    "global_sentence_index": 332
+                },
+                {
+                    "sentence": "הממצאים הללו תומכים בעדות המתלוננת לפיה הכלבה תקפה את אנדריי בתחילה בפנים קרוב לאוזן, ואז היא הריחה ריח של דם והיא  השתגעה וניסתה לתפוס אותו עוד פעם ותפסה אותו ברגל וביד (עמ' 34), ואינם מתיישבים עם גירסת הנאשם כי היא תקפה את אנדריי רק פעם אחת, ופצעה אותו רק באזור הלחי",
+                    "sentence_id": "1",
+                    "paragraph_index": 113,
+                    "global_sentence_index": 333
+                }
+            ]
+        },
+        {
+            "paragraph_index": 114,
+            "sentences": [
+                {
+                    "sentence": "הנאשם נשאל – אם הכלבה אכן תקפה את אנדריי רק פעם אחת ופצעה אותו רק באזור הלחי, איך ייתכן שאנדריי נפצע גם במקומות נוספים",
+                    "sentence_id": "0",
+                    "paragraph_index": 114,
+                    "global_sentence_index": 334
+                },
+                {
+                    "sentence": "לא היה בפיו מענה לשאלה זו (עמ' 62)",
+                    "sentence_id": "1",
+                    "paragraph_index": 114,
+                    "global_sentence_index": 335
+                }
+            ]
+        },
+        {
+            "paragraph_index": 115,
+            "sentences": [
+                {
+                    "sentence": "הנאשם משקר בטענתו כי מדובר בקנוניה לסחוט ממנו כספי פיצויים",
+                    "sentence_id": "0",
+                    "paragraph_index": 115,
+                    "global_sentence_index": 336
+                }
+            ]
+        },
+        {
+            "paragraph_index": 116,
+            "sentences": [
+                {
+                    "sentence": "36.\tעמדתי כבר על טענת הנאשם, אותה העלה לראשונה רק בעדותו בביהמ\"ש, כי המתלוננת ואנדריי רקמו עלילה נגדו בכדי לסחוט ממנו כספי פיצויים שהוא אמור לקבל בעקבות תאונה שעבר בשנת 2001. הראיתי (פיסקה 30 לעיל) מספר נימוקים מדוע טענתו זו של הנאשם אינה מהימנה ואינה יכולה להתקבל, בין משום שלא הוצג כל מסמך להוכחתה, בין בשל היותה עדות כבושה מובהקת, ובין בשל כך שהמתלוננת ואנדריי כלל לא ידעו על הפיצוי שלטענת הנאשם הוא עתיד לקבל",
+                    "sentence_id": "0",
+                    "paragraph_index": 116,
+                    "global_sentence_index": 337
+                }
+            ]
+        },
+        {
+            "paragraph_index": 117,
+            "sentences": [
+                {
+                    "sentence": "טענת הנאשם כי מדובר בקנוניה הנובעת מקינאה",
+                    "sentence_id": "0",
+                    "paragraph_index": 117,
+                    "global_sentence_index": 338
+                }
+            ]
+        },
+        {
+            "paragraph_index": 118,
+            "sentences": [
+                {
+                    "sentence": "37.\tלמותר לציין כי גם השערתו של הנאשם על כך שאנדריי והמתלוננת רקמו נגדו עלילה מתוך כך שהם מקנאים בו על היותו בעל משפחה טובה ולהם אין כלום, והם אלכוהוליסטים, איננה הגיונית",
+                    "sentence_id": "0",
+                    "paragraph_index": 118,
+                    "global_sentence_index": 339
+                },
+                {
+                    "sentence": "לא מתקבל על הדעת שהם ירקמו מדמיונם את כל הסיפור מושא האישום ויעברו מסכת של חקירות ממושכות במשטרה ובביהמ\"ש, וכל זאת, כנטען, רק מתוך קינאה כביכול בנאשם",
+                    "sentence_id": "1",
+                    "paragraph_index": 118,
+                    "global_sentence_index": 340
+                },
+                {
+                    "sentence": "גם הטענה ש\"הם אלכוהוליסטים\" אינה נכונה, שהרי אין מחלוקת שהמתלוננת כלל אינה שותה (עמ' 67), ומנגד, דווקא הנאשם עצמו הינו או לפחות היה בעברו הקרוב אלכוהוליסט, ופחות משנה לפני האירוע מושא האישום אף קיבל טיפול רפואי נגד אלכוהוליזם (ראה נ/4)",
+                    "sentence_id": "2",
+                    "paragraph_index": 118,
+                    "global_sentence_index": 341
+                }
+            ]
+        },
+        {
+            "paragraph_index": 119,
+            "sentences": [
+                {
+                    "sentence": "הנאשם סירב לפתוח הדלת לשוטרים",
+                    "sentence_id": "0",
+                    "paragraph_index": 119,
+                    "global_sentence_index": 342
+                }
+            ]
+        },
+        {
+            "paragraph_index": 120,
+            "sentences": [
+                {
+                    "sentence": "38.\tכאשר באו השוטרים לדירת הנאשם על מנת לעצרו, נמנע הנאשם מלפתוח להם את הדלת",
+                    "sentence_id": "0",
+                    "paragraph_index": 120,
+                    "global_sentence_index": 343
+                },
+                {
+                    "sentence": "השוטר בר כליפא רשם בדו\"ח הפעולה ת/11 כי הוא והצוות שהיה איתו דפקו בחוזקה על דלת הדירה",
+                    "sentence_id": "1",
+                    "paragraph_index": 120,
+                    "global_sentence_index": 344
+                },
+                {
+                    "sentence": "משלא פתח הנאשם את הדלת, פרצו השוטרים את הדלת באמצעות פטיש ומוט (ראה גם ת/2)",
+                    "sentence_id": "2",
+                    "paragraph_index": 120,
+                    "global_sentence_index": 345
+                },
+                {
+                    "sentence": "השוטר איוושין העיד בביהמ\"ש כי הם פרצו את הדלת עם פטיש  שעושה רעש חזק",
+                    "sentence_id": "3",
+                    "paragraph_index": 120,
+                    "global_sentence_index": 346
+                },
+                {
+                    "sentence": "\"עשינו המון רעש עם הפריצה של הדלת, ורק בשלב שאנחנו נכנסים לדירה, הוא יוצא",
+                    "sentence_id": "4",
+                    "paragraph_index": 120,
+                    "global_sentence_index": 347
+                },
+                {
+                    "sentence": "השלב של הכניסה שלנו לדירה הוא שקט יחסית",
+                    "sentence_id": "5",
+                    "paragraph_index": 120,
+                    "global_sentence_index": 348
+                },
+                {
+                    "sentence": "ברגע שהוא ידע שאנשים בפנים, הוא יצא, כי הוא ידע שאין מה לעשות\" (עמ' 52)",
+                    "sentence_id": "6",
+                    "paragraph_index": 120,
+                    "global_sentence_index": 349
+                },
+                {
+                    "sentence": "הנאשם טען בעדותו כי הוא ישן ולא שמע את הצלצול והדפיקות בדלת, ולכן לא פתח (עמ' 59, עמ' 69), אך עדותו, גם בנקודה זו, אינה מהימנה, שהרי כאמור השוטרים צלצלו ודפקו בדלת בחוזקה משך זמן רב (עמ' 52 ש' 5), כולל צעקות \"תפתח, משטרה\" (ת/2), והקימו רעש רב מאד (עמ' 52 ש' 24), שאף גרם לשכן מדירה אחרת לצאת (עמ' 52 ש' 6), ולא מתקבל על הדעת שהנאשם \"לא שמע\" את כל המהומה הזאת",
+                    "sentence_id": "7",
+                    "paragraph_index": 120,
+                    "global_sentence_index": 350
+                }
+            ]
+        },
+        {
+            "paragraph_index": 121,
+            "sentences": [
+                {
+                    "sentence": "אין זאת אלא,  שהנאשם התנהג באופן מפליל, ונמנע מלפתוח למשטרה את הדלת,  בשל תחושת האשם שבו  על מעשיו",
+                    "sentence_id": "0",
+                    "paragraph_index": 121,
+                    "global_sentence_index": 351
+                }
+            ]
+        },
+        {
+            "paragraph_index": 122,
+            "sentences": [
+                {
+                    "sentence": "מסקנות",
+                    "sentence_id": "0",
+                    "paragraph_index": 122,
+                    "global_sentence_index": 352
+                }
+            ]
+        },
+        {
+            "paragraph_index": 123,
+            "sentences": [
+                {
+                    "sentence": "39.\tהמקרה שבפנינו הוא מקרה די נדיר, שבו לאירוע אונס יש עד ראייה (אנדריי), אשר מסר עדות סדורה ומהימנה בבית המשפט",
+                    "sentence_id": "0",
+                    "paragraph_index": 123,
+                    "global_sentence_index": 353
+                }
+            ]
+        },
+        {
+            "paragraph_index": 124,
+            "sentences": [
+                {
+                    "sentence": "ניתן לראות, לפי מצבו הנפשי של אנדריי הן סמוך לאירוע והן בעדותו בביהמ\"ש, כי אכן מדובר באדם שחווה חוויה טראומתית וקשה ביותר, ולא באדם ש\"המציא עלילה\", כטענת הנאשם",
+                    "sentence_id": "0",
+                    "paragraph_index": 124,
+                    "global_sentence_index": 354
+                },
+                {
+                    "sentence": "בעימות שנערך בין אנדריי לבין הנאשם יומיים וחצי אחרי האירוע אמר אנדריי (בהתייחסו לנאשם) \"אני לא רוצה לא לראות אותו ולא לשמוע אותו ובכלל אני לא רוצה לשמוע עליו",
+                    "sentence_id": "1",
+                    "paragraph_index": 124,
+                    "global_sentence_index": 355
+                },
+                {
+                    "sentence": "אני עדיין נמצא בסטרס ואני כולי רועד",
+                    "sentence_id": "2",
+                    "paragraph_index": 124,
+                    "global_sentence_index": 356
+                },
+                {
+                    "sentence": "ואני לא ישן בלילה ואני לא יכול לעבוד\" (ת/4 ש' 1 – 7)",
+                    "sentence_id": "3",
+                    "paragraph_index": 124,
+                    "global_sentence_index": 357
+                },
+                {
+                    "sentence": "בביהמ\"ש העיד אנדריי כי אחרי המקרה \"אני הייתי בשוק, בהאנגאובר, ורעדתי שלשה ימים רצוף\" (עמ' 18)",
+                    "sentence_id": "4",
+                    "paragraph_index": 124,
+                    "global_sentence_index": 358
+                },
+                {
+                    "sentence": "גם בזמן מתן העדות בביהמ\"ש, הוא פרץ בבכי וגופו רעד (עמ' 15)",
+                    "sentence_id": "5",
+                    "paragraph_index": 124,
+                    "global_sentence_index": 359
+                },
+                {
+                    "sentence": "כאשר הוטחה בפניו האפשרות, שכל זה לא היה ולא נברא, והוא בעצם איננו זוכר דבר משום שהיה שיכור מאד, השיב אנדריי ותשובתו מדברת בעד עצמה: \"אני יכול להגיד מה שאני ראיתי בעיניים שלי, ושמעתי צעקות, ואני לא יכול למחוק את זה מהזיכרון\" (עמ' 28)",
+                    "sentence_id": "6",
+                    "paragraph_index": 124,
+                    "global_sentence_index": 360
+                }
+            ]
+        },
+        {
+            "paragraph_index": 125,
+            "sentences": [
+                {
+                    "sentence": "40.\tגירסתו של אנדריי בבית המשפט היא גירסה סדורה ומפורטת, ללא סתירות, תואמת את הגירסה שמסר בעימות עם הנאשם ת/4, ותואמת גם את גירסתה של המתלוננת במשטרה ובבית המשפט",
+                    "sentence_id": "0",
+                    "paragraph_index": 125,
+                    "global_sentence_index": 361
+                }
+            ]
+        },
+        {
+            "paragraph_index": 126,
+            "sentences": [
+                {
+                    "sentence": "41.\tאנדריי היה חברו של הנאשם",
+                    "sentence_id": "0",
+                    "paragraph_index": 126,
+                    "global_sentence_index": 362
+                },
+                {
+                    "sentence": "הוא ידע, לדבריו, \"שאני יכול לפנות אליו (אל הנאשם) מכל סיבה, אני ידעתי שהוא לא יגיד לי לא אף פעם\" (עמ' 15)",
+                    "sentence_id": "1",
+                    "paragraph_index": 126,
+                    "global_sentence_index": 363
+                },
+                {
+                    "sentence": "הם היו חברים מזה מספר שנים, היו מתכתבים זה עם זה ב\"סקייפ\"",
+                    "sentence_id": "2",
+                    "paragraph_index": 126,
+                    "global_sentence_index": 364
+                },
+                {
+                    "sentence": "אנדריי היה מגיע ועוזר לאמו של הנאשם (ת/4 ש' 49 – 51)",
+                    "sentence_id": "3",
+                    "paragraph_index": 126,
+                    "global_sentence_index": 365
+                },
+                {
+                    "sentence": "אין כל סיבה שאנדריי, חברו של הנאשם, ימציא עלילה מרושעת שכזאת, אם הדברים (כטענת הנאשם) לא אירעו",
+                    "sentence_id": "4",
+                    "paragraph_index": 126,
+                    "global_sentence_index": 366
+                },
+                {
+                    "sentence": "ניתן היה להתרשם היטב, בשעת עדותו של אנדריי בבית המשפט, מסערת הנפש בה היה מצוי, הרעד בגופו, בכיו, הדיוק והפשטות בה מסר את גירסתו, אשר, כאמור, תואמת ומתיישבת לחלוטין, בכל פרטיה המהותיים, עם גירסתה של המתלוננת",
+                    "sentence_id": "5",
+                    "paragraph_index": 126,
+                    "global_sentence_index": 367
+                },
+                {
+                    "sentence": "מאופן מסירת העדות ניתן היה להיווכח כי הוא מתאר חוויה טראומתית וקשה  אותה חווה,  וכי לא ייתכן שהדברים מומצאים",
+                    "sentence_id": "6",
+                    "paragraph_index": 126,
+                    "global_sentence_index": 368
+                }
+            ]
+        },
+        {
+            "paragraph_index": 127,
+            "sentences": [
+                {
+                    "sentence": "42.\tאל עדותו של עד הראייה, אנדריי, מצטרפת עדותה של המתלוננת עצמה",
+                    "sentence_id": "0",
+                    "paragraph_index": 127,
+                    "global_sentence_index": 369
+                },
+                {
+                    "sentence": "אציין תחילה כי השוטר הראשון שראה אותה מיד אחרי האירוע, ירוסלב איוושין, רשם בדו\"ח הפעולה ת/3 כי המתלוננת נראתה בהלם",
+                    "sentence_id": "1",
+                    "paragraph_index": 127,
+                    "global_sentence_index": 370
+                },
+                {
+                    "sentence": "נכון שהוא לא ציין זאת בדו\"ח הפעולה שרשם ביום האירוע (ת/2), אלא רק בהשלמה שנעשתה לקראת מתן עדותו בביהמ\"ש (ת/3), אך הסביר שכנראה \"פספס\" זאת מפני שדו\"ח הפעולה נרשם על ידו כשעתיים אחרי התרחשות האירוע",
+                    "sentence_id": "2",
+                    "paragraph_index": 127,
+                    "global_sentence_index": 371
+                }
+            ]
+        },
+        {
+            "paragraph_index": 128,
+            "sentences": [
+                {
+                    "sentence": "המתלוננת העידה על עצמה כי כאשר נמלטו היא ואנדריי מהדירה היא היתה בהיסטריה, היו לה רעידות, לא יכלה לעצור עצמה מלבכות, ואיננה יודעת כמה זמן בכתה (עמ' 38)",
+                    "sentence_id": "0",
+                    "paragraph_index": 128,
+                    "global_sentence_index": 372
+                },
+                {
+                    "sentence": "כמו כן העידה כי בתקופה הראשונה לאחר האירוע, פחדה ללכת ברחובות בערב, ואם ראתה מישהו דומה לנאשם נכנסה להיסטריה",
+                    "sentence_id": "1",
+                    "paragraph_index": 128,
+                    "global_sentence_index": 373
+                },
+                {
+                    "sentence": "ועד היום, כל פעם שהיא רואה מישהו דומה לנאשם היא מפחדת וכמעט מאבדת את הרגשת המציאות (עמ' 39)",
+                    "sentence_id": "2",
+                    "paragraph_index": 128,
+                    "global_sentence_index": 374
+                },
+                {
+                    "sentence": "תיאורים שכאלה אינם יכולים להיות תיאורים של אדם שהמציא את כל הסיפור מדמיונו",
+                    "sentence_id": "3",
+                    "paragraph_index": 128,
+                    "global_sentence_index": 375
+                }
+            ]
+        },
+        {
+            "paragraph_index": 129,
+            "sentences": [
+                {
+                    "sentence": "43.\tעדותה של המתלוננת בבית המשפט עשתה רושם מהימן ביותר",
+                    "sentence_id": "0",
+                    "paragraph_index": 129,
+                    "global_sentence_index": 376
+                },
+                {
+                    "sentence": "ניכר עליה שהיא אשה אינטליגנטית, היודעת את אשר היא אומרת, חשוב לה לדייק בפרטים, שומרת על קור רוח, ומספרת את כל השתלשלות האירוע כהווייתה, מאלף ועד תי\"ו, בצורה סדורה, בהירה ומפורטת, עיקבית, מהימנה, תואמת את הודעותיה במשטרה ובעימות, ותואמת את גירסתו של עד הראייה, אנדריי",
+                    "sentence_id": "1",
+                    "paragraph_index": 129,
+                    "global_sentence_index": 377
+                },
+                {
+                    "sentence": "זו התרשמותי מאישיותה ומעדותה של המתלוננת",
+                    "sentence_id": "2",
+                    "paragraph_index": 129,
+                    "global_sentence_index": 378
+                },
+                {
+                    "sentence": "כך גם התרשמה ממנה החוקרת, טלי ואקנין, שחקרה אותה במשטרה סמוך לאחר האירוע (עמ' 55)",
+                    "sentence_id": "3",
+                    "paragraph_index": 129,
+                    "global_sentence_index": 379
+                }
+            ]
+        },
+        {
+            "paragraph_index": 130,
+            "sentences": [
+                {
+                    "sentence": "44.\tלא נפלו סתירות (בוודאי לא מהותיות) בין גירסתה של המתלוננת לבין גירסתו של אנדריי ביחס לכל שלבי האירוע, מתחילתו ועד סופו",
+                    "sentence_id": "0",
+                    "paragraph_index": 130,
+                    "global_sentence_index": 380
+                }
+            ]
+        },
+        {
+            "paragraph_index": 131,
+            "sentences": [
+                {
+                    "sentence": "יוער כי המתלוננת, במהלך כל חקירתה הנגדית, לא נשאלה ולו שאלה אחת המתייחסת למעשה האינוס עצמו",
+                    "sentence_id": "0",
+                    "paragraph_index": 131,
+                    "global_sentence_index": 381
+                }
+            ]
+        },
+        {
+            "paragraph_index": 132,
+            "sentences": [
+                {
+                    "sentence": "45.\tאין למתלוננת כל סיבה להעליל על הנאשם עלילת שווא, שהרי אינה מכירה אותו",
+                    "sentence_id": "0",
+                    "paragraph_index": 132,
+                    "global_sentence_index": 382
+                },
+                {
+                    "sentence": "ה\"קשר\" היחיד בינה לבין הנאשם הוא שיש להם חבר משותף (אנדריי)",
+                    "sentence_id": "1",
+                    "paragraph_index": 132,
+                    "global_sentence_index": 383
+                },
+                {
+                    "sentence": "היא מעולם לא היתה בביתו של הנאשם ולא ראתה את הנאשם",
+                    "sentence_id": "2",
+                    "paragraph_index": 132,
+                    "global_sentence_index": 384
+                }
+            ]
+        },
+        {
+            "paragraph_index": 133,
+            "sentences": [
+                {
+                    "sentence": "46.\tהיא גם אינה מנסה בשום אופן להעצים או להאדיר את חומרת מעשיו, יותר מכפי שהיו בפועל",
+                    "sentence_id": "0",
+                    "paragraph_index": 133,
+                    "global_sentence_index": 385
+                },
+                {
+                    "sentence": "למשל, היא לא הסתירה את העובדה שבתחילה, כשרק נכנסה לדירה, הוא קיבל אותה מאד יפה, הציע לה מיני אוכל ושתיה, וגם השמיע לה מוסיקה ברוסית (עמ' 31 – 32, עמ' 49)",
+                    "sentence_id": "1",
+                    "paragraph_index": 133,
+                    "global_sentence_index": 386
+                }
+            ]
+        },
+        {
+            "paragraph_index": 134,
+            "sentences": [
+                {
+                    "sentence": "היא גם לא הסתירה את העובדה שכאשר אנדריי נפצע מהתקפת הכלבה, הנאשם עזר לה לטפל בו (עמ' 34)",
+                    "sentence_id": "0",
+                    "paragraph_index": 134,
+                    "global_sentence_index": 387
+                }
+            ]
+        },
+        {
+            "paragraph_index": 135,
+            "sentences": [
+                {
+                    "sentence": "כאשר נשאלה המתלוננת, בחקירתה הראשונה במשטרה, האם יש לה חבלות בגוף, השיבה בשלילה (נ/1 ש' 128)",
+                    "sentence_id": "0",
+                    "paragraph_index": 135,
+                    "global_sentence_index": 388
+                },
+                {
+                    "sentence": "בחקירה נוספת במשטרה, ביקשה ממנה החוקרת להרים את חולצתה, ואז כן נראו שריטות של סכין בגבה (ראה ת/7)",
+                    "sentence_id": "1",
+                    "paragraph_index": 135,
+                    "global_sentence_index": 389
+                },
+                {
+                    "sentence": "השוטרת שאלה אותה האם אלה סימנים של סכין, והמתלוננת העידה שאינה יודעת (עמ' 40)",
+                    "sentence_id": "2",
+                    "paragraph_index": 135,
+                    "global_sentence_index": 390
+                },
+                {
+                    "sentence": "גם    בחקירתה הראשית בביהמ\"ש, לא הזכירה כלל כי הנאשם דקר אותה בגב (עמ' 35)",
+                    "sentence_id": "3",
+                    "paragraph_index": 135,
+                    "global_sentence_index": 391
+                },
+                {
+                    "sentence": "בחקירתה הנגדית העידה כי לא הרגישה שום דקירות וכי הסימן בגב הובא לידיעתה רק ע\"י החוקרת שבדקה ומצאה בגב סימן מאד קטן (עמ' 39), כי הוא לא השתמש בכח כאשר העביר את החלק החד של הסכין על גבה (עמ' 40), וכי  הנאשם התכוון רק להפחיד אותה, אך לא באמת לחתוך, \"הוא עשה ככה עם הסכין רק שארגיש את הברזל\" (עמ' 48)",
+                    "sentence_id": "4",
+                    "paragraph_index": 135,
+                    "global_sentence_index": 392
+                }
+            ]
+        },
+        {
+            "paragraph_index": 136,
+            "sentences": [
+                {
+                    "sentence": "דוגמה אחרונה וחשובה לכך שהמתלוננת מדייקת בפרטים ואינה מנסה להשחיר את פניו של הנאשם או לתאר את העובדות באופן חמור יותר מכפי שאירעו בפועל, היא עדותה על כך שהוא נכנס לתוכה רק קצת, \"אבל להכניס כמה שהוא רוצה ניסיתי לא לתת לו, עד כמה שיכולתי, אני החזקתי רגליים ושרירים שהוא לא יעשה את זה בסוף\" (עמ' 36)",
+                    "sentence_id": "0",
+                    "paragraph_index": 136,
+                    "global_sentence_index": 393
+                }
+            ]
+        },
+        {
+            "paragraph_index": 137,
+            "sentences": [
+                {
+                    "sentence": "47.\tלסיכום עד כאן, עדותו של אנדריי, ובייחוד, עדותה של המתלוננת, עשו רושם מהימן ביותר, לא נפלו סתירות של ממש ביניהן, באשר להתרחשותו של האירוע, על כל שלביו, הן תומכות ומחזקות האחת את השניה, וגם תואמות את הודעותיהם במשטרה, כפי שנמסרו על ידיהם סמוך לאחר האירוע",
+                    "sentence_id": "0",
+                    "paragraph_index": 137,
+                    "global_sentence_index": 394
+                }
+            ]
+        },
+        {
+            "paragraph_index": 138,
+            "sentences": [
+                {
+                    "sentence": "אל מול העדויות הללו ניצבת עדותו של הנאשם, הכופר בכל הסיפור, מתחילה ועד סוף",
+                    "sentence_id": "0",
+                    "paragraph_index": 138,
+                    "global_sentence_index": 395
+                },
+                {
+                    "sentence": "בעדותו של הנאשם נתגלעו סתירות, שקרים  ותמיהות, כפי שהבאתי לעיל, אשר לא ניתן להן כל הסבר, גם לא בסיכומי הנאשם",
+                    "sentence_id": "1",
+                    "paragraph_index": 138,
+                    "global_sentence_index": 396
+                }
+            ]
+        },
+        {
+            "paragraph_index": 139,
+            "sentences": [
+                {
+                    "sentence": "נראה לי, לסיכום, כי גרסאותיהם המהימנות והתומכות זו בזו של המתלוננת ואנדריי, משקפות את האמת כפי שהתרחשה, ואילו הנאשם שיקר וסילף דברים בעדותו, ניסה רק להרחיק עצמו מהאירוע, ועשה רושם בלתי מהימן",
+                    "sentence_id": "0",
+                    "paragraph_index": 139,
+                    "global_sentence_index": 397
+                }
+            ]
+        },
+        {
+            "paragraph_index": 140,
+            "sentences": [
+                {
+                    "sentence": "לפיכך, אציע לחבריי להרכב לקבוע, כי המאשימה הוכיחה מעבר לכל ספק סביר את עובדות כתב האישום,  כפי שתוארו ע\"י אנדריי והמתלוננת בעדותם בבית המשפט",
+                    "sentence_id": "0",
+                    "paragraph_index": 140,
+                    "global_sentence_index": 398
+                }
+            ]
+        },
+        {
+            "paragraph_index": 141,
+            "sentences": [
+                {
+                    "sentence": "העבירות בהן יש להרשיע את הנאשם",
+                    "sentence_id": "0",
+                    "paragraph_index": 141,
+                    "global_sentence_index": 399
+                }
+            ]
+        },
+        {
+            "paragraph_index": 142,
+            "sentences": [
+                {
+                    "sentence": "48.\tהוכחו יסודות העבירה של כליאת שווא, לפי  ל התשל\"ז-1977 (להלן- \"החוק\")",
+                    "sentence_id": "0",
+                    "paragraph_index": 142,
+                    "global_sentence_index": 400
+                },
+                {
+                    "sentence": "גם היסוד הנפשי בעבירה זו נתקיים ללא ספק, והוא – מודעות לטיב המעשה ולהתקיימות הנסיבות (\"שלא כדין\") (ראה י' קדמי, \"על הדין בפלילים, \", מהד' תשס\"ו – 2006, חלק שלישי, בעמ' 1511)",
+                    "sentence_id": "1",
+                    "paragraph_index": 142,
+                    "global_sentence_index": 401
+                }
+            ]
+        },
+        {
+            "paragraph_index": 143,
+            "sentences": [
+                {
+                    "sentence": "49.\tהוכחו גם יסודות העבירה של אינוס, לפי  לחוק",
+                    "sentence_id": "0",
+                    "paragraph_index": 143,
+                    "global_sentence_index": 402
+                },
+                {
+                    "sentence": "היסוד הנפשי הנדרש גם כאן הוא מודעות לטיב המעשה (בעילה) ולהתקיימות הנסיבות (שלא בהסכמה חופשית) (קדמי, שם, בעמ' 1374)",
+                    "sentence_id": "1",
+                    "paragraph_index": 143,
+                    "global_sentence_index": 403
+                },
+                {
+                    "sentence": "אין ספק כי הנאשם היה מודע לאי הסכמתה של המתלוננת, שהרי המתלוננת אמרה לו מפורשות כי לא יהיו יחסי מין ביניהם, התנגדה למעשיו באופן ברור, ניסתה להשהותם בדרכים שונות, והתחננה וצעקה כל הזמן שיפסיק",
+                    "sentence_id": "2",
+                    "paragraph_index": 143,
+                    "global_sentence_index": 404
+                }
+            ]
+        },
+        {
+            "paragraph_index": 144,
+            "sentences": [
+                {
+                    "sentence": "50.\tכך גם הוכחה העבירה של שלילת כושר ההתנגדות לשם ביצוע עבירה, לפי  לחוק",
+                    "sentence_id": "0",
+                    "paragraph_index": 144,
+                    "global_sentence_index": 405
+                },
+                {
+                    "sentence": "היסוד הנפשי הנדרש בעבירה זו הוא, שהדבר נעשה מתוך שאיפה להשגת מטרה/יעד לבצע פשע או עוון, או להקל על ביצועם (קדמי, שם, בעמ' 1276, וכן י' קדמי, \"על הדין בפלילים, \", מהד' תשס\"ה – 2004, חלק ראשון, בעמ' 140, ועמ' 160)",
+                    "sentence_id": "1",
+                    "paragraph_index": 144,
+                    "global_sentence_index": 406
+                },
+                {
+                    "sentence": "יסוד זה נתקיים במקרה דנן, שהרי הנאשם איים על אנדריי עם סכין, ושיסה בו את הכלבה, כשהמניע למעשיו אלה היה – לאפשר לו לבצע במתלוננת את זממו, או להקל על ביצועו, ללא התנגדות מצד אנדריי",
+                    "sentence_id": "2",
+                    "paragraph_index": 144,
+                    "global_sentence_index": 407
+                }
+            ]
+        },
+        {
+            "paragraph_index": 145,
+            "sentences": [
+                {
+                    "sentence": "51.\tבאשר לעבירה האחרונה נשוא כתב האישום – חבלה חמורה, לפי  לחוק, ספק בעיניי אם החבלות שנחבל אנדריי (מבלי להקל בהן ראש) עולות כדי \"חבלה חמורה\" כהגדרתה בסעיף  לחוק",
+                    "sentence_id": "0",
+                    "paragraph_index": 145,
+                    "global_sentence_index": 408
+                },
+                {
+                    "sentence": "עיינתי בתמונות ת/6, ובתעודה הרפואית ת/9, שבה צוין כך: \"המטומה וסימני נשיכה ניכרים בירך ימין,כמו כן סימני נשיכות בלחי ימין, ומספר שריטות/נשיכות באמת יד שמאל\"",
+                    "sentence_id": "1",
+                    "paragraph_index": 145,
+                    "global_sentence_index": 409
+                },
+                {
+                    "sentence": "לא ברור מהו הטיפול הרפואי שאנדריי קיבל, אם בכלל (מלבד זריקה, פרו' עמ' 15)",
+                    "sentence_id": "2",
+                    "paragraph_index": 145,
+                    "global_sentence_index": 410
+                },
+                {
+                    "sentence": "הוא לא אושפז, ולו לזמן קצר",
+                    "sentence_id": "3",
+                    "paragraph_index": 145,
+                    "global_sentence_index": 411
+                },
+                {
+                    "sentence": "סימני הנשיכה והשריטות היו ניכרים היטב אז, בעת הבדיקה הרפואית, יום אחרי האירוע, אך לא ברור אם כיום נותר מהם זכר",
+                    "sentence_id": "4",
+                    "paragraph_index": 145,
+                    "global_sentence_index": 412
+                },
+                {
+                    "sentence": "בוודאי לא הוכח כי מדובר (כהגדרת \"חבלה חמורה\" בסעיף  לחוק) ב\"חבלה מסוכנת, או כי היא פוגעת או עלולה לפגוע קשות או לתמיד בבריאותו או בנוחותו של אנדריי, או שנגרם לו מום קבע או פגיעת קבע או פגיעה קשה באחד האיברים, הקרומים או החושים\"",
+                    "sentence_id": "5",
+                    "paragraph_index": 145,
+                    "global_sentence_index": 413
+                }
+            ]
+        },
+        {
+            "paragraph_index": 146,
+            "sentences": [
+                {
+                    "sentence": "בע\"פ 223/77 (לא פורסם, אוזכר ב (1) 332, בעמ' 335) דקר הנאשם את המתלונן בסכין קפיצית בבטנו וגרם לו חתך באורך 2ס\"מ ובעומק  0.5ס\"מ",
+                    "sentence_id": "0",
+                    "paragraph_index": 146,
+                    "global_sentence_index": 414
+                },
+                {
+                    "sentence": "הוא קיבל טיפול ע\"י חבישה עם חומר אנטיביוטי",
+                    "sentence_id": "1",
+                    "paragraph_index": 146,
+                    "global_sentence_index": 415
+                },
+                {
+                    "sentence": "נפסק שזו איננה \"חבלה חמורה\"",
+                    "sentence_id": "2",
+                    "paragraph_index": 146,
+                    "global_sentence_index": 416
+                }
+            ]
+        },
+        {
+            "paragraph_index": 147,
+            "sentences": [
+                {
+                    "sentence": "לעומת זאת, בענין  הנ\"ל, שבו הנאשם נתן למתלונן אגרוף באף, ו\"פתח לו את האף לשניים\", ובוצעה תפירה של החתך, נקבע שזוהי \"חבלה חמורה\"",
+                    "sentence_id": "0",
+                    "paragraph_index": 147,
+                    "global_sentence_index": 417
+                }
+            ]
+        },
+        {
+            "paragraph_index": 148,
+            "sentences": [
+                {
+                    "sentence": "ב עזאזמי נ' מ\"י נגרמו למתלוננת שטף דם פנימי, דימום ונפיחות בעין, וכמו כן זכוכית נכנסה לעינה, וכתוצאה מן החבלה, היא סובלת מליקוי בראייה",
+                    "sentence_id": "0",
+                    "paragraph_index": 148,
+                    "global_sentence_index": 418
+                },
+                {
+                    "sentence": "נקבע שזוהי \"חבלה חמורה\"",
+                    "sentence_id": "1",
+                    "paragraph_index": 148,
+                    "global_sentence_index": 419
+                }
+            ]
+        },
+        {
+            "paragraph_index": 149,
+            "sentences": [
+                {
+                    "sentence": "וב אבו דיב נ' מ\"י נגרמו למתלונן (בין היתר) קרע בכבד, וכוויה בכתף, והוא אושפז לשבועיים ימים בבית חולים",
+                    "sentence_id": "0",
+                    "paragraph_index": 149,
+                    "global_sentence_index": 420
+                },
+                {
+                    "sentence": "נקבע שזוהי \"חבלה חמורה\" (ר' בפיסקה 32 לפסה\"ד)",
+                    "sentence_id": "1",
+                    "paragraph_index": 149,
+                    "global_sentence_index": 421
+                }
+            ]
+        },
+        {
+            "paragraph_index": 150,
+            "sentences": [
+                {
+                    "sentence": "כמוסבר לעיל, אני סבור כי במקרה דנן לא נגרמה לאנדריי \"חבלה חמורה\", כהגדרתה בחוק, ועל כן אין להרשיעו בחבלה חמורה לפי  לחוק, אלא בעבירה אחרת, לפי  לחוק – תקיפה הגורמת חבלה ממשית",
+                    "sentence_id": "0",
+                    "paragraph_index": 150,
+                    "global_sentence_index": 422
+                },
+                {
+                    "sentence": "ביטוי זה זכה בפסיקה לפירוש מרחיב, ומשמעותו – שתהא זו פגיעה גופנית \"מוחשית\" כלשהי, להבדיל מפגיעה חסרת משמעות ונטולת ביטוי \"מוחשי\" (קדמי, חלק שלישי, בעמ' 1522)",
+                    "sentence_id": "1",
+                    "paragraph_index": 150,
+                    "global_sentence_index": 423
+                }
+            ]
+        },
+        {
+            "paragraph_index": 151,
+            "sentences": [
+                {
+                    "sentence": "ובאשר ליסוד הנפשי הנדרש בעבירה לפי , נדרשת מודעות לכל רכיבי היסוד העובדתי, וכן פזיזות לגבי אפשרות התרחשות התוצאה (קדמי, שם, בעמ' 1523), ויסודות אלה מתקיימים במקרה זה",
+                    "sentence_id": "0",
+                    "paragraph_index": 151,
+                    "global_sentence_index": 424
+                }
+            ]
+        },
+        {
+            "paragraph_index": 152,
+            "sentences": [
+                {
+                    "sentence": "52.\tלסיכום, אציע לחבריי לזכות את הנאשם בעבירה של חבלה חמורה לפי  לחוק, ולהרשיעו תחת זאת בעבירה של תקיפה הגורמת חבלה ממשית, לפי  לחוק, וכן להרשיעו בכל יתר העבירות כמפורט בכתב האישום (כליאת שווא, אינוס, שלילת כושר ההתנגדות לשם ביצוע עבירה)",
+                    "sentence_id": "0",
+                    "paragraph_index": 152,
+                    "global_sentence_index": 425
+                }
+            ]
+        },
+        {
+            "paragraph_index": 153,
+            "sentences": [
+                {
+                    "sentence": "השופטת -אב\"ד",
+                    "sentence_id": "0",
+                    "paragraph_index": 153,
+                    "global_sentence_index": 426
+                }
+            ]
+        },
+        {
+            "paragraph_index": 154,
+            "sentences": [
+                {
+                    "sentence": "אני מצטרפת לניתוחו ומסקנותיו של חברי השופט דותן",
+                    "sentence_id": "0",
+                    "paragraph_index": 154,
+                    "global_sentence_index": 427
+                }
+            ]
+        },
+        {
+            "paragraph_index": 155,
+            "sentences": [
+                {
+                    "sentence": "השופטת",
+                    "sentence_id": "0",
+                    "paragraph_index": 155,
+                    "global_sentence_index": 428
+                }
+            ]
+        },
+        {
+            "paragraph_index": 156,
+            "sentences": [
+                {
+                    "sentence": "אני מצטרפת לניתוחו ומסקנותיו של חברי השופט דותן",
+                    "sentence_id": "0",
+                    "paragraph_index": 156,
+                    "global_sentence_index": 429
+                }
+            ]
+        },
+        {
+            "paragraph_index": 157,
+            "sentences": [
+                {
+                    "sentence": "לפיכך אנו מזכים את הנאשם מעבירה של חבלה חמורה, לפי  ל, ומרשיעים אותו בעבירות של כליאת שווא, לפי  לחוק; אינוס, לפי סעיף  לחוק; שלילת כושר ההתנגדות לשם ביצוע עבירה, לפי  לחוק; ותקיפה חבלנית, לפי  לחוק",
+                    "sentence_id": "0",
+                    "paragraph_index": 157,
+                    "global_sentence_index": 430
+                }
+            ]
+        },
+        {
+            "paragraph_index": 158,
+            "sentences": []
+        },
+        {
+            "paragraph_index": 159,
+            "sentences": [
+                {
+                    "sentence": "ניתנה והודעה היום כ\"ו אייר תשע\"א, 30/05/2011 במעמד הנוכחים",
+                    "sentence_id": "0",
+                    "paragraph_index": 159,
+                    "global_sentence_index": 431
+                }
+            ]
+        },
+        {
+            "paragraph_index": 160,
+            "sentences": []
+        },
+        {
+            "paragraph_index": 161,
+            "sentences": [
+                {
+                    "sentence": "החלטה",
+                    "sentence_id": "0",
+                    "paragraph_index": 161,
+                    "global_sentence_index": 432
+                }
+            ]
+        },
+        {
+            "paragraph_index": 162,
+            "sentences": [
+                {
+                    "sentence": "הננו דוחים את מועד הטיעונים לעונש ליום 18.7.11 בשעה 13:00.",
+                    "sentence_id": "0",
+                    "paragraph_index": 162,
+                    "global_sentence_index": 433
+                }
+            ]
+        },
+        {
+            "paragraph_index": 163,
+            "sentences": [
+                {
+                    "sentence": "המזכירות תעביר הפניה לפקידת הסעד לצורך הכנת תסקיר קורבן, כאשר ב\"כ המאשימה תפנה אף היא לפקידת הסעד עם הפרטים המדויקים של המתלוננת",
+                    "sentence_id": "0",
+                    "paragraph_index": 163,
+                    "global_sentence_index": 434
+                }
+            ]
+        },
+        {
+            "paragraph_index": 164,
+            "sentences": [
+                {
+                    "sentence": "אנו מאריכים את מעצרו של הנאשם, לאחר שהורשע בדין, ב-90 יום מיום 8.6.11.",
+                    "sentence_id": "0",
+                    "paragraph_index": 164,
+                    "global_sentence_index": 435
+                }
+            ]
+        },
+        {
+            "paragraph_index": 165,
+            "sentences": [
+                {
+                    "sentence": "הנאשם יובא באמצעות שב\"ס",
+                    "sentence_id": "0",
+                    "paragraph_index": 165,
+                    "global_sentence_index": 436
+                }
+            ]
+        },
+        {
+            "paragraph_index": 166,
+            "sentences": []
+        },
+        {
+            "paragraph_index": 167,
+            "sentences": [
+                {
+                    "sentence": "ניתנה והודעה היום כ\"ו אייר תשע\"א, 30/05/2011 במעמד הנוכחים",
+                    "sentence_id": "0",
+                    "paragraph_index": 167,
+                    "global_sentence_index": 437
+                }
+            ]
+        },
+        {
+            "paragraph_index": 168,
+            "sentences": [
+                {
+                    "sentence": "רות לורך 54678313",
+                    "sentence_id": "0",
+                    "paragraph_index": 168,
+                    "global_sentence_index": 438
+                }
+            ]
+        },
+        {
+            "paragraph_index": 169,
+            "sentences": []
+        },
+        {
+            "paragraph_index": 170,
+            "sentences": []
+        },
+        {
+            "paragraph_index": 171,
+            "sentences": [
+                {
+                    "sentence": "הוקלד על ידי: אורית קרוג",
+                    "sentence_id": "0",
+                    "paragraph_index": 171,
+                    "global_sentence_index": 439
+                }
+            ]
+        },
+        {
+            "paragraph_index": 172,
+            "sentences": [
+                {
+                    "sentence": "נוסח מסמך זה כפוף לשינויי ניסוח ועריכה",
+                    "sentence_id": "0",
+                    "paragraph_index": 172,
+                    "global_sentence_index": 440
+                }
+            ]
+        },
+        {
+            "paragraph_index": 173,
+            "sentences": [
+                {
+                    "sentence": "בעניין עריכה ושינויים במסמכי פסיקה, חקיקה ועוד באתר נבו – הקש כאן",
+                    "sentence_id": "0",
+                    "paragraph_index": 173,
+                    "global_sentence_index": 441
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "נראה לי, לסיכום, כי גרסאותיהם המהימנות והתומכות זו בזו של המתלוננת ואנדריי, משקפות את האמת כפי שהתרחשה, ואילו הנאשם שיקר וסילף דברים בעדותו, ניסה רק להרחיק עצמו מהאירוע, ועשה רושם בלתי מהימן",
+        " גם המתלוננת בעדותה מסרה גירסה דומה בענין זה (פרו', עמ' 30)",
+        " עדותה של המתלוננת בבית המשפט עשתה רושם מהימן ביותר",
+        " לסיכום עד כאן, עדותו של אנדריי, ובייחוד, עדותה של המתלוננת, עשו רושם מהימן ביותר, לא נפלו סתירות של ממש ביניהן, באשר להתרחשותו של האירוע, על כל שלביו, הן תומכות ומחזקות האחת את השניה, וגם תואמות את הודעותיהם במשטרה, כפי שנמסרו על ידיהם סמוך לאחר האירוע"
+    ],
+    "main_sentence_from_docx": [
+        "נראה לי, לסיכום, כי גרסאותיהם המהימנות והתומכות זו בזו של המתלוננת ואנדריי, משקפות את האמת כפי שהתרחשה, ואילו הנאשם שיקר וסילף דברים בעדותו, ניסה רק להרחיק עצמו מהאירוע, ועשה רושם בלתי מהימן",
+        "גם המתלוננת בעדותה מסרה גירסה דומה בענין זה (פרו', עמ' 30)",
+        "43.\tעדותה של המתלוננת בבית המשפט עשתה רושם מהימן ביותר",
+        "47.\tלסיכום עד כאן, עדותו של אנדריי, ובייחוד, עדותה של המתלוננת, עשו רושם מהימן ביותר, לא נפלו סתירות של ממש ביניהן, באשר להתרחשותו של האירוע, על כל שלביו, הן תומכות ומחזקות האחת את השניה, וגם תואמות את הודעותיהם במשטרה, כפי שנמסרו על ידיהם סמוך לאחר האירוע"
+    ],
+    "main_sentence_id_in_docx": [
+        "139_0",
+        "32_3",
+        "129_0",
+        "137_0"
+    ],
+    "global_sentence_index_docx": [
+        397,
+        82,
+        376,
+        394
+    ],
+    "global_sentence_index_spike": [
+        1544989,
+        1544592,
+        1544955,
+        1544984
+    ],
+    "score_of_similarity": [
+        0.0,
+        0.0,
+        0.07,
+        0.01
+    ]
+}

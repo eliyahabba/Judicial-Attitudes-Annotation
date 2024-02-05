@@ -1,0 +1,637 @@
+{
+    "title": "SH-09-10-27052-256",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": []
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "נוכחים:",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "ב\"כ המאשימה: עו\"ד וסים בדר",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "הנאשם: בעצמו ועל ידי ב\"כ עו\"ד שלמה אלכביר",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "חקיקה שאוזכרה:",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": ": סע'  ,",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": ": סע'",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 7,
+            "sentences": [
+                {
+                    "sentence": "הכרעת דין",
+                    "sentence_id": "0",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 8,
+            "sentences": [
+                {
+                    "sentence": "מבוא:",
+                    "sentence_id": "0",
+                    "paragraph_index": 8,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 9,
+            "sentences": [
+                {
+                    "sentence": "הצדדים הגיעו לידי הסדר דיוני לפיו הנאשם הודה בעובדות המיוחסות לו בכתב האישום המתוקן, ובטרם הרשעה הוגש בעניינו תסקיר מטעם שירות המבחן",
+                    "sentence_id": "0",
+                    "paragraph_index": 9,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 10,
+            "sentences": [
+                {
+                    "sentence": "לפי עובדות כתב האישום המתוקן, בזמן הרלוונטי לביצוע המעשים המיוחסים לו שימש הנאשם כסוכן מטעם חברת \"YES\"",
+                    "sentence_id": "0",
+                    "paragraph_index": 10,
+                    "global_sentence_index": 9
+                }
+            ]
+        },
+        {
+            "paragraph_index": 11,
+            "sentences": [
+                {
+                    "sentence": "ביום 9.9.09 ביצע הנאשם מעשה מגונה באדם בהתאם להוראות  ל, תשל\"ז-1977 והכל כפי המפורט בעובדות כתב האישום המתוקן",
+                    "sentence_id": "0",
+                    "paragraph_index": 11,
+                    "global_sentence_index": 10
+                }
+            ]
+        },
+        {
+            "paragraph_index": 12,
+            "sentences": [
+                {
+                    "sentence": "תסקיר שירות המבחן:",
+                    "sentence_id": "0",
+                    "paragraph_index": 12,
+                    "global_sentence_index": 11
+                }
+            ]
+        },
+        {
+            "paragraph_index": 13,
+            "sentences": [
+                {
+                    "sentence": "בעניינו של הנאשם הוגש תסקיר שירות המבחן ממנו עולה, כי הנאשם בן 30, רווק, המתגורר עם אימו בטבריה",
+                    "sentence_id": "0",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 12
+                },
+                {
+                    "sentence": "בארבע השנים האחרונות עבד בחברת YES",
+                    "sentence_id": "1",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 13
+                }
+            ]
+        },
+        {
+            "paragraph_index": 14,
+            "sentences": [
+                {
+                    "sentence": "המדובר באדם אשר סיים 12 שנות לימוד בטבריה בבית ספר עמל, במגמת מנהל עסקים, עם תעודת בגרות מלאה",
+                    "sentence_id": "0",
+                    "paragraph_index": 14,
+                    "global_sentence_index": 14
+                },
+                {
+                    "sentence": "הנאשם לא התגייס לצבא עקב מצבו הבריאותי, והעובדה כי בגיל 13 חלה במחלה הפוגעת בשרירי הגוף וגרמה לחולשה ועייפות",
+                    "sentence_id": "1",
+                    "paragraph_index": 14,
+                    "global_sentence_index": 15
+                }
+            ]
+        },
+        {
+            "paragraph_index": 15,
+            "sentences": [
+                {
+                    "sentence": "למרות היותו פטור משירות צבאי בחר הנאשם להתנדב מתוך רצון לתרום למדינה",
+                    "sentence_id": "0",
+                    "paragraph_index": 15,
+                    "global_sentence_index": 16
+                }
+            ]
+        },
+        {
+            "paragraph_index": 16,
+            "sentences": [
+                {
+                    "sentence": "לאחר שהנאשם סיים את תקופת ההתנדבות למד במכללת עמק הירדן לתקופה של שנתיים וחצי, וקיבל תעודת הנדסאי",
+                    "sentence_id": "0",
+                    "paragraph_index": 16,
+                    "global_sentence_index": 17
+                }
+            ]
+        },
+        {
+            "paragraph_index": 17,
+            "sentences": [
+                {
+                    "sentence": "יצוין כי, אין לחובתו של הנאשם הרשעות קודמות",
+                    "sentence_id": "0",
+                    "paragraph_index": 17,
+                    "global_sentence_index": 18
+                }
+            ]
+        },
+        {
+            "paragraph_index": 18,
+            "sentences": [
+                {
+                    "sentence": "לגבי העבירה המיוחסת לו בכתב האישום, ציין הנאשם בפני שירות המבחן, כי הוא נוטל על עצמו אחריות לביצועה, ואף ציין כי סבר שהמתלוננת בגירה ומעוניינת בקשר עימו",
+                    "sentence_id": "0",
+                    "paragraph_index": 18,
+                    "global_sentence_index": 19
+                }
+            ]
+        },
+        {
+            "paragraph_index": 19,
+            "sentences": [
+                {
+                    "sentence": "שירות המבחן לא התרשם, כי קיימת אצל הנאשם כל סטייה מינית או פתלוגיה בתחום תפקודו המיני",
+                    "sentence_id": "0",
+                    "paragraph_index": 19,
+                    "global_sentence_index": 20
+                }
+            ]
+        },
+        {
+            "paragraph_index": 20,
+            "sentences": [
+                {
+                    "sentence": "שירות המבחן פנה לנאשם והציע כי יש לבדוק אפשרות שילובו בקבוצה טיפולית ייעודית לעברייני מין, המתקיימת בשירות המבחן וזאת בהסתמך על ממצאי הערכת המסוכנות, הקובעת, כי הסיכון אשר נשקף מהנאשם להישנות עבירות המין הינו ברמה הבינונית",
+                    "sentence_id": "0",
+                    "paragraph_index": 20,
+                    "global_sentence_index": 21
+                },
+                {
+                    "sentence": "בעניינו של הנאשם הוגש תסקיר משלים ממנו עולה כי, הנאשם הגיע באופן יציב ורציף לקבוצה, ואף גילה מוטיבציה ונטל חלק פעיל במסגרת הטיפול",
+                    "sentence_id": "1",
+                    "paragraph_index": 20,
+                    "global_sentence_index": 22
+                }
+            ]
+        },
+        {
+            "paragraph_index": 21,
+            "sentences": [
+                {
+                    "sentence": "המלצת שירות המבחן הינה,  כי הנאשם ימשיך בהליך טיפולי בו הוא החל בקבוצה ייעודית לעברייני מין וזאת במסגרת צו מבחן אשר יוטל עליו למשך 18 חודשים, זאת בנוסף לתשלום פיצויים למתלוננת",
+                    "sentence_id": "0",
+                    "paragraph_index": 21,
+                    "global_sentence_index": 23
+                }
+            ]
+        },
+        {
+            "paragraph_index": 22,
+            "sentences": [
+                {
+                    "sentence": "לגבי עניין אי ההרשעה, שירות המבחן לא נקט כל עמדה",
+                    "sentence_id": "0",
+                    "paragraph_index": 22,
+                    "global_sentence_index": 24
+                }
+            ]
+        },
+        {
+            "paragraph_index": 23,
+            "sentences": [
+                {
+                    "sentence": "הוראות החוק והפסיקה",
+                    "sentence_id": "0",
+                    "paragraph_index": 23,
+                    "global_sentence_index": 25
+                }
+            ]
+        },
+        {
+            "paragraph_index": 24,
+            "sentences": [
+                {
+                    "sentence": "כללי החוק והפסיקה בעניין סוגית ההרשעה ידועים",
+                    "sentence_id": "0",
+                    "paragraph_index": 24,
+                    "global_sentence_index": 26
+                },
+                {
+                    "sentence": "בקצירת האומר יצויין, כי הן על פי  [נ\"מ] תשמ\"ב- 1982  העוסק בענין זה, והן על פי הפסיקה, ובראשה פסקי הדין המנחים בעניין רומנו ( גדעון רומנו נגד מדינת ישראל תק' על' 85 (3) 737), בענין כתב (' (3), 337) ובענין שמש (' (3) 682),\"ברירת המחדל\" הינה הרשעה, ואי הרשעה הינו חריג לכלל ונקבע בנסיבות יוצאות דופן, בהן אין יחס סביר בין הנזק הצפוי מן ההרשעה בדין לבין חומרתה של העבירה",
+                    "sentence_id": "1",
+                    "paragraph_index": 24,
+                    "global_sentence_index": 27
+                }
+            ]
+        },
+        {
+            "paragraph_index": 25,
+            "sentences": [
+                {
+                    "sentence": "יצוין כי חד פעמיות של העבירה, והתנהגות נאשם לפני ואחרי ביצוע העבירה הוכרו אף הם בפסיקה כטעם ונסיבה מיוחדת המצדיקה לעיתים אי הרשעה",
+                    "sentence_id": "0",
+                    "paragraph_index": 25,
+                    "global_sentence_index": 28
+                },
+                {
+                    "sentence": "(ראו  פלוני נ' מדינת ישראל, פ\"ד מה(1), 120)",
+                    "sentence_id": "1",
+                    "paragraph_index": 25,
+                    "global_sentence_index": 29
+                }
+            ]
+        },
+        {
+            "paragraph_index": 26,
+            "sentences": [
+                {
+                    "sentence": "כן, ככל שחומרתה של העבירה רבה כן יגבר האינטרס הציבורי ויטו כפות המאזניים לכיוון הרשעה",
+                    "sentence_id": "0",
+                    "paragraph_index": 26,
+                    "global_sentence_index": 30
+                }
+            ]
+        },
+        {
+            "paragraph_index": 27,
+            "sentences": [
+                {
+                    "sentence": "על המאזן הנדרש עמד ביהמ\"ש ב (3) 685:",
+                    "sentence_id": "0",
+                    "paragraph_index": 27,
+                    "global_sentence_index": 31
+                }
+            ]
+        },
+        {
+            "paragraph_index": 28,
+            "sentences": [
+                {
+                    "sentence": "\"משהתבקש ביהמ\"ש לשקול אימתי יחיל את הכלל המדבר בחובת הרשעה, ומתי יחיל את החריג בדבר הימנעות מהרשעה, נדרש איזון שיקולים המעמיד את האינטרס הציבורי אל מול נסיבותיו האינדיוידואליות של הנאשם",
+                    "sentence_id": "0",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 32
+                },
+                {
+                    "sentence": "בראיה כוללת נשקל",
+                    "sentence_id": "1",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 33
+                },
+                {
+                    "sentence": "הצורך במיצויו של ההליך הפלילי בדרך של שעת העבריין כדי להשיג בכך בין היתר, את גורם ההרתעה והאכיפה השוויונית של החוק",
+                    "sentence_id": "2",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 34
+                },
+                {
+                    "sentence": "שיקול ציבורי זה פועל במשנה תוקף ככל שחומרת העבירה גדולה יותר, והנזקים לפרט מביצועה - גוברים",
+                    "sentence_id": "3",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 35
+                },
+                {
+                    "sentence": "כנגד השיקול הציבורי נשקל עניינו של הפרט - הנאשם",
+                    "sentence_id": "4",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 36
+                },
+                {
+                    "sentence": "באשר לנאשמים בגירים, במאזן השיקולים האמור, גובר בדרך כלל השיקול הציבורי, ורק נסיבות מיוחדות, חריגות ויוצאות דופן ביותר תצדקנה סטייה מחובת מיצוי הדין בדרך הרשעת העבריין\"",
+                    "sentence_id": "5",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 37
+                }
+            ]
+        },
+        {
+            "paragraph_index": 29,
+            "sentences": [
+                {
+                    "sentence": "עיננו הרואות , כי המדובר הוא בעבירה חמורה שעניינה מעשה מגונה אשר בוצע בקטינה",
+                    "sentence_id": "0",
+                    "paragraph_index": 29,
+                    "global_sentence_index": 38
+                },
+                {
+                    "sentence": "קיימים מספר נימוקים המצדיקים את הרשעתו של הנאשם בדין והם: סוג העבירה וחומרתה, העובדה כי המדובר הוא ברמת מסוכנות בינונית וזאת כפי שהדבר בא לידי ביטוי בתסקיר שירות המבחן, העובדה, כי המעשה המיוחס בוצע במתלוננת קטינה, העובדה, כי שירות המבחן לא המליץ על הימנעות מהרשעת הנאשם בדין וכן העובדה, כי לא הוכח בפניי שהרשעתו של הנאשם בדין יכולה להביא לגדיעת מקור פרנסתו ו/או לנזק קיצוני בהשוואה לאינטרס הציבורי המחייב בענייננו את הרשעת הנאשם בדין",
+                    "sentence_id": "1",
+                    "paragraph_index": 29,
+                    "global_sentence_index": 39
+                }
+            ]
+        },
+        {
+            "paragraph_index": 30,
+            "sentences": [
+                {
+                    "sentence": "עיינתי בפסיקה אשר הוגשה מטעם הסניגור המלומד אולם, קיים שוני בין המקרים אשר נדונו שם לבין המקרה נשוא הליך זה",
+                    "sentence_id": "0",
+                    "paragraph_index": 30,
+                    "global_sentence_index": 40
+                },
+                {
+                    "sentence": "לא הוכח מה נזק ייגרם לנאשם במידה ויורשע בדין",
+                    "sentence_id": "1",
+                    "paragraph_index": 30,
+                    "global_sentence_index": 41
+                },
+                {
+                    "sentence": "לא הוכח, כי רמת המסוכנות הנשקפת ממנו הינה נמוכה ואין סיכוי להישנות מקרים דומים בעתיד",
+                    "sentence_id": "2",
+                    "paragraph_index": 30,
+                    "global_sentence_index": 42
+                }
+            ]
+        },
+        {
+            "paragraph_index": 31,
+            "sentences": [
+                {
+                    "sentence": "ער אני לעובדה, כי הנאשם הודה וחסך זמן שיפוטי יקר וכן כי אין לחובתו כל הרשעות קודמות אך שיקולים אלה מקומם יפה בשלב של גזר הדין ולא לעניין הימנעות מהרשעתו וזאת בשים לב לנסיבות האופפות את ההתרחשות העובדתית, רמת המסוכנות והמלצת שירות המבחן",
+                    "sentence_id": "0",
+                    "paragraph_index": 31,
+                    "global_sentence_index": 43
+                }
+            ]
+        },
+        {
+            "paragraph_index": 32,
+            "sentences": [
+                {
+                    "sentence": "משכך, הנני מרשיע את הנאשם בעבירות המיוחסות לו בכתב האישום המתוקן",
+                    "sentence_id": "0",
+                    "paragraph_index": 32,
+                    "global_sentence_index": 44
+                }
+            ]
+        },
+        {
+            "paragraph_index": 33,
+            "sentences": []
+        },
+        {
+            "paragraph_index": 34,
+            "sentences": [
+                {
+                    "sentence": "ניתנה והודעה היום י\"ז חשון תשע\"א, 25/10/2010 במעמד הנוכחים",
+                    "sentence_id": "0",
+                    "paragraph_index": 34,
+                    "global_sentence_index": 45
+                }
+            ]
+        },
+        {
+            "paragraph_index": 35,
+            "sentences": []
+        },
+        {
+            "paragraph_index": 36,
+            "sentences": [
+                {
+                    "sentence": "גזר דין",
+                    "sentence_id": "0",
+                    "paragraph_index": 36,
+                    "global_sentence_index": 46
+                }
+            ]
+        },
+        {
+            "paragraph_index": 37,
+            "sentences": [
+                {
+                    "sentence": "הנני מטיל על הנאשם את העונשים כדלקמן:",
+                    "sentence_id": "0",
+                    "paragraph_index": 37,
+                    "global_sentence_index": 47
+                }
+            ]
+        },
+        {
+            "paragraph_index": 38,
+            "sentences": [
+                {
+                    "sentence": "בהתאם להמלצת שירות המבחן ניתן בזה צו מבחן לתקופה של שנה וחצי וזאת כדי לאפשר לנאשם להמשיך בהליך הטיפולי בו החל",
+                    "sentence_id": "0",
+                    "paragraph_index": 38,
+                    "global_sentence_index": 48
+                },
+                {
+                    "sentence": "על הנאשם לבצע כל הוראה ולהתייצב לכל מפגש ולמלא אחר כל דרישה של שירות המבחן",
+                    "sentence_id": "1",
+                    "paragraph_index": 38,
+                    "global_sentence_index": 49
+                }
+            ]
+        },
+        {
+            "paragraph_index": 39,
+            "sentences": [
+                {
+                    "sentence": "הוסבר לנאשם, כי במידה ולא יעמוד בתנאי צו המבחן יוכל בית המשפט להפקיע את המבחן ולהטיל עליו עונש אחר שייראה לו כנכון בנסיבות העניין",
+                    "sentence_id": "0",
+                    "paragraph_index": 39,
+                    "global_sentence_index": 50
+                }
+            ]
+        },
+        {
+            "paragraph_index": 40,
+            "sentences": [
+                {
+                    "sentence": "בנוסף, הנני מחייב את הנאשם לשלם פיצויים למתלוננת בסך 2000 ש\"ח עד ליום 1.12.10",
+                    "sentence_id": "0",
+                    "paragraph_index": 40,
+                    "global_sentence_index": 51
+                },
+                {
+                    "sentence": "הפיצוי יופקד במזכירות בית המשפט וזו האחרונה תדאג להעבירו למתלוננת אשר פרטיה יימסרו על ידי המאשימה",
+                    "sentence_id": "1",
+                    "paragraph_index": 40,
+                    "global_sentence_index": 52
+                }
+            ]
+        },
+        {
+            "paragraph_index": 41,
+            "sentences": [
+                {
+                    "sentence": "אני מחייב את הנאשם לבצע עבודות שירות לתועלת הציבור (צו של\"צ) בהתאם להמלצת שירות המבחן בהיקף של  שעות",
+                    "sentence_id": "0",
+                    "paragraph_index": 41,
+                    "global_sentence_index": 53
+                },
+                {
+                    "sentence": "צו השל\"צ, היקפו , תנאיו ייקבעו על ידי שירות המבחן אשר יגיש תוכנית מגובשת בנוגע לצו השל\"צ תוך 30 יום מהיום",
+                    "sentence_id": "1",
+                    "paragraph_index": 41,
+                    "global_sentence_index": 54
+                }
+            ]
+        },
+        {
+            "paragraph_index": 42,
+            "sentences": [
+                {
+                    "sentence": "אני גוזר על הנאשם 5 חודשי מאסר ואולם הנאשם לא יישא בעונש זה אלא אם יעבור תוך תקופה של שנתיים מהיום על אחת מן העבירות המנויות  ל התשל\"ז- 1977 ויורשע בה תוך תקופת התנאי או לאחר מכן",
+                    "sentence_id": "0",
+                    "paragraph_index": 42,
+                    "global_sentence_index": 55
+                }
+            ]
+        },
+        {
+            "paragraph_index": 43,
+            "sentences": [
+                {
+                    "sentence": "זכות ערעור תוך 45 יום מהיום לבית משפט המחוזי בנצרת",
+                    "sentence_id": "0",
+                    "paragraph_index": 43,
+                    "global_sentence_index": 56
+                }
+            ]
+        },
+        {
+            "paragraph_index": 44,
+            "sentences": []
+        },
+        {
+            "paragraph_index": 45,
+            "sentences": [
+                {
+                    "sentence": "ניתן והודע היום י\"ז חשון תשע\"א, 25/10/2010 במעמד הנוכחים",
+                    "sentence_id": "0",
+                    "paragraph_index": 45,
+                    "global_sentence_index": 57
+                }
+            ]
+        },
+        {
+            "paragraph_index": 46,
+            "sentences": []
+        },
+        {
+            "paragraph_index": 47,
+            "sentences": [
+                {
+                    "sentence": "סאאב דבור 54678313",
+                    "sentence_id": "0",
+                    "paragraph_index": 47,
+                    "global_sentence_index": 58
+                }
+            ]
+        },
+        {
+            "paragraph_index": 48,
+            "sentences": []
+        },
+        {
+            "paragraph_index": 49,
+            "sentences": [
+                {
+                    "sentence": "הוקלד על ידי: שרית כהן",
+                    "sentence_id": "0",
+                    "paragraph_index": 49,
+                    "global_sentence_index": 59
+                }
+            ]
+        },
+        {
+            "paragraph_index": 50,
+            "sentences": [
+                {
+                    "sentence": "נוסח מסמך זה כפוף לשינויי ניסוח ועריכה",
+                    "sentence_id": "0",
+                    "paragraph_index": 50,
+                    "global_sentence_index": 60
+                }
+            ]
+        },
+        {
+            "paragraph_index": 51,
+            "sentences": [
+                {
+                    "sentence": "בעניין עריכה ושינויים במסמכי פסיקה, חקיקה ועוד באתר נבו – הקש כאן",
+                    "sentence_id": "0",
+                    "paragraph_index": 51,
+                    "global_sentence_index": 61
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [],
+    "main_sentence_from_docx": [],
+    "main_sentence_id_in_docx": [],
+    "global_sentence_index_docx": [],
+    "global_sentence_index_spike": [],
+    "score_of_similarity": []
+}

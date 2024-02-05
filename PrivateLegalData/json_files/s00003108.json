@@ -1,0 +1,2185 @@
+{
+    "title": "s00003108",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "בתי המשפט",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "חקיקה שאוזכרה:",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": ": סע'",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "הכרעת - דין",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "הנאשם מואשם כדלהלן:",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "בין התאריכים 14/8/96 – 13, בתאריך מדוייק שאינו ידוע לתביעה בשעות אחה\"צ, ביישוב קציר הנאשם ביצע מעשה מגונה בגופה של א",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 5
+                },
+                {
+                    "sentence": "א",
+                    "sentence_id": "1",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 6
+                },
+                {
+                    "sentence": "(להלן: \"המתלוננת\") בכך שהוריד את חזייתה ומצץ את פטמת שדה הימנית בניגוד לרצונה",
+                    "sentence_id": "2",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "הוראת החיקוק המיוחסת לנאשם:",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 7,
+            "sentences": [
+                {
+                    "sentence": "5129371מעשה מגונה – עבירה בניגוד ל ל התשל\"ז – 1977.",
+                    "sentence_id": "0",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 9
+                }
+            ]
+        },
+        {
+            "paragraph_index": 8,
+            "sentences": [
+                {
+                    "sentence": "עד למועד כתיבת הכרעת הדין לא הוגשו סיכומים בכתב מטעם הנאשם, למרות שביהמ\"ש נתן מספר הזדמנויות לעניין זה",
+                    "sentence_id": "0",
+                    "paragraph_index": 8,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": "ביום 20.1.04 ביהמ\"ש נתן החלטה סופית לעניין סיכומי הנאשם ובמסגרתה ציין מפורשות שהכרעת הדין תנתן ללא סיכומי הנאשם",
+                    "sentence_id": "1",
+                    "paragraph_index": 8,
+                    "global_sentence_index": 11
+                },
+                {
+                    "sentence": "למרות זאת, ביום 15.2.04 הנאשם המציא לתיק ביהמ\"ש סיכומים בכתב מבלי שצירף להם בקשה כלשהי, אשר תתן הסבר לאופן התנהלותו ובמיוחד התנהלותו לאור החלטת ביהמ\"ש מיום 20.1.04 כאמור לעיל",
+                    "sentence_id": "2",
+                    "paragraph_index": 8,
+                    "global_sentence_index": 12
+                },
+                {
+                    "sentence": "נ",
+                    "sentence_id": "3",
+                    "paragraph_index": 8,
+                    "global_sentence_index": 13
+                }
+            ]
+        },
+        {
+            "paragraph_index": 9,
+            "sentences": [
+                {
+                    "sentence": "בכל מקרה, ביהמ\"ש ינתח את הראיות שהוצגו ע\"י הצדדים לצורך מתן החלטה בעניין אשמתו של הנאשם כמפורט בכתב האישום",
+                    "sentence_id": "0",
+                    "paragraph_index": 9,
+                    "global_sentence_index": 14
+                },
+                {
+                    "sentence": "ב",
+                    "sentence_id": "1",
+                    "paragraph_index": 9,
+                    "global_sentence_index": 15
+                }
+            ]
+        },
+        {
+            "paragraph_index": 10,
+            "sentences": [
+                {
+                    "sentence": "הנאשם כפר בעובדות כתב האישום רק בכל מה שקשור למעשה הפלילי המיוחס לו; דהיינו אין מחלוקת שהנאשם הסיע את המתלוננת ברכבו ממקום מגוריה אז בפתח תקוה לביתו ביישוב קציר, שם נכחה גם אשתו; ולאחר שהייתה של המתלוננת בביתו של הנאשם במשך מספר שעות, הוא החזירה חזרה ברכבו לביתה",
+                    "sentence_id": "0",
+                    "paragraph_index": 10,
+                    "global_sentence_index": 16
+                },
+                {
+                    "sentence": "עוד יש לציין שהנאשם לא טען טענת אליבי למועד המצויין בעובדות כתב האישום",
+                    "sentence_id": "1",
+                    "paragraph_index": 10,
+                    "global_sentence_index": 17
+                },
+                {
+                    "sentence": "ו",
+                    "sentence_id": "2",
+                    "paragraph_index": 10,
+                    "global_sentence_index": 18
+                }
+            ]
+        },
+        {
+            "paragraph_index": 11,
+            "sentences": [
+                {
+                    "sentence": "אין ספק שעדת התביעה העיקרית והמהותית הינה המתלוננת",
+                    "sentence_id": "0",
+                    "paragraph_index": 11,
+                    "global_sentence_index": 19
+                }
+            ]
+        },
+        {
+            "paragraph_index": 12,
+            "sentences": [
+                {
+                    "sentence": "בחקירתה הראשית המפורטת מסרה העדה את גרסתה לעניין נסיבות האירוע באופן ברור, עקבי ואמין",
+                    "sentence_id": "0",
+                    "paragraph_index": 12,
+                    "global_sentence_index": 20
+                },
+                {
+                    "sentence": "העדה פרצה בבכי מספר פעמים כאשר תיארה קטעים מסויימים מהחוויה הטראומתית שעברה בביתו של הנאשם",
+                    "sentence_id": "1",
+                    "paragraph_index": 12,
+                    "global_sentence_index": 21
+                }
+            ]
+        },
+        {
+            "paragraph_index": 13,
+            "sentences": [
+                {
+                    "sentence": "במועד האירוע נשוא כתב האישום, היתה המתלוננת כבת 16 שנה, היא חיה עם אביה כאשר יחסיה עימו היו קשים, ולפיכך היתה נתונה במצוקה קשה",
+                    "sentence_id": "0",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 22
+                },
+                {
+                    "sentence": "ידיד שלה אותה עת, שמע את הנאשם בתוכנית רדיו שהוא עוזר לאנשים במצוקה, והואיל וידע על מצבה הבעייתי של המתלוננת יצר קשר עם הנאשם שמסר את פרטיו באותה תוכנית רדיו, ודרכו של אותו ידיד נוצר הקשר הטלפוני שלה עם הנאשם",
+                    "sentence_id": "1",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 23
+                },
+                {
+                    "sentence": "לגירסתה היא שוחחה עם הנאשם במשך כשבוע בטלפון, כשהוא נשמע לה הגון שכל כוונתו לסייע לה לצאת מהבית כדי שיהיה לה טוב כדבריה",
+                    "sentence_id": "2",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 24
+                },
+                {
+                    "sentence": "באחת השיחות הם נדברו שהנאשם יגיע לביתה לקחתה ואכן כך היה",
+                    "sentence_id": "3",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 25
+                },
+                {
+                    "sentence": "דהיינו, הנאשם הגיע לביתה והיא נסעה ברכבו לביתו",
+                    "sentence_id": "4",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 26
+                },
+                {
+                    "sentence": "במהלך הנסיעה ניהל הנאשם עם המתלוננת שיחה שכל הקונוטציה שלה היתה מינית כולל יחסיו המיניים עם אשתו",
+                    "sentence_id": "5",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 27
+                },
+                {
+                    "sentence": "הואיל והמתלוננת היתה במצוקה וחסרת ביטחון למרות השיחה, האמינה שהנאשם יעזור לה לצאת ממצבה הקשה ויסייע לה לצאת מהבית",
+                    "sentence_id": "6",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 28
+                },
+                {
+                    "sentence": "כשהם הגיעו למכולת במקום מגוריו של הנאשם, הנאשם עצר את רכבו ואמר לה שתקנה כל מה שהיא חפצה",
+                    "sentence_id": "7",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 29
+                },
+                {
+                    "sentence": "אח\"כ הם הגיעו לבית הנאשם שם נכחו אשתו ואחיה, אשר נתבקש לקחת את הילדים שהיו בבית לטיול",
+                    "sentence_id": "8",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 30
+                },
+                {
+                    "sentence": "השלושה ישבו בסלון הבית כשהנאשם אומר לה שהיא צריכה לעבור תהליך טיפולי מאז היותה תינוקת, ולשם כך עליה ללכת עם אשתו כדי שתינק ממנה",
+                    "sentence_id": "9",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 31
+                },
+                {
+                    "sentence": "אשתו בתחילה התנגדה, אולם בסופו של דבר שתיהן נכנסו לאחד מחדרי הבית, שם שוחחו ביניהן ואז נכנס הנאשם לחדר עם תחתונים",
+                    "sentence_id": "10",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 32
+                },
+                {
+                    "sentence": "המתלוננת היתה ישובה על המיטה, הנאשם ירד על ברכיו מולה, הוריד את חולצתה והחל ללקק אותה כשהוא מוצץ את פטמותיה",
+                    "sentence_id": "11",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 33
+                },
+                {
+                    "sentence": "אשתו החלה לנשק אותה בצאוורה וכשהמתלוננת החלה לצעוק שניהם הפסיקו ועזבו את החדר",
+                    "sentence_id": "12",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 34
+                },
+                {
+                    "sentence": "המתלוננת נשארה לשבת בחדר עד שנכנס הנאשם, נתן לה דף נייר כדי שתרשום איך היא מרגישה",
+                    "sentence_id": "13",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 35
+                },
+                {
+                    "sentence": "היא כתבה מספר משפטים, ולאחר מכן הנאשם הוציא אותה מהחדר והם ישבו שוב בסלון הבית",
+                    "sentence_id": "14",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 36
+                },
+                {
+                    "sentence": "במהלך ישיבתם הנאשם אמר לה לכתוב עוד מכתב שהוא יפנה לראש הממשלה כדי לעזור לה",
+                    "sentence_id": "15",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 37
+                },
+                {
+                    "sentence": "המכתב נשאר אצלו",
+                    "sentence_id": "16",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 38
+                },
+                {
+                    "sentence": "אח\"כ הנאשם הסיע אותה חזרה לביתה",
+                    "sentence_id": "17",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 39
+                },
+                {
+                    "sentence": "הואיל והאירוע היה טראומתי עבורה והיא היתה בהלם, לא סיפרה עליו מיידית לאף אחד",
+                    "sentence_id": "18",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 40
+                },
+                {
+                    "sentence": "כאשר הגיעה לראיון בביה\"ס לצורך קביעת מגמת לימודים, היא פרצה בבכי וסיפרה מה עבר עליה בבית הנאשם",
+                    "sentence_id": "19",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 41
+                },
+                {
+                    "sentence": "משם ועד התלונה במשטרה לא עבר זמן רב",
+                    "sentence_id": "20",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 42
+                },
+                {
+                    "sentence": "למיטב זכרונה של המתלוננת היא סיפרה מה עבר עליה גם לידידה הנ\"ל, אך היא לא זכרה מתיי",
+                    "sentence_id": "21",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 43
+                },
+                {
+                    "sentence": "נ",
+                    "sentence_id": "22",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 44
+                }
+            ]
+        },
+        {
+            "paragraph_index": 14,
+            "sentences": [
+                {
+                    "sentence": "העדה נחקרה חקירה נגדית ע\"י הנאשם, אולם החקירה התמקדה בעיקר בעניינים עקיפים ושוליים אשר אינם קשורים לאירוע עצמו בבית הנאשם",
+                    "sentence_id": "0",
+                    "paragraph_index": 14,
+                    "global_sentence_index": 45
+                },
+                {
+                    "sentence": "דהיינו הנאשם לא עימת את המתלוננת עם הנסיבות המפורטות כפי שסיפרה בחקירתה הראשית הנוגעות לעצם העבירה המיוחסת לנאשם",
+                    "sentence_id": "1",
+                    "paragraph_index": 14,
+                    "global_sentence_index": 46
+                },
+                {
+                    "sentence": "ביהמ\"ש לא מנע מהנאשם לשאול שאלות רלוונטיות ומהותיות בחקירה נגדית והוא בחר לעשות זאת מיוזמתו כשהוא מודע לתוצאות התנהלות שכזו",
+                    "sentence_id": "2",
+                    "paragraph_index": 14,
+                    "global_sentence_index": 47
+                },
+                {
+                    "sentence": "ב",
+                    "sentence_id": "3",
+                    "paragraph_index": 14,
+                    "global_sentence_index": 48
+                }
+            ]
+        },
+        {
+            "paragraph_index": 15,
+            "sentences": [
+                {
+                    "sentence": "יחד עם זאת במרבית תשובותיה של המתלוננת בחקירה נגדית, היא חזרה על גרסתה בחקירה הראשית",
+                    "sentence_id": "0",
+                    "paragraph_index": 15,
+                    "global_sentence_index": 49
+                },
+                {
+                    "sentence": "המתלוננת לא הסתירה דבר, לא הכחישה ולא פעלה כדי להחמיר עם הנאשם על מנת להקצין את הסטואציה",
+                    "sentence_id": "1",
+                    "paragraph_index": 15,
+                    "global_sentence_index": 50
+                },
+                {
+                    "sentence": "ואילו הוא, בחר להתמקד כאמור בנתונים ועובדות שאין עליהם מחלוקת, ולא עימת אותה עם עובדות העבירה המיוחסת לו",
+                    "sentence_id": "2",
+                    "paragraph_index": 15,
+                    "global_sentence_index": 51
+                },
+                {
+                    "sentence": "אין בפני ביהמ\"ש הסבר להתנהלות זו של הנאשם ואם כך אזיי יש בכך כדי לחזק את גירסת המתלוננת בעיקר בכל מה שקשור לעובדות כתב האישום",
+                    "sentence_id": "3",
+                    "paragraph_index": 15,
+                    "global_sentence_index": 52
+                }
+            ]
+        },
+        {
+            "paragraph_index": 16,
+            "sentences": [
+                {
+                    "sentence": "הנאשם ביקש להגיש את אימרתה של המתלוננת במשטרה כראייה מטעמו – הוגשה וסומנה נ/1.",
+                    "sentence_id": "0",
+                    "paragraph_index": 16,
+                    "global_sentence_index": 53
+                }
+            ]
+        },
+        {
+            "paragraph_index": 17,
+            "sentences": [
+                {
+                    "sentence": "המתלוננת לא עומתה גם עם גרסתה שבנ/1, ולא נשאלה לעניין זה אפילו שאלה אחת",
+                    "sentence_id": "0",
+                    "paragraph_index": 17,
+                    "global_sentence_index": 54
+                },
+                {
+                    "sentence": "מעיון בנ/1 ניתן ללמוד שהמתלוננת מסרה בביהמ\"ש גירסה דומה ועקבית בדיוק כמו שמסרה באימרתה במשטרה",
+                    "sentence_id": "1",
+                    "paragraph_index": 17,
+                    "global_sentence_index": 55
+                },
+                {
+                    "sentence": "נ/1 אפילו מפורט יותר בנקודות מסויימות, בעיקר בנקודות הקשורות למעשה המיני, שככל הנראה למתלוננת היה קשה מאוד לחזור על פרטיו בביהמ\"ש ובכך להחזיר עצמה אחורה מספר שנים לאותה סיטואציה משפילה, מבזה ופוגעת פיזית ונפשית",
+                    "sentence_id": "2",
+                    "paragraph_index": 17,
+                    "global_sentence_index": 56
+                },
+                {
+                    "sentence": "וכפי שציינתי שתי הגרסאות של המתלוננת תואמות, מצטלבות ומשתלבות כך שלביהמ\"ש לא ברור מדוע בחר הנאשם להגיש את נ/1 כראייה מטעמו",
+                    "sentence_id": "3",
+                    "paragraph_index": 17,
+                    "global_sentence_index": 57
+                },
+                {
+                    "sentence": "ו",
+                    "sentence_id": "4",
+                    "paragraph_index": 17,
+                    "global_sentence_index": 58
+                }
+            ]
+        },
+        {
+            "paragraph_index": 18,
+            "sentences": [
+                {
+                    "sentence": "הגם שלעדה היה קשה נפשית לשחזר את השתלשלות האירועים במיוחד של יום האירוע, וניכר שהאירוע משפיע עליה גם מספר שנים לאחר שהתרחש, היא עמדה בכך בצורה ראוייה הגם שהיתה נרגשת ולעיתים פרצה בבכי",
+                    "sentence_id": "0",
+                    "paragraph_index": 18,
+                    "global_sentence_index": 59
+                }
+            ]
+        },
+        {
+            "paragraph_index": 19,
+            "sentences": [
+                {
+                    "sentence": "העדה הינה אמינה עליי ולא מצאתי כל סיבה שתבדה מליבה אירוע שכזה כלפי מי שבתחילה נתנה בו אמון רב וראתה בו עוגן הצלה של ממש",
+                    "sentence_id": "0",
+                    "paragraph_index": 19,
+                    "global_sentence_index": 60
+                },
+                {
+                    "sentence": "כאמור הנאשם בחר שלא לעמת אותה כלל בנקודות המהותיות והחשובות לשאלת אחריותו הפלילית, ובכך חיזק את אמינותה ומהימנותה",
+                    "sentence_id": "1",
+                    "paragraph_index": 19,
+                    "global_sentence_index": 61
+                }
+            ]
+        },
+        {
+            "paragraph_index": 20,
+            "sentences": [
+                {
+                    "sentence": "עדת התביעה הגב' יפעת אדטו היא עובדת סוציאלית המטפלת בנערות, והיא גם טיפלה בתקופה הרלוונטית במתלוננת עקב בעיות בביתה",
+                    "sentence_id": "0",
+                    "paragraph_index": 20,
+                    "global_sentence_index": 62
+                },
+                {
+                    "sentence": "היועצת בביה\"ס היא זו שפנתה לעדה וסיפרה לה שהמתלוננת במצוקה וביקשה שהיא תשוחח עימה בדחיפות",
+                    "sentence_id": "1",
+                    "paragraph_index": 20,
+                    "global_sentence_index": 63
+                },
+                {
+                    "sentence": "השתיים אכן נפגשו, והמתלוננת סיפרה לה מה שעבר עליה, ומה ששמעה העדה כפי שהעידה על כך בביהמ\"ש זוהי הגירסה שמסרה המתלוננת במשטרה ובעדותה בביהמ\"ש",
+                    "sentence_id": "2",
+                    "paragraph_index": 20,
+                    "global_sentence_index": 64
+                },
+                {
+                    "sentence": "בעקבות מה ששמעה העדה הוחלט שהמתלוננת תגיש תלונה במשטרה והיא גם ליוותה אותה למשטרה לצורך כך",
+                    "sentence_id": "3",
+                    "paragraph_index": 20,
+                    "global_sentence_index": 65
+                }
+            ]
+        },
+        {
+            "paragraph_index": 21,
+            "sentences": [
+                {
+                    "sentence": "העדה נחקרה חקירה נגדית קצרה שלא ערערה את גרסתה בחקירה ראשית",
+                    "sentence_id": "0",
+                    "paragraph_index": 21,
+                    "global_sentence_index": 66
+                }
+            ]
+        },
+        {
+            "paragraph_index": 22,
+            "sentences": [
+                {
+                    "sentence": "אכן אין מחלוקת שהמתלוננת מסרה תלונתה בסוף חודש אוגוסט; והגם שמועד האירוע אינו מצויין במדוייק בכתב האישום, אין גם מחלוקת שעבר זמן מסויים בין האירוע ובין הגשת התלונה",
+                    "sentence_id": "0",
+                    "paragraph_index": 22,
+                    "global_sentence_index": 67
+                },
+                {
+                    "sentence": "(אך לא מדובר בפער של חודשים אלא פרק זמן של מספר שבועות)",
+                    "sentence_id": "1",
+                    "paragraph_index": 22,
+                    "global_sentence_index": 68
+                },
+                {
+                    "sentence": "המתלוננת הבהירה נקודה זו באימרתה במשטרה ובביהמ\"ש, והסברה תואם התנהגות והתנהלות של נפגעות תקיפה מינית אשר כובשות את תלונותיהן כלפי הפוגע העבריין עקב רגשי אשמה שהן אלה שהביאו את הפוגע לבצע את זממו",
+                    "sentence_id": "2",
+                    "paragraph_index": 22,
+                    "global_sentence_index": 69
+                },
+                {
+                    "sentence": "כמו גם, רצונן של נפגעות תקיפה מינית לשכוח ולהדחיק את האירוע (ראה עמ' 3 לנ/1 שורות 4-5 ועמ' 9 לפרוט' שורות 23-29)",
+                    "sentence_id": "3",
+                    "paragraph_index": 22,
+                    "global_sentence_index": 70
+                }
+            ]
+        },
+        {
+            "paragraph_index": 23,
+            "sentences": [
+                {
+                    "sentence": "לפיכך אין ספק שעדותה של העדה הנ\"ל תומכת ומחזקת את גרסת המתלוננת",
+                    "sentence_id": "0",
+                    "paragraph_index": 23,
+                    "global_sentence_index": 71
+                }
+            ]
+        },
+        {
+            "paragraph_index": 24,
+            "sentences": [
+                {
+                    "sentence": "עד תביעה נוסף גרשוביץ אלדד הוא אחיה של אשת הנאשם שנכח בבית הנאשם כאשר המתלוננת הובאה ע\"י הנאשם לביתו, ואשר במועד האירוע היה כבן 14 שנה",
+                    "sentence_id": "0",
+                    "paragraph_index": 24,
+                    "global_sentence_index": 72
+                },
+                {
+                    "sentence": "גרסתו של העד תואמת את גרסת המתלוננת לעניין העובדה שכאשר היא התיישבה בסלון הבית, הנאשם ביקש מהעד לצאת עם הילדה הקטנה לסיבוב כדבריו, למרות שהוא סירב",
+                    "sentence_id": "1",
+                    "paragraph_index": 24,
+                    "global_sentence_index": 73
+                },
+                {
+                    "sentence": "העד ציין מפורשות \"היתה הרגשה כזו שלא רוצים שאני אהיה בבית",
+                    "sentence_id": "2",
+                    "paragraph_index": 24,
+                    "global_sentence_index": 74
+                },
+                {
+                    "sentence": "\" (ראה עמ' 11 לפרוט' שורו' 30-31)",
+                    "sentence_id": "3",
+                    "paragraph_index": 24,
+                    "global_sentence_index": 75
+                },
+                {
+                    "sentence": "נקודה מהותית נוספת אליה מתייחס עד זה היא לעניין משך הזמן אשר שהה עם הילדה מחוץ לבית",
+                    "sentence_id": "4",
+                    "paragraph_index": 24,
+                    "global_sentence_index": 76
+                },
+                {
+                    "sentence": "כפי שאצביע בהמשך לנאשם היה אנטרס להציג לביהמ\"ש מצג לפיו הנער והילדה שהו זמן קצר ביותר מחוץ לבית מתוך מטרה לצמצם עד כמה שיותר את הזמן אשר בו נכחו השלושה (הנאשם, אשתו והמתלוננת) לבדם בבית, שכן מטבע הדברים בפרק זמן קצרצר כמו שניסה להציג הנאשם לא ייתכן שעשה את המעשה הפוגעני במתלוננת",
+                    "sentence_id": "5",
+                    "paragraph_index": 24,
+                    "global_sentence_index": 77
+                }
+            ]
+        },
+        {
+            "paragraph_index": 25,
+            "sentences": [
+                {
+                    "sentence": "מגרסתו של העד בחקירה ראשית, בחקירה הנגדית ובעיקר בחקירה החוזרת מסתבר שהנאשם חשב על נקודה קריטית זו מהרגע שהסתבר לו שהנער זומן לחקירה במשטרה",
+                    "sentence_id": "0",
+                    "paragraph_index": 25,
+                    "global_sentence_index": 78
+                }
+            ]
+        },
+        {
+            "paragraph_index": 26,
+            "sentences": [
+                {
+                    "sentence": "בחקירה הראשית אמר העד שהוא היה עם הילדה מחוץ לבית 15 – 20 דקות; 20 דקות לחצי שעה",
+                    "sentence_id": "0",
+                    "paragraph_index": 26,
+                    "global_sentence_index": 79
+                },
+                {
+                    "sentence": "בחקירה נגדית ענה העד לנאשם שבמהלך כל השנים מאז האירוע הוא לא שוחח עימו על האירוע לפרטי פרטים; אולם בחקירה החוזרת הסתבר שהנאשם כן שוחח עימו על האירוע ולעניין זה אמר העד \"נדמה לי שהוא דיבר איתי לגבי הזמן שבו נעדרתי מהבית",
+                    "sentence_id": "1",
+                    "paragraph_index": 26,
+                    "global_sentence_index": 80
+                },
+                {
+                    "sentence": "הוא הסביר לי כאילו הייתי פחות זמן וזהו\"  (ראה עמ' 13 לפרוט' שורות 23-24); וככל הנראה השיחה הזו השפיעה על העד שכן הוא אישר שבמשטרה במהלך חקירתו הוא אמר לחוקר שהנאשם אמר לו לנקוב בפרק זמן של 5 דקות, כאשר הזמן האמיתי הוא שעה ורבע",
+                    "sentence_id": "2",
+                    "paragraph_index": 26,
+                    "global_sentence_index": 81
+                }
+            ]
+        },
+        {
+            "paragraph_index": 27,
+            "sentences": [
+                {
+                    "sentence": "דהיינו למרות הקשיים של עד זה, גם אז בהיותו נער, וגם בזמן העדתו בהיותו חייל, שנובעים בעיקר מהקשר המשפחתי שלו לנאשם ומהעובדה שהנאשם גידל אותו תקופה מסויימת בביתו, בסופו של עניין עולה מעדותו של העד לא רק שהוא נעדר מהבית שעה ורבע, אלא שהנאשם ניסה לנצל אותו על מנת להתחמק מאחריותו לאירוע בכך שלחץ עליו שיאמר בחקירתו במשטרה שהוא היה מחוץ לבית רק 5 דקות",
+                    "sentence_id": "0",
+                    "paragraph_index": 27,
+                    "global_sentence_index": 82
+                },
+                {
+                    "sentence": "ב- 5 דקות אכן קשה למתלוננת לעבור מה שעברה בבית הנאשם כפי שהעידה",
+                    "sentence_id": "1",
+                    "paragraph_index": 27,
+                    "global_sentence_index": 83
+                },
+                {
+                    "sentence": "אין ספק שעולה מכך יותר מאשר ריח של עבירה חמורה נוספת של הדחה בחקירה; ולא ברור מדוע המשטרה לא העמיקה את החקירה בעניין זה",
+                    "sentence_id": "2",
+                    "paragraph_index": 27,
+                    "global_sentence_index": 84
+                },
+                {
+                    "sentence": "הגם שלא אקבע אחריותו של הנאשם לעניין חמור זה, אין ספק שזה תומך בגירסת המתלוננת ופוגם קשות בגירסת הנאשם שלא היו דברים מעולם בכל מה שקשור לעבירה המיוחסת לו",
+                    "sentence_id": "3",
+                    "paragraph_index": 27,
+                    "global_sentence_index": 85
+                }
+            ]
+        },
+        {
+            "paragraph_index": 28,
+            "sentences": [
+                {
+                    "sentence": "מגרסתו של העד עולה עוד שכאשר חזר הביתה ראה את המתלוננת בוכה כשהיא ישבה בחדר של הנאשם ושל אשתו, כשהדלת היתה פתוחה",
+                    "sentence_id": "0",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 86
+                },
+                {
+                    "sentence": "דהיינו, יש בכך כדי לתמוך תמיכה של ממש בגירסת המתלוננת שהאירוע היה בחדר השינה של בני הזוג והיה שלב שהיא בכתה בזמן היותה בחדר",
+                    "sentence_id": "1",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 87
+                }
+            ]
+        },
+        {
+            "paragraph_index": 29,
+            "sentences": [
+                {
+                    "sentence": "העד תומך בגרסתה של המתלוננת גם לעניין העובדה שהיתה צריכה לכתוב משהו על דף כניסוחו",
+                    "sentence_id": "0",
+                    "paragraph_index": 29,
+                    "global_sentence_index": 88
+                },
+                {
+                    "sentence": "נ",
+                    "sentence_id": "1",
+                    "paragraph_index": 29,
+                    "global_sentence_index": 89
+                }
+            ]
+        },
+        {
+            "paragraph_index": 30,
+            "sentences": [
+                {
+                    "sentence": "העד ציין מפורשות שלאחר שנכנס הביתה, כאשר ידוע כבר שהאירוע עצמו כבר הסתיים, המתלוננת התביישה לדבר על ידו וכנראה שוב לא רצו שהוא יהיה נוכח",
+                    "sentence_id": "0",
+                    "paragraph_index": 30,
+                    "global_sentence_index": 90
+                },
+                {
+                    "sentence": "גרסתו זו תומכת באווירה שהיתה בבית לאחר האירוע, שאינה עולה בקנה אחד עם תשובתו בחקירה נגדית לאחת משאלות הנאשם שבמהלך שהייתה של המתלוננת בבית האווירה היתה נינוחה, היא ראתה טלויזיה, היו צחוקים למרות שהיא קצת בכתה",
+                    "sentence_id": "1",
+                    "paragraph_index": 30,
+                    "global_sentence_index": 91
+                },
+                {
+                    "sentence": "תשובה זו באה לרצות את הנאשם עקב המעמד הקשה של העד כפי שהבהרתי כאמור לעיל",
+                    "sentence_id": "2",
+                    "paragraph_index": 30,
+                    "global_sentence_index": 92
+                },
+                {
+                    "sentence": "כלומר, מצד אחד העד הרגיש צורך של ממש לרצות את הנאשם ולתמוך בו, ומצד שני העד הבהיר בצורה לא כ\"כ מפורשת אמנם שהאווירה לא היתה כה נוחה ושלא היו צחוקים, צפיה בטלויזיה וסעודה משותפת",
+                    "sentence_id": "3",
+                    "paragraph_index": 30,
+                    "global_sentence_index": 93
+                },
+                {
+                    "sentence": "העד נאלץ ללכת בין הטיפות, אך יחד עם זאת אין לי ספק כפי שניתחתי כאמור לעיל שבחלק ניכר ומשמעותי בעדותו הוא תומך דווקא בגירסת המתלוננת בכל מה שהתרחש בבית לפני ואחרי האירוע בחדר השינה",
+                    "sentence_id": "4",
+                    "paragraph_index": 30,
+                    "global_sentence_index": 94
+                }
+            ]
+        },
+        {
+            "paragraph_index": 31,
+            "sentences": [
+                {
+                    "sentence": "דהיינו הגם שמדובר בעד תביעה שהוא גם עד מעוניין במובן מסויים, חלק ניכר מעדותו מחזק את גירסת המתלוננת, שכן למרות הנסיבות המיוחדות של העדתו הוא עשה עליי רושם מהימן כמי שמבין שאינו יכול להתחמק מהנסיבות כפי שהוא חווה אותן",
+                    "sentence_id": "0",
+                    "paragraph_index": 31,
+                    "global_sentence_index": 95
+                },
+                {
+                    "sentence": "הוא ניסה להיות נייטרלי וגם אמפתי עם הנאשם, אך עדיין מסר עובדות התואמות ומצטלבות עם הנסיבות כפי שתיארה המתלוננת",
+                    "sentence_id": "1",
+                    "paragraph_index": 31,
+                    "global_sentence_index": 96
+                },
+                {
+                    "sentence": "יש לזכור גם שמדובר בבחור צעיר, שהיה נער צעיר כבן 14 שנה בזמן האירוע, והוא נקלע אליו מכורח הנסיבות",
+                    "sentence_id": "2",
+                    "paragraph_index": 31,
+                    "global_sentence_index": 97
+                }
+            ]
+        },
+        {
+            "paragraph_index": 32,
+            "sentences": [
+                {
+                    "sentence": "השוטר גריפאת הישאם הגיש את הודעת הנאשם תחת אזהרה אשר סומנה ת/1. חקירתו הנגדית לא מסייעת לנאשם שכן הוא ניסה להרשים את ביהמ\"ש בכך שהוא זה שביקש עימות עם המתלוננת",
+                    "sentence_id": "0",
+                    "paragraph_index": 32,
+                    "global_sentence_index": 98
+                },
+                {
+                    "sentence": "מקבלת אני את עמדת החוקר שלו אכן היה מבקש דבר שכזה הדבר היה בא לידי ביטוי בתיק החקירה; וככל הנראה אין לכך ביטוי בתיק החקירה כאשר בכל מקרה הנאשם לא הוכיח אחרת",
+                    "sentence_id": "1",
+                    "paragraph_index": 32,
+                    "global_sentence_index": 99
+                },
+                {
+                    "sentence": "גם עניין מסדר הזיהוי ודו\"ח ההצבעה שהעלה הנאשם בחקירה הנגדית לעד, אינם רלוונטים שכן הנאשם אינו מכחיש מפגש עם המתלוננת בביתו",
+                    "sentence_id": "2",
+                    "paragraph_index": 32,
+                    "global_sentence_index": 100
+                }
+            ]
+        },
+        {
+            "paragraph_index": 33,
+            "sentences": [
+                {
+                    "sentence": "ובאשר לראיות ההגנה, הנאשם בחר להעיד וכן העיד שלושה עדי הגנה מטעמו, אשתו, חמותו וחברה של המתלוננת",
+                    "sentence_id": "0",
+                    "paragraph_index": 33,
+                    "global_sentence_index": 101
+                },
+                {
+                    "sentence": "ב",
+                    "sentence_id": "1",
+                    "paragraph_index": 33,
+                    "global_sentence_index": 102
+                }
+            ]
+        },
+        {
+            "paragraph_index": 34,
+            "sentences": [
+                {
+                    "sentence": "הנאשם העיד בצורה מפורטת ולעיתים מוגזמת באשר לפרטים שאינם רלוונטיים, כמו: גודלו של ביתו ופירוט כל חדריו עד המקלחת והשירותים, וזאת בחקירתו הראשית וגם בחקירה נגדית מפורטת",
+                    "sentence_id": "0",
+                    "paragraph_index": 34,
+                    "global_sentence_index": 103
+                },
+                {
+                    "sentence": "ו",
+                    "sentence_id": "1",
+                    "paragraph_index": 34,
+                    "global_sentence_index": 104
+                }
+            ]
+        },
+        {
+            "paragraph_index": 35,
+            "sentences": [
+                {
+                    "sentence": "הנאשם עשה מאמציים עילאיים להציג עצמו כאדם טוב, פועל למען הקהילה, יו\"ר ועד השכונה עם רצון טוב לעזור לאחרים ללא תמורה; דהיינו, הקורבן שלא מבין מה רוצים ממנו ומהיכן פקדה אותו העלילה שמעלילה עליו המתלוננת",
+                    "sentence_id": "0",
+                    "paragraph_index": 35,
+                    "global_sentence_index": 105
+                },
+                {
+                    "sentence": "נ",
+                    "sentence_id": "1",
+                    "paragraph_index": 35,
+                    "global_sentence_index": 106
+                }
+            ]
+        },
+        {
+            "paragraph_index": 36,
+            "sentences": [
+                {
+                    "sentence": "מחקירתו הראשית עולה שהוא בסה\"כ השתתף בתוכנית רדיו מתוך מטרה לשתף את המאזינים בבעיותיה של אשתו ולקבל יעוץ ועזרה",
+                    "sentence_id": "0",
+                    "paragraph_index": 36,
+                    "global_sentence_index": 107
+                },
+                {
+                    "sentence": "אחת התגובות לתוכנית הרדיו היתה טלפון של אדם בשם רוברט אשר סיפר על צרותיה של חברתו",
+                    "sentence_id": "1",
+                    "paragraph_index": 36,
+                    "global_sentence_index": 108
+                },
+                {
+                    "sentence": "אותו רוברט התעניין ליצור איתו ועם אשתו קשר וביקש מההפקה את מס' הטלפון שלהם",
+                    "sentence_id": "2",
+                    "paragraph_index": 36,
+                    "global_sentence_index": 109
+                },
+                {
+                    "sentence": "לאחר מכן, המתלוננת שוחחה עם אשתו מס' פעמים, לא איתו, דהיינו, עפ\"י גירסתו, אשתו היתה מקשרת או המתווכת כך שבסופו של עניין הוא נסע עם רכבו לביתה של המתלוננת, כשהוא מפרט לעניין זה לפרטי פרטים את מהלך נסיעתו, כולל זמנים, את הנסיבות בהן קיבלה אותו המתלוננת בביתה, כולל הכלב שהיה נוכח גם כן בבית",
+                    "sentence_id": "3",
+                    "paragraph_index": 36,
+                    "global_sentence_index": 110
+                },
+                {
+                    "sentence": "הנאשם גם פרט לפרטי פרטים את הדרך חזרה לביתו, כשהוא מציין שבמהלך נסיעה זו שוחחו ביניהם על בעיותיה של הנערה בבית",
+                    "sentence_id": "4",
+                    "paragraph_index": 36,
+                    "global_sentence_index": 111
+                },
+                {
+                    "sentence": "אך הפלא ופלא, לא טרח בעניין זה לרדת לפרטי פרטים, כמו שנהג לעשות, כפי שציינתי כאמור לעיל, וזאת, ככל הנראה, הואיל ועפ\"י גירסת המתלוננת מירב השיחה נסובה על מערכת היחסים המיניים שלו עם אשתו, דהיינו – באופן מנופולטיבי ומתוכנן היטב הנאשם מציף את ביהמ\"ש עם פרטים לא רלוונטיים ומתעלם מלהיכנס לפרטים חשובים ומהותיים בעניין שבפנינו",
+                    "sentence_id": "5",
+                    "paragraph_index": 36,
+                    "global_sentence_index": 112
+                },
+                {
+                    "sentence": "את פרטי השיחה לא פרט, אבל מיד המשיך לפרט עד כדי שיחה טלפונית שלו עם אשתו לעניין מצרכים מהמכולת",
+                    "sentence_id": "6",
+                    "paragraph_index": 36,
+                    "global_sentence_index": 113
+                },
+                {
+                    "sentence": "ב",
+                    "sentence_id": "7",
+                    "paragraph_index": 36,
+                    "global_sentence_index": 114
+                }
+            ]
+        },
+        {
+            "paragraph_index": 37,
+            "sentences": [
+                {
+                    "sentence": "הנאשם מאשר את גירסת המתלוננת שהוא אכן הציע לה לקנות במכולת מה שחפץ לבה, דרך מעניינת יש לומר לרכוש את אמונה בו, ואז נכנס למכולת שכן בשם עודה שביקש ללוות ממנו אמגזית – עובדה שלא ציין בהודעתו במשטרה תחת אזהרה – ת/1. הם הגיעו לביתו, ישבו בסלון, הוא עשה הכרה בינו ובין אשתו אשר היתה צריכה להניק את בתם, בר",
+                    "sentence_id": "0",
+                    "paragraph_index": 37,
+                    "global_sentence_index": 115
+                },
+                {
+                    "sentence": "אשתו פנתה מעיסוקיה והניקה את בתם בסלון, כשכיסתה את חזה בחיתול",
+                    "sentence_id": "1",
+                    "paragraph_index": 37,
+                    "global_sentence_index": 116
+                },
+                {
+                    "sentence": "גם עובדה זו לא טרח לציין הנאשם ב-ת/1. מדוע אם כן בחר הנאשם לפרט פרט זה בביהמ\"ש, ייתכן מאד מתוך הנחה סמויה שביהמ\"ש יקבע שאכן עניין ההנקה הועלה בנוכחות המתלוננת, אבל חס וחלילה לא הצורך עפ\"י גירסתה של המתלוננת שהיא תינק מאשתו, אלא התינוקת היא זו שינקה מאשתו, והמתלוננת, ככל הנראה, נאחזה בכך לצורך העלילה שרקמה",
+                    "sentence_id": "2",
+                    "paragraph_index": 37,
+                    "global_sentence_index": 117
+                },
+                {
+                    "sentence": "ואז בהמשך, הגיע גם אותו שכן עודה שישב עמם בסלון, היתה שיחה, אשתו הניקה, השכן לקח את האמגזית והואיל והבנות הפריעו קצת, גיסו אלדד לקח את שתיהן למטה",
+                    "sentence_id": "3",
+                    "paragraph_index": 37,
+                    "global_sentence_index": 118
+                },
+                {
+                    "sentence": "השכן עודה לא מוזכר גם לעניין זה ב-ת/1, כמו גם התחמקותו של הנאשם מהפרט החשוב שהוא זה שהורה לאלדד לקחת את הבנות, ולא כפי שניתן להסיק מדבריו שזו היתה יוזמתו של הנער",
+                    "sentence_id": "4",
+                    "paragraph_index": 37,
+                    "global_sentence_index": 119
+                },
+                {
+                    "sentence": "פרטים נוספים שטרח הנאשם לציין הם, שדלת הכניסה של הבית היתה פתוחה – פרט סמוי חשוב נוסף שמצביע על כך שלא יתכן שבמצב שכזה הנאשם יבצע במתלוננת את מה שהיא טוענת שהוא ביצע, הגיס חזר עם הבנות הואיל והיה חם בחוץ ולא ניתן היה להישאר בחוץ זמן רב – עוד עובדה סמויה שמטרתה להצביע על כך שהשלושה לא שהו בבית לבדם זמן רב, כולם אכלו צהריים ואז כל השלושה שוחחו ביניהם בכל מה שקשור למקרה הספציפי שאליו היא באה, כניסוחו",
+                    "sentence_id": "5",
+                    "paragraph_index": 37,
+                    "global_sentence_index": 120
+                },
+                {
+                    "sentence": "משפט תמוה אחר של הנאשם הוא \"לצערי הרב לא נגעתי בה, לא פגעתי בה",
+                    "sentence_id": "6",
+                    "paragraph_index": 37,
+                    "global_sentence_index": 121
+                },
+                {
+                    "sentence": "(ראה עמ' 16 לפרו' שורה 27)",
+                    "sentence_id": "7",
+                    "paragraph_index": 37,
+                    "global_sentence_index": 122
+                },
+                {
+                    "sentence": "ו",
+                    "sentence_id": "8",
+                    "paragraph_index": 37,
+                    "global_sentence_index": 123
+                }
+            ]
+        },
+        {
+            "paragraph_index": 38,
+            "sentences": [
+                {
+                    "sentence": "מה ביהמ\"ש אמור להסיק ממשפט בעייתי זה",
+                    "sentence_id": "0",
+                    "paragraph_index": 38,
+                    "global_sentence_index": 124
+                },
+                {
+                    "sentence": "ובמיוחד הדבר מעורר תהיות לאור העובדה שמדובר בנאשם רהוט ביותר, מתנסח לעילא ולעילא עד כדי מניפולטיביות, כולל נסיונות להעביר מסרים סמויים, כפי שפרטתי כאמור לעיל",
+                    "sentence_id": "1",
+                    "paragraph_index": 38,
+                    "global_sentence_index": 125
+                },
+                {
+                    "sentence": "התנסחות בעייתית שכזו על רקע האמור לעיל, לא רק שמעלה תהיות, יש בה כדי להצביע על כך שבנקודה המהותית הנאשם, בניגוד להרגלו, פשוט לא עמד בכך, והתנסח בצורה כה בעייתית",
+                    "sentence_id": "2",
+                    "paragraph_index": 38,
+                    "global_sentence_index": 126
+                },
+                {
+                    "sentence": "נ",
+                    "sentence_id": "3",
+                    "paragraph_index": 38,
+                    "global_sentence_index": 127
+                }
+            ]
+        },
+        {
+            "paragraph_index": 39,
+            "sentences": [
+                {
+                    "sentence": "הנאשם טרח לפרט שהוא לא היה בחדר השינה, למרות שאחיה של אשתו אמר זאת מפורשות",
+                    "sentence_id": "0",
+                    "paragraph_index": 39,
+                    "global_sentence_index": 128
+                },
+                {
+                    "sentence": "הנאשם המשיך לפרט לפרטי פרטים כל תנועה וכל מעשה שלו, וכאשר הגיע לפרט של כתיבת המכתב ע\"י המתלוננת, הרחיק עצמו לחלוטין מקשר כלשהו לפעולה זו, באומרו שהוא ראה אותה כותבת ואמר לה לגשת לעובדת הסוציאלית כדי להגיש לה את המכתב, והיא, דהיינו המתלוננת, כמובן לקחה את המכתב עמה",
+                    "sentence_id": "1",
+                    "paragraph_index": 39,
+                    "global_sentence_index": 129
+                },
+                {
+                    "sentence": "ב",
+                    "sentence_id": "2",
+                    "paragraph_index": 39,
+                    "global_sentence_index": 130
+                }
+            ]
+        },
+        {
+            "paragraph_index": 40,
+            "sentences": [
+                {
+                    "sentence": "לבסוף מצא לנכון להוסיף כמה זמן ישב אצלו השכן עודה, ואפילו כמה זמן לקחה ההנקה של התינוקת, 40 דקות לא פחות ולא יותר",
+                    "sentence_id": "0",
+                    "paragraph_index": 40,
+                    "global_sentence_index": 131
+                },
+                {
+                    "sentence": "ו",
+                    "sentence_id": "1",
+                    "paragraph_index": 40,
+                    "global_sentence_index": 132
+                }
+            ]
+        },
+        {
+            "paragraph_index": 41,
+            "sentences": [
+                {
+                    "sentence": "עוד חשוב לציין שמשום מה מהשלב של פרשת ההגנה, ובמיוחד באמצעות עדי ההגנה שבאו לביהמ\"ש להעיד, הנאשם החל לטעון, בתחילה באופן לא בולט, שהאירוע היה בחודש יוני ולא בחודש אוגוסט",
+                    "sentence_id": "0",
+                    "paragraph_index": 41,
+                    "global_sentence_index": 133
+                },
+                {
+                    "sentence": "לאחר מכן, חלק ניכר מעדי ההגנה של הנאשם התמקדו בנקודה זו באופן תמוה ולא ברור, וזאת הגם שאין כל רלוונטיות למועד המדויק, הואיל והנאשם אינו מכחיש את העובדה שהמתלוננת היתה בביתו רק פעם אחת",
+                    "sentence_id": "1",
+                    "paragraph_index": 41,
+                    "global_sentence_index": 134
+                },
+                {
+                    "sentence": "נ",
+                    "sentence_id": "2",
+                    "paragraph_index": 41,
+                    "global_sentence_index": 135
+                }
+            ]
+        },
+        {
+            "paragraph_index": 42,
+            "sentences": [
+                {
+                    "sentence": "בחקירתו הנגדית הנאשם עמד על כך שהוא לא שוחח בטלפון עם המתלוננת, אלא רק אשתו, וזאת עובר להגעתה לביתו במכוניתו",
+                    "sentence_id": "0",
+                    "paragraph_index": 42,
+                    "global_sentence_index": 136
+                },
+                {
+                    "sentence": "כשנשאל שאלה חשובה ומהותית מה המניע שלו לנסוע עד פתח תקוה, להביא לביתו בחורה שאינו מכיר, להאכיל אותה, ללכת לנוח כשהיא נמצאת בביתו ואח\"כ להחזירה לפ\"ת, ענה: \"מה האבסורד במעשה טוב, אני אדם טוב\"",
+                    "sentence_id": "1",
+                    "paragraph_index": 42,
+                    "global_sentence_index": 137
+                },
+                {
+                    "sentence": "(ראה עמ' לפרו' שורה 28)",
+                    "sentence_id": "2",
+                    "paragraph_index": 42,
+                    "global_sentence_index": 138
+                }
+            ]
+        },
+        {
+            "paragraph_index": 43,
+            "sentences": [
+                {
+                    "sentence": "הנאשם לא שיכנע אותי כהוא זה שהוא אדם טוב שעושה מעשים טובים ושזה היה המניע להתנהגותו, בכל מה שקשור למתלוננת",
+                    "sentence_id": "0",
+                    "paragraph_index": 43,
+                    "global_sentence_index": 139
+                },
+                {
+                    "sentence": "אין ספק שמדובר בהסבר תמוה ומוזר, שכן לנאשם אין כל רקע מקצועי לטפל בנוער במצוקה, ובוודאי שזו לא הדרך ליתן סיוע ועזרה לנערה במצוקה",
+                    "sentence_id": "1",
+                    "paragraph_index": 43,
+                    "global_sentence_index": 140
+                },
+                {
+                    "sentence": "הנאשם גם לא ציין, אפילו במרומז, כיצד סייע לה ומדוע היה צורך להביאה לביתו על מנת לסייע לה, ובוודאי לא באופן המתואר לפרטי פרטים, כפי שתאר בביהמ\"ש",
+                    "sentence_id": "2",
+                    "paragraph_index": 43,
+                    "global_sentence_index": 141
+                },
+                {
+                    "sentence": "מן הראוי היה שהנאשם יביא לביהמ\"ש ראיות באשר למעשים טובים דומים שלו, כדי לשכנע את ביהמ\"ש שאכן מטרתו היתה טובה וטהורה לסייע לנערה במצוקה",
+                    "sentence_id": "3",
+                    "paragraph_index": 43,
+                    "global_sentence_index": 142
+                },
+                {
+                    "sentence": "זריקת משפטים בחלל ביהמ\"ש ואימרות שהוא אדם טוב שעושה מעשים טובים, אין לה כל משמעות כשהם נשארים תלויים כך בחלל ביהמ\"ש",
+                    "sentence_id": "4",
+                    "paragraph_index": 43,
+                    "global_sentence_index": 143
+                },
+                {
+                    "sentence": "כאשר נשאל ישירות לעניין הבכי של המתלוננת במהלך האירוע בביתו, הוא ענה שהוא ראה אותה בוכה כשקם מהשינה והיא אמרה לו שהיא בוכה הואיל והיא לא רוצה לחזור לביתה כי אביה מרביץ לה",
+                    "sentence_id": "5",
+                    "paragraph_index": 43,
+                    "global_sentence_index": 144
+                },
+                {
+                    "sentence": "דהיינו – היא זו שלא רצתה לחזור לביתה והוא זה שאמר לה שאסור לה להישאר בביתו",
+                    "sentence_id": "6",
+                    "paragraph_index": 43,
+                    "global_sentence_index": 145
+                },
+                {
+                    "sentence": "לא רק שהוא טען זאת לראשונה בחקירתו הנגדית, אזי החוצפה והתעוזה של הנאשם אינה יודעת גבולות",
+                    "sentence_id": "7",
+                    "paragraph_index": 43,
+                    "global_sentence_index": 146
+                },
+                {
+                    "sentence": "אין לו כל בעיה לשלוף \"תשובה מן המותן\" אשר הופכת לחלוטין את היוצרות",
+                    "sentence_id": "8",
+                    "paragraph_index": 43,
+                    "global_sentence_index": 147
+                },
+                {
+                    "sentence": "הוא שמע את המתלוננת בביהמ\"ש מספרת על הבכי שלה שבא כתגובה למעשיו המיניים בגופה, הוא לא טרח אפילו לעמת אותה בנקודה זו, ורק בחקירה נגדית, באופן הכי טבעי לכאורה, הוא ענה תשובה מקוממת, כאמור לעיל",
+                    "sentence_id": "9",
+                    "paragraph_index": 43,
+                    "global_sentence_index": 148
+                },
+                {
+                    "sentence": "כאשר נשאל הנאשם לזמן אשר בו שהה גיסו מחוץ לבית, לפתע פתאום הוא אינו יכול לזכור עניין זה, הואיל ועברו הרבה שנים",
+                    "sentence_id": "10",
+                    "paragraph_index": 43,
+                    "global_sentence_index": 149
+                },
+                {
+                    "sentence": "כמה דקות הניקה אשתו את התינוקת הוא זוכר בצורה מדויקת, אבל כמה זמן היה גיסו מחוץ לבית הוא אינו מסוגל לזכור",
+                    "sentence_id": "11",
+                    "paragraph_index": 43,
+                    "global_sentence_index": 150
+                },
+                {
+                    "sentence": "כמובן שמדובר בזכרון סלקטיבי מכוון, לאחר שהנאשם נכח במהלך עדותו של גיסו, אשר בסופו של דבר אמר מפורשות שהנאשם ניסה להשפיע עליו לא לומר אמת בנקודה זו",
+                    "sentence_id": "12",
+                    "paragraph_index": 43,
+                    "global_sentence_index": 151
+                },
+                {
+                    "sentence": "ב",
+                    "sentence_id": "13",
+                    "paragraph_index": 43,
+                    "global_sentence_index": 152
+                }
+            ]
+        },
+        {
+            "paragraph_index": 44,
+            "sentences": [
+                {
+                    "sentence": "בסופו של עניין לאחר שעומת עם גירסותיהם של המתלוננת, של אשתו ושל גיסו, אמר שהם השקרנים, ושהמתלוננת מעלילה עליו עלילה, מבלי שהציג תשתית ראייתית כלשהי לעלילה",
+                    "sentence_id": "0",
+                    "paragraph_index": 44,
+                    "global_sentence_index": 153
+                }
+            ]
+        },
+        {
+            "paragraph_index": 45,
+            "sentences": [
+                {
+                    "sentence": "כאשר נשאל הנאשם ב-ת/1 מדוע לדעתו המתלוננת מעלילה עליו עלילה, בלשונו אמר שהוא אינו יכול לענות על כך, שכן להיפך, הוא ואשתו ניסו לעזור לה ללא שכר, רק רצון טוב",
+                    "sentence_id": "0",
+                    "paragraph_index": 45,
+                    "global_sentence_index": 154
+                },
+                {
+                    "sentence": "(ראה עמ' 3 שורות 14-15 ל-ת/1)",
+                    "sentence_id": "1",
+                    "paragraph_index": 45,
+                    "global_sentence_index": 155
+                },
+                {
+                    "sentence": "ו",
+                    "sentence_id": "2",
+                    "paragraph_index": 45,
+                    "global_sentence_index": 156
+                }
+            ]
+        },
+        {
+            "paragraph_index": 46,
+            "sentences": [
+                {
+                    "sentence": "עוד יש לציין שלמרות שבחקירתו הנגדית עמד הנאשם על כך שבתוכנית הרדיו הוא לא הציע עזרה לאנשים, ויותר מכך, הוא עצמו היה זקוק לעזרה, אזי ב-ת/1 אמר מפורשות שהקריינית שאלה אותו אם הוא מוכן לייעץ לאחרים לאור נסיונו הרב, והוא ענה בחיוב ואפילו מסר את מספר  הטלפון",
+                    "sentence_id": "0",
+                    "paragraph_index": 46,
+                    "global_sentence_index": 157
+                }
+            ]
+        },
+        {
+            "paragraph_index": 47,
+            "sentences": [
+                {
+                    "sentence": "נקודה חשובה נוספת היא שב-ת/1 לא טרח הנאשם לרדת לפרטי פרטים, כפי שטרח לעשות בגירסתו בביהמ\"ש, וזאת למרות שהוא נחקר בסמיכות לאירוע ופרטי האירוע היו אמורים להיות מקובעים בזכרונו, וכפי שמצא לנכון למסור גירסה מפורטת מאד בביהמ\"ש, היה צריך לעשות זאת גם באימרתו במשטרה – ת/1.נ",
+                    "sentence_id": "0",
+                    "paragraph_index": 47,
+                    "global_sentence_index": 158
+                }
+            ]
+        },
+        {
+            "paragraph_index": 48,
+            "sentences": [
+                {
+                    "sentence": "ככל הנראה התשובה להתנהלות הזו של הנאשם טמונה בטקטיקה של הנאשם, כפי שכבר התייחסתי אליה, והיא, להמטיר על ביהמ\"ש עובדות ונסיבות אין ספור על מנת שלא למקד את התייחסות ביהמ\"ש לנסיבות הרלוונטיות והמהותיות לעניין שבפניו",
+                    "sentence_id": "0",
+                    "paragraph_index": 48,
+                    "global_sentence_index": 159
+                },
+                {
+                    "sentence": "ב",
+                    "sentence_id": "1",
+                    "paragraph_index": 48,
+                    "global_sentence_index": 160
+                }
+            ]
+        },
+        {
+            "paragraph_index": 49,
+            "sentences": [
+                {
+                    "sentence": "לפיכך, כפי שכבר ציינתי יותר מפעם אחת, הנאשם הינו אדם מניפולטיבי שאין ליתן בו אמון",
+                    "sentence_id": "0",
+                    "paragraph_index": 49,
+                    "global_sentence_index": 161
+                },
+                {
+                    "sentence": "הוא עשה עלי רושם בלתי מהיימן לחלוטין, הן בתוכן גירסתו והן באופן הצגתה בביהמ\"ש",
+                    "sentence_id": "1",
+                    "paragraph_index": 49,
+                    "global_sentence_index": 162
+                },
+                {
+                    "sentence": "ו",
+                    "sentence_id": "2",
+                    "paragraph_index": 49,
+                    "global_sentence_index": 163
+                }
+            ]
+        },
+        {
+            "paragraph_index": 50,
+            "sentences": [
+                {
+                    "sentence": "הנאשם הצטייר כאדם שהשקר והתחכום המילולי השלילי הם מאפיינים בולטים באישיותו",
+                    "sentence_id": "0",
+                    "paragraph_index": 50,
+                    "global_sentence_index": 164
+                }
+            ]
+        },
+        {
+            "paragraph_index": 51,
+            "sentences": [
+                {
+                    "sentence": "הנאשם ניסה להתחכם עם ביהמ\"ש גם כאשר אמר שהוא לא שאל את המתלוננת את כל השאלות הרלוונטיות, הואיל וביהמ\"ש הורה לו להיות נחמד למתלוננת והוא פשוט מילא את מצוות ביהמ\"ש",
+                    "sentence_id": "0",
+                    "paragraph_index": 51,
+                    "global_sentence_index": 165
+                },
+                {
+                    "sentence": "אני דוחה על הסף את טיעונו זה של הנאשם, וזוהי עזות מצח מצדו ועוד ניסיון להוציא עצמו מהעבירה המיוחסת לו",
+                    "sentence_id": "1",
+                    "paragraph_index": 51,
+                    "global_sentence_index": 166
+                }
+            ]
+        },
+        {
+            "paragraph_index": 52,
+            "sentences": [
+                {
+                    "sentence": "עד כדי כך הנאשם אינו יודע גבולות, שטרח להביא כעדת הגנה את אמה המבוגרת של אשתו שתעיד עדות שקר זועקת לשמיים",
+                    "sentence_id": "0",
+                    "paragraph_index": 52,
+                    "global_sentence_index": 167
+                },
+                {
+                    "sentence": "האם הנאשם סבור שביהמ\"ש יתן אמון בעדותה של אשה מבוגרת שלא מסרה גירסה במשטרה בסמיכות לאירוע לעניין העובדה היחידה שבגינה היא הובאה לעדות, והיא, שביום 13.8.96 היא היתה בביתו של הנאשם הואיל וביום 15.8.96 זהו יום הולדתה של בתה",
+                    "sentence_id": "1",
+                    "paragraph_index": 52,
+                    "global_sentence_index": 168
+                },
+                {
+                    "sentence": "ולא רק זאת, בימים 13 ו-14 לאוג', בימים בהם גם כן היתה בביתו, לא נכח אף אורח",
+                    "sentence_id": "2",
+                    "paragraph_index": 52,
+                    "global_sentence_index": 169
+                },
+                {
+                    "sentence": "בחקירתה הנגדית המביכה יש לומר של העדה היא מצאה עצמה אומרת, בניגוד לגירסתה בחקירה הראשית, שביום 13 ו-14 לאוג' היא לא זוכרת איפה היא היתה",
+                    "sentence_id": "3",
+                    "paragraph_index": 52,
+                    "global_sentence_index": 170
+                },
+                {
+                    "sentence": "העובדה שהנאשם מצא לנכון להביא לעדות עדת שקר, שבסופו של דבר הודתה שהיא לא זוכרת היכן היתה במועדים שהינחה אותה לומר שהיתה בביתו, פוגמת בצורה קשה ביותר באמינותו של הנאשם ובמהיימנות גירסתו",
+                    "sentence_id": "4",
+                    "paragraph_index": 52,
+                    "global_sentence_index": 171
+                },
+                {
+                    "sentence": "אין צורך עוד להכביר מילים לעניין הפארסה הקשורה בעדותה",
+                    "sentence_id": "5",
+                    "paragraph_index": 52,
+                    "global_sentence_index": 172
+                }
+            ]
+        },
+        {
+            "paragraph_index": 53,
+            "sentences": [
+                {
+                    "sentence": "הפארסה הולכת ומתעצמת כאשר בחר הנאשם להביא לעדות כעד מטעמו את חברה של המתלוננת אשר לאחר שביהמ\"ש שמע את עדותו הוא תמה מדוע לא הובא עד זה כעד תביעה דווקא",
+                    "sentence_id": "0",
+                    "paragraph_index": 53,
+                    "global_sentence_index": 173
+                }
+            ]
+        },
+        {
+            "paragraph_index": 54,
+            "sentences": [
+                {
+                    "sentence": "העד, מר רוברט סטנף, תמך תמיכה מלאה בגירסתה של המתלוננת דווקא וחיזק אותה ואת מהיימנותה, במיוחד כאשר אמר שכבר במשטרה אמר בחקירתו שהמתלוננת הינה תמימה אבל לא שקרנית",
+                    "sentence_id": "0",
+                    "paragraph_index": 54,
+                    "global_sentence_index": 174
+                },
+                {
+                    "sentence": "יותר מכך, כל מה שהעיד בחקירתו הראשית והנגדית זה למעשה חזרה על גירסתה של המתלוננת אשר מסרה אותה, מסתבר גם לו, במסגרת שיחת טלפון נרגשת ונסערת בסמיכות לאירוע (יומיים לאחריו)",
+                    "sentence_id": "1",
+                    "paragraph_index": 54,
+                    "global_sentence_index": 175
+                }
+            ]
+        },
+        {
+            "paragraph_index": 55,
+            "sentences": [
+                {
+                    "sentence": "והנה עינינו הרואות עד כמה מרחיק לכת הנאשם, אפילו לכיוון שפוגע קשות בגירסתו ותומך תמיכה של ממש במתלוננת",
+                    "sentence_id": "0",
+                    "paragraph_index": 55,
+                    "global_sentence_index": 176
+                },
+                {
+                    "sentence": "לביהמ\"ש אין הסבר מדוע עד זה הובא כעד הגנה ומה מבקש הנאשם מביהמ\"ש ללמוד מגירסתו, בכל מה שקשור לחיזוק גירסתו שלו",
+                    "sentence_id": "1",
+                    "paragraph_index": 55,
+                    "global_sentence_index": 177
+                }
+            ]
+        },
+        {
+            "paragraph_index": 56,
+            "sentences": [
+                {
+                    "sentence": "עדת הגנה חשובה נוספת מטעמו של הנאשם הינה אשתו, הגב' שגיב חנה",
+                    "sentence_id": "0",
+                    "paragraph_index": 56,
+                    "global_sentence_index": 178
+                }
+            ]
+        },
+        {
+            "paragraph_index": 57,
+            "sentences": [
+                {
+                    "sentence": "בפני ביהמ\"ש עדותה בביהמ\"ש וכן עדותה במשטרה מיום 8.10.96.",
+                    "sentence_id": "0",
+                    "paragraph_index": 57,
+                    "global_sentence_index": 179
+                }
+            ]
+        },
+        {
+            "paragraph_index": 58,
+            "sentences": [
+                {
+                    "sentence": "כשבוחנים את גירסותיה של העדה, הן לא תואמות בנקודות מהותיות, ויותר מכך, גירסתה אף סותרת את גירסתו של בעלה, הנאשם",
+                    "sentence_id": "0",
+                    "paragraph_index": 58,
+                    "global_sentence_index": 180
+                }
+            ]
+        },
+        {
+            "paragraph_index": 59,
+            "sentences": [
+                {
+                    "sentence": "בעדותה בביהמ\"ש ניסתה העדה להציג גירסה התואמת את גירסת בעלה, אולם לא צלחה בכך",
+                    "sentence_id": "0",
+                    "paragraph_index": 59,
+                    "global_sentence_index": 181
+                }
+            ]
+        },
+        {
+            "paragraph_index": 60,
+            "sentences": [
+                {
+                    "sentence": "לדוגמא, בעניין השתתפותו של הנאשם בתוכנית הרדיו, אמר הנאשם שהוא השתמש בשם בדוי ולא בשמו, הואיל וההפקה ביקשה זאת ממנו, ואילו אשתו מוסרת שהסיבה לכך היתה שפרטיה שלה ישארו חסויים עקב סיפורה הקשה שהוצג בתוכנית",
+                    "sentence_id": "0",
+                    "paragraph_index": 60,
+                    "global_sentence_index": 182
+                },
+                {
+                    "sentence": "הסבר לסתירה זו לא יכולה היתה אשתו להציג",
+                    "sentence_id": "1",
+                    "paragraph_index": 60,
+                    "global_sentence_index": 183
+                },
+                {
+                    "sentence": "(ראה עמ' 23 לפרו' שורות 27-29)",
+                    "sentence_id": "2",
+                    "paragraph_index": 60,
+                    "global_sentence_index": 184
+                }
+            ]
+        },
+        {
+            "paragraph_index": 61,
+            "sentences": [
+                {
+                    "sentence": "לדוגמא, לעניין העובדה שהנאשם עמד על כך שהוא לא הציע את עזרתו לאחרים באותה תכנית רדיו, ואילו אשתו אמרה: \"לאחר התוכנית שאלנו את המפיק אם יש עוד סיפורים, כי לא יכולנו לסרב לעזור לנערות אחרות כמו שקרה לי\" (ראה עמ' 22 לפרוט' שורו' 8-9)",
+                    "sentence_id": "0",
+                    "paragraph_index": 61,
+                    "global_sentence_index": 185
+                }
+            ]
+        },
+        {
+            "paragraph_index": 62,
+            "sentences": [
+                {
+                    "sentence": "לדוגמא, העובדה שהנאשם עמד על כך שהוא לא שוחח עם המתלוננת לפני שנסע לקחתה מביתה, ומי ששוחחה עמה זו רק אשתו, לעומת גירסתה של אשתו שגם הנאשם שוחח עם המתלוננת בטלפון",
+                    "sentence_id": "0",
+                    "paragraph_index": 62,
+                    "global_sentence_index": 186
+                }
+            ]
+        },
+        {
+            "paragraph_index": 63,
+            "sentences": [
+                {
+                    "sentence": "לדוגמא, לעניין הבכי של המתלוננת, העדה אמרה שהמתלוננת בכתה כאשר אחיה חזר לביתם עם הילדים, ואילו הנאשם אמר שראה את המתלוננת בוכה לאחר שהוא קם מהשינה, כשהוא מדגיש שהיא בכתה רק פעם אחת (ראה עמ' 18 לפרו' שורות 4-6)",
+                    "sentence_id": "0",
+                    "paragraph_index": 63,
+                    "global_sentence_index": 187
+                },
+                {
+                    "sentence": "בהמשך, יש לציין לעניין זה שהעדה סתרה עצמה בנקודה זו, באומרה בחקירה נגדית שהמתלוננת בכתה כל פעם שהיא נזכרה בסיפור של אביה, ובכל פעם שהיא דיברה מחדש, כלומר, היא בכתה כתוצאה מהסיפור שלה",
+                    "sentence_id": "1",
+                    "paragraph_index": 63,
+                    "global_sentence_index": 188
+                },
+                {
+                    "sentence": "(ראה עמ' 25 לפרו' שורות 19-20)",
+                    "sentence_id": "2",
+                    "paragraph_index": 63,
+                    "global_sentence_index": 189
+                },
+                {
+                    "sentence": "זוהי הדרך של העדה להבהיר את המסר שאכן היה בכי, אבל לא ממעשיו של בעלה במתלוננת, אלא מסיבה אחרת לגמרי",
+                    "sentence_id": "3",
+                    "paragraph_index": 63,
+                    "global_sentence_index": 190
+                }
+            ]
+        },
+        {
+            "paragraph_index": 64,
+            "sentences": [
+                {
+                    "sentence": "לדוגמא, התשובה לשאלה מדוע אחיה של העדה עזב את הבית לאחר הגעתה של המתלוננת",
+                    "sentence_id": "0",
+                    "paragraph_index": 64,
+                    "global_sentence_index": 191
+                },
+                {
+                    "sentence": "הנאשם אמר שהילדים הפריעו ולכן האח מיוזמתו לקח את הילדה הגדולה, ואילו העדה אמרה שאחיה יצא מהבית כדי להקל עם המתלוננת",
+                    "sentence_id": "1",
+                    "paragraph_index": 64,
+                    "global_sentence_index": 192
+                }
+            ]
+        },
+        {
+            "paragraph_index": 65,
+            "sentences": [
+                {
+                    "sentence": "לדוגמא, לעניין העובדה מי מהם לאחר ארוחת הצהריים הלך לנוח את שנת הצהריים, הנאשם אמר שהוא ורק הוא הלך לנוח לבד בין 30-60 דקות, ואילו אשתו אמרה ששניהם הלכו לנוח, כשבעלה ישן שעתיים וחצי לערך ואילו היא קמה לפניו",
+                    "sentence_id": "0",
+                    "paragraph_index": 65,
+                    "global_sentence_index": 193
+                }
+            ]
+        },
+        {
+            "paragraph_index": 66,
+            "sentences": [
+                {
+                    "sentence": "לדוגמא נוספת, המכתב אותו רשמה המתלוננת לעובדת סוציאלית",
+                    "sentence_id": "0",
+                    "paragraph_index": 66,
+                    "global_sentence_index": 194
+                },
+                {
+                    "sentence": "הנאשם אמר שמה שכתבה המתלוננת היא לקחה עמה, ואילו אשתו אומרת אמנם שלא נשאר עותק והיא לקחה אותו עמה, אך לא רק זאת, היא מוסיפה שהמתלוננת התקשרה לאחר יומיים ואמרה ששלחה את העותק",
+                    "sentence_id": "1",
+                    "paragraph_index": 66,
+                    "global_sentence_index": 195
+                },
+                {
+                    "sentence": "לעניין זה חשוב לציין שבמשטרה בהודעתה של העדה, ת/2, היא אמרה מפורשות שעותק מהמכתב נשאר בחזקתם, והיא אפילו התחייבה להמציאו למשטרה, דבר שעד היום לא נעשה",
+                    "sentence_id": "2",
+                    "paragraph_index": 66,
+                    "global_sentence_index": 196
+                }
+            ]
+        },
+        {
+            "paragraph_index": 67,
+            "sentences": [
+                {
+                    "sentence": "לדוגמא, עניין המכולת שגם הנאשם וגם העדה טרחו להדגיש",
+                    "sentence_id": "0",
+                    "paragraph_index": 67,
+                    "global_sentence_index": 197
+                },
+                {
+                    "sentence": "הנאשם אמר שהוא טילפן לאשתו מהדרך ושאל אם היא צריכה מצרכים במכולת, ואילו העדה אמרה שעל המכולת היא ידעה רק מהשכן עודה (ראה עמ' 22 לפרו' שורה 22)",
+                    "sentence_id": "1",
+                    "paragraph_index": 67,
+                    "global_sentence_index": 198
+                }
+            ]
+        },
+        {
+            "paragraph_index": 68,
+            "sentences": [
+                {
+                    "sentence": "אך לא רק זאת שיש סתירות מהותיות בין גירסת הנאשם ובין גירסת העדה, אזי העדה מסרה גירסה שונה וסותרת ממה שמסרה במשטרה ב-ת/2, כפי שכבר רמזתי כאמור לעיל",
+                    "sentence_id": "0",
+                    "paragraph_index": 68,
+                    "global_sentence_index": 199
+                }
+            ]
+        },
+        {
+            "paragraph_index": 69,
+            "sentences": [
+                {
+                    "sentence": "ב-ת/2 שנמסר ע\"י העדה כחודשיים לאחר האירוע, לא ציינה כלל את השכן עודה, לא לעניין המכולת ולא לעניין הביקור שלו בביתם שעה שהמתלוננת נכחה בסלון הבית",
+                    "sentence_id": "0",
+                    "paragraph_index": 69,
+                    "global_sentence_index": 200
+                },
+                {
+                    "sentence": "שכן, כאשר נשאלה מפורשות לעניין נוכחותו של אותו עודה, ענתה: \"באותה תקופה היינו בקשר, אבל באותו יום לא זכור לי אם ביקר אצלנו או לא, אך אותו אני מכירה\"",
+                    "sentence_id": "1",
+                    "paragraph_index": 69,
+                    "global_sentence_index": 201
+                },
+                {
+                    "sentence": "(עמ' 3 שורות 7-8 ל-ת/2)",
+                    "sentence_id": "2",
+                    "paragraph_index": 69,
+                    "global_sentence_index": 202
+                },
+                {
+                    "sentence": "דהיינו – בשנת 1996 לא זכרה העדה כלל את נוכחותו של אותו עודה מסתורי, שלא לדבר על עניין המכולת, ואילו בשנת 2003, מועד העדתה בביהמ\"ש, זכרה לפרטי פרטים את הסיפור הידוע של עודה והאמגזית",
+                    "sentence_id": "3",
+                    "paragraph_index": 69,
+                    "global_sentence_index": 203
+                }
+            ]
+        },
+        {
+            "paragraph_index": 70,
+            "sentences": [
+                {
+                    "sentence": "באימרתה ב-ת/2 כאשר סיפרה את גירסתה באורח חופשי ושוטף לא הזכירה כלל את נוכחותו של אחיה בביתם, שלא לומר את יציאתו מהבית עם התינוקת, וכאשר נשאלה על כך ספציפית, ענתה שהיא לא זוכרת אם אמרה לאחיה לעזוב את הבית עם אחת הילדות",
+                    "sentence_id": "0",
+                    "paragraph_index": 70,
+                    "global_sentence_index": 204
+                }
+            ]
+        },
+        {
+            "paragraph_index": 71,
+            "sentences": [
+                {
+                    "sentence": "בעדותה בביהמ\"ש לא ציינה כלל את העובדה שהניקה את תינוקה בנוכחות בעלה והמתלוננת, כפי שהעיד באופן כה מפורט בעלה הנאשם, ואילו ב-ת/2 מיוזמתה ציינה עובדה זו, ולא רק זאת, הוסיפה \"אין לי בושה בזה, אני מסוגלת גם כאן לידך להניק",
+                    "sentence_id": "0",
+                    "paragraph_index": 71,
+                    "global_sentence_index": 205
+                },
+                {
+                    "sentence": "\" (ראה ת/2 עמ' 2 שורות 45-46)",
+                    "sentence_id": "1",
+                    "paragraph_index": 71,
+                    "global_sentence_index": 206
+                }
+            ]
+        },
+        {
+            "paragraph_index": 72,
+            "sentences": [
+                {
+                    "sentence": "ולעומת זאת, ב-ת/2 חזרה על גירסת המתלוננת שהיא סיפרה לה על בעיותיה, בין היתר פטמותיה השקועות וכיצד היא עזרה לה מילולית אמנם לפתור את הבעיה",
+                    "sentence_id": "0",
+                    "paragraph_index": 72,
+                    "global_sentence_index": 207
+                },
+                {
+                    "sentence": "(ראה ת/2 עמוד 2 שורות 59-63), כאשר בביהמ\"ש לא היה זכר לנסיבות אלה כאשר פרטה את גירסתה",
+                    "sentence_id": "1",
+                    "paragraph_index": 72,
+                    "global_sentence_index": 208
+                }
+            ]
+        },
+        {
+            "paragraph_index": 73,
+            "sentences": [
+                {
+                    "sentence": "העדה לא היתה מסוגלת ליתן הסברים הגיוניים לסתירות, וחוסר ההתאמה בין גירסותיה שלה ובין גירסתה וגירסת הנאשם, ואפילו גירסתו של אחיה לעניין הזמן שלא נכח בבית",
+                    "sentence_id": "0",
+                    "paragraph_index": 73,
+                    "global_sentence_index": 209
+                },
+                {
+                    "sentence": "כמו גם שנתנה הסבר מבולבל ובלתי מובן לשאלה שנשאלה, מדוע לדעתה מעלילה המתלוננת עלילה כה חמורה על בעלה (ראה עמ' 25 שורות 9-17 לפרו')",
+                    "sentence_id": "1",
+                    "paragraph_index": 73,
+                    "global_sentence_index": 210
+                }
+            ]
+        },
+        {
+            "paragraph_index": 74,
+            "sentences": [
+                {
+                    "sentence": "מכל האמור לעיל, קביעתי היא שמדובר בעדה מעוניינת, והגם שלא הוכח קשר בינה ובין מעשיו של בעלה כלפי המתלוננת, אין ספק שהיא ניסתה, ללא הצלחה, לסייע לבעלה המואשם בעבירה המיוחסת לו; אך הואיל וגירסתו של הנאשם אין ליתן בה אמון, כפי שכבר ניתחתי, לא בכדי גירסתה של אשתו בעייתית ונגועה בחוסר אמינות ברמה גבוהה",
+                    "sentence_id": "0",
+                    "paragraph_index": 74,
+                    "global_sentence_index": 211
+                },
+                {
+                    "sentence": "המצב הגיע עד כדי כך שלמרות שב-ת/2 אמרה מיוזמתה שתוכנית הרדיו בה לקחו חלק היתה בחודש אוג', בביהמ\"ש אמרה שזה לא ייתכן כי האירוע היה בחודש יוני",
+                    "sentence_id": "1",
+                    "paragraph_index": 74,
+                    "global_sentence_index": 212
+                },
+                {
+                    "sentence": "והדברים כבר הרי ידועים, שכן הנאשם לראשונה בביהמ\"ש, באופן לא מובן ומוסבר, העלה לפתע פתאום עניין זה, וגם לכך העדה היתה מוכנה ליתן יד",
+                    "sentence_id": "2",
+                    "paragraph_index": 74,
+                    "global_sentence_index": 213
+                }
+            ]
+        },
+        {
+            "paragraph_index": 75,
+            "sentences": [
+                {
+                    "sentence": "בסופו של דבר, אני קובעת שהעדה אינה אמינה, היא עשתה עלי רושם בלתי אמין ולא ניתן לקבוע ממצאים עפ\"י גירסתה, התומכים בגירסת הנאשם",
+                    "sentence_id": "0",
+                    "paragraph_index": 75,
+                    "global_sentence_index": 214
+                }
+            ]
+        },
+        {
+            "paragraph_index": 76,
+            "sentences": [
+                {
+                    "sentence": "יש לציין שדווקא עד הגנה חשוב שאמור היה לחזק את אמינותו של הנאשם, לא הובא לעדות, וכוונתי כמובן לאותו עודה אליו התייחסו הנאשם ואשתו בעדותם",
+                    "sentence_id": "0",
+                    "paragraph_index": 76,
+                    "global_sentence_index": 215
+                },
+                {
+                    "sentence": "אי הבאתו של עד הגנה כה מהותי עפ\"י גירסת ההגנה, יש בכך כדי לחזק את גירסת התביעה, וזאת כמובן מבלי שיש בפני ביהמ\"ש הסבר מדוע לא הובא עודה לעדות כעד הגנה",
+                    "sentence_id": "1",
+                    "paragraph_index": 76,
+                    "global_sentence_index": 216
+                }
+            ]
+        },
+        {
+            "paragraph_index": 77,
+            "sentences": [
+                {
+                    "sentence": "לפיכך אני קובעת שלעומת גירסת התביעה הבנויה לתלפיות, גירסתו של הנאשם עומדת על כרעי תרנגולת, ולמעשה קרסה, כשהוא עצמו במו התנהלותו מביא את ביהמ\"ש למסקנה נחרצת זו",
+                    "sentence_id": "0",
+                    "paragraph_index": 77,
+                    "global_sentence_index": 217
+                }
+            ]
+        },
+        {
+            "paragraph_index": 78,
+            "sentences": [
+                {
+                    "sentence": "הנאשם לא שיכנע אותי כהוא זה שיש להעדיף את גירסתו על פיה הוא פעל בתמימות מתוך מטרה טהורה לסייע לנערה בת 14 השרויה במצוקה קשה",
+                    "sentence_id": "0",
+                    "paragraph_index": 78,
+                    "global_sentence_index": 218
+                }
+            ]
+        },
+        {
+            "paragraph_index": 79,
+            "sentences": [
+                {
+                    "sentence": "הנאשם ניסה בכל דרך להרחיק עצמו מהסיטואציה אותה תארה המתלוננת בכל מה שקשור למעשיו המיניים הפוגעים בה, אולם לא צלח, ואפילו הביא ראיות התומכות באופן מובהק דווקא במתלוננת או הביא ראיות כה בלתי הגיוניות שהשקר זועק מהן לשמיים",
+                    "sentence_id": "0",
+                    "paragraph_index": 79,
+                    "global_sentence_index": 219
+                }
+            ]
+        },
+        {
+            "paragraph_index": 80,
+            "sentences": [
+                {
+                    "sentence": "ממכלול כל הראיות שבפני השתכנעתי שהנאשם ניצל מצוקה קשה של נערה צעירה ותמימה, ופיתה אותה לבוא לביתו שם ביצע בה את זממו",
+                    "sentence_id": "0",
+                    "paragraph_index": 80,
+                    "global_sentence_index": 220
+                },
+                {
+                    "sentence": "הוא ניסה להפוך עצמו לקרבן תמים ואת המתלוננת למעלילת עלילות שוא, אולם, כאמור, אני דוחה זאת על הסף",
+                    "sentence_id": "1",
+                    "paragraph_index": 80,
+                    "global_sentence_index": 221
+                }
+            ]
+        },
+        {
+            "paragraph_index": 81,
+            "sentences": [
+                {
+                    "sentence": "הואיל וכך, אני קובעת שהמאשימה עמדה בנטל המוטל עליה והוכיחה את אשמתו של הנאשם, מעבר לכל ספק סביר, ובהתאם אני מרשיעה אותו בעבירה המיוחסת לו, שכן מציצת פיטמה בנסיבות כפי שהוכח בפניי יש בה מעשה לשם גירוי, סיפוק או ביזוי מיני",
+                    "sentence_id": "0",
+                    "paragraph_index": 81,
+                    "global_sentence_index": 222
+                }
+            ]
+        },
+        {
+            "paragraph_index": 82,
+            "sentences": [
+                {
+                    "sentence": "ניתנה היום א' באדר, תשס\"ד (23 בפברואר 2004) במעמד הנוכחים",
+                    "sentence_id": "0",
+                    "paragraph_index": 82,
+                    "global_sentence_index": 223
+                }
+            ]
+        },
+        {
+            "paragraph_index": 83,
+            "sentences": [
+                {
+                    "sentence": "ב\"כ המאשימה טוען לעונש:",
+                    "sentence_id": "0",
+                    "paragraph_index": 83,
+                    "global_sentence_index": 224
+                }
+            ]
+        },
+        {
+            "paragraph_index": 84,
+            "sentences": [
+                {
+                    "sentence": "מוגש גליון הרשעות (הנאשם מאשר) – יסומן ת/א;",
+                    "sentence_id": "0",
+                    "paragraph_index": 84,
+                    "global_sentence_index": 225
+                }
+            ]
+        },
+        {
+            "paragraph_index": 85,
+            "sentences": [
+                {
+                    "sentence": "הרשעותיו בת/א מלפני זמן רב",
+                    "sentence_id": "0",
+                    "paragraph_index": 85,
+                    "global_sentence_index": 226
+                }
+            ]
+        },
+        {
+            "paragraph_index": 86,
+            "sentences": [
+                {
+                    "sentence": "אם ביהמ\"ש יעיין בהרשעות ימצא כי לנאשם 4 הרשעות בעבירות מין",
+                    "sentence_id": "0",
+                    "paragraph_index": 86,
+                    "global_sentence_index": 227
+                }
+            ]
+        },
+        {
+            "paragraph_index": 87,
+            "sentences": [
+                {
+                    "sentence": "המדובר בנאשם שכיום בן 44 את המעשה ביצע הנאשם כאשר היה בן 37 דהיינו המקרה היה בשנת 1996.",
+                    "sentence_id": "0",
+                    "paragraph_index": 87,
+                    "global_sentence_index": 228
+                }
+            ]
+        },
+        {
+            "paragraph_index": 88,
+            "sentences": [
+                {
+                    "sentence": "נאשם בעל עבר מהסוג הנ\"ל רואה ילדה כשהוא נגוע בעבירות מסוג זה, מיוזמתו הוא יוצר קשר עם הרדיו ומציג עצמו כאדם נלהב לעזור לאנשים במצוקה, המסר שלו מגיע לקורבן דהיינו המתלוננת, ואכן היא יוצרת קשר עם הנאשם והוא בצורה מאוד יזומה רוקם את מעשיו עד כדי כך שהמתלוננת נופלת ברשתו של הנאשם",
+                    "sentence_id": "0",
+                    "paragraph_index": 88,
+                    "global_sentence_index": 229
+                }
+            ]
+        },
+        {
+            "paragraph_index": 89,
+            "sentences": [
+                {
+                    "sentence": "הוא פשוט כרך מסביבה קורי עכביש",
+                    "sentence_id": "0",
+                    "paragraph_index": 89,
+                    "global_sentence_index": 230
+                },
+                {
+                    "sentence": "והיא המתלוננת היתה במצב קשה מאוד בביתה וחיפשה ישועה שמישהו יצילה",
+                    "sentence_id": "1",
+                    "paragraph_index": 89,
+                    "global_sentence_index": 231
+                },
+                {
+                    "sentence": "בלשון של אדם בשפה חלקה הצליח הנאשם לרכוש אמונה של המתלוננת, מיוזמתו להסיעה מפתח תקווה עד לביתו ובתוך ביתו לבצע את מעשיו",
+                    "sentence_id": "2",
+                    "paragraph_index": 89,
+                    "global_sentence_index": 232
+                }
+            ]
+        },
+        {
+            "paragraph_index": 90,
+            "sentences": [
+                {
+                    "sentence": "מדובר במתלוננת שלא היה בינה ובין הנאשם שום קשר",
+                    "sentence_id": "0",
+                    "paragraph_index": 90,
+                    "global_sentence_index": 233
+                }
+            ]
+        },
+        {
+            "paragraph_index": 91,
+            "sentences": [
+                {
+                    "sentence": "נכון שמדובר בעבירות משנת 1996 אולם ביהמ\"ש חייב לשקול בשיקוליו כי לא נגרם לנאשם כל עינוי דין גם כאשר התיק  הינו מלפני 8 שנים",
+                    "sentence_id": "0",
+                    "paragraph_index": 91,
+                    "global_sentence_index": 234
+                },
+                {
+                    "sentence": "העינוי נגרם רק למתלוננת עצמה והוא ילווה אותה דרך קבע כך היא הציגה את השבר האישי שלה שהנאשם הצליח להכנס לתוך קודש הקודשים שלה לבצע את מעשיו רק מתוך הנאה חייתית שלו",
+                    "sentence_id": "1",
+                    "paragraph_index": 91,
+                    "global_sentence_index": 235
+                },
+                {
+                    "sentence": "לזמן אולי אין משקל למרות הזמן שעבר ואני מציג כי במקרים דומים ביהמ\"ש גזר את מלוא הדין על נאשמים דומים",
+                    "sentence_id": "2",
+                    "paragraph_index": 91,
+                    "global_sentence_index": 236
+                }
+            ]
+        },
+        {
+            "paragraph_index": 92,
+            "sentences": [
+                {
+                    "sentence": "הנאשם לא התחשב בבכייה ולא התחשב בכך שהיא בביתו ותחת חסותו כל מה שעמד לנגד עיניו היה רק לבצע את מעשיו לצורך פורקן",
+                    "sentence_id": "0",
+                    "paragraph_index": 92,
+                    "global_sentence_index": 237
+                }
+            ]
+        },
+        {
+            "paragraph_index": 93,
+            "sentences": [
+                {
+                    "sentence": "נקודה אחרונה, זה לא עניין של אירוע רגעי שביצע הנאשם פתאום התעורר אצלו הצורך דהיינו הוא ידע שהוא נגוע והוא רקם את מעשיו ותכנן אותם מראש",
+                    "sentence_id": "0",
+                    "paragraph_index": 93,
+                    "global_sentence_index": 238
+                }
+            ]
+        },
+        {
+            "paragraph_index": 94,
+            "sentences": [
+                {
+                    "sentence": "לפיכך מאחר ומדובר בנאשם שזה לא מעשה ראשון שלו ל להטיל על הנאשם את המאסר הקבוע בחוק, היינו מאסר בפועל ממושך אנו יודעים שהקורבן היתה גבולי בת 16, ספק מתחת לגיל 16.",
+                    "sentence_id": "0",
+                    "paragraph_index": 94,
+                    "global_sentence_index": 239
+                }
+            ]
+        },
+        {
+            "paragraph_index": 95,
+            "sentences": [
+                {
+                    "sentence": "העבירות די נפוצות ובעלות השלכות קשות על הקורבנות לפיכך אבקש להעדיף את האנטרס של הקורבן ולדחות כל אנטרס אישי של הנאשם בנוסף למאסר בפועל אבקש להשית עליו גם מאסר על תנאי",
+                    "sentence_id": "0",
+                    "paragraph_index": 95,
+                    "global_sentence_index": 240
+                }
+            ]
+        },
+        {
+            "paragraph_index": 96,
+            "sentences": [
+                {
+                    "sentence": "הנאשם טוען לעונש:",
+                    "sentence_id": "0",
+                    "paragraph_index": 96,
+                    "global_sentence_index": 241
+                }
+            ]
+        },
+        {
+            "paragraph_index": 97,
+            "sentences": [
+                {
+                    "sentence": "ההרשעות הללו האחרונה ביניהן היא כמעט מלפני 20 שנה ומאז אני הייתי הראשון בארץ שהתנדבר בשיתוף פעולה עם ד\"ר אבנון שהיה אז מנהל בי\"ח שער מנשה והייתי הראשון בארץ  לקבל טיפול רפואי בבעייה והשתלטתי עליה",
+                    "sentence_id": "0",
+                    "paragraph_index": 97,
+                    "global_sentence_index": 242
+                }
+            ]
+        },
+        {
+            "paragraph_index": 98,
+            "sentences": [
+                {
+                    "sentence": "מאז האירוע שהוגשה התלונה בשנת 96, ומההרשעה שלפניה עברו פרק זמן ארוך מאוד אם בעקיפין ואם במישרין",
+                    "sentence_id": "0",
+                    "paragraph_index": 98,
+                    "global_sentence_index": 243
+                },
+                {
+                    "sentence": "מאז הגשת התלונה לא עברתי שום עבירה אחת",
+                    "sentence_id": "1",
+                    "paragraph_index": 98,
+                    "global_sentence_index": 244
+                }
+            ]
+        },
+        {
+            "paragraph_index": 99,
+            "sentences": [
+                {
+                    "sentence": "כתב האישום הוגש רק בשנת 2000 ובשנת 99 ולמרות שהתלונה הוגשה בשנת 96 ביקשתי חנינה מהנשיא",
+                    "sentence_id": "0",
+                    "paragraph_index": 99,
+                    "global_sentence_index": 245
+                }
+            ]
+        },
+        {
+            "paragraph_index": 100,
+            "sentences": [
+                {
+                    "sentence": "מאותו כתב אישום ועד היום טוענת המאשימה מה שטוענת אני לא עושה מעשים כאלה",
+                    "sentence_id": "0",
+                    "paragraph_index": 100,
+                    "global_sentence_index": 246
+                },
+                {
+                    "sentence": "אני מבקש במידה וביהמ\"ש ישית עליי עונש",
+                    "sentence_id": "1",
+                    "paragraph_index": 100,
+                    "global_sentence_index": 247
+                }
+            ]
+        },
+        {
+            "paragraph_index": 101,
+            "sentences": [
+                {
+                    "sentence": "היום אני נשוי ואב לשלושה ילדים ולאחר האישום נולד לי בן נוסף שהיום הוא בן 3 וחצי ואני חי חיים טובים ותקינים ועומד להקים חברה והולך בתלם ולא הולך בטל",
+                    "sentence_id": "0",
+                    "paragraph_index": 101,
+                    "global_sentence_index": 248
+                },
+                {
+                    "sentence": "לא מתחבר עם גורמים כאלה או אחרים אלא אדם ששומר על ביתו ומשפחתו",
+                    "sentence_id": "1",
+                    "paragraph_index": 101,
+                    "global_sentence_index": 249
+                }
+            ]
+        },
+        {
+            "paragraph_index": 102,
+            "sentences": [
+                {
+                    "sentence": "אבקש שביהמ\"ש יגזור עליי עונש מרתיע בלבד תוך הבטחה שאני לא יעבור עבירות כאלה ובין היתר לא משום שיש לי מה להפסיד",
+                    "sentence_id": "0",
+                    "paragraph_index": 102,
+                    "global_sentence_index": 250
+                },
+                {
+                    "sentence": "יש לי בת גדולה שאני מאמץ אותה בהסכמה והיא ביתה של אשתי ואני מבקש לאמצה באופן חוקי ומטפלת בכך גם פקידת הסעד ברחובות",
+                    "sentence_id": "1",
+                    "paragraph_index": 102,
+                    "global_sentence_index": 251
+                }
+            ]
+        },
+        {
+            "paragraph_index": 103,
+            "sentences": [
+                {
+                    "sentence": "החלטה",
+                    "sentence_id": "0",
+                    "paragraph_index": 103,
+                    "global_sentence_index": 252
+                }
+            ]
+        },
+        {
+            "paragraph_index": 104,
+            "sentences": [
+                {
+                    "sentence": "אני סבורה שבנסיבות המיוחדות שבפניי וגם לאחר ששמעתי את טיעוני הצדדים לעונש שבטרם אגזור דינו של הנאשם יש להעביר את עניינו לבדיקה ולהכנת תסקיר ע\"י ק",
+                    "sentence_id": "0",
+                    "paragraph_index": 104,
+                    "global_sentence_index": 253
+                },
+                {
+                    "sentence": "מבחן למבוגרים, אשר יגיש לביהמ\"ש תסקיר אודות הנאשם, מצבו והמלצה לגבי העונשים שיוטלו עליו",
+                    "sentence_id": "1",
+                    "paragraph_index": 104,
+                    "global_sentence_index": 254
+                }
+            ]
+        },
+        {
+            "paragraph_index": 105,
+            "sentences": [
+                {
+                    "sentence": "אני קובעת את התיק להמשך ליום  20.4.04  בשעה 09:30;",
+                    "sentence_id": "0",
+                    "paragraph_index": 105,
+                    "global_sentence_index": 255
+                }
+            ]
+        },
+        {
+            "paragraph_index": 106,
+            "sentences": [
+                {
+                    "sentence": "לתשומת לב ק",
+                    "sentence_id": "0",
+                    "paragraph_index": 106,
+                    "global_sentence_index": 256
+                },
+                {
+                    "sentence": "המבחן: כתובת הנאשם -  רחובות, רח' הר הצופים 1 ת",
+                    "sentence_id": "1",
+                    "paragraph_index": 106,
+                    "global_sentence_index": 257
+                },
+                {
+                    "sentence": "ד 1350.",
+                    "sentence_id": "2",
+                    "paragraph_index": 106,
+                    "global_sentence_index": 258
+                }
+            ]
+        },
+        {
+            "paragraph_index": 107,
+            "sentences": [
+                {
+                    "sentence": "המזכירות תעביר העתק מהחלטתי זו לק",
+                    "sentence_id": "0",
+                    "paragraph_index": 107,
+                    "global_sentence_index": 259
+                },
+                {
+                    "sentence": "המבחן למבוגרים",
+                    "sentence_id": "1",
+                    "paragraph_index": 107,
+                    "global_sentence_index": 260
+                }
+            ]
+        },
+        {
+            "paragraph_index": 108,
+            "sentences": [
+                {
+                    "sentence": "הנאשם מוזהר בחובת התייצבותו ובתוצאות אי התייצבותו",
+                    "sentence_id": "0",
+                    "paragraph_index": 108,
+                    "global_sentence_index": 261
+                }
+            ]
+        },
+        {
+            "paragraph_index": 109,
+            "sentences": [
+                {
+                    "sentence": "ניתנה היום 23 בפברואר, 2004 (א' באדר תשס\"ד) במעמד הצדדים",
+                    "sentence_id": "0",
+                    "paragraph_index": 109,
+                    "global_sentence_index": 262
+                }
+            ]
+        },
+        {
+            "paragraph_index": 110,
+            "sentences": [
+                {
+                    "sentence": "ד",
+                    "sentence_id": "0",
+                    "paragraph_index": 110,
+                    "global_sentence_index": 263
+                },
+                {
+                    "sentence": "ב",
+                    "sentence_id": "1",
+                    "paragraph_index": 110,
+                    "global_sentence_index": 264
+                }
+            ]
+        },
+        {
+            "paragraph_index": 111,
+            "sentences": [
+                {
+                    "sentence": "נוסח מסמך זה כפוף לשינויי ניסוח ועריכה",
+                    "sentence_id": "0",
+                    "paragraph_index": 111,
+                    "global_sentence_index": 265
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        " וכפי שציינתי שתי הגרסאות של המתלוננת תואמות, מצטלבות ומשתלבות כך שלביהמ\"ש לא ברור מדוע בחר הנאשם להגיש את נ/1 כראייה מטעמו",
+        " מעיון בנ/1 ניתן ללמוד שהמתלוננת מסרה בביהמ\"ש גירסה דומה ועקבית בדיוק כמו שמסרה באימרתה במשטרה"
+    ],
+    "main_sentence_from_docx": [
+        "וכפי שציינתי שתי הגרסאות של המתלוננת תואמות, מצטלבות ומשתלבות כך שלביהמ\"ש לא ברור מדוע בחר הנאשם להגיש את נ/1 כראייה מטעמו",
+        "מעיון בנ/1 ניתן ללמוד שהמתלוננת מסרה בביהמ\"ש גירסה דומה ועקבית בדיוק כמו שמסרה באימרתה במשטרה"
+    ],
+    "main_sentence_id_in_docx": [
+        "17_3",
+        "17_1"
+    ],
+    "global_sentence_index_docx": [
+        57,
+        55
+    ],
+    "global_sentence_index_spike": [
+        90842,
+        90840
+    ],
+    "score_of_similarity": [
+        0.0,
+        0.0
+    ]
+}

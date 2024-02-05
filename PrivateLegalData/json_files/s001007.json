@@ -1,0 +1,1522 @@
+{
+    "title": "s001007",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "חקיקה שאוזכרה:",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": ": סע'  ,",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "הכרעת דין",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "1.\tהנאשם הינו מורה לנהיגה, המתגורר במושב שתולים",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 3
+                },
+                {
+                    "sentence": "המתלוננת, ליטל יעקובי, ילידת 14/06/82 (להלן:ב \"המתלוננת), אף היא ממושב שתולים, למדה נהיגה אצל הנאשם",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "לנאשם מיוחסות עבירות של מעשים מגונים, לפי  ל ועבירה של רמזים מגונים, לפי  לחוק העונשין",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "2.\tעל פי כתב האישום, ביום 03/10/99, במהלך שיעור נהיגה, לאחר השעה 19:ו 10, הורה הנאשם למתלוננת לנסוע בדרך עפר, סמוך לחוף הים באשדוד, שם הציע לה \"להשתעשע קצת\" וביצע בה מעשים מגונים, לשם גירוי, סיפוק או ביזוי מיניים, זאת בניגוד לרצונה",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "המעשים התבטאו בכך, שלאחר שהורה לה לעצור, ליטף את פניה, נישק אותה בכוח על שפתיה, החדיר את לשונו לפיה וליטף את ידה",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 7,
+            "sentences": [
+                {
+                    "sentence": "עוד נטען בכתב האישום, כי גם לאחר שהמתלוננת המשיכה בנסיעה, המשיך הנאשם במעשים המגונים, בניגוד לרצון המתלוננת, בכך שליטף את ידה ונגע בידו באיבר מינה מעל בגדיה",
+                    "sentence_id": "0",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 8,
+            "sentences": [
+                {
+                    "sentence": "בכתב האישום נטען גם, כי בהמשך, אמר הנאשם למתלוננת, שאם תבצע נסיעה מוצלחת לאחור, ינשק אותה וכך עשה, חרף סירובה של המתלוננת",
+                    "sentence_id": "0",
+                    "paragraph_index": 8,
+                    "global_sentence_index": 9
+                }
+            ]
+        },
+        {
+            "paragraph_index": 9,
+            "sentences": [
+                {
+                    "sentence": "3.\tמטעם התביעה העידו המתלוננת, הוריה וחברתה, מורן אחרק ע\"ת 2 (להלן:נ \"מורן\")",
+                    "sentence_id": "0",
+                    "paragraph_index": 9,
+                    "global_sentence_index": 10
+                }
+            ]
+        },
+        {
+            "paragraph_index": 10,
+            "sentences": [
+                {
+                    "sentence": "כן הוגשו בהסכמה אימרת הנאשם, ת1/, מזכר של שחזור מקום האירוע, ת/ 2, תרשים של מקום האירוע, ת/ 3 והודעותיה של המתלוננת במשטרה ת/ 4 ו - ת/ 5.",
+                    "sentence_id": "0",
+                    "paragraph_index": 10,
+                    "global_sentence_index": 11
+                }
+            ]
+        },
+        {
+            "paragraph_index": 11,
+            "sentences": [
+                {
+                    "sentence": "את התלונה למשטרה הגישה המתלוננת ביום 20/10/99 - 17 יום לאחר האירוע",
+                    "sentence_id": "0",
+                    "paragraph_index": 11,
+                    "global_sentence_index": 12
+                }
+            ]
+        },
+        {
+            "paragraph_index": 12,
+            "sentences": [
+                {
+                    "sentence": "מטעם ההגנה העידו הנאשם וחברו מאיר קורש, ע\"ה 1.",
+                    "sentence_id": "0",
+                    "paragraph_index": 12,
+                    "global_sentence_index": 13
+                }
+            ]
+        },
+        {
+            "paragraph_index": 13,
+            "sentences": [
+                {
+                    "sentence": "כן הוגשו, בהסכמה, הודעותיהם במשטרה של מורן, נ/ 1, ושל אבי המתלוננת, נ/ 2.",
+                    "sentence_id": "0",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 14
+                }
+            ]
+        },
+        {
+            "paragraph_index": 14,
+            "sentences": [
+                {
+                    "sentence": "4.\tהמתלוננת סיפרה בעדותה, כי למדה אצל הנאשם, בהיותו בן המושב, מתוך אמון שלה ושל הוריה בנאשם, כאשר רוב השיעורים היו מפוצלים ומסתיימים במושב, בו התגוררו שניהם",
+                    "sentence_id": "0",
+                    "paragraph_index": 14,
+                    "global_sentence_index": 15
+                }
+            ]
+        },
+        {
+            "paragraph_index": 15,
+            "sentences": [
+                {
+                    "sentence": "לדבריה, למדה כ - 11 שיעורי נהיגה, כשבשיעור האחרון, בהיותה נוהגת, הנאשם הורה לה לנסוע למקום חשוך ושומם, והיא לא חשדה בכלום, כי סמכה עליו מכוח היכרותם",
+                    "sentence_id": "0",
+                    "paragraph_index": 15,
+                    "global_sentence_index": 16
+                }
+            ]
+        },
+        {
+            "paragraph_index": 16,
+            "sentences": [
+                {
+                    "sentence": "בהגיעם למקום השומם, היא שאלה אותו \"מה אנחנו עושים פה",
+                    "sentence_id": "0",
+                    "paragraph_index": 16,
+                    "global_sentence_index": 17
+                },
+                {
+                    "sentence": "\" והוא אמר לה \"אל תחששי, בואי נשתעשע קצת\" ובהפתעה, בלי שהבינה מה קורה, הוא \"דחף\" את פרצופו לפרצופה ודחף את לשונו לפיה, כשהוא מחזיק את פניה בידיו",
+                    "sentence_id": "1",
+                    "paragraph_index": 16,
+                    "global_sentence_index": 18
+                },
+                {
+                    "sentence": "היא ניסתה להוריד את ידיו ולהיאבק עימו, סגרה את שיניה וניסתה להוציא את כל הרוק שלה עליו, כדי שיתרחק ממנה",
+                    "sentence_id": "2",
+                    "paragraph_index": 16,
+                    "global_sentence_index": 19
+                }
+            ]
+        },
+        {
+            "paragraph_index": 17,
+            "sentences": [
+                {
+                    "sentence": "כשהוא הפסיק והוריד את ידיו ממנה, היא המשיכה בנסיעה, כמי שכפאה שד, בלי לדעת מה לעשות ומה קורה איתה",
+                    "sentence_id": "0",
+                    "paragraph_index": 17,
+                    "global_sentence_index": 20
+                }
+            ]
+        },
+        {
+            "paragraph_index": 18,
+            "sentences": [
+                {
+                    "sentence": "המתלוננת, המשיכה בנסיעה והנאשם אמר לה, \"לא קרה כלום, הכל בסדר\"",
+                    "sentence_id": "0",
+                    "paragraph_index": 18,
+                    "global_sentence_index": 21
+                },
+                {
+                    "sentence": "לדברי המתלוננת, המשיך הנאשם ללטף ולדגדג אותה, כשהיא בנסיעה ואוחזת בהגה, ובתוך כך גם נגע לה בירך, בחלק הפנימי ונגע לה באיבר מינה, מעל בגדיה",
+                    "sentence_id": "1",
+                    "paragraph_index": 18,
+                    "global_sentence_index": 22
+                }
+            ]
+        },
+        {
+            "paragraph_index": 19,
+            "sentences": [
+                {
+                    "sentence": "לטענת המתלוננת, היא הייתה בהלם ולא הגיבה לנגיעות אלה ונסעה \"כמו רובוט\"",
+                    "sentence_id": "0",
+                    "paragraph_index": 19,
+                    "global_sentence_index": 23
+                }
+            ]
+        },
+        {
+            "paragraph_index": 20,
+            "sentences": [
+                {
+                    "sentence": "בהמשך, הורה לה הנאשם לעצור ואמר לה, שאם תעשה רברס טוב, ייתן לה נשיקה בלחי",
+                    "sentence_id": "0",
+                    "paragraph_index": 20,
+                    "global_sentence_index": 24
+                }
+            ]
+        },
+        {
+            "paragraph_index": 21,
+            "sentences": [
+                {
+                    "sentence": "לטענת המתלוננת, היא אמרה לו שהיא לא רוצה שום נשיקה, גם לא בלחי ושיעזבנה לנפשה",
+                    "sentence_id": "0",
+                    "paragraph_index": 21,
+                    "global_sentence_index": 25
+                },
+                {
+                    "sentence": "כשביצעה רברס, הנאשם נישק אותה בלחי, בניגוד לרצונה",
+                    "sentence_id": "1",
+                    "paragraph_index": 21,
+                    "global_sentence_index": 26
+                }
+            ]
+        },
+        {
+            "paragraph_index": 22,
+            "sentences": [
+                {
+                    "sentence": "עוד סיפרה המתלוננת, כי בהגיעם חזרה למושב, החליטה לא לנסוע הישר לביתה, כהרגלם, אלא ביקשה לנסוע לביתה של מורן, כי רצתה לספר לחברתה על מעללי הנאשם",
+                    "sentence_id": "0",
+                    "paragraph_index": 22,
+                    "global_sentence_index": 27
+                },
+                {
+                    "sentence": "היא החליטה לספר למורן, כי חששה שהוריה לא יאמינו לה, כשמדובר באיש המושב",
+                    "sentence_id": "1",
+                    "paragraph_index": 22,
+                    "global_sentence_index": 28
+                }
+            ]
+        },
+        {
+            "paragraph_index": 23,
+            "sentences": [
+                {
+                    "sentence": "לדברי המתלוננת, היא רצה לכיוון ביתה של מורן, כשהיא יורקת כל הדרך, מתוך גועל נפש",
+                    "sentence_id": "0",
+                    "paragraph_index": 23,
+                    "global_sentence_index": 29
+                }
+            ]
+        },
+        {
+            "paragraph_index": 24,
+            "sentences": [
+                {
+                    "sentence": "מורן לא הייתה בבית ואמה של מורן אמרה לה, היכן מורן נמצאת, שם מצאה את מורן וסיפרה לה",
+                    "sentence_id": "0",
+                    "paragraph_index": 24,
+                    "global_sentence_index": 30
+                },
+                {
+                    "sentence": "מורן לא האמינה בתחילה, משום שגם היא למדה נהיגה אצל הנאשם וסמכה עליו",
+                    "sentence_id": "1",
+                    "paragraph_index": 24,
+                    "global_sentence_index": 31
+                }
+            ]
+        },
+        {
+            "paragraph_index": 25,
+            "sentences": [
+                {
+                    "sentence": "בהמשך, המתלוננת הגיעה לביתה",
+                    "sentence_id": "0",
+                    "paragraph_index": 25,
+                    "global_sentence_index": 32
+                },
+                {
+                    "sentence": "הוריה לא היו בבית",
+                    "sentence_id": "1",
+                    "paragraph_index": 25,
+                    "global_sentence_index": 33
+                },
+                {
+                    "sentence": "כשהאם הגיעה הביתה, ראשונה, המתלוננת סיפרה לה על הנשיקה ואמה לא רצתה לשמוע יותר",
+                    "sentence_id": "2",
+                    "paragraph_index": 25,
+                    "global_sentence_index": 34
+                },
+                {
+                    "sentence": "היא הזעיקה את האב וכשהאב הגיע ושמע, הלכו הוריה אל הנאשם, באותו ערב",
+                    "sentence_id": "3",
+                    "paragraph_index": 25,
+                    "global_sentence_index": 35
+                }
+            ]
+        },
+        {
+            "paragraph_index": 26,
+            "sentences": [
+                {
+                    "sentence": "לטענת המתלוננת, היא החליטה להתלונן במשטרה, רק כעבור 17 יום, כי בתחילה פחדה מהנאשם שיתנקם בה",
+                    "sentence_id": "0",
+                    "paragraph_index": 26,
+                    "global_sentence_index": 36
+                },
+                {
+                    "sentence": "אולם כאשר לא יכלה לשאת יותר את הגועל, כשבתוך כך ציוניה בלימודים ירדו, לא הייתה מרוכזת, לא יכלה לישון ולא יכלה לתפקד, החליטה להתלונן",
+                    "sentence_id": "1",
+                    "paragraph_index": 26,
+                    "global_sentence_index": 37
+                }
+            ]
+        },
+        {
+            "paragraph_index": 27,
+            "sentences": [
+                {
+                    "sentence": "המתלוננת סיפרה גם, כי עקב האירוע הזה, הפסיקה ללמוד נהיגה",
+                    "sentence_id": "0",
+                    "paragraph_index": 27,
+                    "global_sentence_index": 38
+                }
+            ]
+        },
+        {
+            "paragraph_index": 28,
+            "sentences": [
+                {
+                    "sentence": "5.\tמורן, ע\"ת 2 סיפרה בעדותה, כי פגשה את המתלוננת באותו ערב, כשהמתלוננת הייתה נסערת ובוכה וסיפרה לה שהנאשם נגע בה ונישק אותה",
+                    "sentence_id": "0",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 39
+                },
+                {
+                    "sentence": "היא שמעה מהמתלוננת, שבכוונתה לספר להוריה ועודדה אותה לעשות כן",
+                    "sentence_id": "1",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 40
+                }
+            ]
+        },
+        {
+            "paragraph_index": 29,
+            "sentences": [
+                {
+                    "sentence": "לעצם האירוע, מורן זכרה, שהמתלוננת סיפרה לה, שהנאשם לקח אותה לכיכר, ושהיא הייתה מבוהלת ושאלה לאן הולכים והנאשם אמר לה, \"שהולכים ליהנות קצת\"",
+                    "sentence_id": "0",
+                    "paragraph_index": 29,
+                    "global_sentence_index": 41
+                },
+                {
+                    "sentence": "המתלוננת הייתה מבוהלת ואחר כך הנאשם אמר למתלוננת, שאם תעשה רברס טוב תקבל נשיקה",
+                    "sentence_id": "1",
+                    "paragraph_index": 29,
+                    "global_sentence_index": 42
+                },
+                {
+                    "sentence": "לדברי מורן, נראה היה על פניה של המתלוננת, שהיא נסערת, וגם מזה שהלכה מהר ובכתה",
+                    "sentence_id": "2",
+                    "paragraph_index": 29,
+                    "global_sentence_index": 43
+                },
+                {
+                    "sentence": "לדברי מורן, בתחילה היה קשה למתלוננת לספר ותוך כדי הליכה, המתלוננת סיפרה לאט לאט, \"הוציאה את הכל והתחילה לבכות\"",
+                    "sentence_id": "3",
+                    "paragraph_index": 29,
+                    "global_sentence_index": 44
+                }
+            ]
+        },
+        {
+            "paragraph_index": 30,
+            "sentences": [
+                {
+                    "sentence": "לשאלת הסניגור, אמרה מורן, כי היא שאלה את המתלוננת, אם הסכימה למעשיו של הנאשם והמתלוננת השיבה, \"נראה לך שזה הגיוני",
+                    "sentence_id": "0",
+                    "paragraph_index": 30,
+                    "global_sentence_index": 45
+                }
+            ]
+        },
+        {
+            "paragraph_index": 31,
+            "sentences": [
+                {
+                    "sentence": "מורן אמרה גם, כי האמור בהודעתה במשטרה נ/ 1, נאמר על ידה והחוקרת לא המציאה את הדברים",
+                    "sentence_id": "0",
+                    "paragraph_index": 31,
+                    "global_sentence_index": 46
+                }
+            ]
+        },
+        {
+            "paragraph_index": 32,
+            "sentences": [
+                {
+                    "sentence": "6.\tע\"ת 3, אביה של המתלוננת (להלן:ב \"האב\"), סיפר כיצד נודע לו הדבר באותו ערב, כאשר מה ששמע באותו ערב, היה בעניין הנשיקה בלבד ורק כשהוגשה התלונה במשטרה, שמע מהחוקרת את הפרטים הנוספים, על הנגיעות, ולא היה בטוח שסיפרו לו את כל האמת",
+                    "sentence_id": "0",
+                    "paragraph_index": 32,
+                    "global_sentence_index": 47
+                }
+            ]
+        },
+        {
+            "paragraph_index": 33,
+            "sentences": [
+                {
+                    "sentence": "לדברי האב, הוא קיבל קשה את מעשיו של הנאשם בבתו, בעיקר כאשר הוא מכיר אותו שנים וראה בכך \"כמו סכין בגב\"",
+                    "sentence_id": "0",
+                    "paragraph_index": 33,
+                    "global_sentence_index": 48
+                }
+            ]
+        },
+        {
+            "paragraph_index": 34,
+            "sentences": [
+                {
+                    "sentence": "לדבריו, הוא היה נרגש ונסער למשמע הדברים ואשתו ע\"ת 4 (להלן:ו האם) הציעה, שיסעו לביתו של הנאשם",
+                    "sentence_id": "0",
+                    "paragraph_index": 34,
+                    "global_sentence_index": 49
+                }
+            ]
+        },
+        {
+            "paragraph_index": 35,
+            "sentences": [
+                {
+                    "sentence": "הנאשם לא היה בבית ומצאו אותו בחצר, בחשכה בין העצים",
+                    "sentence_id": "0",
+                    "paragraph_index": 35,
+                    "global_sentence_index": 50
+                },
+                {
+                    "sentence": "הוא קרא לנאשם ואמר לו \"אני לא יודע מה להגיד\" ותגובת הנאשם הייתה, \"לא בני, זה לא מה שאתה חושב, אני ליטפתי את הראש שלה\", כשהוא מדגים זאת מעל ראשה של האם, שישבה ברכב על ידו",
+                    "sentence_id": "1",
+                    "paragraph_index": 35,
+                    "global_sentence_index": 51
+                }
+            ]
+        },
+        {
+            "paragraph_index": 36,
+            "sentences": [
+                {
+                    "sentence": "כשהאם אמרה לנאשם \"זה לא היה ככה, היא סיפרה שנישקת אותה, הוא אמר:נ טוב נשיקה זה בסדר, כי היא עשתה רברס טוב\"",
+                    "sentence_id": "0",
+                    "paragraph_index": 36,
+                    "global_sentence_index": 52
+                }
+            ]
+        },
+        {
+            "paragraph_index": 37,
+            "sentences": [
+                {
+                    "sentence": "לדברי האב, כשהוא אמר לנאשם שאינו יודע מה לעשות, לספר לאשת הנאשם, או ללכת למשטרה, אמר לו הנאשם , \"בני, לא",
+                    "sentence_id": "0",
+                    "paragraph_index": 37,
+                    "global_sentence_index": 53
+                },
+                {
+                    "sentence": "אל תעשה לי את זה",
+                    "sentence_id": "1",
+                    "paragraph_index": 37,
+                    "global_sentence_index": 54
+                },
+                {
+                    "sentence": "אל תהרוס אותי\", ואז ביקש האב מהנאשם את כספו בחזרה והנאשם מיד שלף 500 ש\"ח במזומן ונתן לו",
+                    "sentence_id": "2",
+                    "paragraph_index": 37,
+                    "global_sentence_index": 55
+                }
+            ]
+        },
+        {
+            "paragraph_index": 38,
+            "sentences": [
+                {
+                    "sentence": "גם האב אמר, שלא הוגשה תלונה מיד, בשל ההיכרות רבת השנים עם הנאשם, בשל החשש שהבת תצטרך לעבור חקירות ובשל העובדה, שבאותו שלב, ידע רק על נשיקה",
+                    "sentence_id": "0",
+                    "paragraph_index": 38,
+                    "global_sentence_index": 56
+                }
+            ]
+        },
+        {
+            "paragraph_index": 39,
+            "sentences": [
+                {
+                    "sentence": "האב סיפר גם, כי מאז המקרה, המתלוננת, שהייתה תלמידה מצטיינת, ירדה בלימודיה, פוחדת ולא ישנה בלילות",
+                    "sentence_id": "0",
+                    "paragraph_index": 39,
+                    "global_sentence_index": 57
+                },
+                {
+                    "sentence": "היא איבדה את שלוותה, קמה בלילות ומסתובבת וישנה עם אור דולק",
+                    "sentence_id": "1",
+                    "paragraph_index": 39,
+                    "global_sentence_index": 58
+                }
+            ]
+        },
+        {
+            "paragraph_index": 40,
+            "sentences": [
+                {
+                    "sentence": "7.\tהאם סיפרה בעדותה, כי באותו ערב, כשהגיעה הביתה, ראתה שהמתלוננת היסטרית, בוכה ולחוצה",
+                    "sentence_id": "0",
+                    "paragraph_index": 40,
+                    "global_sentence_index": 59
+                },
+                {
+                    "sentence": "היא סיפרה לה, שהנאשם נישק אותה בכוח, כשלקח אותה לשביל עפר",
+                    "sentence_id": "1",
+                    "paragraph_index": 40,
+                    "global_sentence_index": 60
+                },
+                {
+                    "sentence": "היא ביקשה מהבת להפסיק את סיפור המעשה , עד שתזמין את האב",
+                    "sentence_id": "2",
+                    "paragraph_index": 40,
+                    "global_sentence_index": 61
+                },
+                {
+                    "sentence": "וכשהאב הגיע, המתלוננת סיפרה הכל",
+                    "sentence_id": "3",
+                    "paragraph_index": 40,
+                    "global_sentence_index": 62
+                },
+                {
+                    "sentence": "לדבריה הם היו המומים, כי סמכו על בן המושב, אותו הם מכירים שנים והחליטו לנסוע אל הנאשם",
+                    "sentence_id": "4",
+                    "paragraph_index": 40,
+                    "global_sentence_index": 63
+                },
+                {
+                    "sentence": "הנאשם אותר בבית חברו",
+                    "sentence_id": "5",
+                    "paragraph_index": 40,
+                    "global_sentence_index": 64
+                },
+                {
+                    "sentence": "הנאשם היה בבהלה ושאל מה קרה",
+                    "sentence_id": "6",
+                    "paragraph_index": 40,
+                    "global_sentence_index": 65
+                },
+                {
+                    "sentence": "כשאמרו לו שרוצים לדבר איתו, הוא אמר \"אה, כן, רק  ליטפתי אותה\" ושם את ידו על ראשה, לשם המחשה",
+                    "sentence_id": "7",
+                    "paragraph_index": 40,
+                    "global_sentence_index": 66
+                },
+                {
+                    "sentence": "כשאמרו לו שהיה יותר מזה והם רוצים לדבר איתו במקום אחר, הוא לא הסכים",
+                    "sentence_id": "8",
+                    "paragraph_index": 40,
+                    "global_sentence_index": 67
+                },
+                {
+                    "sentence": "\"הוא היה כזה לחוץ ואחר כך אמר:ב אה, אמרתי לה אם תעשי רברס אני אתן לך נשיקה\"",
+                    "sentence_id": "9",
+                    "paragraph_index": 40,
+                    "global_sentence_index": 68
+                }
+            ]
+        },
+        {
+            "paragraph_index": 41,
+            "sentences": [
+                {
+                    "sentence": "גם האם אמרה בעדותה, כי לא מיהרו להגיש תלונה במשטרה, בשל ההיכרות רבת השנים עם הנאשם, עם אשתו וילדיו",
+                    "sentence_id": "0",
+                    "paragraph_index": 41,
+                    "global_sentence_index": 69
+                },
+                {
+                    "sentence": "מה עוד, שנקלעו לסיטואציה כזו בהפתעה, בלי שידעו מראש, מה לעשות במקרה כזה",
+                    "sentence_id": "1",
+                    "paragraph_index": 41,
+                    "global_sentence_index": 70
+                }
+            ]
+        },
+        {
+            "paragraph_index": 42,
+            "sentences": [
+                {
+                    "sentence": "גם האם העידה, כי מאז המקרה, המתלוננת לא ישנה טוב, האור דולק בחדרה ו - \"הכל מתהפך לה\"",
+                    "sentence_id": "0",
+                    "paragraph_index": 42,
+                    "global_sentence_index": 71
+                }
+            ]
+        },
+        {
+            "paragraph_index": 43,
+            "sentences": [
+                {
+                    "sentence": "עוד סיפרה האם, כי באותו ערב סיפרה המתלוננת על נשיקה בכוח, ורק בהמשך, סיפרה על נגיעות וליטופים, כשלא את כל הפרטים היא סיפרה לבעלה",
+                    "sentence_id": "0",
+                    "paragraph_index": 43,
+                    "global_sentence_index": 72
+                }
+            ]
+        },
+        {
+            "paragraph_index": 44,
+            "sentences": [
+                {
+                    "sentence": "8.\tהנאשם מכחיש מכל וכל ביצוע מעשים מגונים כלשהם במתלוננת, או רמיזות מיניות כלשהן",
+                    "sentence_id": "0",
+                    "paragraph_index": 44,
+                    "global_sentence_index": 73
+                }
+            ]
+        },
+        {
+            "paragraph_index": 45,
+            "sentences": [
+                {
+                    "sentence": "לטענת הנאשם, המתלוננת הייתה תלמידה לא ממושמעת , שהיו לה קשיים לעבור את מבחן התיאוריה, בו נכשלה 4 פעמים",
+                    "sentence_id": "0",
+                    "paragraph_index": 45,
+                    "global_sentence_index": 74
+                },
+                {
+                    "sentence": "לדבריו, בכל פעם שניסה להדריך אותה, בנושאי תיאוריה, היא לא הייתה מוכנה לשמוע וענתה בחוצפה, עד כי שקל להפסיק ללמדה",
+                    "sentence_id": "1",
+                    "paragraph_index": 45,
+                    "global_sentence_index": 75
+                },
+                {
+                    "sentence": "המתלוננת הבטיחה ללמוד תיאוריה בחג הסוכות, כשהשיעור האחרון, נשוא כתב אישום זה, היה אחרי חג הסוכות, באסרו חג",
+                    "sentence_id": "2",
+                    "paragraph_index": 45,
+                    "global_sentence_index": 76
+                }
+            ]
+        },
+        {
+            "paragraph_index": 46,
+            "sentences": [
+                {
+                    "sentence": "לדבריו, באותו יום היו שני שעורים מפוצלים, כאשר לשיעור השני, המתלוננת לא הגיעה בזמן והוא נאלץ להמתין לה 20 - 25 דקות",
+                    "sentence_id": "0",
+                    "paragraph_index": 46,
+                    "global_sentence_index": 77
+                },
+                {
+                    "sentence": "עקב זה, לדבריו, אמר לה שינסו לתרגל רק כמה חניות ברברס",
+                    "sentence_id": "1",
+                    "paragraph_index": 46,
+                    "global_sentence_index": 78
+                }
+            ]
+        },
+        {
+            "paragraph_index": 47,
+            "sentences": [
+                {
+                    "sentence": "או אז אמר לה, שאם תעשה רברס טוב, יתן לה נשיקה בלחי והיא הסכימה, כשהוא התייחס אליה כמו אל בתו",
+                    "sentence_id": "0",
+                    "paragraph_index": 47,
+                    "global_sentence_index": 79
+                }
+            ]
+        },
+        {
+            "paragraph_index": 48,
+            "sentences": [
+                {
+                    "sentence": "לטענתו, כשביצעה את הרברס טוב, היא שאלה אותו פעמיים, מה עם הנשיקה",
+                    "sentence_id": "0",
+                    "paragraph_index": 48,
+                    "global_sentence_index": 80
+                },
+                {
+                    "sentence": "\"אמרתי לה תגישי את הלחי ונתתי לה נשיקה\"",
+                    "sentence_id": "1",
+                    "paragraph_index": 48,
+                    "global_sentence_index": 81
+                }
+            ]
+        },
+        {
+            "paragraph_index": 49,
+            "sentences": [
+                {
+                    "sentence": "לדבריו, לא הייתה לו כל כוונה מינית, ועשה זאת נוכח התנהגותה העיקשת של המתלוננת, כשבכוונתו היה לנסות גישה אחרת, כדי לזכות בשיתוף פעולה טוב יותר של המתלוננת , שתקשיב לו יותר, כדי להצליח בלימודי הנהיגה",
+                    "sentence_id": "0",
+                    "paragraph_index": 49,
+                    "global_sentence_index": 82
+                }
+            ]
+        },
+        {
+            "paragraph_index": 50,
+            "sentences": [
+                {
+                    "sentence": "לדברי הנאשם, באותו מועד אמר למתלוננת, כי הוא נזכר איך אביה היה מסתכל לאחור, כשהיה חורש במחרשה במושב והמתלוננת התחצפה ואמרה \"אוף , נודניק מטומטם\"",
+                    "sentence_id": "0",
+                    "paragraph_index": 50,
+                    "global_sentence_index": 83
+                }
+            ]
+        },
+        {
+            "paragraph_index": 51,
+            "sentences": [
+                {
+                    "sentence": "דבר שהרגיז אותו, ואמר לה, \"אין לי כוח בשבילך",
+                    "sentence_id": "0",
+                    "paragraph_index": 51,
+                    "global_sentence_index": 84
+                },
+                {
+                    "sentence": "הביתה להורים שלך\"",
+                    "sentence_id": "1",
+                    "paragraph_index": 51,
+                    "global_sentence_index": 85
+                }
+            ]
+        },
+        {
+            "paragraph_index": 52,
+            "sentences": [
+                {
+                    "sentence": "הנאשם מאשר, כי שלא כהרגלה, המתלוננת ביקשה הפעם לנסוע לכיוון בית חברתה ולא לביתה היא",
+                    "sentence_id": "0",
+                    "paragraph_index": 52,
+                    "global_sentence_index": 86
+                }
+            ]
+        },
+        {
+            "paragraph_index": 53,
+            "sentences": [
+                {
+                    "sentence": "הנאשם מאשר גם, כי בהמשך אותו ערב, בהיותו בבית חברו, ע\"ה 1, מר קורש, הגיעו הורי המתלוננת וביקשו לדבר איתו",
+                    "sentence_id": "0",
+                    "paragraph_index": 53,
+                    "global_sentence_index": 87
+                },
+                {
+                    "sentence": "הוא חשב שהם רוצים להתנצל בשם המתלוננת",
+                    "sentence_id": "1",
+                    "paragraph_index": 53,
+                    "global_sentence_index": 88
+                }
+            ]
+        },
+        {
+            "paragraph_index": 54,
+            "sentences": [
+                {
+                    "sentence": "האם אמרה לו:ו \"מה עשית לבת שלי\", ואילו האב ישב כל הזמן ליד ההגה, מליט פניו בידיו ואומר רק \"או או\", בלי רצון לשמוע",
+                    "sentence_id": "0",
+                    "paragraph_index": 54,
+                    "global_sentence_index": 89
+                },
+                {
+                    "sentence": "האב אמר שיגש למשטרה והנאשם אמר לו שיגש",
+                    "sentence_id": "1",
+                    "paragraph_index": 54,
+                    "global_sentence_index": 90
+                },
+                {
+                    "sentence": "האם אמרה שלא צריך משטרה",
+                    "sentence_id": "2",
+                    "paragraph_index": 54,
+                    "global_sentence_index": 91
+                },
+                {
+                    "sentence": "האב אמר לו \"שלא אפגע בעבודתך תן לי את ה - 500 ש\"ח\"",
+                    "sentence_id": "3",
+                    "paragraph_index": 54,
+                    "global_sentence_index": 92
+                },
+                {
+                    "sentence": "והנאשם נתן לו את הכסף",
+                    "sentence_id": "4",
+                    "paragraph_index": 54,
+                    "global_sentence_index": 93
+                }
+            ]
+        },
+        {
+            "paragraph_index": 55,
+            "sentences": [
+                {
+                    "sentence": "9.\tמר קורש, ע\"ה 1, העיד שהנאשם היה בחברתו, כאשר הורי המתלוננת קראו לו לשיחה, באותו ערב",
+                    "sentence_id": "0",
+                    "paragraph_index": 55,
+                    "global_sentence_index": 94
+                },
+                {
+                    "sentence": "הוא לא נכח בשיחה ולא יודע מה דובר בה",
+                    "sentence_id": "1",
+                    "paragraph_index": 55,
+                    "global_sentence_index": 95
+                }
+            ]
+        },
+        {
+            "paragraph_index": 56,
+            "sentences": [
+                {
+                    "sentence": "10.\tלטענת הסניגור, אין ליתן אמון בדברי המתלוננת, שהחליטה להעליל על הנאשם, לאחר שהנאשם החליט להפסיק ללמדה נהיגה ונוכח כישלונותיה במבחני התיאוריה",
+                    "sentence_id": "0",
+                    "paragraph_index": 56,
+                    "global_sentence_index": 96
+                }
+            ]
+        },
+        {
+            "paragraph_index": 57,
+            "sentences": [
+                {
+                    "sentence": "לטענת הסניגור, גירסת המתלוננת מניפולטיבית, מלאה סתירות וחצאי אמיתות ולכן אין ליתן בה אמון",
+                    "sentence_id": "0",
+                    "paragraph_index": 57,
+                    "global_sentence_index": 97
+                }
+            ]
+        },
+        {
+            "paragraph_index": 58,
+            "sentences": [
+                {
+                    "sentence": "לטענת הסניגור, לאותה נשיקה בלחי, לא הייתה כל כוונה מינית וניתנה בהסכמה של המתלוננת",
+                    "sentence_id": "0",
+                    "paragraph_index": 58,
+                    "global_sentence_index": 98
+                }
+            ]
+        },
+        {
+            "paragraph_index": 59,
+            "sentences": [
+                {
+                    "sentence": "לטענת הסניגור, גם העובדה שהתלונה לא הוגשה מיד, כשהתלונה היתה \"כבושה\", זמן רב יחסית, יש בה כדי להפריך את אמיתותה",
+                    "sentence_id": "0",
+                    "paragraph_index": 59,
+                    "global_sentence_index": 99
+                }
+            ]
+        },
+        {
+            "paragraph_index": 60,
+            "sentences": [
+                {
+                    "sentence": "עוד טוען הסניגור, כי לדברי המתלוננת גם בעבר הנאשם נגע בה ודגדג אותה והיא חשבה שזה בסדר ולא הייתה מוטרדת מכך ולא התנגדה",
+                    "sentence_id": "0",
+                    "paragraph_index": 60,
+                    "global_sentence_index": 100
+                }
+            ]
+        },
+        {
+            "paragraph_index": 61,
+            "sentences": [
+                {
+                    "sentence": "גם בערב האירוע, אמרה המתלוננת שהנאשם נגע בה ולא אמרה לו כלום",
+                    "sentence_id": "0",
+                    "paragraph_index": 61,
+                    "global_sentence_index": 101
+                }
+            ]
+        },
+        {
+            "paragraph_index": 62,
+            "sentences": [
+                {
+                    "sentence": "הסניגור תמה גם על העובדה, שהמתלוננת לא הסיטה ראשה הצידה, כדי להפסיק את הנשיקה בכוח, כביכול, במקום לסגור שיניים ולהוציא רוק",
+                    "sentence_id": "0",
+                    "paragraph_index": 62,
+                    "global_sentence_index": 102
+                }
+            ]
+        },
+        {
+            "paragraph_index": 63,
+            "sentences": [
+                {
+                    "sentence": "גם העובדה, שהמתלוננת חזרה בה מהסכמתה לבצע עימות עם הנאשם, מהווה, לטענת הסניגור, הוכחה כי מדובר בעלילה, אחרת המתלוננת לא היתה חוששת לכל עימות",
+                    "sentence_id": "0",
+                    "paragraph_index": 63,
+                    "global_sentence_index": 103
+                }
+            ]
+        },
+        {
+            "paragraph_index": 64,
+            "sentences": [
+                {
+                    "sentence": "לטענת הסניגור, יש גם סתירות בין עדות המתלוננת במשטרה, אל מול דברים שאמרה בעדותה בביהמ\"ש ויש גם סתירות בין דברי עדי התביעה",
+                    "sentence_id": "0",
+                    "paragraph_index": 64,
+                    "global_sentence_index": 104
+                }
+            ]
+        },
+        {
+            "paragraph_index": 65,
+            "sentences": [
+                {
+                    "sentence": "באשר להסכמת הנאשם להשיב לאב את התשלום עבור שיעורי הנהיגה, טוען הסניגור, כי אין הדבר מעיד מאומה, מאחר שזו תגובה הגיונית של כל אדם, שמאיימים להגיש נגדו תלונה ולהרוס לו את מקור פרנסתו",
+                    "sentence_id": "0",
+                    "paragraph_index": 65,
+                    "global_sentence_index": 105
+                },
+                {
+                    "sentence": "כל אדם הגיוני, היה מסכים, לטענת הסניגור, להחזיר סך של 500 ש\"ח ולא להסתכן בתלונה ובחקירות, על כל השלכותיהן",
+                    "sentence_id": "1",
+                    "paragraph_index": 65,
+                    "global_sentence_index": 106
+                }
+            ]
+        },
+        {
+            "paragraph_index": 66,
+            "sentences": [
+                {
+                    "sentence": "עוד טוען הסניגור, כי הגם שהנאשם מכחיש, שאמר למתלוננת בואי נשתעשע קצת, גם אם נאמרו מילים אלה, אין בהם רמזים מגונים",
+                    "sentence_id": "0",
+                    "paragraph_index": 66,
+                    "global_sentence_index": 107
+                }
+            ]
+        },
+        {
+            "paragraph_index": 67,
+            "sentences": [
+                {
+                    "sentence": "11.\tלאחר שהתרשמתי מהעדים ושקלתי את טענות הצדדים, אני מקבל את גירסת המתלוננת ודוחה את זו של הנאשם",
+                    "sentence_id": "0",
+                    "paragraph_index": 67,
+                    "global_sentence_index": 108
+                }
+            ]
+        },
+        {
+            "paragraph_index": 68,
+            "sentences": [
+                {
+                    "sentence": "התרשמתי מכנות דבריה של המתלוננת ומאמיתותם",
+                    "sentence_id": "0",
+                    "paragraph_index": 68,
+                    "global_sentence_index": 109
+                },
+                {
+                    "sentence": "גירסתה נתמכת ומחוזקת בעדויותיהם של הוריה ושל מורן, אף כי אין חפיפה של 100% בין דברי העדים, ולא צריכה להיות חפיפה , שאם לא כן, היה מדובר בתיאום גרסאות",
+                    "sentence_id": "1",
+                    "paragraph_index": 68,
+                    "global_sentence_index": 110
+                }
+            ]
+        },
+        {
+            "paragraph_index": 69,
+            "sentences": [
+                {
+                    "sentence": "אין, איפוא, לקבל את טענות הסניגור המלומד, שטען בלהט רב, על גירסה מבוימת של המתלוננת, שהעלילה, כביכול, על הנאשם, בגלל שהחליט להפסיק ללמדה נהיגה, נוכח התנהגותה וכישלונותיה במבחני התיאוריה",
+                    "sentence_id": "0",
+                    "paragraph_index": 69,
+                    "global_sentence_index": 111
+                }
+            ]
+        },
+        {
+            "paragraph_index": 70,
+            "sentences": [
+                {
+                    "sentence": "אל לשכוח שמדובר בסך הכל במתלוננת, שביום האירוע היתה בת 17 וחצי לערך, שנקלעה למצב מביך, שמבחינתה היה מעליב ומזעזע, כאשר אדם מוכר מהישוב, בו האמינו היא והוריה, בוגד באמון זה ומבצע בה מעשים מגונים",
+                    "sentence_id": "0",
+                    "paragraph_index": 70,
+                    "global_sentence_index": 112
+                }
+            ]
+        },
+        {
+            "paragraph_index": 71,
+            "sentences": [
+                {
+                    "sentence": "זו הסיבה שהיא חששה לספר להוריה, פן לא יאמינו לה, נוכח ההיכרות רבת השנים עם הנאשם, עימו גדלו במושב, ולא בגלל שהחליטה , כביכול, להעליל על הנאשם",
+                    "sentence_id": "0",
+                    "paragraph_index": 71,
+                    "global_sentence_index": 113
+                }
+            ]
+        },
+        {
+            "paragraph_index": 72,
+            "sentences": [
+                {
+                    "sentence": "זו הסיבה גם, להשתהות בהגשת התלונה, כאשר גם הוריה להם סיפרה עוד באותו ערב, שהנאשם נשק לה בפיה, תוך החדרת לשונו לפיה, לא יעצו לה לפנות מיד למשטרה, כפי שאמרו בעדותם",
+                    "sentence_id": "0",
+                    "paragraph_index": 72,
+                    "global_sentence_index": 114
+                }
+            ]
+        },
+        {
+            "paragraph_index": 73,
+            "sentences": [
+                {
+                    "sentence": "מה עוד, שעוד באותו ערב, מיד לאחר סיום שיעור הנהיגה, המתלוננת חיפשה את מורן, כדי לספר לה וסיפרה לה, כך שאין לקבל את הטענה, כאילו מדובר בעדות, או בגירסה \"כבושה\"",
+                    "sentence_id": "0",
+                    "paragraph_index": 73,
+                    "global_sentence_index": 115
+                }
+            ]
+        },
+        {
+            "paragraph_index": 74,
+            "sentences": [
+                {
+                    "sentence": "מה גם, שבהשהיית הגשת התלונה במשך 17 יום, לא ניתן לומר שמדובר בשיהוי רב, בנסיבות העניין, נוכח המצב העדין, שקורבן עבירות מין נקלע אליו במצב דברים מעין זה",
+                    "sentence_id": "0",
+                    "paragraph_index": 74,
+                    "global_sentence_index": 116
+                }
+            ]
+        },
+        {
+            "paragraph_index": 75,
+            "sentences": [
+                {
+                    "sentence": "סיפור עיקרי מעלליו של הנאשם, בו בערב למורן, שהעידה כי המתלוננת נסערת ובוכה , הוא הנותן סיוע וחיזוק לגירסת המתלוננת",
+                    "sentence_id": "0",
+                    "paragraph_index": 75,
+                    "global_sentence_index": 117
+                }
+            ]
+        },
+        {
+            "paragraph_index": 76,
+            "sentences": [
+                {
+                    "sentence": "12.\tגם עדות ההורים ותגובתם עוד באותו ערב, מיד כששמעו את המתלוננת , הגם שלא סיפרה באותו שלב על נגיעות וליטופים, יש בהם חיזוק לגירסה זו וגם קעקוע טענת ההגנה על \"כבישת\" הגירסה, כביכול",
+                    "sentence_id": "0",
+                    "paragraph_index": 76,
+                    "global_sentence_index": 118
+                }
+            ]
+        },
+        {
+            "paragraph_index": 77,
+            "sentences": [
+                {
+                    "sentence": "שוב, מדובר, כאמור, בנערה בת 17 וחצי, שסיפרה על מעשה מגונה שבוצע בה, והוריה, שהכירו את הנאשם ואת משפחתו, לא יעצו לה להתלונן במשטרה, עד כי המתלוננת בעצמה, לאחר התחבטות פנימית ולאחר מתח וחרדה מתמשכים, אל תוך השעות הקטנות של הלילה, החליטה לפנות למשטרה",
+                    "sentence_id": "0",
+                    "paragraph_index": 77,
+                    "global_sentence_index": 119
+                }
+            ]
+        },
+        {
+            "paragraph_index": 78,
+            "sentences": [
+                {
+                    "sentence": "בשלב מסוים, למשמע עדות המתלוננת, היה רושם שהמתלוננת מגזימה ומעצימה, באשר לתגובתה למעשה הנשיקה והליטופים, אולם כאשר נשמעה עדות ההורים חלף רושם זה",
+                    "sentence_id": "0",
+                    "paragraph_index": 78,
+                    "global_sentence_index": 120
+                }
+            ]
+        },
+        {
+            "paragraph_index": 79,
+            "sentences": [
+                {
+                    "sentence": "תגובת ההורים עצמם, היתה נרגשת ונסערת, כאילו חרב עליהם עולמם, כפי שנראה מהתבטאויותיהם במהלך עדותם, וכפי שהנאשם עצמו מתאר את האב, שהליט את פניו בידיו , כל העת אמר \"או, או\" ולא היה מוכן לשמוע דבר",
+                    "sentence_id": "0",
+                    "paragraph_index": 79,
+                    "global_sentence_index": 121
+                }
+            ]
+        },
+        {
+            "paragraph_index": 80,
+            "sentences": [
+                {
+                    "sentence": "לא מן הנמנע, שתגובה זו הייתה נוכח תחושתם, כי הנאשם מעל באמונם ואולי גם נוכח היותם אנשים דתיים, שמעשה זה, זעזע אותם, כשהחרדה והזעזוע בעבעו עמוק גם בנפש המתלוננת",
+                    "sentence_id": "0",
+                    "paragraph_index": 80,
+                    "global_sentence_index": 122
+                }
+            ]
+        },
+        {
+            "paragraph_index": 81,
+            "sentences": [
+                {
+                    "sentence": "יש הורים שבמקרה כזה, תגובתם החיצונית, לפחות, תהיה מאופקת וינסו להרגיע את בתם, בציינם שמדובר בסך הכל בנשיקה והגם שזה אסור, לא צריך \"להתרגש\" יותר מדי, ויעזרו ע\"י כך לבתם, להתגבר על הטראומה",
+                    "sentence_id": "0",
+                    "paragraph_index": 81,
+                    "global_sentence_index": 123
+                },
+                {
+                    "sentence": "ויש הורים שבתגובתם הם ובחרדתם הגלויה, הם מעצימים את רגשות הפחד, הגועל והתסכול אצל קרבן העבירה",
+                    "sentence_id": "1",
+                    "paragraph_index": 81,
+                    "global_sentence_index": 124
+                },
+                {
+                    "sentence": "נראה שהורי המתלוננת הם מהסוג השני",
+                    "sentence_id": "2",
+                    "paragraph_index": 81,
+                    "global_sentence_index": 125
+                }
+            ]
+        },
+        {
+            "paragraph_index": 82,
+            "sentences": [
+                {
+                    "sentence": "13.\tמנגד, איני מקבל את גירסת הנאשם",
+                    "sentence_id": "0",
+                    "paragraph_index": 82,
+                    "global_sentence_index": 126
+                },
+                {
+                    "sentence": "טענתו, כאילו החליט לשנות גישה ולנקוט גישה \"פדגוגית\" חדשה כלפי המתלוננת, שלא שיתפה פעולה והתחצפה, על כן הציע לה נשיקה בלחי, אינה מקובלת עלי",
+                    "sentence_id": "1",
+                    "paragraph_index": 82,
+                    "global_sentence_index": 127
+                },
+                {
+                    "sentence": "אינני מאמין גם, שנשיקה זו היתה בהסכמה, כביכול, של המתלוננת",
+                    "sentence_id": "2",
+                    "paragraph_index": 82,
+                    "global_sentence_index": 128
+                }
+            ]
+        },
+        {
+            "paragraph_index": 83,
+            "sentences": [
+                {
+                    "sentence": "גם תגובתו של הנאשם, באותו ערב, כאשר הורי המתלוננת רצו לדבר איתו, מתיישבת יותר עם מצב דברים, כפי שתארה המתלוננת, של אדם שיודע על מה ולמה רוצים לדבר איתו, כשהוא היה מבוהל ואמר להם עוד לפני שהם סיפרו לו לשם מה באו, \"אה , כן רק ליטפתי אותה\"",
+                    "sentence_id": "0",
+                    "paragraph_index": 83,
+                    "global_sentence_index": 129
+                },
+                {
+                    "sentence": "בהדגימו זאת על ראש האם",
+                    "sentence_id": "1",
+                    "paragraph_index": 83,
+                    "global_sentence_index": 130
+                }
+            ]
+        },
+        {
+            "paragraph_index": 84,
+            "sentences": [
+                {
+                    "sentence": "מה עוד, שמיד הסכים גם לבקשת האב, להחזיר לו את כל הכסף שקיבל עבור שיעורי הנהיגה, בלי להתווכח ובלי לעמוד על צדקת עמדתו",
+                    "sentence_id": "0",
+                    "paragraph_index": 84,
+                    "global_sentence_index": 131
+                }
+            ]
+        },
+        {
+            "paragraph_index": 85,
+            "sentences": [
+                {
+                    "sentence": "נכון אמנם, שבמצב דברים זה, כאשר אדם מאיים בתלונה למשטרה, הוא יהיה מוכן לוותר על כספו, במקרה זה, רק 500 ש\"ח, כדי לא להסתבך בתלונות ובחקירות, אולם במקרה זה, נראה שהחזרת התשלום הייתה בשל החשש מתלונה, כשהנאשם ידע שיש בסיס לתלונה זו וחשב אולי להציל את עורו, בהסכמתו להשיב את הכסף",
+                    "sentence_id": "0",
+                    "paragraph_index": 85,
+                    "global_sentence_index": 132
+                }
+            ]
+        },
+        {
+            "paragraph_index": 86,
+            "sentences": [
+                {
+                    "sentence": "14.\tאין לקבל את גירסת הסניגור, באשר לתגובת המתלוננת, כשהנאשם נשק לה בפיה",
+                    "sentence_id": "0",
+                    "paragraph_index": 86,
+                    "global_sentence_index": 133
+                }
+            ]
+        },
+        {
+            "paragraph_index": 87,
+            "sentences": [
+                {
+                    "sentence": "אין סטנדרטים ותקנים בקשר לתגובות למעשים כאלה, כשכל אחד יכול להגיב אחרת, בהתחשב בגילו, בניסיונו ובמידת ההפתעה אליה נקלע",
+                    "sentence_id": "0",
+                    "paragraph_index": 87,
+                    "global_sentence_index": 134
+                }
+            ]
+        },
+        {
+            "paragraph_index": 88,
+            "sentences": [
+                {
+                    "sentence": "במקרה דנן , מדובר, כאמור, בנערה בת 17 וחצי, שהנאשם לפתע במקום שומם וחשוך, אחז את פניה בשתי ידיו וכפה עליה נשיקה בפיה",
+                    "sentence_id": "0",
+                    "paragraph_index": 88,
+                    "global_sentence_index": 135
+                },
+                {
+                    "sentence": "לדבריה, היא נאבקה בניסיון להוריד את ידיו וגם סגרה את שיניה והוציאה רוק",
+                    "sentence_id": "1",
+                    "paragraph_index": 88,
+                    "global_sentence_index": 136
+                },
+                {
+                    "sentence": "זו תגובה של המתלוננת, כאשר מדובר, כאמור, במעשה של פתע פתאום, המתלוננת לא \"תירגלה\" אותו ולא הכינה עצמה, מבעוד מועד, להגיב  דווקא כך ולא אחרת",
+                    "sentence_id": "2",
+                    "paragraph_index": 88,
+                    "global_sentence_index": 137
+                }
+            ]
+        },
+        {
+            "paragraph_index": 89,
+            "sentences": [
+                {
+                    "sentence": "טענת הסניגור, היא טענה שלאחר מעשה, של אדם שעומד באולם ממוזג, שואל שאלה קרה ומצפה לתשובה קרה ומחושבת",
+                    "sentence_id": "0",
+                    "paragraph_index": 89,
+                    "global_sentence_index": 138
+                },
+                {
+                    "sentence": "לא זו היתה הסיטואציה אליה נקלעה המתלוננת ולכן יש לשקול ולשפוט את תגובתה, בהתאם לאותן נסיבות",
+                    "sentence_id": "1",
+                    "paragraph_index": 89,
+                    "global_sentence_index": 139
+                }
+            ]
+        },
+        {
+            "paragraph_index": 90,
+            "sentences": [
+                {
+                    "sentence": "15.\tסיכומו של דבר אני קובע, כי הנאשם ביצע מעשים מגונים במתלוננת, הן בנשיקה בפיה, הן בליטוף רגליה וירכה, עד כדי נגיעה באיבר מינה, מעל לבגדיה, והן בנשיקה בלחייה, כאשר ביצעה טוב את הרברס, כשביצוע הרברס היה אמתלה לעוד נשיקה",
+                    "sentence_id": "0",
+                    "paragraph_index": 90,
+                    "global_sentence_index": 140
+                },
+                {
+                    "sentence": "אין לי כל ספק, שמעשים אלו נעשו בניגוד לרצונה של המתלוננת ומתוך כוונה, לשם סיפוק וגירוי מיניים",
+                    "sentence_id": "1",
+                    "paragraph_index": 90,
+                    "global_sentence_index": 141
+                }
+            ]
+        },
+        {
+            "paragraph_index": 91,
+            "sentences": [
+                {
+                    "sentence": "המתלוננת סיפרה אמנם, כי בהמשך כשהנאשם ליטף אותה ונגע בה, היא לא הגיבה, אולם, אין לראות בכך הסכמה, במצב ההלם בו היתה נתונה, לאחר הנשיקה בפיה",
+                    "sentence_id": "0",
+                    "paragraph_index": 91,
+                    "global_sentence_index": 142
+                },
+                {
+                    "sentence": "מה עוד, שהיה זה במהלך נהיגה, כשהיא אוחזת בהגה",
+                    "sentence_id": "1",
+                    "paragraph_index": 91,
+                    "global_sentence_index": 143
+                }
+            ]
+        },
+        {
+            "paragraph_index": 92,
+            "sentences": [
+                {
+                    "sentence": "למען הסר ספק יש לציין, כי המתלוננת הזכירה גם ליטופים אחרים, בימים שלפני האירוע, שלא הטרידו אותה ואינני מתייחס לליטופים אלה, אף כי ניתן להבין, כי אז עוד לא עמדה על כוונות אחרות של הנאשם וחשבה, שאכן מדובר בליטוף אבהי ולא לשם גירוי מיני, כפי שהוברר והיה ביום 3.10.99, עם הנשיקה בפה וכל מה שבא לאחריה",
+                    "sentence_id": "0",
+                    "paragraph_index": 92,
+                    "global_sentence_index": 144
+                }
+            ]
+        },
+        {
+            "paragraph_index": 93,
+            "sentences": [
+                {
+                    "sentence": "16.\tמאמין אני למתלוננת, כי הנאשם אמר לה \"בואי נשתעשע קצת\" כשגם מורן אומרת, כי המתלוננת סיפרה לה זאת , אם כי במינוח אחר \"ליהנות קצת\"",
+                    "sentence_id": "0",
+                    "paragraph_index": 93,
+                    "global_sentence_index": 145
+                }
+            ]
+        },
+        {
+            "paragraph_index": 94,
+            "sentences": [
+                {
+                    "sentence": "לטענת הסניגור , אין במילים אלה משום רמזים מגונים",
+                    "sentence_id": "0",
+                    "paragraph_index": 94,
+                    "global_sentence_index": 146
+                }
+            ]
+        },
+        {
+            "paragraph_index": 95,
+            "sentences": [
+                {
+                    "sentence": "אם בוחנים מילים אלה במנותק, למעשיו של הנאשם לאחר מכן, בנשיקות ובליטופים, אכן יש ספק, אם יש במילים אלה רמזים מגונים",
+                    "sentence_id": "0",
+                    "paragraph_index": 95,
+                    "global_sentence_index": 147
+                }
+            ]
+        },
+        {
+            "paragraph_index": 96,
+            "sentences": [
+                {
+                    "sentence": "למילים אלה יכולות להיות משמעויות שונות, ביחס לסיטואציה ולהקשר בו נאמרות המילים",
+                    "sentence_id": "0",
+                    "paragraph_index": 96,
+                    "global_sentence_index": 148
+                }
+            ]
+        },
+        {
+            "paragraph_index": 97,
+            "sentences": [
+                {
+                    "sentence": "מכל מקום, ע\"פ ספרו של השופט קדמי, על הדין בפלילים , מהדורה מעודכנת, תשנ\"ה, עמוד 1338, הרמז המיני די בכך, שיש בו משום \"גסות הרוח וקלקול המידות\" במישור המיני",
+                    "sentence_id": "0",
+                    "paragraph_index": 97,
+                    "global_sentence_index": 149
+                }
+            ]
+        },
+        {
+            "paragraph_index": 98,
+            "sentences": [
+                {
+                    "sentence": "לא נראה לי, שבאמירה \"בואי נשתעשע קצת\", או \"ליהנות קצת\", יש משום \"גסות רוח וקלקול מידות\", אחרת נימצא פוגעים בחופש הדיבור, באופן שאנשים יחששו לפתוח פיהם ולומר דבר זה או אחר, שמא יחשוב מאן דהוא, כי יש בדבריהם רמזים מיניים או רמזים מגונים",
+                    "sentence_id": "0",
+                    "paragraph_index": 98,
+                    "global_sentence_index": 150
+                }
+            ]
+        },
+        {
+            "paragraph_index": 99,
+            "sentences": [
+                {
+                    "sentence": "ע\"י כך תיווצר אווירה של \"ציד מכשפות\", שתפגע בחברה ובחיי החברה, ויצא שכרנו בהפסדנו",
+                    "sentence_id": "0",
+                    "paragraph_index": 99,
+                    "global_sentence_index": 151
+                }
+            ]
+        },
+        {
+            "paragraph_index": 100,
+            "sentences": [
+                {
+                    "sentence": "אי לכך, יש לזכות את הנאשם מהעבירה לפי  ל",
+                    "sentence_id": "0",
+                    "paragraph_index": 100,
+                    "global_sentence_index": 152
+                }
+            ]
+        },
+        {
+            "paragraph_index": 101,
+            "sentences": [
+                {
+                    "sentence": "17.\tסיכומו של דבר, שוכנעתי מעבר לכל ספק, כי הנאשם ביצע במתלוננת מעשים מגונים, לשם גירוי וסיפוק מיניים, כמפורט בכתב האישום",
+                    "sentence_id": "0",
+                    "paragraph_index": 101,
+                    "global_sentence_index": 153
+                }
+            ]
+        },
+        {
+            "paragraph_index": 102,
+            "sentences": [
+                {
+                    "sentence": "אשר על כן, אני מרשיעו בעבירה המיוחסת לו בסעיף 1 להוראות החיקוק, שבכתב האישום ומזכה אותו מהעבירה שיוחסה לו בסעיף 2 להוראות החיקוק",
+                    "sentence_id": "0",
+                    "paragraph_index": 102,
+                    "global_sentence_index": 154
+                }
+            ]
+        },
+        {
+            "paragraph_index": 103,
+            "sentences": [
+                {
+                    "sentence": "ניתנה היום, י\"א בתשרי תשס\"א, (10 באוקטובר 2000), במעמד הצדדים",
+                    "sentence_id": "0",
+                    "paragraph_index": 103,
+                    "global_sentence_index": 155
+                }
+            ]
+        },
+        {
+            "paragraph_index": 104,
+            "sentences": [
+                {
+                    "sentence": "אליס / k00100700p",
+                    "sentence_id": "0",
+                    "paragraph_index": 104,
+                    "global_sentence_index": 156
+                }
+            ]
+        },
+        {
+            "paragraph_index": 105,
+            "sentences": [
+                {
+                    "sentence": "מותר לפרסום מיום 10/10/00",
+                    "sentence_id": "0",
+                    "paragraph_index": 105,
+                    "global_sentence_index": 157
+                }
+            ]
+        },
+        {
+            "paragraph_index": 106,
+            "sentences": []
+        },
+        {
+            "paragraph_index": 107,
+            "sentences": [
+                {
+                    "sentence": "נוסח זה כפוף לשינויי עריכה וניסוח",
+                    "sentence_id": "0",
+                    "paragraph_index": 107,
+                    "global_sentence_index": 158
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        "לטענת הסניגור, גירסת המתלוננת מניפולטיבית, מלאה סתירות וחצאי אמיתות ולכן אין ליתן בה אמון",
+        "אין, איפוא, לקבל את טענות הסניגור המלומד, שטען בלהט רב, על גירסה מבוימת של המתלוננת, שהעלילה, כביכול, על הנאשם, בגלל שהחליט להפסיק ללמדה נהיגה, נוכח התנהגותה וכישלונותיה במבחני התיאוריה"
+    ],
+    "main_sentence_from_docx": [
+        "לטענת הסניגור, גירסת המתלוננת מניפולטיבית, מלאה סתירות וחצאי אמיתות ולכן אין ליתן בה אמון",
+        "אין, איפוא, לקבל את טענות הסניגור המלומד, שטען בלהט רב, על גירסה מבוימת של המתלוננת, שהעלילה, כביכול, על הנאשם, בגלל שהחליט להפסיק ללמדה נהיגה, נוכח התנהגותה וכישלונותיה במבחני התיאוריה"
+    ],
+    "main_sentence_id_in_docx": [
+        "57_0",
+        "69_0"
+    ],
+    "global_sentence_index_docx": [
+        97,
+        111
+    ],
+    "global_sentence_index_spike": [
+        795120,
+        795147
+    ],
+    "score_of_similarity": [
+        0.0,
+        0.0
+    ]
+}

@@ -1,0 +1,4247 @@
+{
+    "title": "m05000543",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "בתי המשפט",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "ב\"כ הצדדים:",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "אב בית הדין הודיע לנו, שהשופטת מוניץ הלכה לביתה כיוון שהיא חולה",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "אנו מסכימים שהכרעת הדין תינתן בהרכב שיושב בו השופט אטרש במקום השופטת מוניץ ושהטיעונים לעונש יידחו ויישמעו בהרכב עם השופטת מוניץ",
+                    "sentence_id": "1",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "בחית המשפט הודיע לנו, שהכרעת הדין כמובן ניתנה על דעתה של השופטת מוניץ",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "חקיקה שאוזכרה:",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": ": סע'  , , , , , , , ,",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "הכרעת דין",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 7,
+            "sentences": [
+                {
+                    "sentence": "כב' השופט זיאד הווארי:",
+                    "sentence_id": "0",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 8,
+            "sentences": [
+                {
+                    "sentence": "1.\tנגד הנאשם הוגש כתב אישום לבית משפט זה, אשר כלל ארבעה אישומים:",
+                    "sentence_id": "0",
+                    "paragraph_index": 8,
+                    "global_sentence_index": 9
+                }
+            ]
+        },
+        {
+            "paragraph_index": 9,
+            "sentences": [
+                {
+                    "sentence": "א",
+                    "sentence_id": "0",
+                    "paragraph_index": 9,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": "באישום הראשון מיוחס לנאשם ביצוע העבירות הבאות:",
+                    "sentence_id": "1",
+                    "paragraph_index": 9,
+                    "global_sentence_index": 11
+                }
+            ]
+        },
+        {
+            "paragraph_index": 10,
+            "sentences": [
+                {
+                    "sentence": "(1)\tאינוס – עבירה לפי  ל, התשל\"ז–1977 (להלן - חוק העונשין)",
+                    "sentence_id": "0",
+                    "paragraph_index": 10,
+                    "global_sentence_index": 12
+                }
+            ]
+        },
+        {
+            "paragraph_index": 11,
+            "sentences": [
+                {
+                    "sentence": "(2)\tמעשה סדום – עבירה לפי  בצירוף  ל",
+                    "sentence_id": "0",
+                    "paragraph_index": 11,
+                    "global_sentence_index": 13
+                }
+            ]
+        },
+        {
+            "paragraph_index": 12,
+            "sentences": [
+                {
+                    "sentence": "(3)\tכליאת שווא – עבירה לפי  (רישא) ל",
+                    "sentence_id": "0",
+                    "paragraph_index": 12,
+                    "global_sentence_index": 14
+                }
+            ]
+        },
+        {
+            "paragraph_index": 13,
+            "sentences": [
+                {
+                    "sentence": "(4)\tתקיפה כדי לבצע פשע – עבירה לפי  ל",
+                    "sentence_id": "0",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 15
+                }
+            ]
+        },
+        {
+            "paragraph_index": 14,
+            "sentences": [
+                {
+                    "sentence": "(5)\tהתפרצות למקום מגורים – עבירה לפי  ל",
+                    "sentence_id": "0",
+                    "paragraph_index": 14,
+                    "global_sentence_index": 16
+                }
+            ]
+        },
+        {
+            "paragraph_index": 15,
+            "sentences": [
+                {
+                    "sentence": "ב",
+                    "sentence_id": "0",
+                    "paragraph_index": 15,
+                    "global_sentence_index": 17
+                },
+                {
+                    "sentence": "באישום השני מיוחס לנאשם ביצוע העבירות הבאות:",
+                    "sentence_id": "1",
+                    "paragraph_index": 15,
+                    "global_sentence_index": 18
+                }
+            ]
+        },
+        {
+            "paragraph_index": 16,
+            "sentences": [
+                {
+                    "sentence": "(1)\tאינוס – עבירה לפי  ל",
+                    "sentence_id": "0",
+                    "paragraph_index": 16,
+                    "global_sentence_index": 19
+                }
+            ]
+        },
+        {
+            "paragraph_index": 17,
+            "sentences": [
+                {
+                    "sentence": "(2)\tמעשה סדום – עבירה בניגוד ל בצירוף  ל",
+                    "sentence_id": "0",
+                    "paragraph_index": 17,
+                    "global_sentence_index": 20
+                }
+            ]
+        },
+        {
+            "paragraph_index": 18,
+            "sentences": [
+                {
+                    "sentence": "(3)\tכליאת שווא – עבירה לפי  (רישא) ל",
+                    "sentence_id": "0",
+                    "paragraph_index": 18,
+                    "global_sentence_index": 21
+                }
+            ]
+        },
+        {
+            "paragraph_index": 19,
+            "sentences": [
+                {
+                    "sentence": "(4)\tתקיפה כדי לבצע פשע – עבירה לפי  ל",
+                    "sentence_id": "0",
+                    "paragraph_index": 19,
+                    "global_sentence_index": 22
+                }
+            ]
+        },
+        {
+            "paragraph_index": 20,
+            "sentences": [
+                {
+                    "sentence": "(5)\tהתפרצות למקום מגורים – עבירה לפי  ל",
+                    "sentence_id": "0",
+                    "paragraph_index": 20,
+                    "global_sentence_index": 23
+                }
+            ]
+        },
+        {
+            "paragraph_index": 21,
+            "sentences": [
+                {
+                    "sentence": "(6)\tהדחה בחקירה – עבירה לפי  ל",
+                    "sentence_id": "0",
+                    "paragraph_index": 21,
+                    "global_sentence_index": 24
+                }
+            ]
+        },
+        {
+            "paragraph_index": 22,
+            "sentences": [
+                {
+                    "sentence": "ג",
+                    "sentence_id": "0",
+                    "paragraph_index": 22,
+                    "global_sentence_index": 25
+                },
+                {
+                    "sentence": "באישום השלישי מיוחס לנאשם ביצוע העבירות הבאות:",
+                    "sentence_id": "1",
+                    "paragraph_index": 22,
+                    "global_sentence_index": 26
+                }
+            ]
+        },
+        {
+            "paragraph_index": 23,
+            "sentences": [
+                {
+                    "sentence": "(1)\tאינוס בנסיבות מחמירות – עבירה לפי  בצירוף  ל",
+                    "sentence_id": "0",
+                    "paragraph_index": 23,
+                    "global_sentence_index": 27
+                }
+            ]
+        },
+        {
+            "paragraph_index": 24,
+            "sentences": [
+                {
+                    "sentence": "(2)\tמעשה סדום בנסיבות מחמירות – עבירה לפי  בצירוף  ו-  ל",
+                    "sentence_id": "0",
+                    "paragraph_index": 24,
+                    "global_sentence_index": 28
+                }
+            ]
+        },
+        {
+            "paragraph_index": 25,
+            "sentences": [
+                {
+                    "sentence": "(3)\tכליאת שווא – עבירה לפי  (רישא), בצירוף  ל",
+                    "sentence_id": "0",
+                    "paragraph_index": 25,
+                    "global_sentence_index": 29
+                }
+            ]
+        },
+        {
+            "paragraph_index": 26,
+            "sentences": [
+                {
+                    "sentence": "(4)\tאיומים – עבירה לפי  בצירוף  ל",
+                    "sentence_id": "0",
+                    "paragraph_index": 26,
+                    "global_sentence_index": 30
+                }
+            ]
+        },
+        {
+            "paragraph_index": 27,
+            "sentences": [
+                {
+                    "sentence": "(5)\tתקיפה כדי לבצע פשע – עבירה לפי  בצירוף",
+                    "sentence_id": "0",
+                    "paragraph_index": 27,
+                    "global_sentence_index": 31
+                }
+            ]
+        },
+        {
+            "paragraph_index": 28,
+            "sentences": [
+                {
+                    "sentence": "ל",
+                    "sentence_id": "0",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 32
+                }
+            ]
+        },
+        {
+            "paragraph_index": 29,
+            "sentences": [
+                {
+                    "sentence": "(6)\tהתפרצות למקום מגורים – עבירה לפי  בצירוף  ל",
+                    "sentence_id": "0",
+                    "paragraph_index": 29,
+                    "global_sentence_index": 33
+                }
+            ]
+        },
+        {
+            "paragraph_index": 30,
+            "sentences": [
+                {
+                    "sentence": "ד",
+                    "sentence_id": "0",
+                    "paragraph_index": 30,
+                    "global_sentence_index": 34
+                },
+                {
+                    "sentence": "באישום הרביעי מיוחס לנאשם ביצוע העבירות הבאות:",
+                    "sentence_id": "1",
+                    "paragraph_index": 30,
+                    "global_sentence_index": 35
+                }
+            ]
+        },
+        {
+            "paragraph_index": 31,
+            "sentences": [
+                {
+                    "sentence": "(1)\tאינוס – עבירה לפי  ל",
+                    "sentence_id": "0",
+                    "paragraph_index": 31,
+                    "global_sentence_index": 36
+                }
+            ]
+        },
+        {
+            "paragraph_index": 32,
+            "sentences": [
+                {
+                    "sentence": "(2)\tכליאת שווא – עבירה לפי  (רישא) ל",
+                    "sentence_id": "0",
+                    "paragraph_index": 32,
+                    "global_sentence_index": 37
+                }
+            ]
+        },
+        {
+            "paragraph_index": 33,
+            "sentences": [
+                {
+                    "sentence": "(3)\tאיומים – עבירה לפי  ל",
+                    "sentence_id": "0",
+                    "paragraph_index": 33,
+                    "global_sentence_index": 38
+                }
+            ]
+        },
+        {
+            "paragraph_index": 34,
+            "sentences": [
+                {
+                    "sentence": "(4)\tתקיפה כדי לבצע פשע – עבירה לפי  ל",
+                    "sentence_id": "0",
+                    "paragraph_index": 34,
+                    "global_sentence_index": 39
+                }
+            ]
+        },
+        {
+            "paragraph_index": 35,
+            "sentences": [
+                {
+                    "sentence": "(5)\tהתפרצות למקום מגורים – עבירה לפי  ל",
+                    "sentence_id": "0",
+                    "paragraph_index": 35,
+                    "global_sentence_index": 40
+                }
+            ]
+        },
+        {
+            "paragraph_index": 36,
+            "sentences": [
+                {
+                    "sentence": "2.\tהתמונה המצטיירת מכתב האישום היא כדלקמן:",
+                    "sentence_id": "0",
+                    "paragraph_index": 36,
+                    "global_sentence_index": 41
+                }
+            ]
+        },
+        {
+            "paragraph_index": 37,
+            "sentences": [
+                {
+                    "sentence": "המתלוננת, ילידת 1973, עסקה בזנות והתגוררה בחדר מושכר בבית משותף בעיר ט' (להלן - החדר או חדר המתלוננת)",
+                    "sentence_id": "0",
+                    "paragraph_index": 37,
+                    "global_sentence_index": 42
+                }
+            ]
+        },
+        {
+            "paragraph_index": 38,
+            "sentences": [
+                {
+                    "sentence": "באישום הראשון נטען, כי ביום 21/04/05 בשעה 00:30 לערך, שהתה המתלוננת במטבחון משותף מחוץ לחדר בו היא מתגוררת",
+                    "sentence_id": "0",
+                    "paragraph_index": 38,
+                    "global_sentence_index": 43
+                },
+                {
+                    "sentence": "הנאשם שהגיע למקום קפץ עליה, סתם את פיה בידו כדי שלא תצעק, ובידו השניה קיפל את ראשה והושיבה על הרצפה, לקח ממנה מפתח הדלת הראשית של הבית ונעל את הדלת",
+                    "sentence_id": "1",
+                    "paragraph_index": 38,
+                    "global_sentence_index": 44
+                },
+                {
+                    "sentence": "לאחר מכן פתח הנאשם את חדרה של המתלוננת בעזרת מפתח שלקח ממנה, גרר את המתלוננת בכוח לחדרה ונעל את הדלת מבפנים",
+                    "sentence_id": "2",
+                    "paragraph_index": 38,
+                    "global_sentence_index": 45
+                },
+                {
+                    "sentence": "בחדר, הפיל הנאשם את המתלוננת על המיטה תוך שהוא אוחז בגרונה, לחש לה להיות בשקט ושכדאי לה שלא להתנגד והורה לה להתפשט",
+                    "sentence_id": "3",
+                    "paragraph_index": 38,
+                    "global_sentence_index": 46
+                },
+                {
+                    "sentence": "כאשר הבינה המתלוננת שאין לה ברירה אחרת, ביקשה מהנאשם שישים קונדום שנמצא בשידה ליד מיטתה",
+                    "sentence_id": "4",
+                    "paragraph_index": 38,
+                    "global_sentence_index": 47
+                },
+                {
+                    "sentence": "הנאשם לקח ממגירת השידה קונדום ושם אותו על איבר מינו",
+                    "sentence_id": "5",
+                    "paragraph_index": 38,
+                    "global_sentence_index": 48
+                },
+                {
+                    "sentence": "הנאשם הפשיט את המתלוננת מבגדיה, והחדיר את איבר מינו לאיבר מינה בניגוד להסכמתה",
+                    "sentence_id": "6",
+                    "paragraph_index": 38,
+                    "global_sentence_index": 49
+                },
+                {
+                    "sentence": "לאחר מכן, תפס את המתלוננת בשערותיה והחדיר בכוח את איבר מינו לפיה",
+                    "sentence_id": "7",
+                    "paragraph_index": 38,
+                    "global_sentence_index": 50
+                },
+                {
+                    "sentence": "הנאשם חזר ובעל את המתלוננת ללא הסכמתה עד שבא על סיפוקו המיני",
+                    "sentence_id": "8",
+                    "paragraph_index": 38,
+                    "global_sentence_index": 51
+                },
+                {
+                    "sentence": "לאחר מכן הורה לה להישאר במקומה ועזב את המקום",
+                    "sentence_id": "9",
+                    "paragraph_index": 38,
+                    "global_sentence_index": 52
+                }
+            ]
+        },
+        {
+            "paragraph_index": 39,
+            "sentences": [
+                {
+                    "sentence": "באישום השני נטען: כי ביום 01/06/05 בשעה 01:00 לערך, התעוררה המתלוננת משנתה לשמע רעש ודפיקות בדלת חדרה",
+                    "sentence_id": "0",
+                    "paragraph_index": 39,
+                    "global_sentence_index": 53
+                },
+                {
+                    "sentence": "כשפתחה את הדלת, הנאשם שעמד בפתח, דחף אותה, נכנס לחדר ונעל את הדלת תוך שהוא סותם את פיה על מנת שלא תצעק",
+                    "sentence_id": "1",
+                    "paragraph_index": 39,
+                    "global_sentence_index": 54
+                },
+                {
+                    "sentence": "הנאשם השכיב את המתלוננת בכוח על המיטה",
+                    "sentence_id": "2",
+                    "paragraph_index": 39,
+                    "global_sentence_index": 55
+                },
+                {
+                    "sentence": "המתלוננת ניסתה להתגונן מפני הנאשם באמצעות שוקר חשמלי שהצטיידה בו לאחר האירוע נשוא האישום הראשון, אך ללא הועיל, הנאשם נטל את השוקר מידיה",
+                    "sentence_id": "3",
+                    "paragraph_index": 39,
+                    "global_sentence_index": 56
+                },
+                {
+                    "sentence": "בהמשך, לקח הנאשם קונדום מהשידה שליד המיטה והורה למתלוננת להתפשט, תוך שהוא משחק בשוקר החשמלי אל מול פניה",
+                    "sentence_id": "4",
+                    "paragraph_index": 39,
+                    "global_sentence_index": 57
+                },
+                {
+                    "sentence": "מחמת הפחד מהנאשם, עשתה המתלוננת כמבוקשו",
+                    "sentence_id": "5",
+                    "paragraph_index": 39,
+                    "global_sentence_index": 58
+                },
+                {
+                    "sentence": "הנאשם התפשט מבגדיו, שם קונדום על איבר מינו והחדיר את איבר מינו לאיבר מינה של המתלוננת, בניגוד להסכמתה",
+                    "sentence_id": "6",
+                    "paragraph_index": 39,
+                    "global_sentence_index": 59
+                },
+                {
+                    "sentence": "לאחר מכן, תפס אותה בשערותיה והחדיר את איבר מינו בכוח לפיה",
+                    "sentence_id": "7",
+                    "paragraph_index": 39,
+                    "global_sentence_index": 60
+                },
+                {
+                    "sentence": "אחר כך, חזר ובעל אותה, והמשיך במעשה האינוס עד שבא על סיפוקו המיני",
+                    "sentence_id": "8",
+                    "paragraph_index": 39,
+                    "global_sentence_index": 61
+                }
+            ]
+        },
+        {
+            "paragraph_index": 40,
+            "sentences": [
+                {
+                    "sentence": "בטרם עזב את המקום, אמר הנאשם למתלוננת שהוא מצטער ושמעשיו לא יחזרו",
+                    "sentence_id": "0",
+                    "paragraph_index": 40,
+                    "global_sentence_index": 62
+                },
+                {
+                    "sentence": "בנוסף איים הנאשם על המתלוננת שלא תפנה למשטרה פן תצטער",
+                    "sentence_id": "1",
+                    "paragraph_index": 40,
+                    "global_sentence_index": 63
+                }
+            ]
+        },
+        {
+            "paragraph_index": 41,
+            "sentences": [
+                {
+                    "sentence": "באישום השלישי נטען: כי ביום 14/06/05 בשעה 06:30 לערך, הגיע הנאשם עם אחר, שזהותו אינה ידועה (להלן - האחר), לחדרה של המתלוננת",
+                    "sentence_id": "0",
+                    "paragraph_index": 41,
+                    "global_sentence_index": 64
+                },
+                {
+                    "sentence": "עקב דפיקות על דלת חדרה, פתחה המתלוננת את הדלת והשניים התפרצו לחדר, תוך שהנאשם מאיים עליה לבל \"תעשה שטויות\" פן יתנהג אליה \"בצורה לא יפה\"",
+                    "sentence_id": "1",
+                    "paragraph_index": 41,
+                    "global_sentence_index": 65
+                },
+                {
+                    "sentence": "הנאשם נעל את הדלת, והאחר הפיל את המתלוננת על המיטה",
+                    "sentence_id": "2",
+                    "paragraph_index": 41,
+                    "global_sentence_index": 66
+                },
+                {
+                    "sentence": "האחר הפשיט את המתלוננת מבגדיה, תוך שהנאשם סותם אגב כך את פיה בידו",
+                    "sentence_id": "3",
+                    "paragraph_index": 41,
+                    "global_sentence_index": 67
+                },
+                {
+                    "sentence": "אחר כך, התפשט האחר, קיבל מהנאשם קונדום שהלה הוציא מהשידה, והחדיר את איבר מינו לאיבר מינה של המתלוננת, עד שבא על סיפוקו, הכל בנוכחות הנאשם",
+                    "sentence_id": "4",
+                    "paragraph_index": 41,
+                    "global_sentence_index": 68
+                }
+            ]
+        },
+        {
+            "paragraph_index": 42,
+            "sentences": [
+                {
+                    "sentence": "לאחר מכן, התפשט הנאשם, נשכב על המתלוננת והחדיר את איבר מינו לאיבר מינה, בניגוד להסכמתה",
+                    "sentence_id": "0",
+                    "paragraph_index": 42,
+                    "global_sentence_index": 69
+                },
+                {
+                    "sentence": "בהמשך תפס את המתלוננת בשערותיה והחדיר את איבר מינו בכוח לפיה",
+                    "sentence_id": "1",
+                    "paragraph_index": 42,
+                    "global_sentence_index": 70
+                },
+                {
+                    "sentence": "אחר כך, חזר הנאשם ובעל את המתלוננת, והמשיך במעשה האינוס עד שבא על סיפוקו המיני",
+                    "sentence_id": "2",
+                    "paragraph_index": 42,
+                    "global_sentence_index": 71
+                }
+            ]
+        },
+        {
+            "paragraph_index": 43,
+            "sentences": [
+                {
+                    "sentence": "בהמשך חזר האחר ועשה במתלוננת מעשה אינוס פעם נוספת, שלא בהסכמתה, על ידי החדרת איבר מינו לאיבר מינה עד שבא על סיפוקו המיני, והכל בנוכחות הנאשם",
+                    "sentence_id": "0",
+                    "paragraph_index": 43,
+                    "global_sentence_index": 72
+                }
+            ]
+        },
+        {
+            "paragraph_index": 44,
+            "sentences": [
+                {
+                    "sentence": "לאחר ביצוע זממם, קשר הנאשם את המתלוננת בידיה באמצעות גרביונים, והאחר הורה לה להכנס לחדר השרותים, והשניים עזבו את המקום",
+                    "sentence_id": "0",
+                    "paragraph_index": 44,
+                    "global_sentence_index": 73
+                }
+            ]
+        },
+        {
+            "paragraph_index": 45,
+            "sentences": [
+                {
+                    "sentence": "באישום הרביעי נטען: כי ביום 17/10/05 בשעה 19:30 לערך, בזמן שהמתלוננת ניקתה את חדרה והדלת היתה פתוחה, קפץ לפתע הנאשם על המתלוננת, סתם את פיה בידו, גרר אותה בכוח לתוך החדר ונעל את הדלת מבפנים",
+                    "sentence_id": "0",
+                    "paragraph_index": 45,
+                    "global_sentence_index": 74
+                },
+                {
+                    "sentence": "אחר כך הפיל הנאשם את המתלוננת על המיטה, הפשיט אותה מבגדיה ולקח קונדום מהשידה שבצד המיטה",
+                    "sentence_id": "1",
+                    "paragraph_index": 45,
+                    "global_sentence_index": 75
+                },
+                {
+                    "sentence": "המתלוננת ניסתה לצעוק והנאשם סתם  את פיה בידו ואיים עליה באומרו: \"תשתקי ואם לא אני אחנוק אותך\"",
+                    "sentence_id": "2",
+                    "paragraph_index": 45,
+                    "global_sentence_index": 76
+                },
+                {
+                    "sentence": "הנאשם הניח למתלוננת לרגע קט, כאשר שם קונדום על איבור מינו, המתלוננת ניצלה הזדמנות זו והשמיעה צרחה",
+                    "sentence_id": "3",
+                    "paragraph_index": 45,
+                    "global_sentence_index": 77
+                },
+                {
+                    "sentence": "הנאשם חזר ואיים על המתלוננת שיחנוק אותה אם לא תשתוק",
+                    "sentence_id": "4",
+                    "paragraph_index": 45,
+                    "global_sentence_index": 78
+                },
+                {
+                    "sentence": "לאחר מכן החדיר את איבר מינו לתוך איבר מינה, בניגוד לרצונה, עד שבא על סיפוקו המיני",
+                    "sentence_id": "5",
+                    "paragraph_index": 45,
+                    "global_sentence_index": 79
+                },
+                {
+                    "sentence": "לאחר מכן הוריד הנאשם את הקונדום, זרק אותו על הרצפה וברח מהמקום",
+                    "sentence_id": "6",
+                    "paragraph_index": 45,
+                    "global_sentence_index": 80
+                }
+            ]
+        },
+        {
+            "paragraph_index": 46,
+            "sentences": [
+                {
+                    "sentence": "3.\tהנאשם כפר בכל העבירות המיוחסות לו בכתב האישום",
+                    "sentence_id": "0",
+                    "paragraph_index": 46,
+                    "global_sentence_index": 81
+                },
+                {
+                    "sentence": "לטענתו, הכיר את המתלוננת לראשונה רק באירוע האחרון ביום 17.10.2005, אז קיים עימה, בהסכמה, יחסי מין, ואחיו החורג התחייב לשלם עבור שירותיה של המתלוננת",
+                    "sentence_id": "1",
+                    "paragraph_index": 46,
+                    "global_sentence_index": 82
+                }
+            ]
+        },
+        {
+            "paragraph_index": 47,
+            "sentences": [
+                {
+                    "sentence": "4.\tבשל כפירתו הטוטאלית של הנאשם בארבעת האישומים, נשמעו ראיות",
+                    "sentence_id": "0",
+                    "paragraph_index": 47,
+                    "global_sentence_index": 83
+                },
+                {
+                    "sentence": "מטעם המאשימה העידו המתלוננת, אחיו ודודו של הנאשם",
+                    "sentence_id": "1",
+                    "paragraph_index": 47,
+                    "global_sentence_index": 84
+                },
+                {
+                    "sentence": "מטעם הנאשם העידו הנאשם, אמו א’ זרגרי, ומשכיר החדר למתלוננת, מר משה דהן",
+                    "sentence_id": "2",
+                    "paragraph_index": 47,
+                    "global_sentence_index": 85
+                }
+            ]
+        },
+        {
+            "paragraph_index": 48,
+            "sentences": [
+                {
+                    "sentence": "5.\tמטבע הדברים, בעבירות מין, הארועים הנטענים בכתב האישום מתרחשים כאשר הנאשם והמתלוננת נמצאים לבדם, כך שהעדויות העיקריות בתיקים מסוג זה הם של המתלוננת ושל הנאשם",
+                    "sentence_id": "0",
+                    "paragraph_index": 48,
+                    "global_sentence_index": 86
+                },
+                {
+                    "sentence": "הכרעת הדין תהא לפי מידת המהימנות שבית המשפט יתן לעדויות אלו תוך בחינת קיומן של ראיות מחזקות לגרסאות",
+                    "sentence_id": "1",
+                    "paragraph_index": 48,
+                    "global_sentence_index": 87
+                }
+            ]
+        },
+        {
+            "paragraph_index": 49,
+            "sentences": [
+                {
+                    "sentence": "6.\tלהלן אנתח את הראיות שהובא בפנינו:",
+                    "sentence_id": "0",
+                    "paragraph_index": 49,
+                    "global_sentence_index": 88
+                }
+            ]
+        },
+        {
+            "paragraph_index": 50,
+            "sentences": [
+                {
+                    "sentence": "ראיות המאשימה - עדות המתלוננת:",
+                    "sentence_id": "0",
+                    "paragraph_index": 50,
+                    "global_sentence_index": 89
+                }
+            ]
+        },
+        {
+            "paragraph_index": 51,
+            "sentences": []
+        },
+        {
+            "paragraph_index": 52,
+            "sentences": [
+                {
+                    "sentence": "בחקירתה הראשית, העידה המתלוננת, כי בתקופה הרלבנטית לכתב האישום, נהגה לקבל בביתה אנשים שהיא מכירה ולקיים עימם יחסי מין תמורת תשלום",
+                    "sentence_id": "0",
+                    "paragraph_index": 52,
+                    "global_sentence_index": 90
+                }
+            ]
+        },
+        {
+            "paragraph_index": 53,
+            "sentences": [
+                {
+                    "sentence": "המתלוננת תארה בעדותה 4 מקרים קשים של אונס, שבוצעו על ידי הנאשם",
+                    "sentence_id": "0",
+                    "paragraph_index": 53,
+                    "global_sentence_index": 91
+                },
+                {
+                    "sentence": "המקרה השלישי בוצע על ידי הנאשם ואחר שזהותו אינה ידועה",
+                    "sentence_id": "1",
+                    "paragraph_index": 53,
+                    "global_sentence_index": 92
+                },
+                {
+                    "sentence": "במקרה נשוא האישום הרביעי, נכח במקום גם אחיו למחצה של הנאשם, שהגיע עימו, המתין לו מחוץ לבניין  והעיד  על מה שראה ושמע",
+                    "sentence_id": "2",
+                    "paragraph_index": 53,
+                    "global_sentence_index": 93
+                }
+            ]
+        },
+        {
+            "paragraph_index": 54,
+            "sentences": [
+                {
+                    "sentence": "באשר למקרה נשוא האישום הראשון, העידה המתלוננת כי בלילה שבין 20.4.05 לבין 21.4.05 לערך, בין יום רביעי לחמישי בשעה 24:30, דלת רב הבריח המוליכה לקומה בה היא גרה לא היתה נעולה",
+                    "sentence_id": "0",
+                    "paragraph_index": 54,
+                    "global_sentence_index": 94
+                },
+                {
+                    "sentence": "המתלוננת הכינה שתייה במטבחון המשותף, כשחדרה נעול",
+                    "sentence_id": "1",
+                    "paragraph_index": 54,
+                    "global_sentence_index": 95
+                },
+                {
+                    "sentence": "היא שמעה רעשים מכיוון דלת רב הבריח לכניסה והלכה לבדוק את מקורו",
+                    "sentence_id": "2",
+                    "paragraph_index": 54,
+                    "global_sentence_index": 96
+                },
+                {
+                    "sentence": "כשהתקרבה לדלת התנפל עליה אדם שאינו מוכר לה",
+                    "sentence_id": "3",
+                    "paragraph_index": 54,
+                    "global_sentence_index": 97
+                },
+                {
+                    "sentence": "המתלוננת לא זכרה אם צרחה או לא, אך כשניסתה לצרוח קיבלה מכה וראשה היה על הרצפה, היא הייתה בהלם מוחלט",
+                    "sentence_id": "4",
+                    "paragraph_index": 54,
+                    "global_sentence_index": 98
+                },
+                {
+                    "sentence": "כששכבה על הרצפה, ראתה מעליה בחור שלא הכירה קודם, אשר סתם לה את הפה בידו",
+                    "sentence_id": "5",
+                    "paragraph_index": 54,
+                    "global_sentence_index": 99
+                },
+                {
+                    "sentence": "בהמשך זיהתה אותו כנאשם שבפנינו, אשר הורה לה בתנועה לסתום את פיה, תפס אותה מתחת לבית השחי וסתם את פיה עם ידו השמאלית",
+                    "sentence_id": "6",
+                    "paragraph_index": 54,
+                    "global_sentence_index": 100
+                },
+                {
+                    "sentence": "הנאשם לחש לה לשתוק ולא לצרוח ושאל איפה המפתח",
+                    "sentence_id": "7",
+                    "paragraph_index": 54,
+                    "global_sentence_index": 101
+                },
+                {
+                    "sentence": "המפתח היה בכיס מכנסי המתלוננת, הוא לקח אותו ונעל את דלת רב הבריח שהינה דלת הכניסה לקומה",
+                    "sentence_id": "8",
+                    "paragraph_index": 54,
+                    "global_sentence_index": 102
+                },
+                {
+                    "sentence": "הנאשם גרר אותה במסדרון, שאל איפה חדרה, המתלוננת הצביעה על החדר",
+                    "sentence_id": "9",
+                    "paragraph_index": 54,
+                    "global_sentence_index": 103
+                },
+                {
+                    "sentence": "הנאשם שאל איזה מהמפתחות בצרור פותח את דלת חדרה, והיא הראתה לו",
+                    "sentence_id": "10",
+                    "paragraph_index": 54,
+                    "global_sentence_index": 104
+                },
+                {
+                    "sentence": "הנאשם פתח את הדלת, גרר אותה לחדר וסגר את הדלת",
+                    "sentence_id": "11",
+                    "paragraph_index": 54,
+                    "global_sentence_index": 105
+                },
+                {
+                    "sentence": "לאחר שהמתלוננת הראתה לו את מפתח המנעול העליון, הוא סגר את הדלת ודחף אותה למטה",
+                    "sentence_id": "12",
+                    "paragraph_index": 54,
+                    "global_sentence_index": 106
+                },
+                {
+                    "sentence": "המתלוננת חשבה תחילה שמדובר בשוד, עד שהנאשם התחיל להפשיטה ואמר לה לא להתנגד",
+                    "sentence_id": "13",
+                    "paragraph_index": 54,
+                    "global_sentence_index": 107
+                },
+                {
+                    "sentence": "כשניסתה להתנגד, סתם לה את הפה ושם יד על גרונה",
+                    "sentence_id": "14",
+                    "paragraph_index": 54,
+                    "global_sentence_index": 108
+                },
+                {
+                    "sentence": "כשנכנעה, שחרר את גרונה",
+                    "sentence_id": "15",
+                    "paragraph_index": 54,
+                    "global_sentence_index": 109
+                },
+                {
+                    "sentence": "בשל חשש המתלוננת לחייה, לא התנגדה כאשר הנאשם התחיל להפשיטה",
+                    "sentence_id": "16",
+                    "paragraph_index": 54,
+                    "global_sentence_index": 110
+                },
+                {
+                    "sentence": "הנאשם הפשיט לה את כל הבגדים, וגם הוא התפשט",
+                    "sentence_id": "17",
+                    "paragraph_index": 54,
+                    "global_sentence_index": 111
+                },
+                {
+                    "sentence": "המתלוננת סיפרה, כי ראתה את פניו כאשר עמד מולה ודחף אותה על המיטה",
+                    "sentence_id": "18",
+                    "paragraph_index": 54,
+                    "global_sentence_index": 112
+                },
+                {
+                    "sentence": "המתלוננת ניסתה לשאול אותו בלחש מיהו ומדוע הוא עושה זאת, אך הנאשם עשה לה תנועה שתשתוק",
+                    "sentence_id": "19",
+                    "paragraph_index": 54,
+                    "global_sentence_index": 113
+                },
+                {
+                    "sentence": "המתלוננת החליטה לא להתנגד שכן לא היתה לה תקווה שמישהו יציל אותה",
+                    "sentence_id": "20",
+                    "paragraph_index": 54,
+                    "global_sentence_index": 114
+                },
+                {
+                    "sentence": "היא ביקשה מהנאשם בלחש לשים קונדום, והראתה לו בתנועת יד איפה יש קונדום",
+                    "sentence_id": "21",
+                    "paragraph_index": 54,
+                    "global_sentence_index": 115
+                },
+                {
+                    "sentence": "הנאשם הסכים ולקח קונדום מהשידה שליד המיטה, והלביש אותו על עצמו",
+                    "sentence_id": "22",
+                    "paragraph_index": 54,
+                    "global_sentence_index": 116
+                },
+                {
+                    "sentence": "המתלוננת היתה קפואה כל הזמן הזה ואז הנאשם החל לבצע בה אונס",
+                    "sentence_id": "23",
+                    "paragraph_index": 54,
+                    "global_sentence_index": 117
+                }
+            ]
+        },
+        {
+            "paragraph_index": 55,
+            "sentences": [
+                {
+                    "sentence": "בשלב זה של עדותה, המתלוננת הצביעה על הנאשם וזיהתה אותו כאותו בחור שאנס אותה",
+                    "sentence_id": "0",
+                    "paragraph_index": 55,
+                    "global_sentence_index": 118
+                },
+                {
+                    "sentence": "המתלוננת המשיכה בתיאור האירוע וסיפרה, כי הנאשם החדיר את איבר מינו לאיבר מינה, בעוד היא הייתה שכובה על הגב והנאשם מעליה",
+                    "sentence_id": "1",
+                    "paragraph_index": 55,
+                    "global_sentence_index": 119
+                },
+                {
+                    "sentence": "לאחר מכן תפס אותה הנאשם בשערותיה, העמידה על ברכיה ודחף את איבר מינו לפיה",
+                    "sentence_id": "2",
+                    "paragraph_index": 55,
+                    "global_sentence_index": 120
+                },
+                {
+                    "sentence": "לאחר מכן שב ודחף איבר מינו לאיבר מינה עד שהגיע לסיפוק",
+                    "sentence_id": "3",
+                    "paragraph_index": 55,
+                    "global_sentence_index": 121
+                },
+                {
+                    "sentence": "בהמשך סיפרה המתלוננת, כי עם סיום המעשה, הלך הנאשם לשרותים אשר נמצאים בחדר, זרק את הקונדום לאסלה, הוריד את המים והורה למתלוננת להיות בשקט, לא לזוז ולא להתלבש",
+                    "sentence_id": "4",
+                    "paragraph_index": 55,
+                    "global_sentence_index": 122
+                },
+                {
+                    "sentence": "הוא התלבש מהר ואמר שהוא יוצא",
+                    "sentence_id": "5",
+                    "paragraph_index": 55,
+                    "global_sentence_index": 123
+                },
+                {
+                    "sentence": "הנאשם פתח את הדלת ולקח את מפתחות הבית של המתלוננת, אותם מצאה לאחר מכן בדלת הכניסה לקומה",
+                    "sentence_id": "6",
+                    "paragraph_index": 55,
+                    "global_sentence_index": 124
+                },
+                {
+                    "sentence": "לאחר המקרה סיפרה המתלוננת על הארוע למספר אנשים שהכירה והתייעצה עימם מה עליה לעשות",
+                    "sentence_id": "7",
+                    "paragraph_index": 55,
+                    "global_sentence_index": 125
+                },
+                {
+                    "sentence": "לא היה לה מושג מי היה האדם שכך עשה לה, ולא נשארו שום סימנים ממנו, מלבד התיאור שלו",
+                    "sentence_id": "8",
+                    "paragraph_index": 55,
+                    "global_sentence_index": 126
+                },
+                {
+                    "sentence": "אחד מהאנשים להם סיפרה אודות האירוע, הינו ניסים אלמקייס, בדיעבד הסתבר כי הינו דודו של הנאשם מצד אימו",
+                    "sentence_id": "9",
+                    "paragraph_index": 55,
+                    "global_sentence_index": 127
+                },
+                {
+                    "sentence": "ניסים אלמקייס הוא אשר הביא לה שוקר חשמלי",
+                    "sentence_id": "10",
+                    "paragraph_index": 55,
+                    "global_sentence_index": 128
+                },
+                {
+                    "sentence": "באותה תקופה המתלוננת לא קשרה בין הנאשם לניסים אלמקייס (ראה עמ' 9 – 7 לפרוט')",
+                    "sentence_id": "11",
+                    "paragraph_index": 55,
+                    "global_sentence_index": 129
+                }
+            ]
+        },
+        {
+            "paragraph_index": 56,
+            "sentences": [
+                {
+                    "sentence": "המתלוננת לא התלוננה במשטרה על האירוע, שכן קיוותה כי מדובר באירוע חד פעמי",
+                    "sentence_id": "0",
+                    "paragraph_index": 56,
+                    "global_sentence_index": 130
+                }
+            ]
+        },
+        {
+            "paragraph_index": 57,
+            "sentences": [
+                {
+                    "sentence": "באשר למקרה נשוא האישום השני, העידה המתלוננת כי בלילה שבין 31.5.05 לבין 1.6.05 סמוך לחצות, ישנה בחדרה ולפתע מישהו נקש בדלת, המתלוננת התעוררה ושאלה מי זה",
+                    "sentence_id": "0",
+                    "paragraph_index": 57,
+                    "global_sentence_index": 131
+                },
+                {
+                    "sentence": "למרות שלא קיבלה תשובה ברורה, עשתה טעות ופתחה את הדלת",
+                    "sentence_id": "1",
+                    "paragraph_index": 57,
+                    "global_sentence_index": 132
+                },
+                {
+                    "sentence": "לפתע התנפל עליה אותו אדם שאנס אותה בפעם הראשונה - הנאשם",
+                    "sentence_id": "2",
+                    "paragraph_index": 57,
+                    "global_sentence_index": 133
+                },
+                {
+                    "sentence": "קודם לכן הכינה המתלוננת מתחת למיטתה את השוקר החשמלי אשר היה ברשותה",
+                    "sentence_id": "3",
+                    "paragraph_index": 57,
+                    "global_sentence_index": 134
+                },
+                {
+                    "sentence": "הנאשם מיד התנפל על המתלוננת, דחף אותה למיטה והסתובב לכיוון הדלת כדי לסגור את המנעול העליון",
+                    "sentence_id": "4",
+                    "paragraph_index": 57,
+                    "global_sentence_index": 135
+                }
+            ]
+        },
+        {
+            "paragraph_index": 58,
+            "sentences": [
+                {
+                    "sentence": "כשהנאשם דחף אותה למיטה, הספיקה המתלוננת להוציא את השוקר מתחת למיטה וכשהוא פנה לעברה, תקפה אותו באמצעות השוקר, ונגעה בידו השמאלית",
+                    "sentence_id": "0",
+                    "paragraph_index": 58,
+                    "global_sentence_index": 136
+                },
+                {
+                    "sentence": "אולם, השוקר לא השפיע עליו ורק גרם לו שריטה \"במרפק של שורש היד\"",
+                    "sentence_id": "1",
+                    "paragraph_index": 58,
+                    "global_sentence_index": 137
+                },
+                {
+                    "sentence": "הנאשם מיד לקח את השוקר מהמתלוננת, שם אותו על המקרר, התנפל עליה והתחיל להפשיטה",
+                    "sentence_id": "2",
+                    "paragraph_index": 58,
+                    "global_sentence_index": 138
+                },
+                {
+                    "sentence": "המתלוננת היתה קפואה מפחד וחששה שהנאשם יהרוג אותה, גם לאור העובדה שניסתה לפגוע בו",
+                    "sentence_id": "3",
+                    "paragraph_index": 58,
+                    "global_sentence_index": 139
+                },
+                {
+                    "sentence": "המתלוננת לא התנגדה ושכבה קפואה ובהלם",
+                    "sentence_id": "4",
+                    "paragraph_index": 58,
+                    "global_sentence_index": 140
+                },
+                {
+                    "sentence": "המתלוננת ציינה שאינה זוכרת היטב, אך מצאה את הנאשם שוכב עליה",
+                    "sentence_id": "5",
+                    "paragraph_index": 58,
+                    "global_sentence_index": 141
+                },
+                {
+                    "sentence": "המתלוננת לא ידעה מהיכן הקונדום שהנאשם שם לפני שאנס אותה",
+                    "sentence_id": "6",
+                    "paragraph_index": 58,
+                    "global_sentence_index": 142
+                },
+                {
+                    "sentence": "הנאשם התנפל על המתלוננת, החדיר את איבר מינו לאיבר מינה, תוך שהוא תופס את גרונה מדי פעם ולוחש לה באוזן שלא תתנגד, שתהיה בשקט, \"בלי שטויות\"",
+                    "sentence_id": "7",
+                    "paragraph_index": 58,
+                    "global_sentence_index": 143
+                },
+                {
+                    "sentence": "המתלוננת שכבה קפואה ולא זזה",
+                    "sentence_id": "8",
+                    "paragraph_index": 58,
+                    "global_sentence_index": 144
+                },
+                {
+                    "sentence": "הנאשם התרומם, תפס את ראשה ודחף את איבר המין שלו לפיה מספר פעמים עד שהגיע לסיפוק",
+                    "sentence_id": "9",
+                    "paragraph_index": 58,
+                    "global_sentence_index": 145
+                },
+                {
+                    "sentence": "בזמן האונס נשמעה נקישה בדלת החדר והנאשם שאל \"איתן\", וקיבל תשובה לא ברורה",
+                    "sentence_id": "10",
+                    "paragraph_index": 58,
+                    "global_sentence_index": 146
+                },
+                {
+                    "sentence": "הנאשם אמר \"יאללה יאללה מהר\" והמשיך לאנוס את המתלוננת בקצב יותר מהיר",
+                    "sentence_id": "11",
+                    "paragraph_index": 58,
+                    "global_sentence_index": 147
+                },
+                {
+                    "sentence": "כשהנאשם הגיע לסיפוק מיני, אמר למתלוננת להישאר על המיטה, הוריד את הקונדום בשירותים ולקח את השוקר והתחיל לשחק איתו מול פניה, לחץ על הכפתור והסתכל על היד שלו",
+                    "sentence_id": "12",
+                    "paragraph_index": 58,
+                    "global_sentence_index": 148
+                },
+                {
+                    "sentence": "המתלוננת הייתה בטוחה שהוא יהרוג אותה בגלל מה שעשתה לו, או שהוא ישתמש בשוקר בעיניים שלה",
+                    "sentence_id": "13",
+                    "paragraph_index": 58,
+                    "global_sentence_index": 149
+                },
+                {
+                    "sentence": "באותו רגע עלה לה רעיון להתחבב עליו, לכן אמרה לו: \"אני לא יודעת למה אתה עושה לי את זה\"",
+                    "sentence_id": "14",
+                    "paragraph_index": 58,
+                    "global_sentence_index": 150
+                },
+                {
+                    "sentence": "המתלוננת חשבה שזו אולי הדרך להציל את חייה",
+                    "sentence_id": "15",
+                    "paragraph_index": 58,
+                    "global_sentence_index": 151
+                },
+                {
+                    "sentence": "המתלוננת שאלה את הנאשם אם כואב לו ואם רוצה שתטפל בו והוא אמר שכן, כדי שלא יהיה זיהום",
+                    "sentence_id": "16",
+                    "paragraph_index": 58,
+                    "global_sentence_index": 152
+                },
+                {
+                    "sentence": "הנאשם שאל אם יש פולידין, המתלוננת רצתה  לקום ולהביא לו אך הוא השכיב אותה חזרה על המיטה ואמר לה \"בלי שטויות\", ביקש שתגיד לו איפה הפולידין והיא אמרה לו שהפולידין במקרר והתחבושות בארון והראתה לו היכן",
+                    "sentence_id": "17",
+                    "paragraph_index": 58,
+                    "global_sentence_index": 153
+                },
+                {
+                    "sentence": "אחרי שחבשה את הפצע אמרה המתלוננת לנאשם שישב לידה, שישכחו מה שקרה, כי בטח יש לו סיבה להתנהג כך והיא לא כועסת",
+                    "sentence_id": "18",
+                    "paragraph_index": 58,
+                    "global_sentence_index": 154
+                },
+                {
+                    "sentence": "המתלוננת החלה לדבר עם הנאשם, אמרה שחבל שיעצרו אותו על אונס וניסתה לדבר על ליבו",
+                    "sentence_id": "19",
+                    "paragraph_index": 58,
+                    "global_sentence_index": 155
+                },
+                {
+                    "sentence": "הנאשם אמר למתלוננת שלא תחשוב עליו רע שהוא בן 17 וגר בחצור",
+                    "sentence_id": "20",
+                    "paragraph_index": 58,
+                    "global_sentence_index": 156
+                },
+                {
+                    "sentence": "לאור חזותו, שהיתה כשל ערבי בדואי, למרות שדיבר בלי מבטא, שאלה אותו המתלוננת מאיזה כפר הוא",
+                    "sentence_id": "21",
+                    "paragraph_index": 58,
+                    "global_sentence_index": 157
+                },
+                {
+                    "sentence": "הנאשם השיב שהוא אינו ערבי אלא גר בחצור ועובד במפעל לגופי חימום, וכי בט’ יש לו אח אותו הוא מבקר",
+                    "sentence_id": "22",
+                    "paragraph_index": 58,
+                    "global_sentence_index": 158
+                },
+                {
+                    "sentence": "הוא אף סיפר לה, כי אמו הייתה מאושפזת במוסד לחולי נפש",
+                    "sentence_id": "23",
+                    "paragraph_index": 58,
+                    "global_sentence_index": 159
+                },
+                {
+                    "sentence": "הנאשם שאל את המתלוננת בת כמה היא, והשיבה לו כי היא בת 32. המתלוננת תארה את דיבורו של הנאשם בשלב זה  יותר רך ואמרה כי הבטיח שלא יפגע בה יותר ואפילו הביע צער",
+                    "sentence_id": "24",
+                    "paragraph_index": 58,
+                    "global_sentence_index": 160
+                },
+                {
+                    "sentence": "לנאשם היה ריח של אלכוהול, אולם לא היה בגילופין",
+                    "sentence_id": "25",
+                    "paragraph_index": 58,
+                    "global_sentence_index": 161
+                },
+                {
+                    "sentence": "המתלוננת חשבה כי הצליחה לדבר אל ליבו כדי לפתור את הבעיה, לכן לא סיפרה על המקרה לאיש",
+                    "sentence_id": "26",
+                    "paragraph_index": 58,
+                    "global_sentence_index": 162
+                },
+                {
+                    "sentence": "המתלוננת הוסיפה, כי אחת הסיבות שלא התלוננה במשטרה לאחר המקרה, הינה שדיברה על ליבו של הנאשם שאמר כי לא יחזור",
+                    "sentence_id": "27",
+                    "paragraph_index": 58,
+                    "global_sentence_index": 163
+                },
+                {
+                    "sentence": "הנאשם עוד אמר לה, כי במידה ותתלונן, היא תצטער והוא יתנקם בה (עמ' 12, ש' 27-28)",
+                    "sentence_id": "28",
+                    "paragraph_index": 58,
+                    "global_sentence_index": 164
+                },
+                {
+                    "sentence": "המתלוננת הוסיפה גם, כי סברה שהיא לא תצליח לאתר אותו (עמ' 11– 10)",
+                    "sentence_id": "29",
+                    "paragraph_index": 58,
+                    "global_sentence_index": 165
+                }
+            ]
+        },
+        {
+            "paragraph_index": 59,
+            "sentences": [
+                {
+                    "sentence": "באשר לאירוע נשוא האישום השלישי, העידה המתלוננת כי ביום 14.6.05 בשעה 06:30, שמעה נקישות בדלתה",
+                    "sentence_id": "0",
+                    "paragraph_index": 59,
+                    "global_sentence_index": 166
+                },
+                {
+                    "sentence": "מאחר והחלה לנעול את דלת הכניסה הראשית לקומה לאחר מקרה האונס השני, היתה בטוחה שזה אחד משכניה",
+                    "sentence_id": "1",
+                    "paragraph_index": 59,
+                    "global_sentence_index": 167
+                },
+                {
+                    "sentence": "היא שאלה מי זה ופתחה את הדלת למרות שלא קיבלה תשובה ברורה והנאשם עמד בפתח",
+                    "sentence_id": "2",
+                    "paragraph_index": 59,
+                    "global_sentence_index": 168
+                },
+                {
+                    "sentence": "המתלוננת אמרה לו כי הוא הבטיח שיעזוב אותה ולא יתקרב אליה יותר",
+                    "sentence_id": "3",
+                    "paragraph_index": 59,
+                    "global_sentence_index": 169
+                },
+                {
+                    "sentence": "הנאשם אמר לה להיות בשקט ועשה תנועה למישהו שעמד מאחוריו",
+                    "sentence_id": "4",
+                    "paragraph_index": 59,
+                    "global_sentence_index": 170
+                },
+                {
+                    "sentence": "אז ראתה המתלוננת אדם נוסף, אותו היא חשבה שזיהתה כאדם שראתה יומיים לפני כן מסתובב מתחת לבניין עם כלב בשעה 21:30 – 01:00 לפנות בוקר",
+                    "sentence_id": "5",
+                    "paragraph_index": 59,
+                    "global_sentence_index": 171
+                },
+                {
+                    "sentence": "הנאשם והבחור הנוסף דחפו את המתלוננת פנימה לחדרה ואמרו לה לשתוק",
+                    "sentence_id": "6",
+                    "paragraph_index": 59,
+                    "global_sentence_index": 172
+                },
+                {
+                    "sentence": "הנאשם דחף את המתלוננת, שעמדה בפתח החדר, כדי שהם יוכלו להכנס",
+                    "sentence_id": "7",
+                    "paragraph_index": 59,
+                    "global_sentence_index": 173
+                },
+                {
+                    "sentence": "השניים אמרו לה כי אם היא רוצה שיתנהגו אליה יפה, עליה לשתוק ולא לעשות שטויות",
+                    "sentence_id": "8",
+                    "paragraph_index": 59,
+                    "global_sentence_index": 174
+                },
+                {
+                    "sentence": "הם נכנסו פנימה ונעלו את הדלת",
+                    "sentence_id": "9",
+                    "paragraph_index": 59,
+                    "global_sentence_index": 175
+                },
+                {
+                    "sentence": "המתלוננת גמגמה בשקט \"למה ביחד\"",
+                    "sentence_id": "10",
+                    "paragraph_index": 59,
+                    "global_sentence_index": 176
+                },
+                {
+                    "sentence": "הנאשם אמר שאף אחד לא יישאר בחוץ, והם יעשו אחד אחרי השני",
+                    "sentence_id": "11",
+                    "paragraph_index": 59,
+                    "global_sentence_index": 177
+                },
+                {
+                    "sentence": "המתלוננת תארה את הרגשתה: \"הייתי מתה מפחד, רק יכולתי לתאר לעצמי ולדמיין מה יקרה עם שניים ביחד, הייתי קפואה מפחד וחשבתי שזה הגיע כבר יותר מדי רחוק וכנראה שזה הסוף שלי\" (עמ' 11 שורות 21 – 20)",
+                    "sentence_id": "12",
+                    "paragraph_index": 59,
+                    "global_sentence_index": 178
+                }
+            ]
+        },
+        {
+            "paragraph_index": 60,
+            "sentences": [
+                {
+                    "sentence": "המתלוננת סיפרה עוד, כי הבחור שלא הכירה קודם, דחף אותה למיטה והתחיל להפשיטה",
+                    "sentence_id": "0",
+                    "paragraph_index": 60,
+                    "global_sentence_index": 179
+                },
+                {
+                    "sentence": "הנאשם ישב לידה על המיטה, שם לה יד על הפה ויד על הגרון שלא תצרח והראה לחברו את המקום ממנו אפשר לקחת קונדום",
+                    "sentence_id": "1",
+                    "paragraph_index": 60,
+                    "global_sentence_index": 180
+                },
+                {
+                    "sentence": "האחר התפשט והלביש על איבר מינו קונדום, התנפל עליה והחדיר את איבר מינו לאיבר מינה",
+                    "sentence_id": "2",
+                    "paragraph_index": 60,
+                    "global_sentence_index": 181
+                },
+                {
+                    "sentence": "כשהנאשם הבין שהמתלוננת אינה מתנגדת, הוריד את היד מגרונה ומפיה והחזיק אותה שלא תתנגד ולא תצרח, עד שהבחור החדש הגיע לסיפוק, אז עזב אותה וקם והלך לשירותים להתנקות",
+                    "sentence_id": "3",
+                    "paragraph_index": 60,
+                    "global_sentence_index": 182
+                }
+            ]
+        },
+        {
+            "paragraph_index": 61,
+            "sentences": [
+                {
+                    "sentence": "רק אז התחיל הנאשם להתפשט וניגש אל המתלוננת כשהיה עליו כבר קונדום שהביא איתו, התנפל עליה והחדיר את איבר מינו לאיבר מינה",
+                    "sentence_id": "0",
+                    "paragraph_index": 61,
+                    "global_sentence_index": 183
+                },
+                {
+                    "sentence": "כעבור זמן קצר תפס את ראשה והתחיל לדחוף את איבר מינו לפיה",
+                    "sentence_id": "1",
+                    "paragraph_index": 61,
+                    "global_sentence_index": 184
+                },
+                {
+                    "sentence": "לאחר מכן החדיר שוב את איבר מינו לאיבר מינה והגיע לסיפוק מיני",
+                    "sentence_id": "2",
+                    "paragraph_index": 61,
+                    "global_sentence_index": 185
+                },
+                {
+                    "sentence": "במהלך אונס המתלוננת על ידי הנאשם, חברו חיטט בארונות וחיפש כנראה כסף",
+                    "sentence_id": "3",
+                    "paragraph_index": 61,
+                    "global_sentence_index": 186
+                },
+                {
+                    "sentence": "אחרי שהנאשם הגיע לסיפוק מיני, התרומם מהמתלוננת ועזב אותה",
+                    "sentence_id": "4",
+                    "paragraph_index": 61,
+                    "global_sentence_index": 187
+                },
+                {
+                    "sentence": "אז ניגש אליה חברו ואמר שהוא רוצה עוד פעם, שלא תזוז ואז אנס אותה פעם נוספת",
+                    "sentence_id": "5",
+                    "paragraph_index": 61,
+                    "global_sentence_index": 188
+                },
+                {
+                    "sentence": "תוך כדי כך שחברו אונס את המתלוננת, חיטט הנאשם בארונות",
+                    "sentence_id": "6",
+                    "paragraph_index": 61,
+                    "global_sentence_index": 189
+                }
+            ]
+        },
+        {
+            "paragraph_index": 62,
+            "sentences": [
+                {
+                    "sentence": "המתלוננת הוסיפה, כי ברגע שהנאשם החל לאנוס אותה, נתן לה פקודה שתשכב על הבטן ושהוא רוצה לבצע בה מעשה סדום",
+                    "sentence_id": "0",
+                    "paragraph_index": 62,
+                    "global_sentence_index": 190
+                },
+                {
+                    "sentence": "המתלוננת התחננה שלא יעשה לה את זה והבחור השני אמר לנאשם \"יאללה תעזוב אותה\"",
+                    "sentence_id": "1",
+                    "paragraph_index": 62,
+                    "global_sentence_index": 191
+                }
+            ]
+        },
+        {
+            "paragraph_index": 63,
+            "sentences": [
+                {
+                    "sentence": "לאחר שהתלחשו ביניהם השניים, על כך שלא מצאו דבר בחדר, תפס הבחור הנוסף את המתלוננת בגרונה, אמר לה שהם לא מוצאים שום דבר ושאל אותה איפה הכסף",
+                    "sentence_id": "0",
+                    "paragraph_index": 63,
+                    "global_sentence_index": 192
+                },
+                {
+                    "sentence": "המתלוננת השיבה שאין לה כסף בחדרה, וכי הכסף אצל חבר שלה",
+                    "sentence_id": "1",
+                    "paragraph_index": 63,
+                    "global_sentence_index": 193
+                },
+                {
+                    "sentence": "השניים אמרו שהם יודעים הכל, שאין לה חבר והיא חיה לבד",
+                    "sentence_id": "2",
+                    "paragraph_index": 63,
+                    "global_sentence_index": 194
+                },
+                {
+                    "sentence": "המתלוננת עמדה על כך שיש לה חבר עד שהשניים השתכנעו והבינו שאין כסף במקום",
+                    "sentence_id": "3",
+                    "paragraph_index": 63,
+                    "global_sentence_index": 195
+                }
+            ]
+        },
+        {
+            "paragraph_index": 64,
+            "sentences": [
+                {
+                    "sentence": "לאחר מכן לקחו השניים גרביונים מהארון, קשרו את כפות הידיים של המתלוננת ודחפו אותה לשירותים, כשהיא ערומה",
+                    "sentence_id": "0",
+                    "paragraph_index": 64,
+                    "global_sentence_index": 196
+                },
+                {
+                    "sentence": "הם ניסו לנעול אותה והדלת נטרקה",
+                    "sentence_id": "1",
+                    "paragraph_index": 64,
+                    "global_sentence_index": 197
+                },
+                {
+                    "sentence": "הם אמרו לה להישאר לפחות 10 דקות ולא תנסה לצאת מהשירותים ואיימו שאם תתלונן במשטרה הם ימצאו אותה ויתנקמו בה וזה יהיה סופה",
+                    "sentence_id": "2",
+                    "paragraph_index": 64,
+                    "global_sentence_index": 198
+                }
+            ]
+        },
+        {
+            "paragraph_index": 65,
+            "sentences": [
+                {
+                    "sentence": "המתלוננת חיכתה זמן מה ולאחר מכן הצליחה לפתוח את הקשירה, שלא היתה חזקה ולאחר זמן יצאה מהשירותים",
+                    "sentence_id": "0",
+                    "paragraph_index": 65,
+                    "global_sentence_index": 199
+                },
+                {
+                    "sentence": "המתלוננת רצתה להתקשר למשטרה, אך לא מצאה את הטלפון הנייד שלה שהיה מונח על השידה, שכן השניים גנבו  אותו",
+                    "sentence_id": "1",
+                    "paragraph_index": 65,
+                    "global_sentence_index": 200
+                },
+                {
+                    "sentence": "המתלוננת רצה לחדרו של שכן חדש בקומה, בשם חוסיין שהגיע לגור במקום יום קודם וסיפרה לו על אשר קרה",
+                    "sentence_id": "2",
+                    "paragraph_index": 65,
+                    "global_sentence_index": 201
+                },
+                {
+                    "sentence": "הוא נתן לה להשתמש בטלפון הנייד שלו, ממנו התקשרה לבעל הבית שלה, שהוא אף בעל המאפיה שליד מקום מגוריה, היא סיפרה לו את אשר קרה לה",
+                    "sentence_id": "3",
+                    "paragraph_index": 65,
+                    "global_sentence_index": 202
+                },
+                {
+                    "sentence": "בעל הבית אמר לה ללכת בדחיפות למשטרה כדי שיתפסו את האנב’",
+                    "sentence_id": "4",
+                    "paragraph_index": 65,
+                    "global_sentence_index": 203
+                },
+                {
+                    "sentence": "המתלוננת החליטה שאין לה ברירה ועליה להתלונן במשטרה",
+                    "sentence_id": "5",
+                    "paragraph_index": 65,
+                    "global_sentence_index": 204
+                }
+            ]
+        },
+        {
+            "paragraph_index": 66,
+            "sentences": [
+                {
+                    "sentence": "המתלוננת הלכה לחברת פלאפון ודיווחה על הגניבה",
+                    "sentence_id": "0",
+                    "paragraph_index": 66,
+                    "global_sentence_index": 205
+                },
+                {
+                    "sentence": "מבדיקתה עלה שלא בוצעו שיחות מהמכשיר",
+                    "sentence_id": "1",
+                    "paragraph_index": 66,
+                    "global_sentence_index": 206
+                }
+            ]
+        },
+        {
+            "paragraph_index": 67,
+            "sentences": [
+                {
+                    "sentence": "המתלוננת הוסיפה, כי אחרי המקרה הזה, הרכיבה שער הברזל ושמה עינית בדלת החדר שלה וחשבה שזה יגן עליה",
+                    "sentence_id": "0",
+                    "paragraph_index": 67,
+                    "global_sentence_index": 207
+                },
+                {
+                    "sentence": "עד אז המתלוננת לא ידעה דבר על זהות האנשים שאנסו אותה",
+                    "sentence_id": "1",
+                    "paragraph_index": 67,
+                    "global_sentence_index": 208
+                }
+            ]
+        },
+        {
+            "paragraph_index": 68,
+            "sentences": [
+                {
+                    "sentence": "המתלוננת הגישה תלונה במשטרה",
+                    "sentence_id": "0",
+                    "paragraph_index": 68,
+                    "global_sentence_index": 209
+                },
+                {
+                    "sentence": "היא נשאלה למה לא התלוננה אחרי מקרי האונס הראשונים והסבירה, כי חשבה שלא יאמינו לה ויצחקו עליה והיא תצטרך לעבור השפלות",
+                    "sentence_id": "1",
+                    "paragraph_index": 68,
+                    "global_sentence_index": 210
+                },
+                {
+                    "sentence": "המתלוננת גם פחדה מהנאשם שאם הוא ידע שהתלוננה יתנקם בה",
+                    "sentence_id": "2",
+                    "paragraph_index": 68,
+                    "global_sentence_index": 211
+                }
+            ]
+        },
+        {
+            "paragraph_index": 69,
+            "sentences": [
+                {
+                    "sentence": "באשר לארוע נשוא האישום הרביעי, העידה המתלוננת כי ביום 17.10.2005, ערב חג סוכות, בשעה 19:00 או 19:30 היא ניקתה את הקומה בה היא מתגוררת, שער הברזל ודלת רב הבריח היו פתוחים",
+                    "sentence_id": "0",
+                    "paragraph_index": 69,
+                    "global_sentence_index": 212
+                },
+                {
+                    "sentence": "כשסיימה לנקות את המטבחון ויצאה מאחורי השער, לפתע צץ הנאשם לפניה",
+                    "sentence_id": "1",
+                    "paragraph_index": 69,
+                    "global_sentence_index": 213
+                },
+                {
+                    "sentence": "היא זיהתה אותו כאותו אדם שאנס אותה בפעמים הקודמות",
+                    "sentence_id": "2",
+                    "paragraph_index": 69,
+                    "global_sentence_index": 214
+                },
+                {
+                    "sentence": "המתלוננת לא הספיקה לצעוק הרבה למעט צרחות בודדות, הנאשם סתם לה מייד את הפה וגרר אותה לחדרה, דחף אותה לחדר וסגר את הדלת",
+                    "sentence_id": "3",
+                    "paragraph_index": 69,
+                    "global_sentence_index": 215
+                },
+                {
+                    "sentence": "המתלוננת לא זכרה איך שער הברזל נסגר, אך ציינה כי הנאשם ניסה לסגור אותו בלי מפתח ובאופן אוטומטי הוא נסגר",
+                    "sentence_id": "4",
+                    "paragraph_index": 69,
+                    "global_sentence_index": 216
+                },
+                {
+                    "sentence": "הנאשם גרר אותה לתוך החדר, הכל קרה מהר",
+                    "sentence_id": "5",
+                    "paragraph_index": 69,
+                    "global_sentence_index": 217
+                },
+                {
+                    "sentence": "כשהמתלוננת היתה במסדרון הספיקה לצרוח, אבל לא הרבה",
+                    "sentence_id": "6",
+                    "paragraph_index": 69,
+                    "global_sentence_index": 218
+                },
+                {
+                    "sentence": "היא מצאה את עצמה בתוך חדרה, הנאשם סגר את דלת החדר, התנפל עליה וניסה לחנוק אותה, שם יד על גרונה והתחיל לחנוק אותה",
+                    "sentence_id": "7",
+                    "paragraph_index": 69,
+                    "global_sentence_index": 219
+                },
+                {
+                    "sentence": "כשהמתלוננת רצתה לצעוק, שם הנאשם את ידיו עליה והתחיל לחנוק אותה",
+                    "sentence_id": "8",
+                    "paragraph_index": 69,
+                    "global_sentence_index": 220
+                },
+                {
+                    "sentence": "אח\"כ הרגישה שהיא מאבדת את ההכרה והכל סביבה מסתובב, היא נחלשה כמו נרדמת, הנאשם עזב אותה, הפסיק לחנוק אותה ולסתום לה את הפה וכנראה פנה להביא קונדום",
+                    "sentence_id": "9",
+                    "paragraph_index": 69,
+                    "global_sentence_index": 221
+                },
+                {
+                    "sentence": "המתלוננת הספיקה להוציא צרחה גדולה ככל שיכלה והנאשם מיד חזר אליה והחל לחנוק אותה",
+                    "sentence_id": "10",
+                    "paragraph_index": 69,
+                    "global_sentence_index": 222
+                }
+            ]
+        },
+        {
+            "paragraph_index": 70,
+            "sentences": [
+                {
+                    "sentence": "בשלב זה של העדות, צנחה המתלוננת על הרצפה ואיבדה את ההכרה",
+                    "sentence_id": "0",
+                    "paragraph_index": 70,
+                    "global_sentence_index": 223
+                },
+                {
+                    "sentence": "לאחר שניות התעוררה והחלה לצעוק צעקות הסטריות ולבכות בכי באמרה כי היא לא יכולה לראות את הנאשם, כשכל גופה רועד (ראה הערה בעמ' 14 לפרוטוקול שורות 9 - 7)",
+                    "sentence_id": "1",
+                    "paragraph_index": 70,
+                    "global_sentence_index": 224
+                }
+            ]
+        },
+        {
+            "paragraph_index": 71,
+            "sentences": [
+                {
+                    "sentence": "בהמשך, סיפרה המתלוננת, כי ברגע שניסתה לצעוק הנאשם חנק אותה",
+                    "sentence_id": "0",
+                    "paragraph_index": 71,
+                    "global_sentence_index": 225
+                },
+                {
+                    "sentence": "ייתכן והנאשם עצמו צעק אך היא היתה מעורפלת ולא שמעה דבר",
+                    "sentence_id": "1",
+                    "paragraph_index": 71,
+                    "global_sentence_index": 226
+                },
+                {
+                    "sentence": "הנאשם שחרר אחיזתו בגרונה והמשיך לבצע את החדירה",
+                    "sentence_id": "2",
+                    "paragraph_index": 71,
+                    "global_sentence_index": 227
+                },
+                {
+                    "sentence": "הוא הכניס את איבר מינו לאיבר מינה וכל הזמן לחש לה לשתוק",
+                    "sentence_id": "3",
+                    "paragraph_index": 71,
+                    "global_sentence_index": 228
+                },
+                {
+                    "sentence": "בשלב זה המתלוננת שמעה כי מחוץ לחדר מישהו קורא לנאשם בערבית אמיר, אמיר",
+                    "sentence_id": "4",
+                    "paragraph_index": 71,
+                    "global_sentence_index": 229
+                },
+                {
+                    "sentence": "המתלוננת מבינה כמה מילים בערבית ועד כמה שהבינה נאמר בערבית \"חלאס שו בידסאוי בידי ארוח\" ומשפטים נוספים שלא הבינה אותם",
+                    "sentence_id": "5",
+                    "paragraph_index": 71,
+                    "global_sentence_index": 230
+                },
+                {
+                    "sentence": "הנאשם נלחץ מאוד והתחיל לעשות את האקט בצורה מהירה ביותר וגם תפס את המתלוננת בשערה והכניס כמה פעמים את איבר מינו לפיה",
+                    "sentence_id": "6",
+                    "paragraph_index": 71,
+                    "global_sentence_index": 231
+                },
+                {
+                    "sentence": "המתלוננת ציינה כי בכל ארבעת המקרים, הנאשם החדיר את איבר המין שלו לפיה",
+                    "sentence_id": "7",
+                    "paragraph_index": 71,
+                    "global_sentence_index": 232
+                },
+                {
+                    "sentence": "לאחר מכן, הנאשם שוב החדיר את איבר מינו לאיבר מינה והגיע לסיפוק מיני",
+                    "sentence_id": "8",
+                    "paragraph_index": 71,
+                    "global_sentence_index": 233
+                },
+                {
+                    "sentence": "הארוע  נמשך להערכתה כ- 5 דקות בגלל הצעקות והדפיקות בשער הברזל ומישהו שעשה רעש בחוץ וקרא לנאשם",
+                    "sentence_id": "9",
+                    "paragraph_index": 71,
+                    "global_sentence_index": 234
+                }
+            ]
+        },
+        {
+            "paragraph_index": 72,
+            "sentences": [
+                {
+                    "sentence": "לאחר שהנאשם הגיע לסיפוק, זרק את הקונדום על הרצפה והתחיל להתלבש במהירות",
+                    "sentence_id": "0",
+                    "paragraph_index": 72,
+                    "global_sentence_index": 235
+                },
+                {
+                    "sentence": "המתלוננת לבשה בגד והנאשם הכריח אותה לצאת איתו החוצה כדי לפתוח לו את הדלת",
+                    "sentence_id": "1",
+                    "paragraph_index": 72,
+                    "global_sentence_index": 236
+                },
+                {
+                    "sentence": "הם הגיעו לשער הברזל, אותו המתלוננת אינה זוכרת אם פתחה, או שהיה פתוח",
+                    "sentence_id": "2",
+                    "paragraph_index": 72,
+                    "global_sentence_index": 237
+                },
+                {
+                    "sentence": "מאחורי השער, עמד מישהו שניסה לדבר עם הנאשם וקרא לו \"אמיר\"",
+                    "sentence_id": "3",
+                    "paragraph_index": 72,
+                    "global_sentence_index": 238
+                },
+                {
+                    "sentence": "הנאשם דחף את הבחור הנוסף אל מאחורי שער הברזל ונמלט במהירות",
+                    "sentence_id": "4",
+                    "paragraph_index": 72,
+                    "global_sentence_index": 239
+                }
+            ]
+        },
+        {
+            "paragraph_index": 73,
+            "sentences": [
+                {
+                    "sentence": "לאחר שהנאשם ברח, נשארה המתלוננת מעבר לשער, פנים אל פנים עם הבחור הנוסף אותו לא הכירה שקרא לנאשם בשם \"אמיר\"",
+                    "sentence_id": "0",
+                    "paragraph_index": 73,
+                    "global_sentence_index": 240
+                },
+                {
+                    "sentence": "המתלוננת חששה כי הבחור הוא שותף של הנאשם וכי ימשיך את האונס ולא ידעה למה לצפות",
+                    "sentence_id": "1",
+                    "paragraph_index": 73,
+                    "global_sentence_index": 241
+                },
+                {
+                    "sentence": "הבחור היה מבולבל ושאל אותה \"מה קרה לך",
+                    "sentence_id": "2",
+                    "paragraph_index": 73,
+                    "global_sentence_index": 242
+                },
+                {
+                    "sentence": "מה קורה פה בכלל",
+                    "sentence_id": "3",
+                    "paragraph_index": 73,
+                    "global_sentence_index": 243
+                },
+                {
+                    "sentence": "המתלוננת המשיכה להתלבט ושאלה אותו  מה הוא רוצה ממנה",
+                    "sentence_id": "4",
+                    "paragraph_index": 73,
+                    "global_sentence_index": 244
+                },
+                {
+                    "sentence": "הבחור אמר לה ששמע צעקות והוא לא מבין, וכי הוא מבולבל ומבוהל",
+                    "sentence_id": "5",
+                    "paragraph_index": 73,
+                    "global_sentence_index": 245
+                },
+                {
+                    "sentence": "המתלוננת רעדה ובכתה, אמרה כי הנאשם אנס אותה ושאלה את הבחור \"מה אתה רוצה לעשות לי\"",
+                    "sentence_id": "6",
+                    "paragraph_index": 73,
+                    "global_sentence_index": 246
+                },
+                {
+                    "sentence": "ממבטו המפוחד של הבחור הבינה כי אין לה מה לחשוש ממנו",
+                    "sentence_id": "7",
+                    "paragraph_index": 73,
+                    "global_sentence_index": 247
+                },
+                {
+                    "sentence": "היא התחילה לבכות ולהגיד כי הנאשם אנס אותה ותקף אותה ושאלה את הבחור אם הוא מכיר אותו",
+                    "sentence_id": "8",
+                    "paragraph_index": 73,
+                    "global_sentence_index": 248
+                },
+                {
+                    "sentence": "הבחור השיב שהם מטובא, והתחיל לקלל את הנאשם ואמר שהוא לא בן אדם ולא ציפה שיעשה דבר כזה",
+                    "sentence_id": "9",
+                    "paragraph_index": 73,
+                    "global_sentence_index": 249
+                },
+                {
+                    "sentence": "המתלוננת שאלה אותו איך קוראים לנאשם, הבחור אמר שקוראים לו אמיר",
+                    "sentence_id": "10",
+                    "paragraph_index": 73,
+                    "global_sentence_index": 250
+                },
+                {
+                    "sentence": "המתלוננת והבחור נכנסו לחדרה והוא שאל אותה אם יכול לפצות אותה",
+                    "sentence_id": "11",
+                    "paragraph_index": 73,
+                    "global_sentence_index": 251
+                },
+                {
+                    "sentence": "עוד שאל מה עשה לה הנאשם והיא השיבה כי אנס אותה",
+                    "sentence_id": "12",
+                    "paragraph_index": 73,
+                    "global_sentence_index": 252
+                },
+                {
+                    "sentence": "הבחור אמר כי יפצה אותה בכסף ושאל במה הוא יכול לעזור",
+                    "sentence_id": "13",
+                    "paragraph_index": 73,
+                    "global_sentence_index": 253
+                },
+                {
+                    "sentence": "המתלוננת ביקשה את עזרתו באיתור הנאשם שברח",
+                    "sentence_id": "14",
+                    "paragraph_index": 73,
+                    "global_sentence_index": 254
+                },
+                {
+                    "sentence": "המתלוננת סיפרה, כי הבחור התלבט ואמר שישיג אותו בכפר והוא \"יראה לו\" וכי הוא לא ימלט מאחריות",
+                    "sentence_id": "15",
+                    "paragraph_index": 73,
+                    "global_sentence_index": 255
+                },
+                {
+                    "sentence": "אותו בחור אמר עוד, כי הוא סה\"כ חייל והם באו ביחד מטובא ולא בא לעשות אונס ולא בא להתעסק בפלילים עד שלפתע שמע צעקות",
+                    "sentence_id": "16",
+                    "paragraph_index": 73,
+                    "global_sentence_index": 256
+                },
+                {
+                    "sentence": "המתלוננת האמינה לבחור כי אין לו כוונה לאנוס אותה, או לפגוע בה והתחננה שיעזור לה לאתר את הנאשם, שכן זו לא פעם ראשונה אלא פעם רביעית שהוא אנס ותקף אותה וניסה לחנוק אותה",
+                    "sentence_id": "17",
+                    "paragraph_index": 73,
+                    "global_sentence_index": 257
+                },
+                {
+                    "sentence": "הבחור היה מופתע ושאל \"מה אני יכול לעזור",
+                    "sentence_id": "18",
+                    "paragraph_index": 73,
+                    "global_sentence_index": 258
+                },
+                {
+                    "sentence": "\", ושוב הציע לפצותה על מה שהנאשם עשה לה",
+                    "sentence_id": "19",
+                    "paragraph_index": 73,
+                    "global_sentence_index": 259
+                },
+                {
+                    "sentence": "המתלוננת ביקשה שיעזור לה לאתר את הבחור ואמרה שתתקשר למשטרה",
+                    "sentence_id": "20",
+                    "paragraph_index": 73,
+                    "global_sentence_index": 260
+                },
+                {
+                    "sentence": "המתלוננת חששה כי הבחור יתקוף אותה ויברח אבל יחד עם זאת הוא הסכים שתתקשר למשטרה",
+                    "sentence_id": "21",
+                    "paragraph_index": 73,
+                    "global_sentence_index": 261
+                },
+                {
+                    "sentence": "המתלוננת התקשרה למשטרה ואמרה כי יש לה עד שמוכן לעזור",
+                    "sentence_id": "22",
+                    "paragraph_index": 73,
+                    "global_sentence_index": 262
+                },
+                {
+                    "sentence": "בשלב זה ועד הגעת המשטרה אחרי 10 דקות, דיברה המתלוננת עם הבחור אודות הנאשם שברח, שאלה את שם האב, הבחור השיב שהם מאותו כפר, וקוראים לו אמיר ושם המשפחה שלו אולי הייב, הבחור אמר כי אינו יודע את שם אביו",
+                    "sentence_id": "23",
+                    "paragraph_index": 73,
+                    "global_sentence_index": 263
+                },
+                {
+                    "sentence": "אחרי כ- 10 דקות, כשהגיעה ניידת המשטרה, המתלוננת והבחור נסעו למשטרה, שם מסרה המתלוננת עדות וסיפרה גם על שלושת המקרים הקודמים עליהם התלוננה ומסרה כי מדובר באותו אדם בכל המקרים",
+                    "sentence_id": "24",
+                    "paragraph_index": 73,
+                    "global_sentence_index": 264
+                }
+            ]
+        },
+        {
+            "paragraph_index": 74,
+            "sentences": [
+                {
+                    "sentence": "המתלוננת הוסיפה, כי בתלונתה מיום 17.10.05, מסרה למשטרה את התאור של הנאשם, שהוא בערך בגובה 1.80 מטר הוא בערך בן 20, רזה, גופו לא שעיר והיה לו פס של זקן שעובר מאוזן לאוזן",
+                    "sentence_id": "0",
+                    "paragraph_index": 74,
+                    "global_sentence_index": 265
+                },
+                {
+                    "sentence": "גם בשלושת המקרים הקודמים היה עם אותו זקן לפעמים היה יותר מגולח ולפעמים פחות",
+                    "sentence_id": "1",
+                    "paragraph_index": 74,
+                    "global_sentence_index": 266
+                }
+            ]
+        },
+        {
+            "paragraph_index": 75,
+            "sentences": [
+                {
+                    "sentence": "המתלוננת ציינה כי לנאשם שהיה באולם יש  את אותו זקן כמו שהיה לו בכל המקרים, וציינה כי עד שהגיע לתחנת המשטרה, לא ידעה דבר על הבחור שחיכה לנאשם ואז שמעה שקוראים לו נ’",
+                    "sentence_id": "0",
+                    "paragraph_index": 75,
+                    "global_sentence_index": 267
+                },
+                {
+                    "sentence": "כשהגיעו למשטרה חקרו אותה ואת נ’ בנפרד (עמ' 16 לפרוט')",
+                    "sentence_id": "1",
+                    "paragraph_index": 75,
+                    "global_sentence_index": 268
+                }
+            ]
+        },
+        {
+            "paragraph_index": 76,
+            "sentences": [
+                {
+                    "sentence": "למחרת התקשרה המתלוננת לידיד שלה שהייתה איתו בקשר שנתיים קודם, שמו עלי הייב, סיפרה לו על כל מקרי האונס וביקשה  שיעזור לה לאתר את הנאשם",
+                    "sentence_id": "0",
+                    "paragraph_index": 76,
+                    "global_sentence_index": 269
+                },
+                {
+                    "sentence": "המתלוננת מסרה לו את תאור הנאשם, את שמו הפרטי, את שמו של נ’, שהוא חייל, ואת  תיאורו",
+                    "sentence_id": "1",
+                    "paragraph_index": 76,
+                    "global_sentence_index": 270
+                },
+                {
+                    "sentence": "עלי אמר למתלוננת, כי אינו מכיר אישית את הנאשם, אבל הבטיח לברר פרטים אודותיו",
+                    "sentence_id": "2",
+                    "paragraph_index": 76,
+                    "global_sentence_index": 271
+                },
+                {
+                    "sentence": "בהמשך השבוע התקשר אליה ושאל האם אימו של הנאשם יהודיה מקרית שמונה, שכן לפי התאור והשמות שמסרה לו גילה כי אמיר ונ’ הם אחים מאותו אבא בדואי ששמו חוסיין מוחמד פאיז מהכפר טובא",
+                    "sentence_id": "3",
+                    "paragraph_index": 76,
+                    "global_sentence_index": 272
+                },
+                {
+                    "sentence": "אימו של אמיר יהודיה במקור מקרית שמונה ואימו של נ’ היא בדואית מטובא",
+                    "sentence_id": "4",
+                    "paragraph_index": 76,
+                    "global_sentence_index": 273
+                },
+                {
+                    "sentence": "דברים אלה נודעו למתלוננת לראשונה (עמ' 16, 17 לפרוט')",
+                    "sentence_id": "5",
+                    "paragraph_index": 76,
+                    "global_sentence_index": 274
+                }
+            ]
+        },
+        {
+            "paragraph_index": 77,
+            "sentences": [
+                {
+                    "sentence": "המתלוננת הוסיפה, כי בדיעבד גילתה כי הכירה את אמו של הנאשם, אשר הגיעה אליה ביום 28/03/05 עם נהג מונית מט’ בשם גדעון, וביקשה לקיים עימה יחסי מין, המתלוננת סירבה לכך ועזבה בקללות",
+                    "sentence_id": "0",
+                    "paragraph_index": 77,
+                    "global_sentence_index": 275
+                },
+                {
+                    "sentence": "הוסיפה כי ביום 11/4/05 הגיע אליה אדם שהזדהה בשם ניסים אלמקייס, וביקש להכנס אליה כלקוח, וכאשר סיים מסר לה כי שלחה אותו אחותו א’",
+                    "sentence_id": "1",
+                    "paragraph_index": 77,
+                    "global_sentence_index": 276
+                },
+                {
+                    "sentence": "אותו ניסים קנה למתלוננת בהמשך את השוקר החשמלי לשם הגנה, לאחר שסיפרה לו על מקרה האונס הראשון",
+                    "sentence_id": "2",
+                    "paragraph_index": 77,
+                    "global_sentence_index": 277
+                },
+                {
+                    "sentence": "ביום 12.12.05 הגיע אליה ניסים להתנצל בשם המשפחה על מעשי הנאשם, השניים עלו יחד לתחנת המשטרה שם היה הנאשם כבר עצור וזוהה על ידי המתלוננת",
+                    "sentence_id": "3",
+                    "paragraph_index": 77,
+                    "global_sentence_index": 278
+                }
+            ]
+        },
+        {
+            "paragraph_index": 78,
+            "sentences": [
+                {
+                    "sentence": "בחקירתה הנגדית, אישרה המתלוננת כי ביום 05/09/05, הגישה תלונה על אונס של אדם נוסף",
+                    "sentence_id": "0",
+                    "paragraph_index": 78,
+                    "global_sentence_index": 279
+                },
+                {
+                    "sentence": "אישרה כי יחסיה עם מ ד בעל הבניין ט (עמ' 18 שורות 12 – 11), וכי סיפרה לו, אחרי המקרה השלישי בתאריך 04/06/05, על שלושת המקרים שהיו (עמ' 18 שורות 13 – 14)",
+                    "sentence_id": "1",
+                    "paragraph_index": 78,
+                    "global_sentence_index": 280
+                },
+                {
+                    "sentence": "המתלוננת הסבירה כי לא סיפרה לדהן מייד אחרי האירוע הראשון, מכיוון שהנאשם איים עליה שאם תספר למישהו, הוא יתנקם בה (עמ' 18 שורות 17 – 16)",
+                    "sentence_id": "2",
+                    "paragraph_index": 78,
+                    "global_sentence_index": 281
+                },
+                {
+                    "sentence": "בהמשך הבהירה המתלוננת, מדוע לא התלוננה במשטרה אחרי האירוע הראשון, וציינה כי הייתה בטוחה כי מי שביצע אונס, לא יעז לחזור שוב וגם חששה שאם האנס ידע שהתלוננה נגדו זה יהיה הסוף שלה (עמ' 18 שורות 20 – 18)",
+                    "sentence_id": "3",
+                    "paragraph_index": 78,
+                    "global_sentence_index": 282
+                },
+                {
+                    "sentence": "באשר לפעם השניה סיפרה כי חשבה שדיברה לליבו של הנאשם, והייתה בטוחה כי אחרי הפעם השניה הצליחה לסגור את המעגל, ורק בפעם השלישית הבינה כי אין עוד למה לחכות משום שבפעם השלישית הביא הנאשם אדם נוסף, לכן סיפרה על העניין לדהן (עמ' 18 שורות 23 – 21)",
+                    "sentence_id": "4",
+                    "paragraph_index": 78,
+                    "global_sentence_index": 283
+                },
+                {
+                    "sentence": "המתלוננת הוסיפה כי כאשר סיפרה לדהן על המקרה השלישי, הוא אמר לה להתלונן דחוף למשטרה (עמ' 18 שורה 24)",
+                    "sentence_id": "5",
+                    "paragraph_index": 78,
+                    "global_sentence_index": 284
+                },
+                {
+                    "sentence": "המתלוננת אישרה גם כי סיפרה על המקרים לעלי הייב ולחוסין הייב (עמ' 18 שורות 26 – 25)",
+                    "sentence_id": "6",
+                    "paragraph_index": 78,
+                    "global_sentence_index": 285
+                },
+                {
+                    "sentence": "המתלוננת אישרה את אשר מסרה בחקירה ראשית, כי היא התקינה אינטרקום ושער ברזל רק אחרי האונס השלישי (עמ' 20 שורות 12 – 11)",
+                    "sentence_id": "7",
+                    "paragraph_index": 78,
+                    "global_sentence_index": 286
+                },
+                {
+                    "sentence": "לשאלת הסניגור, הסבירה המתלוננת כי בכל ארבעת המקרים וכאשר אנס אותה הנאשם, היא צרחה ועל אף שהשכנים ממש צמודים לחדרה, לא הגיעו כי לא רצו להתערב (עמ' 21 שורות 9 – 8)",
+                    "sentence_id": "8",
+                    "paragraph_index": 78,
+                    "global_sentence_index": 287
+                },
+                {
+                    "sentence": "המתלוננת הוסיפה כי בפעם הראשונה הייתה ממש צעקה קצרה, מכיוון שהנאשם התנפל עליה מייד וסתם לה את הפה (עמ' 21 שורות 11 – 10)",
+                    "sentence_id": "9",
+                    "paragraph_index": 78,
+                    "global_sentence_index": 288
+                },
+                {
+                    "sentence": "המתלוננת הבהירה עוד, כי במקרה הראשון הדלת הייתה סגורה, אולם לא הייתה נעולה (עמ' 21 שורה 16)",
+                    "sentence_id": "10",
+                    "paragraph_index": 78,
+                    "global_sentence_index": 289
+                }
+            ]
+        },
+        {
+            "paragraph_index": 79,
+            "sentences": [
+                {
+                    "sentence": "לשאלת הסניגור מדוע פתחה בפעם השניה את הדלת, השיבה המתלוננת כי לא הבינה שהמדובר באותו אדם, והייתה בטוחה שמי שעשה מעשה כזה, לא יעז לחזור עוד פעם לאותו מקום (עמ' 21 שורות 19 – 18)",
+                    "sentence_id": "0",
+                    "paragraph_index": 79,
+                    "global_sentence_index": 290
+                },
+                {
+                    "sentence": "לגבי פתיחת הדלת בפעם השלישית, חזרה המתלוננת על ההסברים שמסרה בחקירה ראשית וציינה, כי בפעם השניה הבטיח הנאשם שלא יעשה יותר, והמתלוננת לא ידעה שזה אותו אדם, לכן פתחה בפעם השלישית, וכי זה היה בשעה 06:30 בבוקר (עמ' 21 שורות 22 – 20)",
+                    "sentence_id": "1",
+                    "paragraph_index": 79,
+                    "global_sentence_index": 291
+                },
+                {
+                    "sentence": "באשר לפעם הרביעית, הסבירה שוב, כי זה היה בסביבות השעה 07:30 בערך שעה שהיא ניקתה בחוץ והשער היה פתוחה (עמ' 21 ש' 24 – 23)",
+                    "sentence_id": "2",
+                    "paragraph_index": 79,
+                    "global_sentence_index": 292
+                }
+            ]
+        },
+        {
+            "paragraph_index": 80,
+            "sentences": [
+                {
+                    "sentence": "בהמשך חזרה המתלוננת על הדברים שסיפרה בחקירה ראשית, כי אחרי כ- 10 ימים מהאירוע הראשון, הגיע אליה דודו של הנאשם בשם ניסים, אז לא ידעה כי הוא הדוד של הנאשם והציע לה עזרה, והוא אשר הביא לה את השוקר החשמלי (עמ' 21 שורות 27, 28, עמ' 22 שורות 1, 2)",
+                    "sentence_id": "0",
+                    "paragraph_index": 80,
+                    "global_sentence_index": 293
+                },
+                {
+                    "sentence": "המתלוננת הוסיפה כי על המקרה הראשון סיפרה גם לדהן ועל האירוע השני לא סיפרה לאף אחד, וחזרה על הסבריה שמסרה בחקירה ראשית, ואף הבהירה כי פתחה את הדלת בפעם השלישית, כי זה היה בשעה 06:30 בבוקר, ולא חשבה שזה האנס אלא סברה שזה החלבן או מישהו מהשכנים (עמ' 22 שורות 27 , 28)",
+                    "sentence_id": "1",
+                    "paragraph_index": 80,
+                    "global_sentence_index": 294
+                },
+                {
+                    "sentence": "הסבירה עוד, כי באירוע השלישי הנאשם הביא אמצעי מניעה, ובמקרה הרביעי הנאשם השאיר את הקונדום על המיטה, והיא מסרה אותו למשטרה (עמ' 23 שורה 6, שורות 19, 20)",
+                    "sentence_id": "2",
+                    "paragraph_index": 80,
+                    "global_sentence_index": 295
+                },
+                {
+                    "sentence": "בהמשך ולשאלת הסניגור, סיפרה המתלוננת כי באירוע השלישי, הנאשם והאחר לא תקפו אותה ולא איימו עליה, אלא רק אנסו אותה (עמ' 24 שורה 11)",
+                    "sentence_id": "3",
+                    "paragraph_index": 80,
+                    "global_sentence_index": 296
+                },
+                {
+                    "sentence": "המתלוננת אישרה את אשר אמרה במשטרה, כי אחרי הפעם הרביעית יכלה לזהות בוודאות את הנאשם, מכיוון שדמותו של הנאשם נחרטה לה במוח (עמ' 26 שורות 21 – 19)",
+                    "sentence_id": "4",
+                    "paragraph_index": 80,
+                    "global_sentence_index": 297
+                }
+            ]
+        },
+        {
+            "paragraph_index": 81,
+            "sentences": [
+                {
+                    "sentence": "בהמשך ובתשובות לשאלת הסניגור, חזרה המתלוננת על הגרסה שמסרה בחקירה הראשית, ואינני רואה כל מקום לחזור על הדברים",
+                    "sentence_id": "0",
+                    "paragraph_index": 81,
+                    "global_sentence_index": 298
+                }
+            ]
+        },
+        {
+            "paragraph_index": 82,
+            "sentences": [
+                {
+                    "sentence": "יצויין, כי המתלוננת בהודעתה במשטרה ביום 14/06/05, שניתנה אחרי אירוע האיום השלישי, מסרה פחות או יותר אותם פרטים שמסרה במהלך עדותה בבית המשפט, ואינני רואה כל מקום לחזור על הדברים (ראה ת/2)",
+                    "sentence_id": "0",
+                    "paragraph_index": 82,
+                    "global_sentence_index": 299
+                }
+            ]
+        },
+        {
+            "paragraph_index": 83,
+            "sentences": [
+                {
+                    "sentence": "7.\tהמתלוננת מסרה בעדותה בפנינו גרסה מפורטת לאירועים הקשים שעברו עליה",
+                    "sentence_id": "0",
+                    "paragraph_index": 83,
+                    "global_sentence_index": 300
+                },
+                {
+                    "sentence": "לאורך עדותה ניכרו בה סימני ההתרגשות הרבה בה היתה נתונה",
+                    "sentence_id": "1",
+                    "paragraph_index": 83,
+                    "global_sentence_index": 301
+                },
+                {
+                    "sentence": "היא רעדה, בעיקר בכף ידה הימנית וההתרגשות ניכרה בקולה (ראה הערה לפרוטוקול בעמ' 13 ש' 25)",
+                    "sentence_id": "2",
+                    "paragraph_index": 83,
+                    "global_sentence_index": 302
+                },
+                {
+                    "sentence": "היא אף התמוטטה על דוכן העדים והתעלפה במהלך עדותה, צעקה בהיסטריה ובכתה (ראה הערה לפרוטוקול בעמ' 14 ש' 7-9)",
+                    "sentence_id": "3",
+                    "paragraph_index": 83,
+                    "global_sentence_index": 303
+                },
+                {
+                    "sentence": "חרף החקירה הנגדית הממושכת והמתישה, המתלוננת עמדה איתנה בעדותה וחזרה על האירועים ופירטה כל אירוע ואירוע בפרוטרוט ובפרטי פרטים",
+                    "sentence_id": "4",
+                    "paragraph_index": 83,
+                    "global_sentence_index": 304
+                },
+                {
+                    "sentence": "אומנם נמצאו סתירות קלות בעדותה, אולם המדובר בסתירות זניחות, שוליות שאינן יורדות לשורש העניין",
+                    "sentence_id": "5",
+                    "paragraph_index": 83,
+                    "global_sentence_index": 305
+                },
+                {
+                    "sentence": "אין בסתירות אלה כדי לפגוע במהימנות המתלוננת",
+                    "sentence_id": "6",
+                    "paragraph_index": 83,
+                    "global_sentence_index": 306
+                }
+            ]
+        },
+        {
+            "paragraph_index": 84,
+            "sentences": [
+                {
+                    "sentence": "לסיכום, המתלוננת מסרה גרסה שלמה, מלאה והגיונית אודות ארבעת האירועים נשוא כתב האישום",
+                    "sentence_id": "0",
+                    "paragraph_index": 84,
+                    "global_sentence_index": 307
+                },
+                {
+                    "sentence": "תיאוריה לארבעת האירועים היו מתקבלים על הדעת",
+                    "sentence_id": "1",
+                    "paragraph_index": 84,
+                    "global_sentence_index": 308
+                },
+                {
+                    "sentence": "המתלוננת סיפרה את התרחשות הדברים כהוויתם ולא ניסתה כלל וכלל להעצים את מעשיו של הנאשם, ואף לא ניסתה להסתיר עובדות אשר עלולות היו להזיק לה",
+                    "sentence_id": "2",
+                    "paragraph_index": 84,
+                    "global_sentence_index": 309
+                },
+                {
+                    "sentence": "כך למשל כאשר תיארה המתלוננת בחקירה ראשית את האירוע הראשון, לא הסתירה את העובדה שבאירוע הראשון לאחר שהתחיל הנאשם להפשיטה, היא החליטה לא להתנגד יותר למעשיו של הנאשם, כי הבינה שאין לה ברירה ולא הייתה לה כל תקווה כי מישהו יבוא להציל אותה (עמ' 8 ש' 18 – 17)",
+                    "sentence_id": "3",
+                    "paragraph_index": 84,
+                    "global_sentence_index": 310
+                },
+                {
+                    "sentence": "זאת ועוד, הסניגור ניסה, לאורך כל החקירה הנגדית, לשכנענו כי גרסתה של המתלוננת שיקרית, בדויה ואינה מתקבלת על הדעת, אולם תשובותיה והסבריה של המתלוננת היו פשוטות, ברורות והגיוניות, תוך שהיא נותרה איתנה בגרסתה בחקירה ראשית",
+                    "sentence_id": "4",
+                    "paragraph_index": 84,
+                    "global_sentence_index": 311
+                }
+            ]
+        },
+        {
+            "paragraph_index": 85,
+            "sentences": [
+                {
+                    "sentence": "יתירה מזו, תשובותיה של המתלוננת בפנינו חזקו עוד את הגרסה שמסרה בחקירה ראשית, ולהלן מספר דוגמאות",
+                    "sentence_id": "0",
+                    "paragraph_index": 85,
+                    "global_sentence_index": 312
+                }
+            ]
+        },
+        {
+            "paragraph_index": 86,
+            "sentences": [
+                {
+                    "sentence": "באשר לאנשים שידעו על מקרי האונס, המתלוננת עמדה על כך כי לאחר מקרה האונס הראשון סיפרה  על הארוע לניסים אלמקייס (עמ' 18 ש' 16-17), שהיה האדם הכמעט יחיד לו סיפרה",
+                    "sentence_id": "0",
+                    "paragraph_index": 86,
+                    "global_sentence_index": 313
+                },
+                {
+                    "sentence": "לאחר המקרה השלישי, ביום 14.6.05  סיפרה על הפרשה למשה דהן, בעל הבית שלה (עמ' 18 ש' 13-14, ש' 18-20, 24)",
+                    "sentence_id": "1",
+                    "paragraph_index": 86,
+                    "global_sentence_index": 314
+                },
+                {
+                    "sentence": "עם זאת, בהמשך חקירתה מסרה כי סיפרה למשה דהן כבר לאחר המקרה הראשון (עמ' 22 ש' 4, עמ' 24 ש' 10)",
+                    "sentence_id": "2",
+                    "paragraph_index": 86,
+                    "global_sentence_index": 315
+                },
+                {
+                    "sentence": "לאחר מכן חזרה על כך כי משה דהן ידע על המקרה הראשון, וכי התקשרה אליו גם לאחר המקרה השלישי (עמ' 23 ש' 25-26)",
+                    "sentence_id": "3",
+                    "paragraph_index": 86,
+                    "global_sentence_index": 316
+                },
+                {
+                    "sentence": "ניסים ------ בהודעתו ובעדותו בבית המשפט, אישר כי לאחר שהמתלוננת סיפרה לו כי תקפו ואנסו אותה, הביא לה שוקר חשמלי להגנתה (ראה להלן עדותו של ניסים)",
+                    "sentence_id": "4",
+                    "paragraph_index": 86,
+                    "global_sentence_index": 317
+                },
+                {
+                    "sentence": "גם משה ----- בעדותו אישר כי המתלוננת התקשרה אליו וסיפרה לו כי נאנסה וכי במועד קרות הארוע השלישי ראה את המתלוננת והיא סיפרה לו כי נאנסה מספר פעמים (ראה להלן עדות משה -----)",
+                    "sentence_id": "5",
+                    "paragraph_index": 86,
+                    "global_sentence_index": 318
+                }
+            ]
+        },
+        {
+            "paragraph_index": 87,
+            "sentences": [
+                {
+                    "sentence": "המתלוננת נשאלה כיצד לא שמעו שכנים את צעקותיה, למרות שבכל מקרי האונס צעקה לעזרה, והשיבה כי שכנים לא רצו להתערב, בנוסף השכנים לא נמצאו בבית אלא באים בשעה 9:00 בבוקר (עמ' 21 ש' 8-9)",
+                    "sentence_id": "0",
+                    "paragraph_index": 87,
+                    "global_sentence_index": 319
+                }
+            ]
+        },
+        {
+            "paragraph_index": 88,
+            "sentences": [
+                {
+                    "sentence": "המתלוננת עמדה על כך כי בפעם השלישית הנאשם הביא עימו אמצעי מניעה ולא השתמש באלה שהיו בשידה בחדרה (עמ' 22 ש' 10, עמ' 23 ש' 7)",
+                    "sentence_id": "0",
+                    "paragraph_index": 88,
+                    "global_sentence_index": 320
+                }
+            ]
+        },
+        {
+            "paragraph_index": 89,
+            "sentences": [
+                {
+                    "sentence": "אשר לקונדומים, מסרה המתלוננת כי בשלושת המקרים הראשונים אלה הושלכו לאסלה ובפעם הרביעית הנאשם השליך את הקונדום על המיטה והיא מסרה אותו למשטרה (עמ' 23 ש' 19-21)",
+                    "sentence_id": "0",
+                    "paragraph_index": 89,
+                    "global_sentence_index": 321
+                },
+                {
+                    "sentence": "עם זאת, בעדותה הנוגעת למקרה הרביעי מסרה כי הנאשם השליך את הקונדום על הרצפה (עמ' 14 ש' 23)",
+                    "sentence_id": "1",
+                    "paragraph_index": 89,
+                    "global_sentence_index": 322
+                },
+                {
+                    "sentence": "עדות זו מתיישבת עם דו\"ח פעולה של השוטר פארס מאטר, שהגיע למקום לאחר הארוע הרביעי, ובו ציין כי המתלוננת הצביעה על קונדום שנמצא על הרצפה (נ/2)",
+                    "sentence_id": "2",
+                    "paragraph_index": 89,
+                    "global_sentence_index": 323
+                }
+            ]
+        },
+        {
+            "paragraph_index": 90,
+            "sentences": [
+                {
+                    "sentence": "המתלוננת הבהירה כי בארוע השני שאלה את הנאשם לגילו, ונענתה כי הוא בן 17, אך למרות זאת במשטרה מסרה שהוא כבן 20 מאחר ולא האמינה לו (עמ' 25 ש' 4-5)",
+                    "sentence_id": "0",
+                    "paragraph_index": 90,
+                    "global_sentence_index": 324
+                }
+            ]
+        },
+        {
+            "paragraph_index": 91,
+            "sentences": [
+                {
+                    "sentence": "המתלוננת נשאלה מדוע במקרה השלישי, פנתה קודם לחברת מוטורולה כדי להוציא פירוט שיחות מהמכשיר שנגנב ולא פנתה למשטרה והשיבה כי עשתה זאת כי הייתה בטראומה מהאונס, נסערת ומפוחדת, במצב שקשה להסביר את ההגיון בפעולות (עמ' 25 ש' 26-28)",
+                    "sentence_id": "0",
+                    "paragraph_index": 91,
+                    "global_sentence_index": 325
+                }
+            ]
+        },
+        {
+            "paragraph_index": 92,
+            "sentences": [
+                {
+                    "sentence": "הסניגור ניסה להפריך את טענת המתלוננת לפיה לא עבדה כזונה כי אם נתנה שרותי מין לאנשים שהיא מכירה בלבד",
+                    "sentence_id": "0",
+                    "paragraph_index": 92,
+                    "global_sentence_index": 326
+                },
+                {
+                    "sentence": "המתלוננת עמדה על גרסתה בעניין זה (עמ' 20 ש' 9, 13)",
+                    "sentence_id": "1",
+                    "paragraph_index": 92,
+                    "global_sentence_index": 327
+                }
+            ]
+        },
+        {
+            "paragraph_index": 93,
+            "sentences": [
+                {
+                    "sentence": "המתלוננת הודתה כי בארוע הראשון, משהבינה כי אין לה עוד ברירה, הפסיקה להתנגד לנאשם וביקשה ממנו כי ישים קונדום (עמ' 8 ש' 10,17)",
+                    "sentence_id": "0",
+                    "paragraph_index": 93,
+                    "global_sentence_index": 328
+                }
+            ]
+        },
+        {
+            "paragraph_index": 94,
+            "sentences": [
+                {
+                    "sentence": "מדברי המתלוננת ניכר כי עדותה היתה כנה ואמיתית, היא תארה את הארועים כפי שקרו, מבלי להוסיף ומבלי לגרוע",
+                    "sentence_id": "0",
+                    "paragraph_index": 94,
+                    "global_sentence_index": 329
+                }
+            ]
+        },
+        {
+            "paragraph_index": 95,
+            "sentences": [
+                {
+                    "sentence": "סוף דבר, מהתרשמותי הישירה והבלתי אמצעית מעדות המתלוננת עולה, כי המתלוננת הותירה רושם חיובי ומהימן, הסבריה היו הגיוניים ומתקבלים על הדעת",
+                    "sentence_id": "0",
+                    "paragraph_index": 95,
+                    "global_sentence_index": 330
+                },
+                {
+                    "sentence": "יתירה מזו, עדותה עולה בקנה אחד ומשתלבת עם שאר הראיות בתיק",
+                    "sentence_id": "1",
+                    "paragraph_index": 95,
+                    "global_sentence_index": 331
+                }
+            ]
+        },
+        {
+            "paragraph_index": 96,
+            "sentences": [
+                {
+                    "sentence": "ב\"כ הנאשם בסיכומיו, הפנה ל- נ/1 שהינו פלט שעניינו תלונות שהגישה המתלוננת בעבר, המדובר בכ- 13 תלונות שהגישה המתלוננת משנת 1997, עד שנת 2005. התלונות שהוגשו היו בגין עבירות מגוונות, שכללו עבירות מין, גניבות, תקיפות, איומים, שידול לזנות, בעילה באיומים ושוד מזויין, ועל פי נ/1, תלונות אלה נסגרו בשל חוסר ראיות או עבריין לא נודע או אין עניין לציבור",
+                    "sentence_id": "0",
+                    "paragraph_index": 96,
+                    "global_sentence_index": 332
+                },
+                {
+                    "sentence": "לשיטת ב\"כ הנאשם, ריבוי התלונות שהגישה המתלוננת, ועל פיהן לא הורשע איש, מלמד על אופייה השלילי של המתלוננת",
+                    "sentence_id": "1",
+                    "paragraph_index": 96,
+                    "global_sentence_index": 333
+                },
+                {
+                    "sentence": "הנני דוחה טענה זו בשתי ידיים",
+                    "sentence_id": "2",
+                    "paragraph_index": 96,
+                    "global_sentence_index": 334
+                },
+                {
+                    "sentence": "עצם העובדה כי התיקים בהם נפתחו תלונות אלה, נסגרו, אין בו כדי ללמד כי המדובר בתלונות שווא, מאחר וסגירת תיקים אלה נעוצה בגורמים שונים, והראיה לכך התלונות הראשונות שהגישה המתלוננת בגין האישומים נשוא כתב האישום נסגרו, מכיוון שהנאשם לא היה ידוע למתלוננת",
+                    "sentence_id": "3",
+                    "paragraph_index": 96,
+                    "global_sentence_index": 335
+                },
+                {
+                    "sentence": "רק לאחר שזהתה אותו, נפתחו מחדש והוגש כתב אישום",
+                    "sentence_id": "4",
+                    "paragraph_index": 96,
+                    "global_sentence_index": 336
+                }
+            ]
+        },
+        {
+            "paragraph_index": 97,
+            "sentences": [
+                {
+                    "sentence": "ב\"כ הנאשם ביקש בסיכומיו לפסול את עדותה של המתלוננת מהטעם כי גרסתה אינה מתקבלת על הדעת, לדידו, לא יתכן ובלתי הגיוני שהמתלוננת תצרח בארבעת מקרי האונס, והשכנים שחדריהם צמודים לחדר המתלוננת, לא ישמעו את הצרחות ולא יגשו לעזרה",
+                    "sentence_id": "0",
+                    "paragraph_index": 97,
+                    "global_sentence_index": 337
+                },
+                {
+                    "sentence": "גם טענה זו דינה להידחות, המתלוננת הסבירה בחקירה נגדית כי השכנים לא רצו להתערב וחלק מהשכנים לא היו בבית בעת התרחשות האירועים, (עמ' 21 שורות 8 – 9), קבעתי קודם כי הסברים אלה הגיוניים ומתקבלים על הדעת",
+                    "sentence_id": "1",
+                    "paragraph_index": 97,
+                    "global_sentence_index": 338
+                }
+            ]
+        },
+        {
+            "paragraph_index": 98,
+            "sentences": [
+                {
+                    "sentence": "8.\tלתמיכה בראיות המאשימה, הובאו מטעמה הראיות להלן:",
+                    "sentence_id": "0",
+                    "paragraph_index": 98,
+                    "global_sentence_index": 339
+                }
+            ]
+        },
+        {
+            "paragraph_index": 99,
+            "sentences": [
+                {
+                    "sentence": "א:\tעדות נ' ב' ח' ע':",
+                    "sentence_id": "0",
+                    "paragraph_index": 99,
+                    "global_sentence_index": 340
+                }
+            ]
+        },
+        {
+            "paragraph_index": 100,
+            "sentences": [
+                {
+                    "sentence": "עד זה הינו, כאמור, אחיו החורג של הנאשם, והינו הבחור שהגיע יחד עם הנאשם אל המתלוננת במקרה הרביעי",
+                    "sentence_id": "0",
+                    "paragraph_index": 100,
+                    "global_sentence_index": 341
+                }
+            ]
+        },
+        {
+            "paragraph_index": 101,
+            "sentences": [
+                {
+                    "sentence": "נ' סיפר בחקירה ראשית, כי ביום 17.10.05 נסע יחד עם הנאשם מכפר טז לט', כדי להסיע את אחיו הקטן של הנאשם",
+                    "sentence_id": "0",
+                    "paragraph_index": 101,
+                    "global_sentence_index": 342
+                },
+                {
+                    "sentence": "הנאשם אמר לו כי הוא רוצה לבקר חבר במקום בו ארע המקרה",
+                    "sentence_id": "1",
+                    "paragraph_index": 101,
+                    "global_sentence_index": 343
+                },
+                {
+                    "sentence": "נ’ נשאר ברכב",
+                    "sentence_id": "2",
+                    "paragraph_index": 101,
+                    "global_sentence_index": 344
+                },
+                {
+                    "sentence": "חמש דקות לאחר שהנאשם עלה במדרגות שמע נ’ צעקות, הוא חשב כי הנאשם רב עם מישהו ולכן עלה במדרגות, עד לשער הברזל שהיה סגור",
+                    "sentence_id": "3",
+                    "paragraph_index": 101,
+                    "global_sentence_index": 345
+                },
+                {
+                    "sentence": "שם ראה את הנאשם דוחף בחורה לתוך חדר",
+                    "sentence_id": "4",
+                    "paragraph_index": 101,
+                    "global_sentence_index": 346
+                },
+                {
+                    "sentence": "נ’ עמד מחוץ לשער הברזל, לאחר שהנאשם דחף את הבחורה לתוך החדר, אולם לא ראה מה קרה בתוך החדר",
+                    "sentence_id": "5",
+                    "paragraph_index": 101,
+                    "global_sentence_index": 347
+                },
+                {
+                    "sentence": "נ’  עמד מחוץ לשער וצעק בערבית \"שו בתעמל ג'וואה\", ומשמעו \"מה אתה עושה בפנים\" אך לא נענה",
+                    "sentence_id": "6",
+                    "paragraph_index": 101,
+                    "global_sentence_index": 348
+                },
+                {
+                    "sentence": "לאחר מכן הנאשם יצא, פתח את השער עם מפתח, דחף את נ’ לתוך השטח לפני הדירה, נעל את השער וברח",
+                    "sentence_id": "7",
+                    "paragraph_index": 101,
+                    "global_sentence_index": 349
+                },
+                {
+                    "sentence": "נ’ היה בהלם עד שהגיעה המשטרה",
+                    "sentence_id": "8",
+                    "paragraph_index": 101,
+                    "global_sentence_index": 350
+                },
+                {
+                    "sentence": "סיפר נ’ עוד כי, הבחורה לא סיפרה לו אז כלום, וביקשה ממנו להשאר במקום עד שתגיע המשטרה",
+                    "sentence_id": "9",
+                    "paragraph_index": 101,
+                    "global_sentence_index": 351
+                },
+                {
+                    "sentence": "לאחר שב\"כ המאשימה רענן את זכרונו מתוך ההודעה שמסר במשטרה בתאריך 17/10/06, שם אמר כי המתלוננת סיפרה לו שהנאשם אנס אותה, וכי זו לא היתה הפעם הראשונה שהוא עשה לה זאת, אישר נ’ כי כל מה שאמר במשטרה הינו אמת",
+                    "sentence_id": "10",
+                    "paragraph_index": 101,
+                    "global_sentence_index": 352
+                }
+            ]
+        },
+        {
+            "paragraph_index": 102,
+            "sentences": [
+                {
+                    "sentence": "בחקירתו הנגדית, נותר נ’ איתן בעדותו",
+                    "sentence_id": "0",
+                    "paragraph_index": 102,
+                    "global_sentence_index": 353
+                },
+                {
+                    "sentence": "הוא נשאל מדוע בהודעתו במשטרה לא הזכיר כי הוא והנאשם הקפיצו אח נוסף לט’ והשיב שלא הזכיר זאת מאחר והאח השלישי לא נכח בארוע (עמ' 31 ש' 20-21)",
+                    "sentence_id": "1",
+                    "paragraph_index": 102,
+                    "global_sentence_index": 354
+                },
+                {
+                    "sentence": "בהמשך השיב נ’ לשאלת הסניגור, כי כאשר נשאר ברכב, שמע צעקות של בחורה ואת המילים \"עזוב אותי\" (עמ' 31 ש' 24-25), נ’ אישר כי המתלוננת סיפרה לו באותו יום כי הנאשם אנס אותה 4 פעמים (עמ' 31 ש' 26)",
+                    "sentence_id": "2",
+                    "paragraph_index": 102,
+                    "global_sentence_index": 355
+                },
+                {
+                    "sentence": "נ’ הודה כי שיקר בהודעתו הראשונה במשטרה, וכי ההודעה השניה שמסר במשטרה הייתה נכונה, מאחר ופחד מאביו שאיים עליו כל הזמן, אפילו עד לאותו יום בו מסר עדות בבית המשפט (עמ' 31 ש' 27-28, עמ' 32 ש' 1-3 )",
+                    "sentence_id": "3",
+                    "paragraph_index": 102,
+                    "global_sentence_index": 356
+                },
+                {
+                    "sentence": "נ’ נשאל שוב מדוע לא סיפר במשטרה כי הנאשם הוא אחיו והשיב כי עשה זאת בשל חששו מאביו (עמ' 34 ש' 15-16), נ’ אשר כי מסר במשטרה הודעה על האיומים של אביו",
+                    "sentence_id": "4",
+                    "paragraph_index": 102,
+                    "global_sentence_index": 357
+                }
+            ]
+        },
+        {
+            "paragraph_index": 103,
+            "sentences": [
+                {
+                    "sentence": "נ’ שב והסביר כי ראה את הנאשם דוחף את המתלוננת לתוך החדר, אולם לא ראה כי הנאשם אונס אותה, מכיוון שהדלת של החדר הייתה סגורה, (עמ' 32 שורות 5 – 4)",
+                    "sentence_id": "0",
+                    "paragraph_index": 103,
+                    "global_sentence_index": 358
+                }
+            ]
+        },
+        {
+            "paragraph_index": 104,
+            "sentences": [
+                {
+                    "sentence": "נ’ אישר כי הרכב בו ישב חנה בחניה ליד הבניין (עמ' 32 שורות 11 – 9)",
+                    "sentence_id": "0",
+                    "paragraph_index": 104,
+                    "global_sentence_index": 359
+                },
+                {
+                    "sentence": "בהמשך סיפר, כי לאחר ששיקר בהודעתו הראשונה, אמרו לו במשטרה כי אם לא יגיד את האמת, יעצרו אותו, לכן מסר עדות אמת (עמ' 33 שורות 2, 3)",
+                    "sentence_id": "1",
+                    "paragraph_index": 104,
+                    "global_sentence_index": 360
+                }
+            ]
+        },
+        {
+            "paragraph_index": 105,
+            "sentences": [
+                {
+                    "sentence": "בהמשך אישר נ’, כי יחסיו עם הנאשם אינם טובים והם היו רבים הרבה (עמ' 33 ש' 20-21)",
+                    "sentence_id": "0",
+                    "paragraph_index": 105,
+                    "global_sentence_index": 361
+                },
+                {
+                    "sentence": "הוא הכחיש כי אמור היה לעלות למתלוננת לקבל שרותיה לאחר הנאשם (עמ' 32 ש' 7-8)",
+                    "sentence_id": "1",
+                    "paragraph_index": 105,
+                    "global_sentence_index": 362
+                },
+                {
+                    "sentence": "הוא נשאל שוב לגרסתו של הנאשם כאילו הגיעו יחד למתלוננת על מנת לקיים עימה יחסי מין תמורת כסף, וכי נ’ התחייב לשלם  למתלוננת והשיב:",
+                    "sentence_id": "2",
+                    "paragraph_index": 105,
+                    "global_sentence_index": 363
+                }
+            ]
+        },
+        {
+            "paragraph_index": 106,
+            "sentences": [
+                {
+                    "sentence": "\"לא נכון מה שאתה אומר",
+                    "sentence_id": "0",
+                    "paragraph_index": 106,
+                    "global_sentence_index": 364
+                },
+                {
+                    "sentence": "עד עכשיו עוד אתמול אבא שלי איים עליי שאם אני לא אגיד את הדברים האלה שאתה אומר הוא יהרוג אותי",
+                    "sentence_id": "1",
+                    "paragraph_index": 106,
+                    "global_sentence_index": 365
+                },
+                {
+                    "sentence": "אני רוצה להגיד את האמת\"",
+                    "sentence_id": "2",
+                    "paragraph_index": 106,
+                    "global_sentence_index": 366
+                },
+                {
+                    "sentence": "(עמ' 35 ש' 1-2)",
+                    "sentence_id": "3",
+                    "paragraph_index": 106,
+                    "global_sentence_index": 367
+                }
+            ]
+        },
+        {
+            "paragraph_index": 107,
+            "sentences": [
+                {
+                    "sentence": "נ’ הכחיש את טענת הנאשם לפיה שתה  אלכוהול והשתמש בסמים לפני שנסעו למתלוננת (עמ' 35 ש' 3-4)",
+                    "sentence_id": "0",
+                    "paragraph_index": 107,
+                    "global_sentence_index": 368
+                }
+            ]
+        },
+        {
+            "paragraph_index": 108,
+            "sentences": [
+                {
+                    "sentence": "גם נ’ הותיר רושם אמין ומהימן, ועדותו מקובלת עליי",
+                    "sentence_id": "0",
+                    "paragraph_index": 108,
+                    "global_sentence_index": 369
+                },
+                {
+                    "sentence": "נסיונו של הנאשם לפגום במהימנותו של נ’ ולהציגו כמשקר וכמעליל עליו, לא צלח",
+                    "sentence_id": "1",
+                    "paragraph_index": 108,
+                    "global_sentence_index": 370
+                },
+                {
+                    "sentence": "נהפוך הוא, מעדותו של נ’ ניתן להתרשם כי המדובר בבחור אשר אינו שש להפליל את אחיו הנאשם, וכי הוא כל הזמן מאויים ומפוחד מאביו, פחד זה גרם לו שלא לציין את זהותו האמיתית של אחיו, בעת שמסר הודעתו הראשונה במשטרה, פחד זה ניכר עליו גם במהלך עדותו בבית המשפט",
+                    "sentence_id": "2",
+                    "paragraph_index": 108,
+                    "global_sentence_index": 371
+                }
+            ]
+        },
+        {
+            "paragraph_index": 109,
+            "sentences": [
+                {
+                    "sentence": "מעבר לכך, הרי אם הייתה לנ’ מגמה להפליל את הנאשם, היה בנקל יכול להעיד כי ראה את הנאשם אונס את המתלוננת",
+                    "sentence_id": "0",
+                    "paragraph_index": 109,
+                    "global_sentence_index": 372
+                },
+                {
+                    "sentence": "אולם, נ’ לא עשה זאת וסיפר כי, ראה את הנאשם דוחף את המתלוננת לתוך החדר, הדגיש כי לא ראה אותו אונס את המתלוננת",
+                    "sentence_id": "1",
+                    "paragraph_index": 109,
+                    "global_sentence_index": 373
+                }
+            ]
+        },
+        {
+            "paragraph_index": 110,
+            "sentences": [
+                {
+                    "sentence": "לסיכום, גם עדותו של נ’ מהימנה עליי, עדות זו יש בה כדי לתמוך ולחזק את גרסת המתלוננת ביחס לחלק מהאירועים שהתרחשו במקרה הרביעי",
+                    "sentence_id": "0",
+                    "paragraph_index": 110,
+                    "global_sentence_index": 374
+                }
+            ]
+        },
+        {
+            "paragraph_index": 111,
+            "sentences": [
+                {
+                    "sentence": "ב",
+                    "sentence_id": "0",
+                    "paragraph_index": 111,
+                    "global_sentence_index": 375
+                },
+                {
+                    "sentence": "עדות נב’ ------:",
+                    "sentence_id": "1",
+                    "paragraph_index": 111,
+                    "global_sentence_index": 376
+                }
+            ]
+        },
+        {
+            "paragraph_index": 112,
+            "sentences": [
+                {
+                    "sentence": "עד זה הינו דודו של הנאשם, אחיה של א', אמו של הנאשם",
+                    "sentence_id": "0",
+                    "paragraph_index": 112,
+                    "global_sentence_index": 377
+                },
+                {
+                    "sentence": "הודעתו של עד זה הוגשה בהסכמה (ראה ת/10) במקום עדות ראשית",
+                    "sentence_id": "1",
+                    "paragraph_index": 112,
+                    "global_sentence_index": 378
+                }
+            ]
+        },
+        {
+            "paragraph_index": 113,
+            "sentences": [
+                {
+                    "sentence": "בהודעתו מיום 18/12/05, סיפר נב’ כי ביום 12/12/05, בשעות אחרי הצהריים, הגיע לדירתה של המתלוננת בט' לאחר שאחותו א' התקשרה לאמו של נ', והודיעה לו על מעצרו של הנאשם, בגין התלונה נגד הנאשם על כך שפגע בה",
+                    "sentence_id": "0",
+                    "paragraph_index": 113,
+                    "global_sentence_index": 379
+                },
+                {
+                    "sentence": "נב’ הגיע אל המתלוננת, אותה הכיר קודם, ואמר לה כי כואב לו מה שעשה לה הנאשם, ומצטער על כך, והוא אף בכה",
+                    "sentence_id": "1",
+                    "paragraph_index": 113,
+                    "global_sentence_index": 380
+                },
+                {
+                    "sentence": "נב’ שאל את המתלוננת על הנאשם, והמתלוננת אמרה לו כי אינה יודעת וביקשה ממנו לומר לה היכן הנאשם, כי המשטרה מחפשת אותו",
+                    "sentence_id": "2",
+                    "paragraph_index": 113,
+                    "global_sentence_index": 381
+                },
+                {
+                    "sentence": "נב’ לא רצה להתערב, אולם בסופו של דבר, הוא התלווה אליה למשטרה, ושם בכניסה לתחנת המשטרה, ראה את הנאשם, ונב’ חזר הביתה",
+                    "sentence_id": "3",
+                    "paragraph_index": 113,
+                    "global_sentence_index": 382
+                },
+                {
+                    "sentence": "בתשובה לשאלת החוקר, סיפר נב’ כי מהכאב שלו אמר למתלוננת כי צריך להרוג את הנאשם על זה שאנס אותה והתנפל עליה, אולם הוא לא התכוון ברצינות שהנאשם ייהרג",
+                    "sentence_id": "4",
+                    "paragraph_index": 113,
+                    "global_sentence_index": 383
+                },
+                {
+                    "sentence": "נב’ אישר כי הכיר את המתלוננת חצי שנה לפני האירוע",
+                    "sentence_id": "5",
+                    "paragraph_index": 113,
+                    "global_sentence_index": 384
+                },
+                {
+                    "sentence": "בהמשך אישר נב’ כי הוא הביא למתלוננת שוקר חשמלי לאחר שסיפרה לו כי מישהו התנפל עליה, הרביץ לה ואנס אותה, וזאת כדי שתגן על עצמה אם יתקפו אותה",
+                    "sentence_id": "6",
+                    "paragraph_index": 113,
+                    "global_sentence_index": 385
+                },
+                {
+                    "sentence": "הוא תיאר את מצבה כאשר סיפרה לו שלא הרגישה טוב והייתה עצבנית",
+                    "sentence_id": "7",
+                    "paragraph_index": 113,
+                    "global_sentence_index": 386
+                }
+            ]
+        },
+        {
+            "paragraph_index": 114,
+            "sentences": [
+                {
+                    "sentence": "בחקירתו הנגדית, אישר נב’ את מה שסיפר במשטרה, והוסיף כי היה לקוח של המתלוננת שעסקה בזנות, והגיע אליה בעבר מספר פעמים",
+                    "sentence_id": "0",
+                    "paragraph_index": 114,
+                    "global_sentence_index": 387
+                }
+            ]
+        },
+        {
+            "paragraph_index": 115,
+            "sentences": [
+                {
+                    "sentence": "גם עדותו של נב’ נראית לי מהימנה, והותיר עליי רושם חיובי",
+                    "sentence_id": "0",
+                    "paragraph_index": 115,
+                    "global_sentence_index": 388
+                },
+                {
+                    "sentence": "המדובר בדודו של הנאשם אשר סיפר מה שידוע לו אודות התרחשות האירועים",
+                    "sentence_id": "1",
+                    "paragraph_index": 115,
+                    "global_sentence_index": 389
+                },
+                {
+                    "sentence": "עדותו מתיישבת עם גרסת המתלוננת, אשר סיפרה כי נב’ קנה לה שוקר חשמלי, וכי הגיע אליה הביתה בתאריך 12/12/05, ופרץ בבכי וביקש סליחה מהמתלוננת על מה שעשה לה הנאשם (עמ' 17), והוא אף התלווה אליה למשטרה",
+                    "sentence_id": "2",
+                    "paragraph_index": 115,
+                    "global_sentence_index": 390
+                }
+            ]
+        },
+        {
+            "paragraph_index": 116,
+            "sentences": [
+                {
+                    "sentence": "ג",
+                    "sentence_id": "0",
+                    "paragraph_index": 116,
+                    "global_sentence_index": 391
+                },
+                {
+                    "sentence": "מזכר רנ\"ג פרג' אבו שקארה:",
+                    "sentence_id": "1",
+                    "paragraph_index": 116,
+                    "global_sentence_index": 392
+                }
+            ]
+        },
+        {
+            "paragraph_index": 117,
+            "sentences": [
+                {
+                    "sentence": "המדובר במזכר שערך רנ\"ג אבו שקארה, והוגש בהסכמת הסניגור (ראה ת/8), בו נאמר, כי ביום 12/12/05, שהינו יום מעצרו של הנאשם, כאשר רנ\"ג אבו שקארה היה ביומן, הגיעו אליו לתחנה נב’ אלמקייס והמתלוננת",
+                    "sentence_id": "0",
+                    "paragraph_index": 117,
+                    "global_sentence_index": 393
+                },
+                {
+                    "sentence": "נב’ טען בפני השוטר כי הוא דודו של הנאשם ורוצה לברר מה איתו ולעזור כדי להביאו למשטרה",
+                    "sentence_id": "1",
+                    "paragraph_index": 117,
+                    "global_sentence_index": 394
+                },
+                {
+                    "sentence": "באותו שלב, הגיע שוטר אחר בשם ח'אלד ועימו היה הנאשם, פתאום הצביעה המתלוננת על הנאשם באופן ספונטאני ואמרה לנב’ \"הנה אמיר זרגרי\"",
+                    "sentence_id": "2",
+                    "paragraph_index": 117,
+                    "global_sentence_index": 395
+                },
+                {
+                    "sentence": "הנאשם ביקש לדבר עם דודו נב’, אולם השוטר אבו שקארה מנע זאת וביקש מנב’ לעזוב את התחנה",
+                    "sentence_id": "3",
+                    "paragraph_index": 117,
+                    "global_sentence_index": 396
+                },
+                {
+                    "sentence": "לאחר מכן השוטר אבו שקארה שאל את המתלוננת מדוע היא באה לתחנת המשטרה עם הדוד, והיא השיבה כי הוא בא להתנצל בשם המשפחה",
+                    "sentence_id": "4",
+                    "paragraph_index": 117,
+                    "global_sentence_index": 397
+                },
+                {
+                    "sentence": "השוטר שאל אותה אם הדוד איים עליה או הדיחה לחזור בה מעדותה, והמתלוננת השיבה בשלילה, וטענה בפניו כי הדוד בא רק לבקש סליחה בשם המשפחה בגלל הבושה שעשה הנאשם למשפחה",
+                    "sentence_id": "5",
+                    "paragraph_index": 117,
+                    "global_sentence_index": 398
+                }
+            ]
+        },
+        {
+            "paragraph_index": 118,
+            "sentences": [
+                {
+                    "sentence": "עדות זו מתיישבת ועולה בקנה אחד עם עדות המתלוננת, אשר כאמור סיפרה כי כאשר הגיעה לתחנת המשטרה בתאריך 12/12/05 יחד עם נב’, ראתה את הנאשם שהיה עצור וזיהתה אותו (עמ' 17 שורות 25 – 24)",
+                    "sentence_id": "0",
+                    "paragraph_index": 118,
+                    "global_sentence_index": 399
+                }
+            ]
+        },
+        {
+            "paragraph_index": 119,
+            "sentences": [
+                {
+                    "sentence": "9.\tראיות ההגנה – הנאשם:",
+                    "sentence_id": "0",
+                    "paragraph_index": 119,
+                    "global_sentence_index": 400
+                }
+            ]
+        },
+        {
+            "paragraph_index": 120,
+            "sentences": [
+                {
+                    "sentence": "הנאשם מסר מספר הודעות במשטרה, להלן אתייחס להודעות אלה באופן כרונולוגי",
+                    "sentence_id": "0",
+                    "paragraph_index": 120,
+                    "global_sentence_index": 401
+                }
+            ]
+        },
+        {
+            "paragraph_index": 121,
+            "sentences": [
+                {
+                    "sentence": "בהודעתו הראשונה מיום 12/12/05 (ראה ת/3), יוחסו לנאשם ביצוע העבירות אשר באישומים השלישי והרביעי, הנאשם הרחיק עצמו כליל מאירועים אלה וטען כי, אינו מכיר כלל וכלל את המתלוננת",
+                    "sentence_id": "0",
+                    "paragraph_index": 121,
+                    "global_sentence_index": 402
+                }
+            ]
+        },
+        {
+            "paragraph_index": 122,
+            "sentences": [
+                {
+                    "sentence": "הנאשם נשאל מתי הגיע לט’ בפעם האחרונה והשיב \"לפני שלושה חודשים משהו כזה בחודש אולי אוגוסט או ספטמבר, ומאז לא הייתי בט’ ולא הגעתי לט’ בכלל\", (עמ' 2 שורות 9-10)",
+                    "sentence_id": "0",
+                    "paragraph_index": 122,
+                    "global_sentence_index": 403
+                },
+                {
+                    "sentence": "הנאשם עוד נשאל, האם לפני חודשיים בערך בתאריך 17/10/05, שהינו מועד ביצוע העבירות אשר באישום הרביעי,  היה יחד עם אחיו נ’ בט’, השיב: \"ת",
+                    "sentence_id": "1",
+                    "paragraph_index": 122,
+                    "global_sentence_index": 404
+                },
+                {
+                    "sentence": "לא זוכר\"",
+                    "sentence_id": "2",
+                    "paragraph_index": 122,
+                    "global_sentence_index": 405
+                },
+                {
+                    "sentence": "הנאשם נשאל עוד ע\"י החוקר, \"ש",
+                    "sentence_id": "3",
+                    "paragraph_index": 122,
+                    "global_sentence_index": 406
+                },
+                {
+                    "sentence": "איך אתה זוכר שהיית בחודש אוגוסט וספטמבר בט’ ולא זכור לך אם היית בט’ בתאריך 17/10/05? ת",
+                    "sentence_id": "4",
+                    "paragraph_index": 122,
+                    "global_sentence_index": 407
+                },
+                {
+                    "sentence": "לא הייתי בט’ אולי הייתי בצבא ואיזה יום זה היה",
+                    "sentence_id": "5",
+                    "paragraph_index": 122,
+                    "global_sentence_index": 408
+                },
+                {
+                    "sentence": "\" בעקבות תשובה זו, נשאל עוד, \"ש",
+                    "sentence_id": "6",
+                    "paragraph_index": 122,
+                    "global_sentence_index": 409
+                },
+                {
+                    "sentence": "אני אומר לך שזה היה יום שני התאריך 17/10/05? ת",
+                    "sentence_id": "7",
+                    "paragraph_index": 122,
+                    "global_sentence_index": 410
+                },
+                {
+                    "sentence": "הייתי בצבא ואתם יכולים לבדוק כי אני יוצא רק חמשושים הביתה זאת אומרת חמישי שישי שבת וחוזר ימי ראשון\"",
+                    "sentence_id": "8",
+                    "paragraph_index": 122,
+                    "global_sentence_index": 411
+                }
+            ]
+        },
+        {
+            "paragraph_index": 123,
+            "sentences": [
+                {
+                    "sentence": "בהודעתו השניה מיום 15/12/05 (ראה ת/4), יוחסו לנאשם החשדות לביצוע כל העבירות אשר בכתב האישום, והוא השיב: \"אני מבין על מה אתה חוקר אותי וברצוני להגיד לך שזה לא נכון, ואני אסביר לך מה היה אני יצאתי חמשוש מהצבא לא זוכר מתי זה היה רציתי להתפרק ואז אחי נ’ אמר לי בו נלך לט’ יש שם נערת ליווי נתפרק ונחזור וכול השיחה הזאת הייתה בטובא בסביבות השעה 23:00 בלילה ואז באנו לט’ באוט (כך במקור) סוזוקי כחולה של חבר אושרי ניטאב מראש פינה",
+                    "sentence_id": "0",
+                    "paragraph_index": 123,
+                    "global_sentence_index": 412
+                },
+                {
+                    "sentence": "הגענו לט’ אחרי 40 דקות לערך הגענו ליד המאפיות בט’ באזור העיר עלינו לשם יש דלת מסורגים צלצלנו  פתחה את הדלת שאלה מי זה שאלתי אם היא עובדת והיא אמרה שכן נכנסנו פנימה שאלה אותנו מאיפה אנחנו אמרנו מטובא שאלתי כמה היו לוקחת כסף ואמרה לי 150 ₪ אח שלי אמר לי תיכנס נכנסתי נתתי לה 150 ₪ התחלתי להתפשט התחילה להתפשט הוציאה קונדום מהארונית שלה ושמה לי את הקונדום שכבנו סיימנו קמתי להתקלח התלבשתי ויצאתי ובזמן הזה אחי היה בחוץ וכשיצאתי הוא נכנס אני אמרתי לו שאני מחכה באוטו חיכיתי חצי שעה שעה צפצפתי ברכב לא עונה ואז התנעתי את האוטו ונסעתי הביתה והשארתי אותו שם וזה כול מה שהיה ואפילו אני זוכר שאמרה לי איזה חמוד אתה עכשיו היא באה ואומרת שאני אונס אותה\" (עמ' 1,2)",
+                    "sentence_id": "1",
+                    "paragraph_index": 123,
+                    "global_sentence_index": 413
+                }
+            ]
+        },
+        {
+            "paragraph_index": 124,
+            "sentences": [
+                {
+                    "sentence": "בהמשך נשאל הנאשם, אם היה אצל המתלוננת מלבד הפעם הזו, הנאשם השיב כי זו הפעם היחידה בה היה אצל המתלוננת",
+                    "sentence_id": "0",
+                    "paragraph_index": 124,
+                    "global_sentence_index": 414
+                }
+            ]
+        },
+        {
+            "paragraph_index": 125,
+            "sentences": [
+                {
+                    "sentence": "בהמשך נשאל, מדוע לא סיפר בהודעתו הראשונה על ביקורו הנ\"ל אצל המתלוננת, והנאשם השיב, כי הוא פחד מהשוטרים וכי זו פעם ראשונה שהוא נמצא במשטרה (עמ' 2 שורה 26)",
+                    "sentence_id": "0",
+                    "paragraph_index": 125,
+                    "global_sentence_index": 415
+                },
+                {
+                    "sentence": "בהמשך, שוב ניתק הנאשם את עצמו מביצוע כל האישומים, ואישר כי אין לו כל סכסוך עם אחיו נ’ (שורות 55 – 56)",
+                    "sentence_id": "1",
+                    "paragraph_index": 125,
+                    "global_sentence_index": 416
+                }
+            ]
+        },
+        {
+            "paragraph_index": 126,
+            "sentences": [
+                {
+                    "sentence": "בהודעתו השלישית מיום 17/12/05 (ראה ת/6), ביקש הנאשם למסור את כל האמת, והוא חזר פחות או יותר על הסיפור אשר מסר בהודעותיו הקודמות לעניין ביקורו אצל המתלוננת, בשינוי אחד כי הוא לא נתן למתלוננת סכום של 150 ₪",
+                    "sentence_id": "0",
+                    "paragraph_index": 126,
+                    "global_sentence_index": 417
+                },
+                {
+                    "sentence": "לשיטתו, בגלל אי תשלום סכום זה, התלוננה המתלוננת נגדו במשטרה",
+                    "sentence_id": "1",
+                    "paragraph_index": 126,
+                    "global_sentence_index": 418
+                }
+            ]
+        },
+        {
+            "paragraph_index": 127,
+            "sentences": [
+                {
+                    "sentence": "בהמשך נשאל אודות יחסיו עם אחיו נ’, והפעם טען כי הם ביחסים לא טובים, ואחיו נ’ שונא אותו (עמ' 2 שורה 23)",
+                    "sentence_id": "0",
+                    "paragraph_index": 127,
+                    "global_sentence_index": 419
+                }
+            ]
+        },
+        {
+            "paragraph_index": 128,
+            "sentences": [
+                {
+                    "sentence": "הנאשם נשאל כיצד הוא מסביר כי, למרות היחסים הרעים עם אחיו הם יצאו לבלות יחד, והוא השיב: \"לפני שיצאנו הוא ביקש ממני שאני יקפיץ אותו לראש פינה, הקפצתי אותו לראש פינה הוא קנה בקבוק אבסולוט ורד בול וכוסות ואז אחרי שהתחלנו לנסוע הוא שאל אותי אם בא לי לזיין שנלך לוויקטוריה, אז אמרתי לו שאין לי כסף לזה והוא אמר לי אל תדאג לזה בוא ניסע, ואז נסענו לט’\"",
+                    "sentence_id": "0",
+                    "paragraph_index": 128,
+                    "global_sentence_index": 420
+                }
+            ]
+        },
+        {
+            "paragraph_index": 129,
+            "sentences": [
+                {
+                    "sentence": "הנאשם הוסיף בסוף ההודעה כי, אם היה משלם למתלוננת את שכרה, היא לא הייתה מתלוננת",
+                    "sentence_id": "0",
+                    "paragraph_index": 129,
+                    "global_sentence_index": 421
+                }
+            ]
+        },
+        {
+            "paragraph_index": 130,
+            "sentences": [
+                {
+                    "sentence": "בחקירתו הראשית בבית המשפט, סיפר הנאשם כי ביום 17.10.06 יצא לאפטר מבסיס התותחנים בו שרת, הגיע לבית שכור בראש פינה ולאחר מכן נסע לכפר טובא זנגריה לאביו",
+                    "sentence_id": "0",
+                    "paragraph_index": 130,
+                    "global_sentence_index": 422
+                },
+                {
+                    "sentence": "לאחר כחצי שעה, אחיו נ’ ביקש ממנו להקפיץ אותו לראש פינה, והוא הסכים",
+                    "sentence_id": "1",
+                    "paragraph_index": 130,
+                    "global_sentence_index": 423
+                },
+                {
+                    "sentence": "כשהגיעו לראש פינה שאל אותו אחיו אם הוא רוצה ללכת לבלות",
+                    "sentence_id": "2",
+                    "paragraph_index": 130,
+                    "global_sentence_index": 424
+                },
+                {
+                    "sentence": "הנאשם טען כי לא היה אצל המתלוננת בחודש אפריל שנת 2005 - מועד ביצוע העבירות באישום הראשון – והוסיף כי, היה אצלה בחודש אוקטובר שנת 2005, ושלל כי היה אצלה בשלושת התאריכים המפורטים בשלושת האישומים הראשונים",
+                    "sentence_id": "3",
+                    "paragraph_index": 130,
+                    "global_sentence_index": 425
+                },
+                {
+                    "sentence": "הוסיף כי הם הגיעו לבית המתלוננת, צלצלו בפעמון והמתלוננת שאלה מי זה",
+                    "sentence_id": "4",
+                    "paragraph_index": 130,
+                    "global_sentence_index": 426
+                },
+                {
+                    "sentence": "נ’ אמר את שמו והיא שאלה לשלומו, כאילו הם מכירים",
+                    "sentence_id": "5",
+                    "paragraph_index": 130,
+                    "global_sentence_index": 427
+                },
+                {
+                    "sentence": "היא פתחה את שער הסורגים",
+                    "sentence_id": "6",
+                    "paragraph_index": 130,
+                    "global_sentence_index": 428
+                },
+                {
+                    "sentence": "הנאשם שאל אותה אם היא עובדת ואמרה שכן",
+                    "sentence_id": "7",
+                    "paragraph_index": 130,
+                    "global_sentence_index": 429
+                },
+                {
+                    "sentence": "הוא שאל כמה היא לוקחת והמתלוננת אמרה 150 ₪",
+                    "sentence_id": "8",
+                    "paragraph_index": 130,
+                    "global_sentence_index": 430
+                },
+                {
+                    "sentence": "הנאשם אמר שאין לו כסף ואחיו ישלם עליו, לכך הסכימה המתלוננת",
+                    "sentence_id": "9",
+                    "paragraph_index": 130,
+                    "global_sentence_index": 431
+                },
+                {
+                    "sentence": "הוא נכנס לחדר, המתלוננת אמרה לו להתפשט וכך עשה",
+                    "sentence_id": "10",
+                    "paragraph_index": 130,
+                    "global_sentence_index": 432
+                },
+                {
+                    "sentence": "הנאשם התקרב למיטה, המתלוננת שמה לו קונדום והם שכבו",
+                    "sentence_id": "11",
+                    "paragraph_index": 130,
+                    "global_sentence_index": 433
+                },
+                {
+                    "sentence": "במהלך זמן זה אחיו של הנאשם היה מחוץ לבניין",
+                    "sentence_id": "12",
+                    "paragraph_index": 130,
+                    "global_sentence_index": 434
+                },
+                {
+                    "sentence": "הנאשם קיים יחסי מין עם המתלוננת במשך כ- 7 דקות",
+                    "sentence_id": "13",
+                    "paragraph_index": 130,
+                    "global_sentence_index": 435
+                },
+                {
+                    "sentence": "לאחר מכן שאלה אותו אם הוא רוצה להתרחץ והוא השיב שכן",
+                    "sentence_id": "14",
+                    "paragraph_index": 130,
+                    "global_sentence_index": 436
+                },
+                {
+                    "sentence": "המתלוננת הביאה לו מגבת, הוא התרחץ, התלבש ויצא",
+                    "sentence_id": "15",
+                    "paragraph_index": 130,
+                    "global_sentence_index": 437
+                },
+                {
+                    "sentence": "אחיו שאל אותו אם הוא מבסוט והנאשם השיב שכן ואמר לו שהוא ממתין לו ברכב",
+                    "sentence_id": "16",
+                    "paragraph_index": 130,
+                    "global_sentence_index": 438
+                },
+                {
+                    "sentence": "הנאשם לא ידע לומר באיזו שעה היה הדבר וציין כי \"גם אם אתה שואל אותי אם זה היה בחצות אני לא יודע \" (עמ' 40 ש' 12)",
+                    "sentence_id": "17",
+                    "paragraph_index": 130,
+                    "global_sentence_index": 439
+                },
+                {
+                    "sentence": "הנאשם חיכה ברכב כשעה-שעה וחצי",
+                    "sentence_id": "18",
+                    "paragraph_index": 130,
+                    "global_sentence_index": 440
+                },
+                {
+                    "sentence": "אחיו לא יצא והוא צפצף לו וגם לכך האח לא ענה",
+                    "sentence_id": "19",
+                    "paragraph_index": 130,
+                    "global_sentence_index": 441
+                },
+                {
+                    "sentence": "הנאשם יצא מהרכב, עלה למעלה ומצא את הדלת נעולה, לאחר מכן ירד וצעק את שמו של אחיו אך אף אחד לא ענה",
+                    "sentence_id": "20",
+                    "paragraph_index": 130,
+                    "global_sentence_index": 442
+                },
+                {
+                    "sentence": "בעקבות זאת, נכנס הנאשם לרכב, עשה סיבוב וחזר למקום",
+                    "sentence_id": "21",
+                    "paragraph_index": 130,
+                    "global_sentence_index": 443
+                },
+                {
+                    "sentence": "בהמשך, הנאשם צפצף שוב וראה את המתלוננת עומדת בחלון ומדברת בטלפון",
+                    "sentence_id": "22",
+                    "paragraph_index": 130,
+                    "global_sentence_index": 444
+                },
+                {
+                    "sentence": "הוא צעק לה בשאלה היכן אחיו והיא לא ענתה ונכנסה פנימה",
+                    "sentence_id": "23",
+                    "paragraph_index": 130,
+                    "global_sentence_index": 445
+                },
+                {
+                    "sentence": "הנאשם לקח את הרכב ונסע לצומת",
+                    "sentence_id": "24",
+                    "paragraph_index": 130,
+                    "global_sentence_index": 446
+                },
+                {
+                    "sentence": "הנאשם תיאר את יחסיו עם אחיו באותה תקופה כיבשים",
+                    "sentence_id": "25",
+                    "paragraph_index": 130,
+                    "global_sentence_index": 447
+                },
+                {
+                    "sentence": "לשאלת בית המשפט אשר ליחסים ביניהם כיום השיב: \"אנחנו כאילו בסכסוך בגלל אבא ובגלל שאימא שלי יהודייה ואבי מוסלמי\" (עמ' 40 ש' 18-19)",
+                    "sentence_id": "26",
+                    "paragraph_index": 130,
+                    "global_sentence_index": 448
+                }
+            ]
+        },
+        {
+            "paragraph_index": 131,
+            "sentences": [
+                {
+                    "sentence": "בחקירה נגדית עומת הנאשם עם הודעותיו במשטרה כפי שפירטתי לעיל, הנאשם טען כי מה שמסר בבית המשפט זו האמת, ואת מה שמסר בהודעתו הראשונה ת/3 שלא מכיר מי זאת ויקטוריה, ולא זוכר מה אכל אתמול, והכחיש שהיה בט’, זה היה שקר",
+                    "sentence_id": "0",
+                    "paragraph_index": 131,
+                    "global_sentence_index": 449
+                },
+                {
+                    "sentence": "הנאשם הסביר כי היה בהלם מהמכות של השוטרים, וכי זו פעם ראשונה שנעצר בתחנת המשטרה (עמ' 41 שורה 7)",
+                    "sentence_id": "1",
+                    "paragraph_index": 131,
+                    "global_sentence_index": 450
+                },
+                {
+                    "sentence": "בהמשך אישר כי בהודעתו השניה ת/4, הוא לא מסר את האמת (עמ' 41 שורות 14, 15), וחזר על גרסתו שמסר בבית המשפט, כי ביום 17/10/05 הוא לא שילם למתלוננת 150 ₪",
+                    "sentence_id": "2",
+                    "paragraph_index": 131,
+                    "global_sentence_index": 451
+                },
+                {
+                    "sentence": "לשאלת ב\"כ המאשימה אם בהודעה הראשונה במשטרה לא סיפר את האמת כי היה מפוחד, אז מדוע לא סיפר את האמת בהודעה השניה, והנאשם השיב, כי היה עדיין מפוחד (עמ' 41 שורה 25)",
+                    "sentence_id": "3",
+                    "paragraph_index": 131,
+                    "global_sentence_index": 452
+                }
+            ]
+        },
+        {
+            "paragraph_index": 132,
+            "sentences": [
+                {
+                    "sentence": "בהמשך נשאל הנאשם אודות שיחתו עם החוקר רג'א סרחאן ביום 15/12/05, לפני שגבה ממנו את הודעתו השניה (ת/4), שם שאל את החוקר שאם יכנס לבית הכלא הוא יוכל להתחתן, והנאשם השיב כי אינו זוכר שיחה זו (עמ' 42 שורות 3 – 1)",
+                    "sentence_id": "0",
+                    "paragraph_index": 132,
+                    "global_sentence_index": 453
+                },
+                {
+                    "sentence": "בהמשך טען הנאשם, כי גם בהודעתו השלישית (ת/6) הוא לא סיפר את האמת, ואף לא זכר מה אמר (עמ' 42 שורות 16 – 12)",
+                    "sentence_id": "1",
+                    "paragraph_index": 132,
+                    "global_sentence_index": 454
+                }
+            ]
+        },
+        {
+            "paragraph_index": 133,
+            "sentences": [
+                {
+                    "sentence": "בהמשך ועל מנת להסביר טענתו כי אחיו נ’ \"הפליל\" אותו באישום הרביעי, טען הנאשם כי אחיו שונא אותו, וכי מהיום הראשון כאשר הגיע לכפר, אחיו שונא אותו (עמ' 43 שורה 12), ואף לשאלת בית המשפט, אישר כי אחיו נ’ העליל עליו (עמ' 43 שורות 14, 15)",
+                    "sentence_id": "0",
+                    "paragraph_index": 133,
+                    "global_sentence_index": 455
+                }
+            ]
+        },
+        {
+            "paragraph_index": 134,
+            "sentences": [
+                {
+                    "sentence": "הנאשם הוסיף כי, לאחר שסיים את המגע המיני עם המתלוננת באישום הרביעי, היא הורידה לו את הקונדום וזרקה אותו לפח (עמ' 43 שורות 26, 27)",
+                    "sentence_id": "0",
+                    "paragraph_index": 134,
+                    "global_sentence_index": 456
+                },
+                {
+                    "sentence": "גרסה זו סותרת את דבריו של רס\"ר פארס מטר שנרשמו בדו\"ח פעולה נ/2 עמ' 2), בו נאמר, כי כאשר הגיע לחדרה של המתלוננת, הצביעה המתלוננת על הקונדום שהשתמש בו הנאשם שהיה זרוק על הרצפה",
+                    "sentence_id": "1",
+                    "paragraph_index": 134,
+                    "global_sentence_index": 457
+                },
+                {
+                    "sentence": "על אף שהנאשם עומת עם הרשום בדו\"ח הפעולה נ/2, לא נתן כל הסבר לעובדה שמצאו את הקונדום על הרצפה, וחזר על גרסתו כי הקונדום היה בפח (עמ' 44 שורות 3 – 1, שורות 8 – 7)",
+                    "sentence_id": "2",
+                    "paragraph_index": 134,
+                    "global_sentence_index": 458
+                }
+            ]
+        },
+        {
+            "paragraph_index": 135,
+            "sentences": [
+                {
+                    "sentence": "במהלך חקירתו הנגדית, עומת הנאשם עם פרטים מוכמנים אודותם מסרה המתלוננת כבר בהודעתה הראשונה מיום 14/06/05 (ראה ת/2), עוד טרם ידעה את זהותו של הנאשם, שם סיפרה כי באירוע השני, בשל פחדה, היא ניסתה לדבר לליבו של הנאשם, ובמהלך אותה שיחה, מסר לה הנאשם פרטים מוכמנים אותה לא יכלה לדעת אלא מפיו של הנאשם",
+                    "sentence_id": "0",
+                    "paragraph_index": 135,
+                    "global_sentence_index": 459
+                },
+                {
+                    "sentence": "למשל, כי אמו הייתה מאושפזת לעיתים בבית החולים פסיכיאטרי, וכי הוא עבד במפעל לגופי חירום בחצור (ראה הודעתה ת/2 בעמ' 4 שורות 86 ואילך)",
+                    "sentence_id": "1",
+                    "paragraph_index": 135,
+                    "global_sentence_index": 460
+                },
+                {
+                    "sentence": "הנאשם בדבריו ותוך נסיון להרחיק את עצמו, טען כי לא סיפר לה אודות פרטים אלה",
+                    "sentence_id": "2",
+                    "paragraph_index": 135,
+                    "global_sentence_index": 461
+                },
+                {
+                    "sentence": "אולם, בהודעותיו במשטרה דווקא אישר נכונות העובדות הנ\"ל (ראה ת/6 עמ' 2 שורות 42 – 41, עמ' 2, 3 שורות 46 – 44, וכן ת/7)",
+                    "sentence_id": "3",
+                    "paragraph_index": 135,
+                    "global_sentence_index": 462
+                },
+                {
+                    "sentence": "בהמשך הסביר הנאשם כי, אחיו נ’ הפליל אותו בגלל שהיה תחת השפעה של סמים ואלכוהול, וכי הוא שונא אותו",
+                    "sentence_id": "4",
+                    "paragraph_index": 135,
+                    "global_sentence_index": 463
+                },
+                {
+                    "sentence": "אולם, בהמשך הופנתה תשומת לב הנאשם לכך כי, אחיו נ’ אשר לטענתו היה תחת השפעה של סמים, בזמן שמסר את הודעתו הראשונה, דווקא בהודעה זו נ’ סירב למסור למשטרה את שמו של הנאשם",
+                    "sentence_id": "5",
+                    "paragraph_index": 135,
+                    "global_sentence_index": 464
+                },
+                {
+                    "sentence": "לנאשם לא הייתה כל תגובה לכך (עמ' 47 שורות 13 – 9)",
+                    "sentence_id": "6",
+                    "paragraph_index": 135,
+                    "global_sentence_index": 465
+                },
+                {
+                    "sentence": "בתשובה לטענת הנאשם, כי באירוע הרביעי הוא המתין לאחיו נ’ שעה וחצי, הופנתה תשומת לב הנאשם לכך כי בדו\"ח רס\"ר פארס מטר (נ/2) נאמר כי המשטרה הייתה בחדר המתלוננת ביום האירוע בשעה 20:05, ולא מצאה אותו ליד הבניין בו מצוי חדרה של המתלוננת, אולם, הנאשם עמד על גרסתו כי הוא היה שם (עמ' 48 ש' 9 – 7)",
+                    "sentence_id": "7",
+                    "paragraph_index": 135,
+                    "global_sentence_index": 466
+                }
+            ]
+        },
+        {
+            "paragraph_index": 136,
+            "sentences": [
+                {
+                    "sentence": "מהתרשמותי הישירה והבלתי אמצעית מהנאשם שלפנינו עולה כי, נאשם זה הותיר עליי רושם שלילי, בלתי מהימן, ולכן אינני מקבל את גרסאותיו השונות, המופרכות על פניהן",
+                    "sentence_id": "0",
+                    "paragraph_index": 136,
+                    "global_sentence_index": 467
+                },
+                {
+                    "sentence": "מסקירת גרסאותיו השונות עולה, כי הנאשם תחילה הרחיק את עצמו לחלוטין מהאירועים הנטענים, וטען כי אינו מכיר את המתלוננת כלל וכלל (ראה ת/3)",
+                    "sentence_id": "1",
+                    "paragraph_index": 136,
+                    "global_sentence_index": 468
+                },
+                {
+                    "sentence": "הנאשם בעדותו בפנינו, הודה כי מסר במשטרה גרסה שיקרית, הוא תרץ זאת בכך שהיה בהלם מכיוון שזה מעצרו הראשון (עמ' 41 שורות 7 – 1)",
+                    "sentence_id": "2",
+                    "paragraph_index": 136,
+                    "global_sentence_index": 469
+                },
+                {
+                    "sentence": "אולם, כעבור מספר ימים, מסר הנאשם גרסה שניה, בה טען כי הוא אכן ביקר אצל המתלוננת פעם אחת בלבד ביום 17/10/05, אז קיים עמה יחסי מין בהסכמה ותמורת תשלום של 150 ₪ (ראה ת/4)",
+                    "sentence_id": "3",
+                    "paragraph_index": 136,
+                    "global_sentence_index": 470
+                },
+                {
+                    "sentence": "אף באשר לגרסה זו טען הנאשם בבית המשפט, כי הוא מסר גרסה שיקרית מכיוון שהוא היה \"עדיין מפוחד\" מהשוטרים אשר היכו אותו ביום מעצרו (עמ' 41 שורות 25 – 22)",
+                    "sentence_id": "4",
+                    "paragraph_index": 136,
+                    "global_sentence_index": 471
+                },
+                {
+                    "sentence": "והנה בגרסתו השלישית במשטרה טען, כי ביום 17/10/05 קיים יחסי מין עם המתלוננת בהסכמה, אולם התלונה באה בשל העובדה כי הוא לא שילם למתלוננת את הסכום של 150 ₪   (ת/6)",
+                    "sentence_id": "5",
+                    "paragraph_index": 136,
+                    "global_sentence_index": 472
+                },
+                {
+                    "sentence": "אף לגרסה זו טען הנאשם בעדותו בבית המשפט, כי גרסה זו הייתה שיקרית (עמ' 42 שורות 18 – 6)",
+                    "sentence_id": "6",
+                    "paragraph_index": 136,
+                    "global_sentence_index": 473
+                },
+                {
+                    "sentence": "גרסתו הרביעית של הנאשם, אותה מסר בעדותו מעל דוכן העדים בה טען, כי ביום 17/10/05 ביקר לראשונה אצל המתלוננת ביחד עם אחיו החורג נ’, קיים עם המתלוננת יחסי מין בהסכמה, וזאת לאחר שהודיע למתלוננת מראש כי אין לו כסף, וכי אחיו נ’ ישלם עבורו את הסכום של 150 ₪, והמתלוננת הסכימה לכך",
+                    "sentence_id": "7",
+                    "paragraph_index": 136,
+                    "global_sentence_index": 474
+                },
+                {
+                    "sentence": "הנאשם מסר עוד כי, לאחר שיצא מחדרה של המתלוננת, נכנס אחיו נ’ והוא המתין לו ברכב",
+                    "sentence_id": "8",
+                    "paragraph_index": 136,
+                    "global_sentence_index": 475
+                },
+                {
+                    "sentence": "אולם, משאיחר נ’ להגיע, עלה הנאשם שוב למעלה אחרי שעה, או שעה וחצי ומצא את דלת חדרה של המתלוננת נעולה",
+                    "sentence_id": "9",
+                    "paragraph_index": 136,
+                    "global_sentence_index": 476
+                },
+                {
+                    "sentence": "הנאשם ירד וקרא לאחיו, אולם, איש לא ענה",
+                    "sentence_id": "10",
+                    "paragraph_index": 136,
+                    "global_sentence_index": 477
+                },
+                {
+                    "sentence": "סיפר עוד, כי נכנס לרכב, עשה סיבוב, חזר למקום, צפר וראה את המתלוננת עומדת ליד החלון ומדברת בטלפון",
+                    "sentence_id": "11",
+                    "paragraph_index": 136,
+                    "global_sentence_index": 478
+                },
+                {
+                    "sentence": "הנאשם צעק לעברה \"איפה אחי\", אך המתלוננת לא השיבה ונכנסה, והנאשם נסע מהמקום (עמ' 40 שורות 17 – 3)",
+                    "sentence_id": "12",
+                    "paragraph_index": 136,
+                    "global_sentence_index": 479
+                },
+                {
+                    "sentence": "זאת ועוד, הנאשם הכריז במהלך עדותו בבית המשפט, כי הגרסה שמסר בבית המשפט היא \"הגרסה האמיתית והסופית, ואין לו יותר גרסאות\" (עמ' 40 שורה 28), נשאלת השאלה, אם הגרסה שמסר בבית המשפט היא גרסה אמיתית, מדוע לא מצא לנכון למסור גרסה זו מייד לאחר מעצרו, או בסמוך לאחר מעצרו, כאשר מסר את גרסתו השניה או גרסתו השלישית, בפרט כאשר על פי גרסת המתלוננת בפני רס\"ר מטר פארס, כל האירוע מתחילתו ועד הגעת המשטרה לזירה ארך רק כחצי שעה (ראה נ/2)",
+                    "sentence_id": "13",
+                    "paragraph_index": 136,
+                    "global_sentence_index": 480
+                },
+                {
+                    "sentence": "גם גרסתו של הנאשם לפיה הוא המתין לאחיו שעה, או שעה וחצי, אינה אפשרית ובלתי מתקבלת על הדעת",
+                    "sentence_id": "14",
+                    "paragraph_index": 136,
+                    "global_sentence_index": 481
+                },
+                {
+                    "sentence": "הרי אם באמת הוא המתין לאחיו כשעה, שעה וחצי ברכב למטה, ניתן להניח כי המשטרה, אשר הגיעה לזירה כעבור חצי שעה מהאירוע, תתקל בנאשם, דבר אשר אין לו כל זכר בדו\"ח של רס\"ר מטר (נ/2)",
+                    "sentence_id": "15",
+                    "paragraph_index": 136,
+                    "global_sentence_index": 482
+                },
+                {
+                    "sentence": "הנאשם נשאל אודות הגעת המשטרה לזירה בחלוף כחצי שעה מהאירוע, הוא לא נתן הסבר של ממש (עמ' 48 שורות 10 – 1)",
+                    "sentence_id": "16",
+                    "paragraph_index": 136,
+                    "global_sentence_index": 483
+                },
+                {
+                    "sentence": "הנאשם גם לא ידע ליתן כל הסבר להסתבכותו בתיק דנן, אם כגרסתו הוא קיים יחסי מין בהסכמה (עמ' 43 שורות 12 – 6), גם לא ידע ליתן הסבר כיצד הקונדום שהשתמש בו היה זרוק על הרצפה (נ/2, וכן עדות המתלוננת בעמ' 14 שורה 23), וזאת בניגוד לגרסתו כי המתלוננת זרקה את הקונדום לפח (עמ' 43 שורות 27 – 24, וכן עמ' 44 שורות 3 – 1)",
+                    "sentence_id": "17",
+                    "paragraph_index": 136,
+                    "global_sentence_index": 484
+                },
+                {
+                    "sentence": "הנאשם גם לא ידע ליתן הסבר כלשהו מדוע, על פי גרסתו, התעכב נ’ אצל המתלוננת כשעתיים, וטען כי למחרת פגש אחיו נ’ בכפר ולא התעניין לדעת מדוע אחיו נשאר אצל המתלוננת כשעתיים כי, \"לא אכפת לי\" (עמ' 48 שורות 20 – 11)",
+                    "sentence_id": "18",
+                    "paragraph_index": 136,
+                    "global_sentence_index": 485
+                }
+            ]
+        },
+        {
+            "paragraph_index": 137,
+            "sentences": [
+                {
+                    "sentence": "לסיכום, הנני קובע כי אין לקבל את עדותו של הנאשם",
+                    "sentence_id": "0",
+                    "paragraph_index": 137,
+                    "global_sentence_index": 486
+                },
+                {
+                    "sentence": "נתגלו סתירות מהותיות בעדותו",
+                    "sentence_id": "1",
+                    "paragraph_index": 137,
+                    "global_sentence_index": 487
+                },
+                {
+                    "sentence": "יתירה מזו, עדותו של הנאשם מלאה שקרים, תהיות וסימני שאלה, אינה הגיונית ואינה עומדת במבחן השכל הישר ונסיון החיים, לכן הנני דוחה אותה מכל וכל",
+                    "sentence_id": "2",
+                    "paragraph_index": 137,
+                    "global_sentence_index": 488
+                },
+                {
+                    "sentence": "כאן המקום לציין כי שקריו של הנאשם מהווים חיזוק לראיות המאשימה",
+                    "sentence_id": "3",
+                    "paragraph_index": 137,
+                    "global_sentence_index": 489
+                }
+            ]
+        },
+        {
+            "paragraph_index": 138,
+            "sentences": [
+                {
+                    "sentence": "10.\tמטעם הנאשם העידה אמו א’, אולם עדותה אינה רלוונטית כלל וכלל לאירועים הנטענים בכתב האישום",
+                    "sentence_id": "0",
+                    "paragraph_index": 138,
+                    "global_sentence_index": 490
+                }
+            ]
+        },
+        {
+            "paragraph_index": 139,
+            "sentences": [
+                {
+                    "sentence": "11.\tעדות משה כהן:",
+                    "sentence_id": "0",
+                    "paragraph_index": 139,
+                    "global_sentence_index": 491
+                }
+            ]
+        },
+        {
+            "paragraph_index": 140,
+            "sentences": [
+                {
+                    "sentence": "מטעם הנאשם הוזמן לעדות בעל הבית בו התגוררה המתלוננת",
+                    "sentence_id": "0",
+                    "paragraph_index": 140,
+                    "global_sentence_index": 492
+                },
+                {
+                    "sentence": "עד זה אמור להעיד ולתמוך בגרסת הנאשם",
+                    "sentence_id": "1",
+                    "paragraph_index": 140,
+                    "global_sentence_index": 493
+                },
+                {
+                    "sentence": "אולם, כבר בחקירתו הראשית, הוא תמך דווקא בגרסת המתלוננת וסיפר כי, המתלוננת סיפרה לו שהיא נאנסה וכי מישהו תקף אותה לא פעם אחת אלא מספר פעמים",
+                    "sentence_id": "2",
+                    "paragraph_index": 140,
+                    "global_sentence_index": 494
+                },
+                {
+                    "sentence": "באחת הפעמים היה אצלה אח של אותו אדם",
+                    "sentence_id": "3",
+                    "paragraph_index": 140,
+                    "global_sentence_index": 495
+                },
+                {
+                    "sentence": "הוסיף כי באחת הפעמים השאיר אותו אנס קונדום והמשטרה לקחה אותו (עמ' 52)",
+                    "sentence_id": "4",
+                    "paragraph_index": 140,
+                    "global_sentence_index": 496
+                }
+            ]
+        },
+        {
+            "paragraph_index": 141,
+            "sentences": [
+                {
+                    "sentence": "אין כל ספק כי עדות זו תואמת ומתיישבת עם גרסת המתלוננת שסקרתי קודם",
+                    "sentence_id": "0",
+                    "paragraph_index": 141,
+                    "global_sentence_index": 497
+                }
+            ]
+        },
+        {
+            "paragraph_index": 142,
+            "sentences": [
+                {
+                    "sentence": "בהרחבה, ואין להכביר מילים",
+                    "sentence_id": "0",
+                    "paragraph_index": 142,
+                    "global_sentence_index": 498
+                }
+            ]
+        },
+        {
+            "paragraph_index": 143,
+            "sentences": [
+                {
+                    "sentence": "ב\"כ הנאשם טען בסיכומיו כי העד דהאן שיקר בבית המשפט, וביקש להעדיף את הודעתו במשטרה",
+                    "sentence_id": "0",
+                    "paragraph_index": 143,
+                    "global_sentence_index": 499
+                },
+                {
+                    "sentence": "טענה זו נטענה בעלמא ובאופן סתמי, הרי העד דהאן הסביר בעדותו בבית המשפט, כי במשטרה לא אמר את האמת, מכיוון שלא רצה להיכנס לתמונה ולא היה זה מכבודו לדעת אודות העניינים של המתלוננת (עמ' 52 , 53)",
+                    "sentence_id": "1",
+                    "paragraph_index": 143,
+                    "global_sentence_index": 500
+                },
+                {
+                    "sentence": "הסברים אלה הגיוניים ומתקבלים לדעתי",
+                    "sentence_id": "2",
+                    "paragraph_index": 143,
+                    "global_sentence_index": 501
+                },
+                {
+                    "sentence": "מעבר לכך, קבעתי כי עדותו של העד דהאן בבית המשפט מתיישבת ועולה בקנה אחד עם גרסת המתלוננת",
+                    "sentence_id": "3",
+                    "paragraph_index": 143,
+                    "global_sentence_index": 502
+                }
+            ]
+        },
+        {
+            "paragraph_index": 144,
+            "sentences": [
+                {
+                    "sentence": "12.\tב\"כ הנאשם התייחס בסיכומיו למחדלי המשטרה בטיפול בתלונת המתלוננת, כאשר נמנעה לערוך בדיקה רפואית למתלוננת אשר הצביע על אונס, חרף הסכמת המתלוננת לכך",
+                    "sentence_id": "0",
+                    "paragraph_index": 144,
+                    "global_sentence_index": 503
+                },
+                {
+                    "sentence": "עוד טען כי הגרביונים עליהם העידה המתלוננת שבהם קשרו לה הנאשם ואחר את הידיים, גרביונים אלה לא הוגשו לבית המשפט",
+                    "sentence_id": "1",
+                    "paragraph_index": 144,
+                    "global_sentence_index": 504
+                },
+                {
+                    "sentence": "לשיטתו, מחדלים אלה הם מחדלים מהותיים ויש לזקוף אותם לטובת הנאשם",
+                    "sentence_id": "2",
+                    "paragraph_index": 144,
+                    "global_sentence_index": 505
+                },
+                {
+                    "sentence": "אכן צודק ב\"כ הנאשם כי היו למשטרה מחדלים כמפורט לעיל, עם זאת הנני סבור כי כאשר בידי המאשימה ראיות ממשיות מוצקות שמובילות להרשעת הנאשם, יש לראות במחדלים אלה בענייננו כזניחים, שאינם יורדים לשורש העניין, ואין במחדלים אלה כדי לפגוע בראיות המאשימה",
+                    "sentence_id": "3",
+                    "paragraph_index": 144,
+                    "global_sentence_index": 506
+                }
+            ]
+        },
+        {
+            "paragraph_index": 145,
+            "sentences": [
+                {
+                    "sentence": "ב\"כ הנאשם התייחס בסיכומיו לעניין בדלי הסיגריות, אליהם התייחסה המתלוננת בעדותה",
+                    "sentence_id": "0",
+                    "paragraph_index": 145,
+                    "global_sentence_index": 507
+                },
+                {
+                    "sentence": "לציין כי המתלוננת בחקירתה הנגדית סיפרה כי אחרי האירוע השלישי, שפכה את בדלי הסיגריות שהשאיר הבחור שהיה עם הנאשם במאפרה, וזאת לתוך עיתון ולקחה אותם למשטרה (עמ' 26 שורות 23 – 22)",
+                    "sentence_id": "1",
+                    "paragraph_index": 145,
+                    "global_sentence_index": 508
+                },
+                {
+                    "sentence": "ב\"כ הנאשם ביקש להסיק מהעובדה כי בדלי הסיגריות לא הוצגו כראיה, את המסקנה כי הנאשם לא נכח באירוע השלישי",
+                    "sentence_id": "2",
+                    "paragraph_index": 145,
+                    "global_sentence_index": 509
+                },
+                {
+                    "sentence": "טענה זו יש לדחות בשתי ידיים",
+                    "sentence_id": "3",
+                    "paragraph_index": 145,
+                    "global_sentence_index": 510
+                },
+                {
+                    "sentence": "המתלוננת אמרה במפורש כי בדלי הסיגריות שייכים לבחור השני שהיה עם הנאשם באירוע השלישי, כך שהצגתם כראיה נגד הנאשם, אינה רלוונטית כלל וכלל, בפרט שהמתלוננת סיפרה  במפורש כי הנאשם היה באירוע השלישי",
+                    "sentence_id": "4",
+                    "paragraph_index": 145,
+                    "global_sentence_index": 511
+                }
+            ]
+        },
+        {
+            "paragraph_index": 146,
+            "sentences": [
+                {
+                    "sentence": "13.\tמכל המקובץ לעיל עולה המסקנה החד משמעית והיא, כי אני נותן אימון מלא בגרסתה של המתלוננת, ודוחה את גרסת הנאשם, אשר בעדותו עשה עליי רושם שלילי ביותר, דבריו הופרכו ואין אני נותן אימון בעדותו",
+                    "sentence_id": "0",
+                    "paragraph_index": 146,
+                    "global_sentence_index": 512
+                },
+                {
+                    "sentence": "הנני קובע בצורה נחרצת כי עלה בידי המאשימה להוכיח מעל לכל ספק את העובדות המפורטות בארבעת האישומים שבכתב האישום",
+                    "sentence_id": "1",
+                    "paragraph_index": 146,
+                    "global_sentence_index": 513
+                },
+                {
+                    "sentence": "לציין כי, הגעתי למסקנה הנ\"ל רק לאחר שבחנתי היטב ולעומק את הטענות שהעלה הסניגור בסיכומיו, תוך מגמה לשכנעני כי יש לאמץ את גרסת הנאשם",
+                    "sentence_id": "2",
+                    "paragraph_index": 146,
+                    "global_sentence_index": 514
+                },
+                {
+                    "sentence": "אולם, הנני קובע באופן נחרץ וחד משמעי כי, אין בכל הטענות האלו כדי לשנות את מסקנתי הנ\"ל, ולהלן אתייחס לטענות אלה",
+                    "sentence_id": "3",
+                    "paragraph_index": 146,
+                    "global_sentence_index": 515
+                }
+            ]
+        },
+        {
+            "paragraph_index": 147,
+            "sentences": [
+                {
+                    "sentence": "14.\tמעדותה של המתלוננת עולה המסקנה הנחרצת, כי הנאשם ביצע את כל העבירות אשר בכתב האישום",
+                    "sentence_id": "0",
+                    "paragraph_index": 147,
+                    "global_sentence_index": 516
+                }
+            ]
+        },
+        {
+            "paragraph_index": 148,
+            "sentences": [
+                {
+                    "sentence": "באישום הראשון הנאשם בעל את המתלוננת וביצע בה מעשה סדום בניגוד לרצונה",
+                    "sentence_id": "0",
+                    "paragraph_index": 148,
+                    "global_sentence_index": 517
+                },
+                {
+                    "sentence": "הנאשם גרר את המתלוננת לחדרה ונעל אותה בתוכו לשם ביצוע זממו, הכל בניגוד לרצונה וללא הסכמתה",
+                    "sentence_id": "1",
+                    "paragraph_index": 148,
+                    "global_sentence_index": 518
+                },
+                {
+                    "sentence": "בכך התקיימו היסודות של עבירת כליאת שווא",
+                    "sentence_id": "2",
+                    "paragraph_index": 148,
+                    "global_sentence_index": 519
+                },
+                {
+                    "sentence": "הנאשם גם הפעיל כוח על המתלוננת בניגוד להסכמתה, וכדי לבצע בה את זממו, ובכך התקיימו היסודות של עבירת התקיפה גם היסודות של עבירת התפרצות למקום מגורים התקיימו",
+                    "sentence_id": "3",
+                    "paragraph_index": 148,
+                    "global_sentence_index": 520
+                },
+                {
+                    "sentence": "על פי עדות המתלוננת, הנאשם נטל מהמתלוננת את המפתחות לחדרה ופתח את הדלת הנעולה ופרץ למקום",
+                    "sentence_id": "4",
+                    "paragraph_index": 148,
+                    "global_sentence_index": 521
+                }
+            ]
+        },
+        {
+            "paragraph_index": 149,
+            "sentences": [
+                {
+                    "sentence": "באישום השני על פי עדות המתלוננת, הנאשם בעל אותה וביצע בה מעשה סדום בניגוד לרצונה, ובכך התקיימו יסודות עבירות אלה",
+                    "sentence_id": "0",
+                    "paragraph_index": 149,
+                    "global_sentence_index": 522
+                },
+                {
+                    "sentence": "על פי עדות המתלוננת, הנאשם נעל את המתלוננת בתוך חדרה ובניגוד לרצונה וביצע בה את זממו, ובכך התקיימו היסודות של עבירת כליאת שווא, גם הפעיל כוח על המתלוננת כדי לבצע בה את זממו, ובכך התקיימו היסודות של עבירת התקיפה",
+                    "sentence_id": "1",
+                    "paragraph_index": 149,
+                    "global_sentence_index": 523
+                },
+                {
+                    "sentence": "באשר לעבירת ההתפרצות למקום מגורים, על פי עדות המתלוננת בסביבות חצות בלילה, עת היא ישנה בחדרה, לפתע מישהו נקש בדלת החדר, למרות שלא קיבלה תשובה ברורה, עשתה טעות ופתחה את הדלת, לפתע התנפל עליה הנאשם, דחף אותה למיטה, לאור זאת מתקיימים יסודות עבירת התפרצות למקום מגורים",
+                    "sentence_id": "2",
+                    "paragraph_index": 149,
+                    "global_sentence_index": 524
+                },
+                {
+                    "sentence": "באשר לעבירת ההדחה בחקירה, סיפרה המתלוננת כי הנאשם איים עליה שאם תתלונן, הוא יתנקם בה ותצטער על כך, לכן גם יסודות עבירה זו מתקיימות",
+                    "sentence_id": "3",
+                    "paragraph_index": 149,
+                    "global_sentence_index": 525
+                }
+            ]
+        },
+        {
+            "paragraph_index": 150,
+            "sentences": [
+                {
+                    "sentence": "באישום השלישי על פי עדות המתלוננת, בעל הנאשם את המתלוננת בניגוד לרצונה, וביצע בה מעשה סדום, לכן יסודות עבירות אלה מתקיימות",
+                    "sentence_id": "0",
+                    "paragraph_index": 150,
+                    "global_sentence_index": 526
+                },
+                {
+                    "sentence": "באשר לעבירת כליאת שווא על פי עדות המתלוננת, הנאשם עם אחר נעל את המתלוננת בתוך חדרה לשם ביצוע זממו, וזאת בניגוד לרצונה,לכן גם יסודות עבירה זו מתקיימות",
+                    "sentence_id": "1",
+                    "paragraph_index": 150,
+                    "global_sentence_index": 527
+                },
+                {
+                    "sentence": "לגבי עבירת התקיפה, הנאשם, על פי עדות המתלוננת, הפעיל כוח על המתלוננת כדי לבצע את זממו",
+                    "sentence_id": "2",
+                    "paragraph_index": 150,
+                    "global_sentence_index": 528
+                },
+                {
+                    "sentence": "לעניין עבירת ההתפרצות למקום מגורים, על פי עדות המתלוננת, היא פתחה לנאשם וחברו את דלת חדרה, מכיוון שחשבה כי המדובר באחד משכניה, לאחר שהנאשם וחברו נעלו את המתלוננת בשירותים, יצאו מהחדר, לאחר שפתחו את הדלת אותה נעלו קודם מבפנים, לכן מתקיימות היסודות של עבירה זו",
+                    "sentence_id": "3",
+                    "paragraph_index": 150,
+                    "global_sentence_index": 529
+                }
+            ]
+        },
+        {
+            "paragraph_index": 151,
+            "sentences": [
+                {
+                    "sentence": "באישום הרביעי, על פי עדות המתלוננת כפי שסקרתי בהרחבה, מתקיימים כל היסודות של כל העבירות שיוחסו לנאשם באישום זה ואין להרבות במילים",
+                    "sentence_id": "0",
+                    "paragraph_index": 151,
+                    "global_sentence_index": 530
+                }
+            ]
+        },
+        {
+            "paragraph_index": 152,
+            "sentences": [
+                {
+                    "sentence": "15.\tאשר על כן ולאור כל האמור לעיל, שוכנעתי מעל לכל ספק סביר כי הנאשם ביצע את כל העבירות המיוחדות לו בארבעת האישומים, והנני מציע לחברי להרשיע אותו בכל העבירות המיוחסות בכתב האישום",
+                    "sentence_id": "0",
+                    "paragraph_index": 152,
+                    "global_sentence_index": 531
+                }
+            ]
+        },
+        {
+            "paragraph_index": 153,
+            "sentences": []
+        },
+        {
+            "paragraph_index": 154,
+            "sentences": [
+                {
+                    "sentence": "זיאד הווארי – שופט",
+                    "sentence_id": "0",
+                    "paragraph_index": 154,
+                    "global_sentence_index": 532
+                }
+            ]
+        },
+        {
+            "paragraph_index": 155,
+            "sentences": [
+                {
+                    "sentence": "סגן הנשיא, כב' השופט אהרן אמינוף – אב\"ד:",
+                    "sentence_id": "0",
+                    "paragraph_index": 155,
+                    "global_sentence_index": 533
+                }
+            ]
+        },
+        {
+            "paragraph_index": 156,
+            "sentences": [
+                {
+                    "sentence": "אני מסכים",
+                    "sentence_id": "0",
+                    "paragraph_index": 156,
+                    "global_sentence_index": 534
+                }
+            ]
+        },
+        {
+            "paragraph_index": 157,
+            "sentences": [
+                {
+                    "sentence": "כב' השופטת נחמה מוניץ:",
+                    "sentence_id": "0",
+                    "paragraph_index": 157,
+                    "global_sentence_index": 535
+                }
+            ]
+        },
+        {
+            "paragraph_index": 158,
+            "sentences": [
+                {
+                    "sentence": "אני מסכימה",
+                    "sentence_id": "0",
+                    "paragraph_index": 158,
+                    "global_sentence_index": 536
+                }
+            ]
+        },
+        {
+            "paragraph_index": 159,
+            "sentences": [
+                {
+                    "sentence": "16.\tלאור כל האמור בהכרעת הדין, אנו מרשיעים את הנאשם בכל העבירות המיוחסות לו בכתב האישום",
+                    "sentence_id": "0",
+                    "paragraph_index": 159,
+                    "global_sentence_index": 537
+                }
+            ]
+        },
+        {
+            "paragraph_index": 160,
+            "sentences": [
+                {
+                    "sentence": "17.\tזכות ערעור תוך 45 יום",
+                    "sentence_id": "0",
+                    "paragraph_index": 160,
+                    "global_sentence_index": 538
+                }
+            ]
+        },
+        {
+            "paragraph_index": 161,
+            "sentences": [
+                {
+                    "sentence": "18.\tוהודע לנאשם ולב\"כ הצדדים",
+                    "sentence_id": "0",
+                    "paragraph_index": 161,
+                    "global_sentence_index": 539
+                }
+            ]
+        },
+        {
+            "paragraph_index": 162,
+            "sentences": [
+                {
+                    "sentence": "ניתנה היום יט' בכסלו, תשס\"ז (10 בדצמבר 2006)",
+                    "sentence_id": "0",
+                    "paragraph_index": 162,
+                    "global_sentence_index": 540
+                }
+            ]
+        },
+        {
+            "paragraph_index": 163,
+            "sentences": [
+                {
+                    "sentence": "ב\"כ הנאשם: מכיוון שהנאשם היה פחות מגיל 21 בעת ביצוע העבירות, יש חובת הגשת תסקיר",
+                    "sentence_id": "0",
+                    "paragraph_index": 163,
+                    "global_sentence_index": 541
+                }
+            ]
+        },
+        {
+            "paragraph_index": 164,
+            "sentences": [
+                {
+                    "sentence": "לכן, אבקש להגיש תסקיר ולדחות את הטיעונים לעונש",
+                    "sentence_id": "0",
+                    "paragraph_index": 164,
+                    "global_sentence_index": 542
+                }
+            ]
+        },
+        {
+            "paragraph_index": 165,
+            "sentences": [
+                {
+                    "sentence": "ב\"כ המאשימה: אנו מסכימים",
+                    "sentence_id": "0",
+                    "paragraph_index": 165,
+                    "global_sentence_index": 543
+                }
+            ]
+        },
+        {
+            "paragraph_index": 166,
+            "sentences": [
+                {
+                    "sentence": "צ ו",
+                    "sentence_id": "0",
+                    "paragraph_index": 166,
+                    "global_sentence_index": 544
+                }
+            ]
+        },
+        {
+            "paragraph_index": 167,
+            "sentences": [
+                {
+                    "sentence": "1.\tאנו מצווים על הגשת תסקיר מבחן תוך 70 יום מהיום ולא יאוחר מתאריך 21/2/2007.",
+                    "sentence_id": "0",
+                    "paragraph_index": 167,
+                    "global_sentence_index": 545
+                }
+            ]
+        },
+        {
+            "paragraph_index": 168,
+            "sentences": [
+                {
+                    "sentence": "2.\tאנו קובעים התיק לטיעונים לעונש בתאריך 1/3/2007 שעה 09:00.",
+                    "sentence_id": "0",
+                    "paragraph_index": 168,
+                    "global_sentence_index": 546
+                }
+            ]
+        },
+        {
+            "paragraph_index": 169,
+            "sentences": [
+                {
+                    "sentence": "2.\tוהודע לנאשם ולב\"כ הצדדים",
+                    "sentence_id": "0",
+                    "paragraph_index": 169,
+                    "global_sentence_index": 547
+                }
+            ]
+        },
+        {
+            "paragraph_index": 170,
+            "sentences": [
+                {
+                    "sentence": "היום יט' בכסלו, התשס\"ז (10 בדצמבר 2006)",
+                    "sentence_id": "0",
+                    "paragraph_index": 170,
+                    "global_sentence_index": 548
+                }
+            ]
+        },
+        {
+            "paragraph_index": 171,
+            "sentences": []
+        },
+        {
+            "paragraph_index": 172,
+            "sentences": [
+                {
+                    "sentence": "סגן 54678313-543/05",
+                    "sentence_id": "0",
+                    "paragraph_index": 172,
+                    "global_sentence_index": 549
+                }
+            ]
+        },
+        {
+            "paragraph_index": 173,
+            "sentences": []
+        },
+        {
+            "paragraph_index": 174,
+            "sentences": [
+                {
+                    "sentence": "ע",
+                    "sentence_id": "0",
+                    "paragraph_index": 174,
+                    "global_sentence_index": 550
+                },
+                {
+                    "sentence": "ב",
+                    "sentence_id": "1",
+                    "paragraph_index": 174,
+                    "global_sentence_index": 551
+                },
+                {
+                    "sentence": "+ח",
+                    "sentence_id": "2",
+                    "paragraph_index": 174,
+                    "global_sentence_index": 552
+                },
+                {
+                    "sentence": "ד",
+                    "sentence_id": "3",
+                    "paragraph_index": 174,
+                    "global_sentence_index": 553
+                },
+                {
+                    "sentence": "000543/05פח 054",
+                    "sentence_id": "4",
+                    "paragraph_index": 174,
+                    "global_sentence_index": 554
+                }
+            ]
+        },
+        {
+            "paragraph_index": 175,
+            "sentences": [
+                {
+                    "sentence": "נוסח מסמך זה כפוף לשינויי ניסוח ועריכה",
+                    "sentence_id": "0",
+                    "paragraph_index": 175,
+                    "global_sentence_index": 555
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        " זאת ועוד, הסניגור ניסה, לאורך כל החקירה הנגדית, לשכנענו כי גרסתה של המתלוננת שיקרית, בדויה ואינה מתקבלת על הדעת, אולם תשובותיה והסבריה של המתלוננת היו פשוטות, ברורות והגיוניות, תוך שהיא נותרה איתנה בגרסתה בחקירה ראשית",
+        "לסיכום, המתלוננת מסרה גרסה שלמה, מלאה והגיונית אודות ארבעת האירועים נשוא כתב האישום",
+        "סוף דבר, מהתרשמותי הישירה והבלתי אמצעית מעדות המתלוננת עולה, כי המתלוננת הותירה רושם חיובי ומהימן, הסבריה היו הגיוניים ומתקבלים על הדעת"
+    ],
+    "main_sentence_from_docx": [
+        "זאת ועוד, הסניגור ניסה, לאורך כל החקירה הנגדית, לשכנענו כי גרסתה של המתלוננת שיקרית, בדויה ואינה מתקבלת על הדעת, אולם תשובותיה והסבריה של המתלוננת היו פשוטות, ברורות והגיוניות, תוך שהיא נותרה איתנה בגרסתה בחקירה ראשית",
+        "לסיכום, המתלוננת מסרה גרסה שלמה, מלאה והגיונית אודות ארבעת האירועים נשוא כתב האישום",
+        "סוף דבר, מהתרשמותי הישירה והבלתי אמצעית מעדות המתלוננת עולה, כי המתלוננת הותירה רושם חיובי ומהימן, הסבריה היו הגיוניים ומתקבלים על הדעת"
+    ],
+    "main_sentence_id_in_docx": [
+        "84_4",
+        "84_0",
+        "95_0"
+    ],
+    "global_sentence_index_docx": [
+        311,
+        307,
+        330
+    ],
+    "global_sentence_index_spike": [
+        430959,
+        430955,
+        430989
+    ],
+    "score_of_similarity": [
+        0.0,
+        0.0,
+        0.0
+    ]
+}

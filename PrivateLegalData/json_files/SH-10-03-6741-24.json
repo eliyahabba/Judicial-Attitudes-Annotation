@@ -1,0 +1,1783 @@
+{
+    "title": "SH-10-03-6741-24",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": []
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "נוכחים:",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "ב\"כ המאשימה – עו\"ד איציק אמיר",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "ב\"כ הנאשם – עו\"ד פרחובניק (ס",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 2
+                },
+                {
+                    "sentence": "ציבורית)",
+                    "sentence_id": "1",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "הנאשם - בעצמו",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "במסמך זה הושמטו פרוטוקולים",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "חקיקה שאוזכרה:",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 7,
+            "sentences": [
+                {
+                    "sentence": ": סע'  , , , , , , , , ,",
+                    "sentence_id": "0",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 8,
+            "sentences": [
+                {
+                    "sentence": "הכרעת דין",
+                    "sentence_id": "0",
+                    "paragraph_index": 8,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 9,
+            "sentences": [
+                {
+                    "sentence": "מבוא",
+                    "sentence_id": "0",
+                    "paragraph_index": 9,
+                    "global_sentence_index": 9
+                }
+            ]
+        },
+        {
+            "paragraph_index": 10,
+            "sentences": [
+                {
+                    "sentence": "בתאריך 24/2/11, ניתן פסק דינו של בית המשפט המחוזי, במסגרת  (להלן: פסק דינו של בית המשפט המחוזי)",
+                    "sentence_id": "0",
+                    "paragraph_index": 10,
+                    "global_sentence_index": 10
+                },
+                {
+                    "sentence": "בית המשפט המחוזי קיבל את ערעור המאשימה והורה:\"על החזרת התיק לבית משפט קמא להמשך הדיון בכל שאר טענות ההגנה של המשיב\"",
+                    "sentence_id": "1",
+                    "paragraph_index": 10,
+                    "global_sentence_index": 11
+                },
+                {
+                    "sentence": "(פסקה עח' לפסק דינו של בית המשפט המחוזי)",
+                    "sentence_id": "2",
+                    "paragraph_index": 10,
+                    "global_sentence_index": 12
+                }
+            ]
+        },
+        {
+            "paragraph_index": 11,
+            "sentences": [
+                {
+                    "sentence": "מדובר בערעור אשר הוגש על ידי המאשימה בנוגע לפסק דיני מתאריך 29/7/10, שם קבעתי כי לנאשם עומד הסייג של העדר שליטה לפי  ל, תשל\"ז – 1977 (להלן: החוק) וכן קבעתי, כי הוא אינו בר עונשין",
+                    "sentence_id": "0",
+                    "paragraph_index": 11,
+                    "global_sentence_index": 13
+                }
+            ]
+        },
+        {
+            "paragraph_index": 12,
+            "sentences": [
+                {
+                    "sentence": "השתלשלות העניינים עד כה, בקצרה",
+                    "sentence_id": "0",
+                    "paragraph_index": 12,
+                    "global_sentence_index": 14
+                }
+            ]
+        },
+        {
+            "paragraph_index": 13,
+            "sentences": [
+                {
+                    "sentence": "כנגד הנאשם הוגש, בתאריך 4/3/10, כתב אישום המייחס לו שתי עבירות: היזק בזדון – עבירה לפי  לחוק והחזקת סכין שלא כדין – עבירה לפי  לחוק",
+                    "sentence_id": "0",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 15
+                },
+                {
+                    "sentence": "על פי הנטען בכתב האישום, בתאריך 1/3/10, בסביבות השעה 09:00, קפץ הנאשם מהקומה הראשונה בביתו שברח' חיים 11 בחיפה, על רכב מסוג פולקסוואגן פאסאט שחנה מתחת לביתו, חתך יריעת בד שהיתה פרושה מעל הרכב וכן גרם לשריטה בתא המטען של הרכב",
+                    "sentence_id": "1",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 16
+                },
+                {
+                    "sentence": "בהמשך, ירד הנאשם מהרכב ונעמד באמצע הכביש, כשהוא אוחז בידו שני סכינים ולא הוכיח כי החזיקם למטרה כשרה",
+                    "sentence_id": "2",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 17
+                }
+            ]
+        },
+        {
+            "paragraph_index": 14,
+            "sentences": [
+                {
+                    "sentence": "בין הצדדים לא היתה מחלוקת בנוגע לעצם ביצוע המעשים על ידי הנאשם; לא היתה מחלוקת אמיתית לגבי מצבו הרפואי – נפשי של הנאשם בזמן ביצוע העבירה, היינו כי היה במצב של Delirium Tremens (להלן – דליריום טרמנס), שנבע כתוצאה מהפסקת שתיית אלכוהול; ואף לא היתה מחלוקת כי בזמן ביצוע המעשים היה הנאשם מצוי במצב פסיכוטי במסגרתו סבר, על רקע הזיות ראיה ושמיעה, כי אנשים זרים חדרו לביתו חסמו את קווי הטלפון, חטפו את אשתו ואחד מהם החזיק במכשיר בעל להב מסתובב",
+                    "sentence_id": "0",
+                    "paragraph_index": 14,
+                    "global_sentence_index": 18
+                },
+                {
+                    "sentence": "על רקע זה, לקח הנאשם שני סכיני מטבח וקפץ מחלון ביתו שבקומה הראשונה על יריעת בד שהיתה פרוסה מעל לרכב לעיל ולאחר מכן ניגש לחנות סמוכה וביקש מהמוכר שיזמין משטרה",
+                    "sentence_id": "1",
+                    "paragraph_index": 14,
+                    "global_sentence_index": 19
+                }
+            ]
+        },
+        {
+            "paragraph_index": 15,
+            "sentences": [
+                {
+                    "sentence": "על פי ה ICD-10 (הסיווג והאבחון הפסיכיאטרי של ארגון הבריאות העולמי, עמ' 90-91) דליריום טרמנס הינו: \"מצב טוקסי בלבולי שמשכו קצר אך תכופות הוא מסכן את החיים, ונלוות לו הפרעות גופניות",
+                    "sentence_id": "0",
+                    "paragraph_index": 15,
+                    "global_sentence_index": 20
+                },
+                {
+                    "sentence": "בדרך כלל הוא תוצאה של גמילה מוחלטת או חלקית מאלכוהול, אצל מכורים בעלי עבר ארוך של תלות בו",
+                    "sentence_id": "1",
+                    "paragraph_index": 15,
+                    "global_sentence_index": 21
+                },
+                {
+                    "sentence": "הוא מתחיל, על פי רוב, אחרי הפסקת השתייה",
+                    "sentence_id": "2",
+                    "paragraph_index": 15,
+                    "global_sentence_index": 22
+                },
+                {
+                    "sentence": "סימפטומים מקדימים של דליריום טרמנס כוללים חוסר שינה, רעד ופחד",
+                    "sentence_id": "3",
+                    "paragraph_index": 15,
+                    "global_sentence_index": 23
+                },
+                {
+                    "sentence": "ייתכן שפרכוסי גמילה יקדמו להופעת סימפטומים אלה",
+                    "sentence_id": "4",
+                    "paragraph_index": 15,
+                    "global_sentence_index": 24
+                },
+                {
+                    "sentence": "המשולש הקלאסי של סימפטומים כולל: ערפול הכרה ובלבול, הזיות ואשליות מלאות חיים המתבטאות בכל אחד מהחושים, ורעד בולט",
+                    "sentence_id": "5",
+                    "paragraph_index": 15,
+                    "global_sentence_index": 25
+                },
+                {
+                    "sentence": "בדרך כלל מופיעים גם מחשבות שווא, אי שקט, חוסר שינה או היפוך של מחזור השינה ופעילות יתר אוטונומית\"",
+                    "sentence_id": "6",
+                    "paragraph_index": 15,
+                    "global_sentence_index": 26
+                }
+            ]
+        },
+        {
+            "paragraph_index": 16,
+            "sentences": [
+                {
+                    "sentence": "מהראיות שהובאו בפני עלה, בקצרה, כי הנאשם נהג לשתות משקאות אלכוהוליים באופן תדיר",
+                    "sentence_id": "0",
+                    "paragraph_index": 16,
+                    "global_sentence_index": 27
+                },
+                {
+                    "sentence": "כשבוע לערך בטרם האירוע המתואר לכתב האישום, הפסיק הנאשם לשתות ובעקבות כך נכנס גופו למצב של דליריום טרמנס והנאשם היה במצב פסיכוטי",
+                    "sentence_id": "1",
+                    "paragraph_index": 16,
+                    "global_sentence_index": 28
+                },
+                {
+                    "sentence": "ליתר פירוט, מופנה המתעניין לפסק דיני מתאריך 29/7/10, שם סקרתי ארוכות את כל העובדות הדרושות לעניין",
+                    "sentence_id": "2",
+                    "paragraph_index": 16,
+                    "global_sentence_index": 29
+                }
+            ]
+        },
+        {
+            "paragraph_index": 17,
+            "sentences": [
+                {
+                    "sentence": "בית המשפט המחוזי קיבל, כאמור לעיל, את ערעור המאשימה וקבע כי הסייג הרלוונטי הינו זה הקבוע ב לחוק – היינו סייג השכרות",
+                    "sentence_id": "0",
+                    "paragraph_index": 17,
+                    "global_sentence_index": 30
+                },
+                {
+                    "sentence": "עוד נקבע, כי אין הצדקה לאבחנה בין מצב של דליריום טרמנס שהתרחש ממש תוך כדי צריכת אלכוהול, לבין מצב של דליריום טרמנס שהתפתח שעות, שבוע, או שלושה שבועות לאחר צריכת האלכוהול ובלבד שהדליריום טרמנס נובע מהרגלי צריכת אלכוהול של הנאשם (פסקה ע' לפסק דינו של בית המשפט המחוזי)",
+                    "sentence_id": "1",
+                    "paragraph_index": 17,
+                    "global_sentence_index": 31
+                },
+                {
+                    "sentence": "בנוסף,  נקבע, למעלה מן הדרוש, כי גם אם היה מקום לבחון את תנאי  לחוק (כניסה למצב בהתנהגות פסולה), הרי שהנאשם נקלע למצב פסיכוטי עקב התנהגותו הפסולה, וזאת משום צריכת אלכוהול במינונים גבוהים (ר' פסקה עז' לפסק דינו של בית המשפט המחוזי)",
+                    "sentence_id": "2",
+                    "paragraph_index": 17,
+                    "global_sentence_index": 32
+                }
+            ]
+        },
+        {
+            "paragraph_index": 18,
+            "sentences": [
+                {
+                    "sentence": "בתאריך 28/3/11, התייצבו הצדדים בפני והסכימו כי אין מקום לשמיעת ראיות נוספות",
+                    "sentence_id": "0",
+                    "paragraph_index": 18,
+                    "global_sentence_index": 33
+                },
+                {
+                    "sentence": "המאשימה הגישה סיכומים משלימים וכן הפנתה לסיכומים שהוגשו עוד בטרם הכרעת דיני הקודמת; גם ב\"כ הנאשם הפנה לסיכומים הקודמים וכן הגיש, בתאריך 1/5/11, סיכומים משלימים",
+                    "sentence_id": "1",
+                    "paragraph_index": 18,
+                    "global_sentence_index": 34
+                },
+                {
+                    "sentence": "משכך, אפנה לבחינת טענות ההגנה שהועלו על ידי הנאשם",
+                    "sentence_id": "2",
+                    "paragraph_index": 18,
+                    "global_sentence_index": 35
+                }
+            ]
+        },
+        {
+            "paragraph_index": 19,
+            "sentences": [
+                {
+                    "sentence": "טענות ההגנה של הנאשם",
+                    "sentence_id": "0",
+                    "paragraph_index": 19,
+                    "global_sentence_index": 36
+                }
+            ]
+        },
+        {
+            "paragraph_index": 20,
+            "sentences": [
+                {
+                    "sentence": "טענת ההגנה הראשונה של הנאשם נוגעת לעבירה של החזקת סכין שיוחסה לנאשם, וזה היה טיעונו:",
+                    "sentence_id": "0",
+                    "paragraph_index": 20,
+                    "global_sentence_index": 37
+                }
+            ]
+        },
+        {
+            "paragraph_index": 21,
+            "sentences": [
+                {
+                    "sentence": "ראשית, טען ב\"כ הנאשם, בהתבסס על פסק דינו של בית המשפט המחוזי, כי הסייג שחל על המקרה הוא סייג השכרות",
+                    "sentence_id": "0",
+                    "paragraph_index": 21,
+                    "global_sentence_index": 38
+                },
+                {
+                    "sentence": "טענה זו אינה עומדת לדיון",
+                    "sentence_id": "1",
+                    "paragraph_index": 21,
+                    "global_sentence_index": 39
+                }
+            ]
+        },
+        {
+            "paragraph_index": 22,
+            "sentences": [
+                {
+                    "sentence": "שנית, נטען (וטענה זו תבחן בהמשך), כי העבירה של החזקת סכין הינה עבירה מסוג \"מטרה\" (עבירות שכונו בעבר ולעיתים מכונות בטעות גם כיום עבירות של:\"כוונה מיוחדת\")",
+                    "sentence_id": "0",
+                    "paragraph_index": 22,
+                    "global_sentence_index": 40
+                }
+            ]
+        },
+        {
+            "paragraph_index": 23,
+            "sentences": [
+                {
+                    "sentence": "שלישית, נטען כי יש להחיל על עבירות מטרה את הדין החל על עבירות תוצאתיות מסוג כוונה, כקבוע ב לחוק",
+                    "sentence_id": "0",
+                    "paragraph_index": 23,
+                    "global_sentence_index": 41
+                },
+                {
+                    "sentence": "לחוק קובע, כי כאשר מבוצעת עבירה במצב של שכרות והעבירה הינה עבירה תוצאתית מסוג כוונה, הרי שניתן להרשיע את הנאשם  [בהתעלם מ שאינו מענייננו כעת] \"רק\" בעבירה מקבילה הדורשת יסוד נפשי של אדישות, ככל שקיימת כזו",
+                    "sentence_id": "1",
+                    "paragraph_index": 23,
+                    "global_sentence_index": 42
+                },
+                {
+                    "sentence": "אציין, כי לאחר שהוגשו הסיכומים המשלימים מטעם הנאשם, ניתן פסק דינו של בית המשפט המחוזי במסגרת  (נאיף קאדריה נ' מדינת ישראל, ניתן בתאריך 7/7/11), אשר אימץ את עמדת ב\"כ הנאשם (שאף קודם לכן היו לה תימוכין מסוימים בפסיקה) בהקשר להחלת  על עבירות מסוג מטרה ומניע",
+                    "sentence_id": "2",
+                    "paragraph_index": 23,
+                    "global_sentence_index": 43
+                }
+            ]
+        },
+        {
+            "paragraph_index": 24,
+            "sentences": [
+                {
+                    "sentence": "מנגד, טענה המאשימה בהקשר לעיל – ואקדים ואומר כי אני מסכים עמה – כי העבירה של החזקת סכין אינה עבירת התנהגות מסוג מטרה",
+                    "sentence_id": "0",
+                    "paragraph_index": 24,
+                    "global_sentence_index": 44
+                }
+            ]
+        },
+        {
+            "paragraph_index": 25,
+            "sentences": [
+                {
+                    "sentence": "נפנה איפוא ונבחן את  לחוק",
+                    "sentence_id": "0",
+                    "paragraph_index": 25,
+                    "global_sentence_index": 45
+                },
+                {
+                    "sentence": "סעיף זה קובע כי:\"המחזיק אגרופן או סכין מחוץ לתחום ביתו או חצריו ולא הוכיח כי החזיקם למטרה כשרה, דינו - מאסר חמש שנים\"",
+                    "sentence_id": "1",
+                    "paragraph_index": 25,
+                    "global_sentence_index": 46
+                }
+            ]
+        },
+        {
+            "paragraph_index": 26,
+            "sentences": [
+                {
+                    "sentence": "לשיטת ב\"כ הנאשם, בפסיקה טרם נדונה השאלה, באם עבירה החזקת הסכין הינה עבירת התנהגות מסוג מטרה אם לאו, והתשובה לשאלה זו צריכה להינתן על פי קריטריונים מהותיים וצורניים: שאלת הרצון / מטרה / מניע בהתנהגות מבצע עבירה; השאלה באם מטרה זו משתרעת על רכיב שהינו חיצוני ליסוד העובדתי של העבירה; והשאלה באם דרישת המטרה או המניע מופיעה מפורשות בהגדרת העבירה",
+                    "sentence_id": "0",
+                    "paragraph_index": 26,
+                    "global_sentence_index": 47
+                },
+                {
+                    "sentence": "מכאן, המשיך ב\"כ הנאשם וטען, כי בעבירה של החזקת סכין נדרשת מטרה לא כשרה מצד מבצע העבירה דבר הנלמד מפורשות מלשון החוק",
+                    "sentence_id": "1",
+                    "paragraph_index": 26,
+                    "global_sentence_index": 48
+                },
+                {
+                    "sentence": "אכן, ב\"כ הנאשם היה ער לכך כי הסעיף לא נוקט לתבנית הלשון:\"מטרה לא כשרה\" אולם הוסיף כי קריאת כלל הסעיף (",
+                    "sentence_id": "2",
+                    "paragraph_index": 26,
+                    "global_sentence_index": 49
+                },
+                {
+                    "sentence": "ולא הוכיח כי החזיקם למטרה כשרה",
+                    "sentence_id": "3",
+                    "paragraph_index": 26,
+                    "global_sentence_index": 50
+                },
+                {
+                    "sentence": "\") מוליך למסקנה  דלעיל",
+                    "sentence_id": "4",
+                    "paragraph_index": 26,
+                    "global_sentence_index": 51
+                }
+            ]
+        },
+        {
+            "paragraph_index": 27,
+            "sentences": [
+                {
+                    "sentence": "סבורני, כי עבירת החזקת הסכין הינה עבירת התנהגות \"רגילה\" ולא עבירת התנהגות מסוג מטרה",
+                    "sentence_id": "0",
+                    "paragraph_index": 27,
+                    "global_sentence_index": 52
+                },
+                {
+                    "sentence": "התביעה אינה נדרשת להוכיח \"מטרה לא כשרה\", או מטרה אחרת",
+                    "sentence_id": "1",
+                    "paragraph_index": 27,
+                    "global_sentence_index": 53
+                },
+                {
+                    "sentence": "נפנה לצורך ההדגמה וההשוואה לעבירות התנהגותיות מסוג מטרה",
+                    "sentence_id": "2",
+                    "paragraph_index": 27,
+                    "global_sentence_index": 54
+                },
+                {
+                    "sentence": "כך, לדוגמה, בעבירה של מעשה מגונה לפי  לחוק",
+                    "sentence_id": "3",
+                    "paragraph_index": 27,
+                    "global_sentence_index": 55
+                },
+                {
+                    "sentence": "מעבר לרכיב הפיסי ומעבר למודעות הנאשם לעצם ביצוע מעשיו, נדרשת התביעה להוכיח כי המעשה נעשה :\"לשם גירוי, סיפוק או ביזוי מיניים\"",
+                    "sentence_id": "4",
+                    "paragraph_index": 27,
+                    "global_sentence_index": 56
+                },
+                {
+                    "sentence": "היינו, מדובר ביסוד מיסודות העבירה שאם התביעה לא תוכיח – יזוכה הנאשם",
+                    "sentence_id": "5",
+                    "paragraph_index": 27,
+                    "global_sentence_index": 57
+                },
+                {
+                    "sentence": "כך גם, לדוגמה, בעבירת האיומים, שם קובע  לחוק כי:\"המאיים על אדם בכל דרך שהיא",
+                    "sentence_id": "6",
+                    "paragraph_index": 27,
+                    "global_sentence_index": 58
+                },
+                {
+                    "sentence": "בכוונה להפחיד את האדם או להקניטו, דינו",
+                    "sentence_id": "7",
+                    "paragraph_index": 27,
+                    "global_sentence_index": 59
+                },
+                {
+                    "sentence": "וכיוב' לגבי עבירות התנהגותיות מסוג מטרה אחרות",
+                    "sentence_id": "8",
+                    "paragraph_index": 27,
+                    "global_sentence_index": 60
+                },
+                {
+                    "sentence": "בכל אותן עבירות, נדרשת התביעה להוכיח, והדבר מובן וברור מאליו, את כל רכיבי העבירה ובכלל זאת גם את רכיב המטרה",
+                    "sentence_id": "9",
+                    "paragraph_index": 27,
+                    "global_sentence_index": 61
+                },
+                {
+                    "sentence": "בהקשר לכך נדונה זה מכבר הסוגיה, באם ניתן להחיל את הלכת הצפיות (אשר חלה במקור רק על עבירות כוונה, היינו עבירות תוצאתיות) גם על עבירות התנהגות מסוג מטרה (ור' לדוגמה, את (5) 729; ' (4), 95)",
+                    "sentence_id": "10",
+                    "paragraph_index": 27,
+                    "global_sentence_index": 62
+                }
+            ]
+        },
+        {
+            "paragraph_index": 28,
+            "sentences": [
+                {
+                    "sentence": "בענייננו, בעבירה של החזקת סכין, לא נדרשת התביעה להוכיח כי הנאשם נשא סכין למטרה שאינה כשרה",
+                    "sentence_id": "0",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 63
+                },
+                {
+                    "sentence": "כל שהתביעה צריכה להוכיח הוא את ההחזקה (מחוץ לתחום ביתו) ואת מודעותו לכך, הא ותו לא",
+                    "sentence_id": "1",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 64
+                },
+                {
+                    "sentence": "וכך באו הדברים לידי ביטוי ב פלוני נ' מדינת ישראל, ניתן בתאריך 22/12/2009:\"",
+                    "sentence_id": "2",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 65
+                },
+                {
+                    "sentence": "כפי שאמר בית המשפט המחוזי,  קובע חזקה משפטית ולפיה משהוכיחה התביעה את היסוד העובדתי – \"ההחזקה\"; את נסיבותיה – \"מחוץ לביתו או חצריו\"; ואת היסוד הנפשי – המודעות, הרי שיצאה ידי חובתה להוכחתו של המעשה האסור",
+                    "sentence_id": "3",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 66
+                },
+                {
+                    "sentence": "ואולם, על מנת למתן את התוצאה הנובעת מקביעת החזקה, בידי הנאשם נתונה האפשרות להפרכתה על ידי הבאת ראיות להוכחת קיומה של מטרה כשרה",
+                    "sentence_id": "4",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 67
+                },
+                {
+                    "sentence": "כפי שטוענת המשיבה, אילו די היה בכך שהנאשם יעורר ספק סביר, ניתן היה לנקוט בניסוח \"המחזיק למטרה לא כשרה אגרופן או סכין מחוץ לתחום ביתו או חצריו",
+                    "sentence_id": "5",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 68
+                },
+                {
+                    "sentence": "ניסוח כזה היה מבהיר כי על הנאשם לעורר ספק סביר בלבד לעניין כשרות המטרה של החזקת הסכין, וכי על התביעה להוכיח כי הסכין הוחזקה לצורך מטרה לא כשרה, וזאת, כמקובל בפלילים, מעבר לכל ספק סביר",
+                    "sentence_id": "6",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 69
+                },
+                {
+                    "sentence": "\" אכן, עיקרו של פסק הדין בעניין פלוני נסוב סביב נטל ההוכחה שנדרש מהנאשם להראות את אותה מטרה כשרה (האם ספק סביר או מאזן ההסתברויות), אולם הדברים לעיל יפים גם לענייננו, ודי בהם כדי לדחות את טענת הנאשם בנדון",
+                    "sentence_id": "7",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 70
+                }
+            ]
+        },
+        {
+            "paragraph_index": 29,
+            "sentences": [
+                {
+                    "sentence": "ב\"כ הנאשם העלה טענות בדבר חלותם של סייגים נוספים לאחריותו הפלילית של הנאשם המחייבים, לשיטתו, את זיכויו של הנאשם",
+                    "sentence_id": "0",
+                    "paragraph_index": 29,
+                    "global_sentence_index": 71
+                }
+            ]
+        },
+        {
+            "paragraph_index": 30,
+            "sentences": [
+                {
+                    "sentence": "כך, טען, כי עומדים לו הסייגים הבאים: טעות במצב דברים בשילוב הגנה עצמית (הגנה עצמית מדומה) ו/או הגנת בית מגורים (מדומה) ו/או צורך מדומה",
+                    "sentence_id": "0",
+                    "paragraph_index": 30,
+                    "global_sentence_index": 72
+                },
+                {
+                    "sentence": "לטענתו, היה הנאשם משוכנע כי נשקפה לו סכנה מוחשית על ידי אנשים דמיוניים שלדעתו פרצו לדירתו",
+                    "sentence_id": "1",
+                    "paragraph_index": 30,
+                    "global_sentence_index": 73
+                },
+                {
+                    "sentence": "לשיטת ב\"כ הנאשם גם אם אמונתו של הנאשם היתה (ועל כך אין מחלוקת) מוטעית הרי שיש לבחון את התנהגותו במשקפיו הוא ועליו לשאת באחריות פלילית רק במידה והיה נושא בה אם היה המצב לאמיתו, כפי שדימה אותו",
+                    "sentence_id": "2",
+                    "paragraph_index": 30,
+                    "global_sentence_index": 74
+                }
+            ]
+        },
+        {
+            "paragraph_index": 31,
+            "sentences": [
+                {
+                    "sentence": "דין הטענות לעיל להדחות",
+                    "sentence_id": "0",
+                    "paragraph_index": 31,
+                    "global_sentence_index": 75
+                },
+                {
+                    "sentence": "על פי קביעת בית המשפט המחוזי בענייננו, הסייג הרלוונטי הוא סייג השכרות",
+                    "sentence_id": "1",
+                    "paragraph_index": 31,
+                    "global_sentence_index": 76
+                },
+                {
+                    "sentence": "הנאשם במקרנו היה במצב פסיכוטי",
+                    "sentence_id": "2",
+                    "paragraph_index": 31,
+                    "global_sentence_index": 77
+                },
+                {
+                    "sentence": "אכן, אין מחלוקת שהוא אכן סבר, באמת ובתמים (מבחינתו) כי אנשים זרים פרצו לביתו וביקשו להרע לאשתו",
+                    "sentence_id": "3",
+                    "paragraph_index": 31,
+                    "global_sentence_index": 78
+                },
+                {
+                    "sentence": "יחד עם זאת, נקבע בפסק דינו של בית המשפט המחוזי, כי מצב זה היה קשור בקשר סיבתי ומשפטי לשימוש באלכוהול (ר' לדוגמה פסקה ע\"ג לפסק הדין)",
+                    "sentence_id": "4",
+                    "paragraph_index": 31,
+                    "global_sentence_index": 79
+                }
+            ]
+        },
+        {
+            "paragraph_index": 32,
+            "sentences": [
+                {
+                    "sentence": "נזכור, כי סייג השכרות מהווה בפועל \"הגנה מדומה\"",
+                    "sentence_id": "0",
+                    "paragraph_index": 32,
+                    "global_sentence_index": 80
+                },
+                {
+                    "sentence": "מדובר בכלי משפטי שמרחיב בפועל את האחריות הפלילית וגם אם מבצע העבירה השיכור לא היה מודע למעשיו, הרי הוא לא יישמע בטענה זו (בחריג למצב בו השכרות נגרמה שלא מרצון ושלא מדעת)",
+                    "sentence_id": "1",
+                    "paragraph_index": 32,
+                    "global_sentence_index": 81
+                }
+            ]
+        },
+        {
+            "paragraph_index": 33,
+            "sentences": [
+                {
+                    "sentence": "עמד על כך בית המשפט במסגרת  חביבולין נ' מדינת ישראל, ניתן בתאריך 6/1/2010, באמרו את הדברים הבאים:\"",
+                    "sentence_id": "0",
+                    "paragraph_index": 33,
+                    "global_sentence_index": 82
+                },
+                {
+                    "sentence": "השכרות אינה מהווה הגנה של ממש, למעט במצב הנדיר והלא שכיח של שכרות שנגרמה שלא מרצונו ומדעתו של הנאשם",
+                    "sentence_id": "1",
+                    "paragraph_index": 33,
+                    "global_sentence_index": 83
+                },
+                {
+                    "sentence": "אך במצב הדברים הרגיל, כאשר אדם משתכר מרצונו החופשי, קובע המחוקק חזקה משפטית כי מתקיימת בו המחשבה הפלילית הנדרשת לביצוע העבירה\" ובהמשך:\"",
+                    "sentence_id": "2",
+                    "paragraph_index": 33,
+                    "global_sentence_index": 84
+                },
+                {
+                    "sentence": "בסופו של דבר, ומטעמים של מדיניות משפטית, הגנת השכרות היא \"הגנה מדומה\", שלמעשה מרחיבה את אחריותו של מבצע העבירה\" (ההדגשה במקור – י",
+                    "sentence_id": "3",
+                    "paragraph_index": 33,
+                    "global_sentence_index": 85
+                },
+                {
+                    "sentence": "ל",
+                    "sentence_id": "4",
+                    "paragraph_index": 33,
+                    "global_sentence_index": 86
+                }
+            ]
+        },
+        {
+            "paragraph_index": 34,
+            "sentences": [
+                {
+                    "sentence": "אשר על כן, לא יכולה להיטען, זו לצד זו טענת שכרות לצד טענת טעות במצב דברים:\"",
+                    "sentence_id": "0",
+                    "paragraph_index": 34,
+                    "global_sentence_index": 87
+                },
+                {
+                    "sentence": "מכאן שטענת טעות במצב דברים כאשר עסקינן במצב של שכרות היא תרתי דסתרי, שכן במצב של שכרות (מלאה או חלקית) כתוצאה מהתנהגות חופשית במקור, קמה חזקה של מודעות",
+                    "sentence_id": "1",
+                    "paragraph_index": 34,
+                    "global_sentence_index": 88
+                },
+                {
+                    "sentence": "\" (פס\"ד חביבולין לעיל)",
+                    "sentence_id": "2",
+                    "paragraph_index": 34,
+                    "global_sentence_index": 89
+                }
+            ]
+        },
+        {
+            "paragraph_index": 35,
+            "sentences": [
+                {
+                    "sentence": "עוד אזכיר, כי על פי קביעת בית המשפט המחוזי (פסקה עז' לפסק הדין), הביא את עצמו הנאשם בהתנהגותו הפסולה (צריכת אלכוהול במינונים גבוהים) למצב בו היה והדברים היו בהתייחס ל (כניסה למצב בהתנהגות פסולה)",
+                    "sentence_id": "0",
+                    "paragraph_index": 35,
+                    "global_sentence_index": 90
+                },
+                {
+                    "sentence": "לא נעלמה מעיני התייחסות ב\"כ הנאשם לכך, כי קביעה זו אינה מצומצמת יחסית ביחס לסייג של ההגנה העצמית והגנת בית מגורים (שם נדרשת צפיות בפועל בלבד ולא גם של האדם הסביר), אולם לאור האמור לעיל, לעניין אי יכולתן של שתי ההגנות לדור זו לצד זו, איני מוצא מקום להתייחס לכך",
+                    "sentence_id": "1",
+                    "paragraph_index": 35,
+                    "global_sentence_index": 91
+                }
+            ]
+        },
+        {
+            "paragraph_index": 36,
+            "sentences": [
+                {
+                    "sentence": "טענתו הבאה של ב\"כ הנאשם היתה, כי במקרים אחרים הסכימה המאשימה לפטור מאחריות פלילית נאשמים שעברו עבירות בהיותם במצב של דליריום טרמנס או כתוצאה משימוש ממושך באלכוהול",
+                    "sentence_id": "0",
+                    "paragraph_index": 36,
+                    "global_sentence_index": 92
+                }
+            ]
+        },
+        {
+            "paragraph_index": 37,
+            "sentences": [
+                {
+                    "sentence": "בהקשר לכך, הפנה ב\"כ הנאשם ל 3 מקרים שנדונו בבתי המשפט השלום והמחוזי",
+                    "sentence_id": "0",
+                    "paragraph_index": 37,
+                    "global_sentence_index": 93
+                },
+                {
+                    "sentence": "מדובר, לשיטת ב\"כ הנאשם במאשימה הטוענת טענות משפטיות הפוכות וסותרות ולפיכך היא מנועה מלטעון כיום את טענותיה ומשכך יש להחיל בנדון את הסעד של הגנה מן הצדק",
+                    "sentence_id": "1",
+                    "paragraph_index": 37,
+                    "global_sentence_index": 94
+                },
+                {
+                    "sentence": "ב\"כ הנאשם אף צירף (במסגרת הסיכומים שהוגשו כבר בתאריך 19/7/10) פרוטוקולים מתוך אותם הליכים (ת",
+                    "sentence_id": "2",
+                    "paragraph_index": 37,
+                    "global_sentence_index": 95
+                },
+                {
+                    "sentence": "פ",
+                    "sentence_id": "3",
+                    "paragraph_index": 37,
+                    "global_sentence_index": 96
+                },
+                {
+                    "sentence": "שלום נצרת 2200/05 מדינת ישראל נ' ספטור; החלטה מתאריך 5/5/2005; ת",
+                    "sentence_id": "4",
+                    "paragraph_index": 37,
+                    "global_sentence_index": 97
+                },
+                {
+                    "sentence": "פ",
+                    "sentence_id": "5",
+                    "paragraph_index": 37,
+                    "global_sentence_index": 98
+                },
+                {
+                    "sentence": "שלום חדרה 2052/07 מדינת ישראל נ' זילברגרג, החלטה מתאריך 5/12/2007; וכן הפנה לת",
+                    "sentence_id": "6",
+                    "paragraph_index": 37,
+                    "global_sentence_index": 99
+                },
+                {
+                    "sentence": "פ",
+                    "sentence_id": "7",
+                    "paragraph_index": 37,
+                    "global_sentence_index": 100
+                },
+                {
+                    "sentence": "(מחוזי באר שבע) מדינת ישראל נ' ליסיאקוב, ניתן בתאריך 13/1/1997)",
+                    "sentence_id": "8",
+                    "paragraph_index": 37,
+                    "global_sentence_index": 101
+                }
+            ]
+        },
+        {
+            "paragraph_index": 38,
+            "sentences": [
+                {
+                    "sentence": "בתגובה, ציינה המאשימה כי שני המקרים הראשונים לעיל שנדונו בבתי המשפט השלום אינם רלוונטיים לענייננו",
+                    "sentence_id": "0",
+                    "paragraph_index": 38,
+                    "global_sentence_index": 102
+                },
+                {
+                    "sentence": "הגם שהמאשימה הסכימה באותם שני מקרים כי הנאשמים אינם כשירים לעמוד לדין, הרי אין בפרוטוקולים שצורפו אינדיקציה כי מדובר במקרים הנוגעים לדליריום טרמנס וגם אם יש קשר, הרי שלא ברור מה היה הרקע הנפשי  של אותם נאשמים ומה היו כלל נסיבות העניין - הן הנוגע לנאשמים והן הנוגע למעשים אותם ביצעו",
+                    "sentence_id": "1",
+                    "paragraph_index": 38,
+                    "global_sentence_index": 103
+                },
+                {
+                    "sentence": "באשר לתיק אשר נדון בשנת 1997 בבית המשפט המחוזי בבאר שבע, ציינה המאשימה כי אכן שם – והדבר עולה באופן מפורש מהחלטת בית המשפט – היה מדובר במקרה בו הנאשם ביצע את המעשה (הריגה) בהיותו במצב של דליריום טרמנס",
+                    "sentence_id": "2",
+                    "paragraph_index": 38,
+                    "global_sentence_index": 104
+                },
+                {
+                    "sentence": "יחד עם זאת, צויין כי המאשימה שגתה באותו מקרה, כאשר הסכימה להפסקת ההליכים",
+                    "sentence_id": "3",
+                    "paragraph_index": 38,
+                    "global_sentence_index": 105
+                },
+                {
+                    "sentence": "זאת ועוד, לא ניתן להחזיק למאשימה את שגיאתה מה גם ששגיאה זו היתה לפני 14 שנים והיא אינה מייצגת מדיניות כלשהי",
+                    "sentence_id": "4",
+                    "paragraph_index": 38,
+                    "global_sentence_index": 106
+                },
+                {
+                    "sentence": "מדיניות המאשימה באה לידי ביטוי בתיק זה בהליך שבפני ובהליך שהיה בפני בית המשפט המחוזי",
+                    "sentence_id": "5",
+                    "paragraph_index": 38,
+                    "global_sentence_index": 107
+                }
+            ]
+        },
+        {
+            "paragraph_index": 39,
+            "sentences": [
+                {
+                    "sentence": "לאחר ששקלתי את טיעוני הצדדים בנדון סבורני כי אכן אין מקום לקבל את טיעוני ב\"כ הנאשם בנדון",
+                    "sentence_id": "0",
+                    "paragraph_index": 39,
+                    "global_sentence_index": 108
+                }
+            ]
+        },
+        {
+            "paragraph_index": 40,
+            "sentences": [
+                {
+                    "sentence": "עיון בפסקי הדין שניתנו בבתי המשפט השלום, אינו מלמד על זהות ואף לא על קרבה לזהות בין נתוני אותם תיקים לתיק שבפנינו",
+                    "sentence_id": "0",
+                    "paragraph_index": 40,
+                    "global_sentence_index": 109
+                },
+                {
+                    "sentence": "אכן, המאשימה לא פרסה בפני את אותם נתונים (הגם שיכולה היתה לעשות כן), אך גם אם הייתי מוצא דמיון בנתוני התיקים, עדיין רחוקה הדרך מהסקת מסקנות בנדון לחובת המאשימה, כי היא נהגה במקרה דנן באופן פסול",
+                    "sentence_id": "1",
+                    "paragraph_index": 40,
+                    "global_sentence_index": 110
+                },
+                {
+                    "sentence": "חובתה של המאשימה לשקול ולגבש את מדיניותה מעת לעת ולהביאה בפני בית המשפט, כפי שעשתה בתיק זה ובתיקים דומים אחרים, כגון מקרהו של קאדריה שנדון לעיל",
+                    "sentence_id": "2",
+                    "paragraph_index": 40,
+                    "global_sentence_index": 111
+                }
+            ]
+        },
+        {
+            "paragraph_index": 41,
+            "sentences": [
+                {
+                    "sentence": "אף אם אניח, כי המאשימה שגתה מבחינתה, לא רק במקרה שנדון לפני כ 14 שנים בבאר שבע, אלא גם בשני התיקים שנדונו בשנת 2005 ו 2007, הרי עדיין איני יכול לקבוע (ונזכור, כי הנטל בנדון מוטל על הנאשם) כי מעורבים בהחלטות המאשימה שיקולים זרים פסולים או שרירות לב המצדיקים את ביטולו של כתב האישום, או כי ניהול ההליך עומד בסתירה מהותית לעקרונות של צדק והגינות משפטית",
+                    "sentence_id": "0",
+                    "paragraph_index": 41,
+                    "global_sentence_index": 112
+                }
+            ]
+        },
+        {
+            "paragraph_index": 42,
+            "sentences": [
+                {
+                    "sentence": "טענתו האחרונה של ב\"כ הנאשם היתה, כי גם אם ייקבע כי יש בהתנהגותו של הנאשם משום עבירה פלילית, עומד לו הסייג  הקבוע ב לחוק בדבר זוטי דברים",
+                    "sentence_id": "0",
+                    "paragraph_index": 42,
+                    "global_sentence_index": 113
+                }
+            ]
+        },
+        {
+            "paragraph_index": 43,
+            "sentences": [
+                {
+                    "sentence": "מדובר, כך לשיטת ב\"כ הנאשם, במעשים שאינם עוברים את רף הפליליות הנדרש מבחינה מהותית לשם הרשעה",
+                    "sentence_id": "0",
+                    "paragraph_index": 43,
+                    "global_sentence_index": 114
+                },
+                {
+                    "sentence": "בהקשר זה נטען, כי הנאשם הינו נעדר עבר פלילי אשר פעל כפי שפעל מתוך מצוקה אישית וסברה אמיתית מבחינתו כי מעשיו נעשים לשם הגנה על חייו וחיי אשתו",
+                    "sentence_id": "1",
+                    "paragraph_index": 43,
+                    "global_sentence_index": 115
+                }
+            ]
+        },
+        {
+            "paragraph_index": 44,
+            "sentences": [
+                {
+                    "sentence": "מנגד, עמדה המאשימה על נסיבות האירוע – על כך שהנאשם קפץ מדירתו על רכב המתלונן כשבידיו שני סכינים ולאחר מכן עמד כך באמצע הרחוב",
+                    "sentence_id": "0",
+                    "paragraph_index": 44,
+                    "global_sentence_index": 116
+                },
+                {
+                    "sentence": "המאשימה אמנם לא הזכירה כי מייד לאחר מכן ניגש הנאשם לחנות סמוכה ודאג להזעקת המשטרה למקום, אולם דומני שאין חולק כי האירוע יכול היה להסתיים בתוצאות חמורות הרבה יותר",
+                    "sentence_id": "1",
+                    "paragraph_index": 44,
+                    "global_sentence_index": 117
+                },
+                {
+                    "sentence": "עוד נטען בהקשר זה, כי העבירה של החזקת סכין אינה מצדיקה ברוב המוחלט של המקרים את החלת הגנת הסייג של זוטי דברים ולא ניתן לטעון, כי מדובר במעשה חסר משמעות או פעוט ערך",
+                    "sentence_id": "2",
+                    "paragraph_index": 44,
+                    "global_sentence_index": 118
+                }
+            ]
+        },
+        {
+            "paragraph_index": 45,
+            "sentences": [
+                {
+                    "sentence": "אודה, כי מכל טענות ב\"כ הנאשם, טענתו האחרונה בהקשר לזוטי דברים, היתה השובה מכל",
+                    "sentence_id": "0",
+                    "paragraph_index": 45,
+                    "global_sentence_index": 119
+                },
+                {
+                    "sentence": "לא משום נסיבות האירוע עצמו, שכפי שציינתי לעיל לא היו קלות בעיני ורק בנס לא הסתיים האירוע באופן חמור יותר, אלא בעיקר משום מצוקתו הסובייקטיבית של הנאשם בעת ביצוע העבירה בשל המחשבות בהן היה לכוד, וכן בשל פער הזמנים הבלתי מבוטל של כשבוע, שעבר ממועד הפסקת צריכת האלכוהול ועד מועד האירוע",
+                    "sentence_id": "1",
+                    "paragraph_index": 45,
+                    "global_sentence_index": 120
+                },
+                {
+                    "sentence": "דא עקא, כי על אותן נסיבות בדיוק ניתן להשקיף – באותה מידה של צדק – במבט ביקורתי ולטעון כי הנאשם יכול לבא בטענות רק אל עצמו",
+                    "sentence_id": "2",
+                    "paragraph_index": 45,
+                    "global_sentence_index": 121
+                }
+            ]
+        },
+        {
+            "paragraph_index": 46,
+            "sentences": [
+                {
+                    "sentence": "עסקינן בסייג של זוטי דברים",
+                    "sentence_id": "0",
+                    "paragraph_index": 46,
+                    "global_sentence_index": 122
+                },
+                {
+                    "sentence": "מפרט ארבעה תנאים מצטברים ליישומו: \"טיבו של המעשה, נסיבותיו, תוצאותיו והאינטרס הציבורי\"",
+                    "sentence_id": "1",
+                    "paragraph_index": 46,
+                    "global_sentence_index": 123
+                },
+                {
+                    "sentence": "כפי שנקבע ב מדינת ישראל נ' אריאל הנדסת חשמל  רמזורים ובקרה בע\"מ ואח', ניתן בתאריך 14/7/2005:\"ניסוחו הכללי של הסעיף מעלה את השאלה בדבר המשקל הסגולי של כל אחד מהתנאים, וכיצד לערוך את השקלול הסופי ביניהם",
+                    "sentence_id": "2",
+                    "paragraph_index": 46,
+                    "global_sentence_index": 124
+                },
+                {
+                    "sentence": "נראה, שלא ניתן לקבוע מראש את המשקל המדויק שיש לייחס לכל תנאי, שכן לכל מקרה הנסיבות המיוחדות לו",
+                    "sentence_id": "3",
+                    "paragraph_index": 46,
+                    "global_sentence_index": 125
+                },
+                {
+                    "sentence": "עם זאת, הגישה הרווחת היא כי משקלו של התנאי האחרון, בדבר האינטרס הציבורי, רב יותר מזה של השאר (י' קדמי, על הדין בפלילים, חלק ראשון (תשס\"ה), 556)\"",
+                    "sentence_id": "4",
+                    "paragraph_index": 46,
+                    "global_sentence_index": 126
+                }
+            ]
+        },
+        {
+            "paragraph_index": 47,
+            "sentences": [
+                {
+                    "sentence": "במקרה דנן, איני יכול לקבוע כי לא קיים אינטרס ציבורי בהעמדת הנאשם לדין",
+                    "sentence_id": "0",
+                    "paragraph_index": 47,
+                    "global_sentence_index": 127
+                },
+                {
+                    "sentence": "נהפוך הוא,  דווקא משום חוסר המודעות לסכנות האורבות בשתייה ממושכת של אלכוהול, קיים אינטרס ציבורי בהעמדת הנאשם לדין",
+                    "sentence_id": "1",
+                    "paragraph_index": 47,
+                    "global_sentence_index": 128
+                },
+                {
+                    "sentence": "זאת ועוד, לאור השימוש בשני סכינים וכלל נסיבות האירוע, ברור כי נשקפה ממעשה העבירה מידה של סכנה לציבור",
+                    "sentence_id": "2",
+                    "paragraph_index": 47,
+                    "global_sentence_index": 129
+                },
+                {
+                    "sentence": "סוף דבר, אני מורה גם על דחיית טענה זו",
+                    "sentence_id": "3",
+                    "paragraph_index": 47,
+                    "global_sentence_index": 130
+                }
+            ]
+        },
+        {
+            "paragraph_index": 48,
+            "sentences": [
+                {
+                    "sentence": "אשר על כן, אני מרשיע את הנאשם בעבירות המיוחסות לו: היזק בזדון – עבירה לפי  לחוק וכן בעבירה של החזקת סכין – עבירה לפי  לחוק",
+                    "sentence_id": "0",
+                    "paragraph_index": 48,
+                    "global_sentence_index": 131
+                }
+            ]
+        },
+        {
+            "paragraph_index": 49,
+            "sentences": []
+        },
+        {
+            "paragraph_index": 50,
+            "sentences": [
+                {
+                    "sentence": "ניתנה והודעה היום א' אב תשע\"א, 01/08/2011 במעמד הנוכחים",
+                    "sentence_id": "0",
+                    "paragraph_index": 50,
+                    "global_sentence_index": 132
+                }
+            ]
+        },
+        {
+            "paragraph_index": 51,
+            "sentences": [
+                {
+                    "sentence": "ב\"כ הצדדים:",
+                    "sentence_id": "0",
+                    "paragraph_index": 51,
+                    "global_sentence_index": 133
+                }
+            ]
+        },
+        {
+            "paragraph_index": 52,
+            "sentences": [
+                {
+                    "sentence": "נבקש הפסקה של 15 דקות לעיין בהכרעת הדין",
+                    "sentence_id": "0",
+                    "paragraph_index": 52,
+                    "global_sentence_index": 134
+                }
+            ]
+        },
+        {
+            "paragraph_index": 53,
+            "sentences": [
+                {
+                    "sentence": "לאחר ההפסקה:",
+                    "sentence_id": "0",
+                    "paragraph_index": 53,
+                    "global_sentence_index": 135
+                }
+            ]
+        },
+        {
+            "paragraph_index": 54,
+            "sentences": [
+                {
+                    "sentence": "ב\"כ המאשימה טוען לעונש:",
+                    "sentence_id": "0",
+                    "paragraph_index": 54,
+                    "global_sentence_index": 136
+                }
+            ]
+        },
+        {
+            "paragraph_index": 55,
+            "sentences": [
+                {
+                    "sentence": "אבקש לחלק את הטענות ל – 2. כל העובדות שהגיעו טרם העבירות, מדובר בנאשם שהיה מכור לטיפה המרה, לא יודעים מה קורה איתו עכשיו",
+                    "sentence_id": "0",
+                    "paragraph_index": 55,
+                    "global_sentence_index": 137
+                },
+                {
+                    "sentence": "מעל שנה שתה כמויות גדולות כל אלכוהול, על בסיס יום יומי",
+                    "sentence_id": "1",
+                    "paragraph_index": 55,
+                    "global_sentence_index": 138
+                },
+                {
+                    "sentence": "לא קיבל טפול, לא פנה לאף אחד, לא לגורם רפואי ועל כך גם אשתו העידה",
+                    "sentence_id": "2",
+                    "paragraph_index": 55,
+                    "global_sentence_index": 139
+                }
+            ]
+        },
+        {
+            "paragraph_index": 56,
+            "sentences": [
+                {
+                    "sentence": "עד שהגיעה העבירה",
+                    "sentence_id": "0",
+                    "paragraph_index": 56,
+                    "global_sentence_index": 140
+                },
+                {
+                    "sentence": "העבירה היא עבירה חמורה, אמנם לא של סכינאות רגילה, אך עבירה חמורה",
+                    "sentence_id": "1",
+                    "paragraph_index": 56,
+                    "global_sentence_index": 141
+                },
+                {
+                    "sentence": "מגיש פסק דין של ביהמ\"ש העליון ()",
+                    "sentence_id": "2",
+                    "paragraph_index": 56,
+                    "global_sentence_index": 142
+                },
+                {
+                    "sentence": "מפנה לנזק שיכול היה להיגרם",
+                    "sentence_id": "3",
+                    "paragraph_index": 56,
+                    "global_sentence_index": 143
+                }
+            ]
+        },
+        {
+            "paragraph_index": 57,
+            "sentences": [
+                {
+                    "sentence": "זה לא המקרה הקלאסי של החזקת סכין, אך אין ספק שהנזק שיכול היה להיגרם הוא חמור",
+                    "sentence_id": "0",
+                    "paragraph_index": 57,
+                    "global_sentence_index": 144
+                }
+            ]
+        },
+        {
+            "paragraph_index": 58,
+            "sentences": [
+                {
+                    "sentence": "הבעיה העיקרית, שהוא לא פנה לקבל טפול תקופה ארוכה",
+                    "sentence_id": "0",
+                    "paragraph_index": 58,
+                    "global_sentence_index": 145
+                },
+                {
+                    "sentence": "הוא לא שלט במעשיו, כמו שבאמת היה במקרה זה",
+                    "sentence_id": "1",
+                    "paragraph_index": 58,
+                    "global_sentence_index": 146
+                },
+                {
+                    "sentence": "עמדתו של  ביהמ\"ש העליון כאשר מדובר בעבירת סכין, למרות שאין לו עבר פלילי, למאסר בפועל",
+                    "sentence_id": "2",
+                    "paragraph_index": 58,
+                    "global_sentence_index": 147
+                }
+            ]
+        },
+        {
+            "paragraph_index": 59,
+            "sentences": [
+                {
+                    "sentence": "כמו כן, למאשימה ידוע הענין שהוא היה חודשים ארוכים בטירת הכרמל, מאושפז בבית חולים פסיכיאטרי בתנאי מעצר, דבר לא קל וצריך להתחשב בכך",
+                    "sentence_id": "0",
+                    "paragraph_index": 59,
+                    "global_sentence_index": 148
+                },
+                {
+                    "sentence": "אך בכל זאת, אנו חושבים שראוי לגזור עליו מאסר בפועל, מאסר על תנאי וכמובן להשמיד את המוצגים, 2 הסכינים",
+                    "sentence_id": "1",
+                    "paragraph_index": 59,
+                    "global_sentence_index": 149
+                }
+            ]
+        },
+        {
+            "paragraph_index": 60,
+            "sentences": [
+                {
+                    "sentence": "ב\"כ הנאשם טוען לעונש:",
+                    "sentence_id": "0",
+                    "paragraph_index": 60,
+                    "global_sentence_index": 150
+                }
+            ]
+        },
+        {
+            "paragraph_index": 61,
+            "sentences": [
+                {
+                    "sentence": "הנאשם יליד 1946, נעדר עבר פלילי, אין לחובתו תיקים פתוחים, מעולם לא היו גם תיקים פתוחים",
+                    "sentence_id": "0",
+                    "paragraph_index": 61,
+                    "global_sentence_index": 151
+                },
+                {
+                    "sentence": "מפנה לנסיבותיו האישיות ולנסיבות חייו שנפרשו בהרחבה בחוות הדעת",
+                    "sentence_id": "1",
+                    "paragraph_index": 61,
+                    "global_sentence_index": 152
+                },
+                {
+                    "sentence": "הנאשם עלה לארץ בשנת 2000, מדובר באדם נורמטיבי",
+                    "sentence_id": "2",
+                    "paragraph_index": 61,
+                    "global_sentence_index": 153
+                },
+                {
+                    "sentence": "בתיק זה התעוררו סוגיות משפטיות מורכבות, באשר לעצם האחריות הפלילית של הנאשם",
+                    "sentence_id": "3",
+                    "paragraph_index": 61,
+                    "global_sentence_index": 154
+                },
+                {
+                    "sentence": "ביהמ\"ש הזה סבר שהנאשם אינו נושא באחריות פלילית בשל הסייג של העדר שליטה; וביהמ\"ש המחוזי סבר כי יש לבחון את המקרה לפי סייג השכרות בלבד",
+                    "sentence_id": "4",
+                    "paragraph_index": 61,
+                    "global_sentence_index": 155
+                },
+                {
+                    "sentence": "כוונת הסנגוריה להגיש בקשת רשות ערעור על קביעה מרחיקת לכת זו שאינה תואמת את המשפט המשווה ואת הפסיקה המקובלת בארה\"ב וגם פסקי דין נוספים בישראל",
+                    "sentence_id": "5",
+                    "paragraph_index": 61,
+                    "global_sentence_index": 156
+                }
+            ]
+        },
+        {
+            "paragraph_index": 62,
+            "sentences": [
+                {
+                    "sentence": "לא היתה מחלוקת כי ידוע שהנאשם היה במצב פסיכוטי בעת האירוע ולדעת מומחים בפסיכיאטריה  מטעם הפסיכיאטר המחוזי, היא סברה שהוא לא יכול היה להבחין בין טוב לרע בעת האירוע",
+                    "sentence_id": "0",
+                    "paragraph_index": 62,
+                    "global_sentence_index": 157
+                }
+            ]
+        },
+        {
+            "paragraph_index": 63,
+            "sentences": [
+                {
+                    "sentence": "הנאשם כיום אינו מסוכן לאחר שעבר אשפוז ממושך בתנאי מעצר במרכז לבריאות הנפש בטירת הכרמל",
+                    "sentence_id": "0",
+                    "paragraph_index": 63,
+                    "global_sentence_index": 158
+                },
+                {
+                    "sentence": "הנאשם קיבל שם טפול ארוך טווח על מנת למנוע התקפים חוזרים של דליריום טרמנס וגם קיבל טפול בנוגדי דיכאון",
+                    "sentence_id": "1",
+                    "paragraph_index": 63,
+                    "global_sentence_index": 159
+                },
+                {
+                    "sentence": "מפנה לעמ' 12 בפרו', שם ד\"ר טל פירטה את הטיפולים השונים שהוא עבר במהלך אשפוזו",
+                    "sentence_id": "2",
+                    "paragraph_index": 63,
+                    "global_sentence_index": 160
+                },
+                {
+                    "sentence": "למעשה, הנאשם שהה במעצר מיום האירוע, 01.3.10 ועד  הכרעת הדין שניתנה ע\"י ביהמ\"ש זה ביום 29.7.10.",
+                    "sentence_id": "3",
+                    "paragraph_index": 63,
+                    "global_sentence_index": 161
+                }
+            ]
+        },
+        {
+            "paragraph_index": 64,
+            "sentences": [
+                {
+                    "sentence": "יצוין, כי הנאשם לא הפסיק את הטפול עם מתן הכרעת הדין ומפנה לפרו' מאותו יום – עמ' 66, 67 לפרו'",
+                    "sentence_id": "0",
+                    "paragraph_index": 64,
+                    "global_sentence_index": 162
+                },
+                {
+                    "sentence": "למעשה, הנאשם שוחרר מבית החולים רק לאחר שהשלים את הטפול לשביעות רצונם של הרופאים",
+                    "sentence_id": "1",
+                    "paragraph_index": 64,
+                    "global_sentence_index": 163
+                },
+                {
+                    "sentence": "הנאשם מסר לי שהמשיך להיות  מאושפז עד ליום 04.8.10.",
+                    "sentence_id": "2",
+                    "paragraph_index": 64,
+                    "global_sentence_index": 164
+                }
+            ]
+        },
+        {
+            "paragraph_index": 65,
+            "sentences": [
+                {
+                    "sentence": "מפנה לכך כי ד\"ר טל תיארה את הנאשם כאדם חיובי, שאינו מניפולטיבי, אינו מתוחכם, עמ' 19 לפרו'",
+                    "sentence_id": "0",
+                    "paragraph_index": 65,
+                    "global_sentence_index": 165
+                },
+                {
+                    "sentence": "ד\"ר טל תיארה אותו כיצד הוא נהג לסייע ואף לסעוד מטופלים אחרים שמח' בה היה מאושפז",
+                    "sentence_id": "1",
+                    "paragraph_index": 65,
+                    "global_sentence_index": 166
+                },
+                {
+                    "sentence": "כך שהצוות הרפואי ראה בו כחלק מהצוות והוא ממש סייע שם",
+                    "sentence_id": "2",
+                    "paragraph_index": 65,
+                    "global_sentence_index": 167
+                },
+                {
+                    "sentence": "מפה לעמ' 18 לפרו'",
+                    "sentence_id": "3",
+                    "paragraph_index": 65,
+                    "global_sentence_index": 168
+                }
+            ]
+        },
+        {
+            "paragraph_index": 66,
+            "sentences": [
+                {
+                    "sentence": "אציין, כי במסגרת מעצרו הוצגה בזמנו בהסכמה במסגרת ערר במחוזי ובשים לב לחוות הדעת הפסיכי' שמדובר במעצר לכל דבר ועניין ויש לראות בכך תקופת מאסר",
+                    "sentence_id": "0",
+                    "paragraph_index": 66,
+                    "global_sentence_index": 169
+                }
+            ]
+        },
+        {
+            "paragraph_index": 67,
+            "sentences": [
+                {
+                    "sentence": "הנאשם העדיף בזמנו להיות מאושפז על מנת לקבל טפול שימנע הישנות של דליריום טרמנס",
+                    "sentence_id": "0",
+                    "paragraph_index": 67,
+                    "global_sentence_index": 170
+                }
+            ]
+        },
+        {
+            "paragraph_index": 68,
+            "sentences": [
+                {
+                    "sentence": "אבקש לזקוף לזכותו את העובדה כי הוא הזעיק את המשטרה למקום האירוע לאחר שהוא חש בסכנה בשל מצבו",
+                    "sentence_id": "0",
+                    "paragraph_index": 68,
+                    "global_sentence_index": 171
+                }
+            ]
+        },
+        {
+            "paragraph_index": 69,
+            "sentences": [
+                {
+                    "sentence": "ברור שבד\"כ עבריין אינו מזעיק משטרה, כך שמדובר באירוע חריג ביותר",
+                    "sentence_id": "0",
+                    "paragraph_index": 69,
+                    "global_sentence_index": 172
+                },
+                {
+                    "sentence": "הוא הרגיש שהוא זקוק לעזרה",
+                    "sentence_id": "1",
+                    "paragraph_index": 69,
+                    "global_sentence_index": 173
+                },
+                {
+                    "sentence": "זה מצביע על כך שמדובר באדם נורמטיבי ביסודו",
+                    "sentence_id": "2",
+                    "paragraph_index": 69,
+                    "global_sentence_index": 174
+                },
+                {
+                    "sentence": "הוא ביקש את עזרת המשטרה",
+                    "sentence_id": "3",
+                    "paragraph_index": 69,
+                    "global_sentence_index": 175
+                }
+            ]
+        },
+        {
+            "paragraph_index": 70,
+            "sentences": [
+                {
+                    "sentence": "לאחר שהוא קיבל טפול פסיכיאטרי, לא נשקפת ממנו כל מסוכנות",
+                    "sentence_id": "0",
+                    "paragraph_index": 70,
+                    "global_sentence_index": 176
+                },
+                {
+                    "sentence": "גם בעבירות של החזקת סכין, הענישה הינה אינדיבידואלית",
+                    "sentence_id": "1",
+                    "paragraph_index": 70,
+                    "global_sentence_index": 177
+                },
+                {
+                    "sentence": "מפנה ל, שם ביהמ\"ש העליון קיבל בקשת רשות ערעור על פסק דין של מחוזי חיפה והותיר את החלטת ביהמ\"ש השלום, כב' השופטת אבירם , התיק הסתיים ללא הרשעה",
+                    "sentence_id": "2",
+                    "paragraph_index": 70,
+                    "global_sentence_index": 178
+                }
+            ]
+        },
+        {
+            "paragraph_index": 71,
+            "sentences": [
+                {
+                    "sentence": "אבקש לזקוף לזכותו של הנאשם, כי במקרים דומים של דליריום טרמנס, המדינה הסכימה להפסקת ההליכים וביהמ\"ש התייחס לטענה זו בהכרעת הדין",
+                    "sentence_id": "0",
+                    "paragraph_index": 71,
+                    "global_sentence_index": 179
+                },
+                {
+                    "sentence": "גם אם ביהמ\"ש סבר שאין הדבר  מתאים, הרי שלא ניתן להתעלם ממנה בשלב גזירת הענוש",
+                    "sentence_id": "1",
+                    "paragraph_index": 71,
+                    "global_sentence_index": 180
+                }
+            ]
+        },
+        {
+            "paragraph_index": 72,
+            "sentences": [
+                {
+                    "sentence": "ביהמ\"ש גם ציין בהכרעת הדין שהטענה של זוטי דברים היא טענה שובת לב, כך שאם היא היתה שובת לב כפי שביהמ\"ש סבר, אין זה המקרה לטעון למאסר בתיק",
+                    "sentence_id": "0",
+                    "paragraph_index": 72,
+                    "global_sentence_index": 181
+                }
+            ]
+        },
+        {
+            "paragraph_index": 73,
+            "sentences": [
+                {
+                    "sentence": "אבקש להסתפק בתקופת המעצר שהנאשם כבר ריצה",
+                    "sentence_id": "0",
+                    "paragraph_index": 73,
+                    "global_sentence_index": 182
+                },
+                {
+                    "sentence": "אציין, שהנזק שנגרם ליריעת הבד, הוא זניח",
+                    "sentence_id": "1",
+                    "paragraph_index": 73,
+                    "global_sentence_index": 183
+                }
+            ]
+        },
+        {
+            "paragraph_index": 74,
+            "sentences": [
+                {
+                    "sentence": "אציין כי המאשימה אף לא מצאה לנכון לייחס לו עבירה של חבלה ברכב, כי השריטה היתה מאוד זניחה",
+                    "sentence_id": "0",
+                    "paragraph_index": 74,
+                    "global_sentence_index": 184
+                }
+            ]
+        },
+        {
+            "paragraph_index": 75,
+            "sentences": []
+        },
+        {
+            "paragraph_index": 76,
+            "sentences": [
+                {
+                    "sentence": "גזר דין",
+                    "sentence_id": "0",
+                    "paragraph_index": 76,
+                    "global_sentence_index": 185
+                }
+            ]
+        },
+        {
+            "paragraph_index": 77,
+            "sentences": [
+                {
+                    "sentence": "1.\tהנאשם הורשע בביצוע 2 עבירות: היזק בזדון – עבירה לפי  ל, תשל\"ז – 1977 (להלן: החוק) וכן החזקת סכין - עבירה לפי  לחוק",
+                    "sentence_id": "0",
+                    "paragraph_index": 77,
+                    "global_sentence_index": 186
+                }
+            ]
+        },
+        {
+            "paragraph_index": 78,
+            "sentences": [
+                {
+                    "sentence": "2.\tפרטי האירוע וכלל הנסיבות פורטו בהרחבה, הן במסגרת הכרעת דיני מתאריך 29.7.10, הן במסגרת פסק דינו של ביהמ\"ש המחוזי מתאריך 24.2.11 () והן במסגרת הכרעת דיני שניתנה היום בעקבות קביעות ביהמ\"ש המחוזי",
+                    "sentence_id": "0",
+                    "paragraph_index": 78,
+                    "global_sentence_index": 187
+                }
+            ]
+        },
+        {
+            "paragraph_index": 79,
+            "sentences": [
+                {
+                    "sentence": "3.\tבקצרה, אציין כי בתאריך 01.3.10, בעת שהנאשם היה במצב של דליריום טרמנס, והיה עקב כך במצב פסיכוטי, הוא קפץ מדירתו המצויה בקומה הראשונה על גבי יריעת בד שהיתה פרושה מעל רכב, ירד מאותו רכב ונעמד בלב שכונת הדר בחיפה, כשהוא אוחז בידו 2 סכינים",
+                    "sentence_id": "0",
+                    "paragraph_index": 79,
+                    "global_sentence_index": 188
+                }
+            ]
+        },
+        {
+            "paragraph_index": 80,
+            "sentences": [
+                {
+                    "sentence": "הנאשם סבר, משום אותו מצב בו הוא היה, כי אנשים זרים פרצו לדירתו ומתכוונים להרע לרעייתו",
+                    "sentence_id": "0",
+                    "paragraph_index": 80,
+                    "global_sentence_index": 189
+                },
+                {
+                    "sentence": "על רקע זה, הוא ביקש מבעל חנות סמוכה להזמין משטרה",
+                    "sentence_id": "1",
+                    "paragraph_index": 80,
+                    "global_sentence_index": 190
+                }
+            ]
+        },
+        {
+            "paragraph_index": 81,
+            "sentences": [
+                {
+                    "sentence": "4.\tהמאשימה, שהיתה מודעת לנתוני היסוד בתיק זה ולקביעות ביהמ\"ש זה וביהמ\"ש המחוזי, עתרה לעונש של מאסר בפועל והפנתה לחומרת המעשה ולרמת הענישה בעבירות מעין אלו, שבהן הורשע הנאשם",
+                    "sentence_id": "0",
+                    "paragraph_index": 81,
+                    "global_sentence_index": 191
+                }
+            ]
+        },
+        {
+            "paragraph_index": 82,
+            "sentences": [
+                {
+                    "sentence": "5.\tמנגד, הפנה ב\"כ הנאשם לכלל הנסיבות אשר מוליכות, לשיטתו, לענישה הצופה פני עתיד בלבד",
+                    "sentence_id": "0",
+                    "paragraph_index": 82,
+                    "global_sentence_index": 192
+                }
+            ]
+        },
+        {
+            "paragraph_index": 83,
+            "sentences": [
+                {
+                    "sentence": "בהקשר זה, בין היתר, ציין ב\"כ הנאשם, את תקופת מעצרו הארוכה של הנאשם בתיק זה, בה היה מאושפז, את העובדה כי גם לאחר הכרעת דיני מתאריך 29.7.10, הוא נותר מאושפז במסלול האזרחי והמשיך לקבל טפול בבעיותיו הרפואיות, את גילו המבוגר יחסית, את העדר עבר פלילי ואת אופיו ואישיותו",
+                    "sentence_id": "0",
+                    "paragraph_index": 83,
+                    "global_sentence_index": 193
+                }
+            ]
+        },
+        {
+            "paragraph_index": 84,
+            "sentences": [
+                {
+                    "sentence": "6.\tלאחר ששקלתי את כלל נסיבות הענין, אני רואה עין בעין עם טענות ב\"כ הנאשם, ככל שהדברים נוגעים לרמת הענישה הראויה",
+                    "sentence_id": "0",
+                    "paragraph_index": 84,
+                    "global_sentence_index": 194
+                }
+            ]
+        },
+        {
+            "paragraph_index": 85,
+            "sentences": [
+                {
+                    "sentence": "הנאשם הינו יליד 1946, ללא עבר פלילי",
+                    "sentence_id": "0",
+                    "paragraph_index": 85,
+                    "global_sentence_index": 195
+                },
+                {
+                    "sentence": "מבלי להקל ראש בנסיבות ביצוע העבירה, אשר יכלו להסתיים באופן חמור הרבה יותר, הרי שלא ניתן להתעלם מכלל הנסיבות שפורטו בהכרעות הדין שניתנו על ידי וכן בפסק דינו של ביהמ\"ש המחוזי",
+                    "sentence_id": "1",
+                    "paragraph_index": 85,
+                    "global_sentence_index": 196
+                }
+            ]
+        },
+        {
+            "paragraph_index": 86,
+            "sentences": [
+                {
+                    "sentence": "מדובר היה במי שעל רקע צריכת אלכוהול, נכנס למצב של דליריום טרמנס והיה מצוי בסכנת חיים אמיתית וכן היה מצוי במצב פסיכוטי, במסגרתו הוא סבר שאנשים זרים פרצו לביתו ומבקשים להרע לרעייתו",
+                    "sentence_id": "0",
+                    "paragraph_index": 86,
+                    "global_sentence_index": 197
+                },
+                {
+                    "sentence": "על רקע זה, הוא קפץ מביתו וביקש מאדם אחר להזמין משטרה",
+                    "sentence_id": "1",
+                    "paragraph_index": 86,
+                    "global_sentence_index": 198
+                }
+            ]
+        },
+        {
+            "paragraph_index": 87,
+            "sentences": [
+                {
+                    "sentence": "הגם שנסיבותיו של הנאשם ושל האירוע לא הצדיקו את החלת אחד מהסייגים, להם טען ב\"כ הנאשם, הרי שיש מקום לשקלל את כלל נסיבות האירוע לענין העונש",
+                    "sentence_id": "0",
+                    "paragraph_index": 87,
+                    "global_sentence_index": 199
+                }
+            ]
+        },
+        {
+            "paragraph_index": 88,
+            "sentences": [
+                {
+                    "sentence": "כבר נקבע: \"",
+                    "sentence_id": "0",
+                    "paragraph_index": 88,
+                    "global_sentence_index": 200
+                },
+                {
+                    "sentence": "כי שאלה מהו המשקל שיש ליתן למצבו הנפשי של הנאשם בעת ביצוע העבירה לצורך הקלה בעונש, היא שאלה \"כמותית\" , אשר יש לבחון בגדרה כל מקרה לגופו, על פי נסיבות ביצוע העבירה וחומרתה ועל פי נסיבותיו האישיות של הנאשם",
+                    "sentence_id": "1",
+                    "paragraph_index": 88,
+                    "global_sentence_index": 201
+                },
+                {
+                    "sentence": "במכלול הנסיבות הקשורות למבצע העבירה, יש לבחון את סוג ההפרעה הנפשית ועוצמתה ועד כמה הוגבלה בעטייה יכולתו להבין את אשר הוא עושה או להימנע מעשיית המעשה",
+                    "sentence_id": "2",
+                    "paragraph_index": 88,
+                    "global_sentence_index": 202
+                },
+                {
+                    "sentence": "מידת אחריותו המוסרית של העבריין למעשה שביצע נגזרת מגודל הפגיעה בתפיסת המציאות ובמידת השליטה שלו על מעשהו בשל מצבו הנפשי, ובהלימה לכך, על ביהמ\"ש לגזור את עונשו לקולא או לחומרא",
+                    "sentence_id": "3",
+                    "paragraph_index": 88,
+                    "global_sentence_index": 203
+                },
+                {
+                    "sentence": "( אלבו נ' מדינת ישראל, ניתן בתאריך 15.9.10)",
+                    "sentence_id": "4",
+                    "paragraph_index": 88,
+                    "global_sentence_index": 204
+                }
+            ]
+        },
+        {
+            "paragraph_index": 89,
+            "sentences": [
+                {
+                    "sentence": "7.\tבהקשר לנאשם שבפניי, אכן יש לקחת בחשבון את תקופת המעצר הלא מבוטלת, בה שהה הנאשם בגין תיק זה (מתאריך 01.3.10 ועד 29.7.10), את גילו, כפי שציינתי לעיל, את העובדה כי הוא נעדר עבר פלילי וכן את העובדה, כי ככל שעלה בפניי, הוא סיים בהצלחה את הטיפול הממושך אותו עבר במסגרת המרכז לבריאות הנפש בטירת הכרמל",
+                    "sentence_id": "0",
+                    "paragraph_index": 89,
+                    "global_sentence_index": 205
+                }
+            ]
+        },
+        {
+            "paragraph_index": 90,
+            "sentences": [
+                {
+                    "sentence": "8.\tסוף דבר – לאחר ששקללתי את הנתונים ואת הטיעונים לעיל, לכאן ולכאן, אני משית על הנאשם את העונש הבא:",
+                    "sentence_id": "0",
+                    "paragraph_index": 90,
+                    "global_sentence_index": 206
+                }
+            ]
+        },
+        {
+            "paragraph_index": 91,
+            "sentences": [
+                {
+                    "sentence": "הנני דן את הנאשם למאסר לתקופה של חודשיים, וזאת על תנאי למשך 3 שנים מהיום, והתנאי הוא כי הנאשם לא יעבור את העבירות בהן הורשע",
+                    "sentence_id": "0",
+                    "paragraph_index": 91,
+                    "global_sentence_index": 207
+                }
+            ]
+        },
+        {
+            "paragraph_index": 92,
+            "sentences": [
+                {
+                    "sentence": "זכות ערעור תוך 45 יום לביהמ\"ש המחוזי",
+                    "sentence_id": "0",
+                    "paragraph_index": 92,
+                    "global_sentence_index": 208
+                }
+            ]
+        },
+        {
+            "paragraph_index": 93,
+            "sentences": []
+        },
+        {
+            "paragraph_index": 94,
+            "sentences": [
+                {
+                    "sentence": "ניתן והודע היום א' אב תשע\"א, 01/08/2011 במעמד הנוכחים",
+                    "sentence_id": "0",
+                    "paragraph_index": 94,
+                    "global_sentence_index": 209
+                }
+            ]
+        },
+        {
+            "paragraph_index": 95,
+            "sentences": []
+        },
+        {
+            "paragraph_index": 96,
+            "sentences": [
+                {
+                    "sentence": "יחיאל ליפשיץ 54678313",
+                    "sentence_id": "0",
+                    "paragraph_index": 96,
+                    "global_sentence_index": 210
+                }
+            ]
+        },
+        {
+            "paragraph_index": 97,
+            "sentences": []
+        },
+        {
+            "paragraph_index": 98,
+            "sentences": [
+                {
+                    "sentence": "נוסח מסמך זה כפוף לשינויי ניסוח ועריכה",
+                    "sentence_id": "0",
+                    "paragraph_index": 98,
+                    "global_sentence_index": 211
+                }
+            ]
+        },
+        {
+            "paragraph_index": 99,
+            "sentences": [
+                {
+                    "sentence": "בעניין עריכה ושינויים במסמכי פסיקה, חקיקה ועוד באתר נבו – הקש כאן",
+                    "sentence_id": "0",
+                    "paragraph_index": 99,
+                    "global_sentence_index": 212
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [],
+    "main_sentence_from_docx": [],
+    "main_sentence_id_in_docx": [],
+    "global_sentence_index_docx": [],
+    "global_sentence_index_spike": [],
+    "score_of_similarity": []
+}

@@ -1,0 +1,1161 @@
+{
+    "title": "ME-16-12-8398-11",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "בבית המשפט המחוזי בנצרת",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "ת\"פ 8398-12-16",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "המאשימה:  \t\t\tמדינת ישראל",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "נגד",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "הנאשם:       \t\t\tשמואל בן אבו",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "חקיקה שאוזכרה:",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": ": סע'  , (א)(4), (א), , , , ,",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 7,
+            "sentences": [
+                {
+                    "sentence": ": סע'  (3)",
+                    "sentence_id": "0",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 8,
+            "sentences": [
+                {
+                    "sentence": ": סע'  (א)",
+                    "sentence_id": "0",
+                    "paragraph_index": 8,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 9,
+            "sentences": [
+                {
+                    "sentence": "מיני-רציו:",
+                    "sentence_id": "0",
+                    "paragraph_index": 9,
+                    "global_sentence_index": 9
+                }
+            ]
+        },
+        {
+            "paragraph_index": 10,
+            "sentences": [
+                {
+                    "sentence": "* יש לקבל כראייה מדעית, שטרם עמדה לדיון בהליך פלילי בישראל, חוות דעת שבדקה דגימה של שערות שנלקחו מהמתלוננת באחד האישומים, לצורך גילוי שרידי \"סם אונס\"",
+                    "sentence_id": "0",
+                    "paragraph_index": 10,
+                    "global_sentence_index": 10
+                }
+            ]
+        },
+        {
+            "paragraph_index": 11,
+            "sentences": [
+                {
+                    "sentence": "* ראיות – קבילות – קביעתה",
+                    "sentence_id": "0",
+                    "paragraph_index": 11,
+                    "global_sentence_index": 11
+                }
+            ]
+        },
+        {
+            "paragraph_index": 12,
+            "sentences": [
+                {
+                    "sentence": "* ראיות – קבילות – ראיה מדעית חדשה",
+                    "sentence_id": "0",
+                    "paragraph_index": 12,
+                    "global_sentence_index": 12
+                }
+            ]
+        },
+        {
+            "paragraph_index": 13,
+            "sentences": []
+        },
+        {
+            "paragraph_index": 14,
+            "sentences": [
+                {
+                    "sentence": "כנגד הנאשם הוגש כתב אישום המייחס לו ביצוע עבירות שונות",
+                    "sentence_id": "0",
+                    "paragraph_index": 14,
+                    "global_sentence_index": 13
+                },
+                {
+                    "sentence": "המדינה הגישה חוות דעת מדעית, שבדקה דגימה של שערות, שנלקחו מהמתלוננת באחד האישומים, לצורך גילוי שרידי \"סם אונס\"",
+                    "sentence_id": "1",
+                    "paragraph_index": 14,
+                    "global_sentence_index": 14
+                }
+            ]
+        },
+        {
+            "paragraph_index": 15,
+            "sentences": []
+        },
+        {
+            "paragraph_index": 16,
+            "sentences": [
+                {
+                    "sentence": "בית המשפט המחוזי פסק כדלהלן:",
+                    "sentence_id": "0",
+                    "paragraph_index": 16,
+                    "global_sentence_index": 15
+                }
+            ]
+        },
+        {
+            "paragraph_index": 17,
+            "sentences": [
+                {
+                    "sentence": "בעניין מצגורה נקבע בנוגע לראיות מדעיות, כי בתי המשפט בישראל אימצו פסקי דין זרים אשר הגדירו את תפקידו של בית המשפט בהקשר של קבלת ראיות מדעיות והפנה בעיקר לשתי הלכות עיקריות: האחת קבעה כי ראיה מדעית תהיה קבילה רק אם היא מקובלת ונפוצה בקהילה המדעית הרלוונטית והשניה הוסיפה שני מבחנים נוספים לפיהם על בית המשפט לוודא שעדות המומחה רלוונטית לתיק ונשענת על יסוד אמין ומהימן",
+                    "sentence_id": "0",
+                    "paragraph_index": 17,
+                    "global_sentence_index": 16
+                },
+                {
+                    "sentence": "בבוא בית המשפט לקבל ראיה מדעית, עליו לשמש כשומר סף ולהכריע בין מומחים שונים באמצעות שני מבחנים : המבחן הפנימי – שיטת המומחה והשלכות ההוכחה, השני, המבחן החיצוני – האם תוכן חוות הדעת נתמך על ידי עולם המדע ומהי עמדת בתי המשפט בנדון",
+                    "sentence_id": "1",
+                    "paragraph_index": 17,
+                    "global_sentence_index": 17
+                },
+                {
+                    "sentence": "יש לקבל כראייה מדעית, שטרם עמדה לדיון בהליך פלילי בישראל, את חוות הדעת של בדיקת שרידי הסם בשיער",
+                    "sentence_id": "2",
+                    "paragraph_index": 17,
+                    "global_sentence_index": 18
+                },
+                {
+                    "sentence": "המדובר בראיה מדעית חדשה שניתן לקבל למשפט הישראלי",
+                    "sentence_id": "3",
+                    "paragraph_index": 17,
+                    "global_sentence_index": 19
+                },
+                {
+                    "sentence": "הוכח כי המדובר בטכניקה מדעית מקובלת ומצוטטת רבות בפסיקה המשווה",
+                    "sentence_id": "4",
+                    "paragraph_index": 17,
+                    "global_sentence_index": 20
+                },
+                {
+                    "sentence": "שיטות רבות בעולם, מחקרים רבים ואף בתי המשפט בעולם, הכירו בכשרותה ודומה כי בדיקת השיער לגילוי חשיפה לסמים, מאופיינת במרכיבים, ממצאים וניתוחים שונים העונים על דרישת קבילותה כראיה מדעית ועל כן היא עברה את \"מבחני האש\" והפכה לקבילה",
+                    "sentence_id": "5",
+                    "paragraph_index": 17,
+                    "global_sentence_index": 21
+                }
+            ]
+        },
+        {
+            "paragraph_index": 18,
+            "sentences": [
+                {
+                    "sentence": "תמצית",
+                    "sentence_id": "0",
+                    "paragraph_index": 18,
+                    "global_sentence_index": 22
+                }
+            ]
+        },
+        {
+            "paragraph_index": 19,
+            "sentences": [
+                {
+                    "sentence": "הכרעת הדין",
+                    "sentence_id": "0",
+                    "paragraph_index": 19,
+                    "global_sentence_index": 23
+                }
+            ]
+        },
+        {
+            "paragraph_index": 20,
+            "sentences": [
+                {
+                    "sentence": "כנגד הנאשם, שמואל בן אבו, הוגש כתב אישום האוחז בחמישה אישומים, המייחס לו ביצוע עבירות, שלילת כושר התנגדות, עבירה לפי  ל, התשל\"ז – 1977 (להלן: \"חוק העונשין\") (4 מקרים); מעשה מגונה, עבירה לפי  +  לחוק העונשין; קבלת דבר במרמה בנסיבות מחמירות, עבירה לפי  סיפא לחוק העונשין (מספר מקרים); סחיטה באיומים, עבירה לפי  לחוק העונשין; גניבה, עבירה לפי  לחוק העונשין; נטילת נכסים לשם סחיטה, עבירה לפי  לחוק העונשין; פגיעה בפרטיות, עבירה לפי  ל, התשמ\"א- 1981 (להלן: \"חוק הגנת הפרטיות\") (שלושה מקרים); איסור הלבנת הון, עבירה לפי  ל, תש\"ס- 2000;",
+                    "sentence_id": "0",
+                    "paragraph_index": 20,
+                    "global_sentence_index": 24
+                }
+            ]
+        },
+        {
+            "paragraph_index": 21,
+            "sentences": [
+                {
+                    "sentence": "הנאשם,  כפר בכל העובדות המהוות עבירה המיוחסות  לו בכתב האישום",
+                    "sentence_id": "0",
+                    "paragraph_index": 21,
+                    "global_sentence_index": 25
+                }
+            ]
+        },
+        {
+            "paragraph_index": 22,
+            "sentences": [
+                {
+                    "sentence": "כתב האישום בתמצית",
+                    "sentence_id": "0",
+                    "paragraph_index": 22,
+                    "global_sentence_index": 26
+                }
+            ]
+        },
+        {
+            "paragraph_index": 23,
+            "sentences": [
+                {
+                    "sentence": "אישום ראשון",
+                    "sentence_id": "0",
+                    "paragraph_index": 23,
+                    "global_sentence_index": 27
+                }
+            ]
+        },
+        {
+            "paragraph_index": 24,
+            "sentences": [
+                {
+                    "sentence": "במהלך חודש מאי 2015 הכירו הנאשם והמתלוננת באישום זה",
+                    "sentence_id": "0",
+                    "paragraph_index": 24,
+                    "global_sentence_index": 28
+                },
+                {
+                    "sentence": "במסגרת הקשר הזמין הנאשם את המתלוננת באישום זה ובִתה הקטינה, לצימר",
+                    "sentence_id": "1",
+                    "paragraph_index": 24,
+                    "global_sentence_index": 29
+                },
+                {
+                    "sentence": "בדרכם לצימר, טמן הנאשם במשקה ששתו חומר המכיל מרכיב פעיל ממשפחת הבנזודיאזפינים (להלן \"החומר\"), הגורם לתופעות של שינה, טשטוש, סחרחורת וחוסר זיכרון, ומשמש כסם אונס",
+                    "sentence_id": "2",
+                    "paragraph_index": 24,
+                    "global_sentence_index": 30
+                },
+                {
+                    "sentence": "בהגיעם לצימר שקעה המתלוננת בשינה עמוקה והנאשם ביצע מעשים מגונים בקטינה",
+                    "sentence_id": "3",
+                    "paragraph_index": 24,
+                    "global_sentence_index": 31
+                }
+            ]
+        },
+        {
+            "paragraph_index": 25,
+            "sentences": [
+                {
+                    "sentence": "באישום זה הורשע הנאשם בביצוע עבירות שלילת כושר התנגדות (2 מקרים) ומעשה מגונה",
+                    "sentence_id": "0",
+                    "paragraph_index": 25,
+                    "global_sentence_index": 32
+                }
+            ]
+        },
+        {
+            "paragraph_index": 26,
+            "sentences": [
+                {
+                    "sentence": "אישום שני",
+                    "sentence_id": "0",
+                    "paragraph_index": 26,
+                    "global_sentence_index": 33
+                }
+            ]
+        },
+        {
+            "paragraph_index": 27,
+            "sentences": [
+                {
+                    "sentence": "המתלוננת באישום זה, ביקשה לשכור את שירותי הנאשם, לביצוע עבודת בניה בביתה",
+                    "sentence_id": "0",
+                    "paragraph_index": 27,
+                    "global_sentence_index": 34
+                },
+                {
+                    "sentence": "ביום 21/10/2016, לקראת סיום עבודת הבניה, יצאו הנאשם והמתלוננת לקניות עבור פרויקט הבניה",
+                    "sentence_id": "1",
+                    "paragraph_index": 27,
+                    "global_sentence_index": 35
+                },
+                {
+                    "sentence": "בדרך, טמן הנאשם בכוס קפה שהגיש למתלוננת, כדור של התרופה \"היפנודרם\", המכיל מרכיב פעיל ממשפחת הבנזודיאזפינים",
+                    "sentence_id": "2",
+                    "paragraph_index": 27,
+                    "global_sentence_index": 36
+                }
+            ]
+        },
+        {
+            "paragraph_index": 28,
+            "sentences": [
+                {
+                    "sentence": "במהלך הדרך חשה המתלוננת באישום זה כי היא מטושטשת",
+                    "sentence_id": "0",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 37
+                },
+                {
+                    "sentence": "משהגיעו ליעדם שהו הנאשם והמתלוננת במקום מספר שעות כשהיא רדומה",
+                    "sentence_id": "1",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 38
+                },
+                {
+                    "sentence": "במהלך השהות במקום, נטל הנאשם מהמתלוננת את מכשיר הטלפון הנייד שלה וכן סכום של 1400 ₪ במזומן",
+                    "sentence_id": "2",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 39
+                }
+            ]
+        },
+        {
+            "paragraph_index": 29,
+            "sentences": [
+                {
+                    "sentence": "כעבור מספר ימים, פנה הנאשם אל המתלוננת באישום זה והציג בפניה בכזב, כי הם נסחטים על ידי גורמים שצילמו את שניהם יחדיו",
+                    "sentence_id": "0",
+                    "paragraph_index": 29,
+                    "global_sentence_index": 40
+                },
+                {
+                    "sentence": "בשל מצג זה סחט הנאשם מהמתלוננת סך של 170,000 ₪",
+                    "sentence_id": "1",
+                    "paragraph_index": 29,
+                    "global_sentence_index": 41
+                },
+                {
+                    "sentence": "מסע הסחיטה הופסק לאחר שהמתלוננת פנתה למשטרה",
+                    "sentence_id": "2",
+                    "paragraph_index": 29,
+                    "global_sentence_index": 42
+                }
+            ]
+        },
+        {
+            "paragraph_index": 30,
+            "sentences": [
+                {
+                    "sentence": "באישום זה הורשע הנאשם בביצוע עבירות, שלילת כושר התנגדות, קבלת דבר במרמה בנסיבות מחמירות, סחיטה באיומים, גניבה, נטילת נכסים לשם סחיטה, איסור הלבנת הון, וזוכה מחמת הספק מביצוע עבירה של פגיעה בפרטיות",
+                    "sentence_id": "0",
+                    "paragraph_index": 30,
+                    "global_sentence_index": 43
+                }
+            ]
+        },
+        {
+            "paragraph_index": 31,
+            "sentences": [
+                {
+                    "sentence": "האישום השלישי",
+                    "sentence_id": "0",
+                    "paragraph_index": 31,
+                    "global_sentence_index": 44
+                }
+            ]
+        },
+        {
+            "paragraph_index": 32,
+            "sentences": [
+                {
+                    "sentence": "בראשית חודש דצמבר 2005, הסיע הנאשם את המתלוננת באישום זה בטרמפ",
+                    "sentence_id": "0",
+                    "paragraph_index": 32,
+                    "global_sentence_index": 45
+                },
+                {
+                    "sentence": "במהלך הנסיעה טמן הנאשם בכוס מיץ שהגיש למתלוננת חומר המכיל את המרכיב הפעיל דיאזפאם (להלן: \"החומר\"), הידוע כמשמש כ\"סם אונס\"",
+                    "sentence_id": "1",
+                    "paragraph_index": 32,
+                    "global_sentence_index": 46
+                }
+            ]
+        },
+        {
+            "paragraph_index": 33,
+            "sentences": [
+                {
+                    "sentence": "המתלוננת באישום זה שתתה את המיץ שהכיל את הדיאזפאם והבחינה בגרגירים מן החומר שנותרו בתחתית הכוס",
+                    "sentence_id": "0",
+                    "paragraph_index": 33,
+                    "global_sentence_index": 47
+                },
+                {
+                    "sentence": "לאחר שירדה המתלוננת מהרכב, חשה ברע, חשדה כי הנאשם סימם אותה, ופנתה למשטרה",
+                    "sentence_id": "1",
+                    "paragraph_index": 33,
+                    "global_sentence_index": 48
+                }
+            ]
+        },
+        {
+            "paragraph_index": 34,
+            "sentences": [
+                {
+                    "sentence": "באישום זה הורשע הנאשם בביצוע עבירה של שלילת כושר התנגדות",
+                    "sentence_id": "0",
+                    "paragraph_index": 34,
+                    "global_sentence_index": 49
+                }
+            ]
+        },
+        {
+            "paragraph_index": 35,
+            "sentences": [
+                {
+                    "sentence": "האישום הרביעי",
+                    "sentence_id": "0",
+                    "paragraph_index": 35,
+                    "global_sentence_index": 50
+                }
+            ]
+        },
+        {
+            "paragraph_index": 36,
+            "sentences": [
+                {
+                    "sentence": "במהלך חודשי מאי 2015, בעת שנפגשו הנאשם והמתלוננת באישום זה, לפגישה אינטימית, צילם הנאשם את מהלך קיום יחסי המין ביניהם וזאת ללא הסכמתה ובאופן הפוגע בפרטיותה",
+                    "sentence_id": "0",
+                    "paragraph_index": 36,
+                    "global_sentence_index": 51
+                }
+            ]
+        },
+        {
+            "paragraph_index": 37,
+            "sentences": [
+                {
+                    "sentence": "באישום זה הורשע הנאשם בביצוע עבירה של פגיעה בפרטיות",
+                    "sentence_id": "0",
+                    "paragraph_index": 37,
+                    "global_sentence_index": 52
+                }
+            ]
+        },
+        {
+            "paragraph_index": 38,
+            "sentences": [
+                {
+                    "sentence": "האישום החמישי",
+                    "sentence_id": "0",
+                    "paragraph_index": 38,
+                    "global_sentence_index": 53
+                }
+            ]
+        },
+        {
+            "paragraph_index": 39,
+            "sentences": [
+                {
+                    "sentence": "במהלך חודשי יוני 2015, בעת שנפגשו הנאשם והמתלוננת באישום זה, לפגישה אינטימית, צילם הנאשם את מהלך קיום יחסי המין ביניהם וזאת ללא הסכמתה ובאופן הפוגע בפרטיותה",
+                    "sentence_id": "0",
+                    "paragraph_index": 39,
+                    "global_sentence_index": 54
+                }
+            ]
+        },
+        {
+            "paragraph_index": 40,
+            "sentences": [
+                {
+                    "sentence": "באישום זה הורשע הנאשם בביצוע עבירה של פגיעה בפרטיות",
+                    "sentence_id": "0",
+                    "paragraph_index": 40,
+                    "global_sentence_index": 55
+                }
+            ]
+        },
+        {
+            "paragraph_index": 41,
+            "sentences": [
+                {
+                    "sentence": "ראייה מדעית חדשה",
+                    "sentence_id": "0",
+                    "paragraph_index": 41,
+                    "global_sentence_index": 56
+                }
+            ]
+        },
+        {
+            "paragraph_index": 42,
+            "sentences": [
+                {
+                    "sentence": "במסגרת האישום השני, הגישה המדינה חוות דעת מדעית, שבדקה דגימה של שערות, שנלקחו מהמתלוננת באישום זה, לצורך גילוי שרידי \"סם אונס\"",
+                    "sentence_id": "0",
+                    "paragraph_index": 42,
+                    "global_sentence_index": 57
+                },
+                {
+                    "sentence": "חוות דעת זו נערכה על ידי פרופ' פרנקו טליארו מאיטליה",
+                    "sentence_id": "1",
+                    "paragraph_index": 42,
+                    "global_sentence_index": 58
+                },
+                {
+                    "sentence": "בית המשפט קיבל, כראייה מדעית, שטרם עמדה לדיון בהליך פלילי בישראל, את חוות הדעת של בדיקת שרידי הסם בשיער",
+                    "sentence_id": "2",
+                    "paragraph_index": 42,
+                    "global_sentence_index": 59
+                },
+                {
+                    "sentence": "ובהרחבה:",
+                    "sentence_id": "3",
+                    "paragraph_index": 42,
+                    "global_sentence_index": 60
+                }
+            ]
+        },
+        {
+            "paragraph_index": 43,
+            "sentences": [
+                {
+                    "sentence": "המאשימה העידה מטעמה במסגרת האישום השני את פרופ' פרנקו טליארו, אשר בדק את השיער של המתלוננת וערך חוות דעת מקצועית, שממצאיה מלמדים כי המתלוננת נחשפה לסם מסוג פלוניטרזפאם בתקופה שבין תחילת אוקטובר עד אמצע נובמבר , 2016.",
+                    "sentence_id": "0",
+                    "paragraph_index": 43,
+                    "global_sentence_index": 61
+                }
+            ]
+        },
+        {
+            "paragraph_index": 44,
+            "sentences": [
+                {
+                    "sentence": "בית המשפט קבע כי המדובר בראיה מדעית חדשה שניתן לקבל למשפט הישראלי לאחר שקבע כי היא עומדת במבחנים שהתוו בפסיקה בהרחבה ב ניקולאי מצגורה נגד מדינת ישראל [פורסם בנבו] (3/12/2013) (להלן: \"עניין מצגורה\")",
+                    "sentence_id": "0",
+                    "paragraph_index": 44,
+                    "global_sentence_index": 62
+                }
+            ]
+        },
+        {
+            "paragraph_index": 45,
+            "sentences": [
+                {
+                    "sentence": "בעניין מצגורה, נקבע בנוגע לראיות מדעיות, כי בתי המשפט בישראל אימצו פסקי דין, במשפט המשווה, אשר הגדירו את תפקידו של בית המשפט בהקשר של קבלת ראיות מדעיות והפנה בעיקר לשתי הלכות עיקריות בארצות הברית, האחת שנקבעה בפסק הדין Frye v",
+                    "sentence_id": "0",
+                    "paragraph_index": 45,
+                    "global_sentence_index": 63
+                },
+                {
+                    "sentence": "United States, 54 App",
+                    "sentence_id": "1",
+                    "paragraph_index": 45,
+                    "global_sentence_index": 64
+                },
+                {
+                    "sentence": "D",
+                    "sentence_id": "2",
+                    "paragraph_index": 45,
+                    "global_sentence_index": 65
+                },
+                {
+                    "sentence": "C",
+                    "sentence_id": "3",
+                    "paragraph_index": 45,
+                    "global_sentence_index": 66
+                },
+                {
+                    "sentence": "46 ( 1923) (להלן: \"הלכת Frye\"), אשר קבעה כי ראיה מדעית תהיה קבילה רק אם היא מקובלת ונפוצה בקהילה המדעית הרלוונטית והגדירה את תפקידו של בית המשפט לבחון האם מתקיים הסטנדרט של \"המקובלות בקהילה המדעית\", General Acceptance\"\" והשניה שנקבעה בפסק הדין Daubert v",
+                    "sentence_id": "4",
+                    "paragraph_index": 45,
+                    "global_sentence_index": 67
+                },
+                {
+                    "sentence": "Merrell Dow Pharmaceutical, Inc",
+                    "sentence_id": "5",
+                    "paragraph_index": 45,
+                    "global_sentence_index": 68
+                },
+                {
+                    "sentence": ", 509 U",
+                    "sentence_id": "6",
+                    "paragraph_index": 45,
+                    "global_sentence_index": 69
+                },
+                {
+                    "sentence": "S",
+                    "sentence_id": "7",
+                    "paragraph_index": 45,
+                    "global_sentence_index": 70
+                },
+                {
+                    "sentence": "579 (1993) (להלן: \"הלכת Daubert \"), אשר הוסיפה לצד מבחן המקובלות, שנקבע בהלכת Frye, שני מבחנים נוספים, \"מבחן הרלוונטיות ומבחן האמינות\"Relevance and Reliability\" \", לפיהם על בית המשפט לוודא שעדות המומחה רלוונטית לתיק ונשענת על  יסוד אמין ומהימן, תוך שפירטה מספר פרמטרים באשר למבחן האמינות: הראשון, האם הדיסציפלינה המדעית עליה התבסס המומחה נחשפה לביקורת עמיתים \"Peer Review\"; השני, האם היא מופיעה בפרסומים מדעיים מוכרים; השלישי, האם היא מקובלת על החוקרים בדיסציפלינה הרלבנטית; הרביעי, האם יש לה שיעור טעות ידוע; החמישי, האם יש כללים ברורים ליישומה",
+                    "sentence_id": "8",
+                    "paragraph_index": 45,
+                    "global_sentence_index": 71
+                }
+            ]
+        },
+        {
+            "paragraph_index": 46,
+            "sentences": [
+                {
+                    "sentence": "עוד נקבע בעניין מצגורה, כי בבוא בית המשפט לקבל ראיה מדעית, עליו לשמש כשומר סף ולהכריע בין מומחים שונים",
+                    "sentence_id": "0",
+                    "paragraph_index": 46,
+                    "global_sentence_index": 72
+                },
+                {
+                    "sentence": "לשם כך פותחו כלי עבודה בדמות שני מבחנים  האחד, המבחן הפנימי, הבודק את הראיה על פי תוכנה, קרי שיטת המומחה והשלכות ההוכחה, השני, המבחן החיצוני, המתחלק אף הוא לשניים, גישת המדע והביקורת השיפטית, קרי האם תוכן חוות הדעת נתמך על ידי עולם המדע ומהי עמדת בתי המשפט בנדון",
+                    "sentence_id": "1",
+                    "paragraph_index": 46,
+                    "global_sentence_index": 73
+                }
+            ]
+        },
+        {
+            "paragraph_index": 47,
+            "sentences": [
+                {
+                    "sentence": "המבחן הפנימי - שיטת המומחה פרופ' טליארו והשלכת ההוכחה",
+                    "sentence_id": "0",
+                    "paragraph_index": 47,
+                    "global_sentence_index": 74
+                }
+            ]
+        },
+        {
+            "paragraph_index": 48,
+            "sentences": [
+                {
+                    "sentence": "בפתח בחינת המבחן הפנימי ציין בית המשפט כי פרופ' טליארו הגיש את חוות דעתו וכן עלה על דוכן העדים",
+                    "sentence_id": "0",
+                    "paragraph_index": 48,
+                    "global_sentence_index": 75
+                },
+                {
+                    "sentence": "הוא נחקר ארוכות, השיב לכל השאלות המדעיות שהופנו אליו בהרחבה והוא הותיר בפני בית המשפט רושם אמין",
+                    "sentence_id": "1",
+                    "paragraph_index": 48,
+                    "global_sentence_index": 76
+                },
+                {
+                    "sentence": "בפתח עדותו הבהיר העד כי הינו רופא בעל פוסט דוקטורט בכימיה קלינית, ביו כימיה ופוסט דוקטראט נוסף, ברפואה פורנזית וכן פרופסור מן המניין באוניברסיטת ורונה באיטליה, ללימודי רפואה פורנזית",
+                    "sentence_id": "2",
+                    "paragraph_index": 48,
+                    "global_sentence_index": 77
+                },
+                {
+                    "sentence": "העד הוסיף כי הוא משמש גם כיועץ ל: United Nations Office on Drugs and Crime (UNODC), באו\"ם והוא ניסח עבורם את ספר ההוראות לבדיקות הטוקסיקולוגיות",
+                    "sentence_id": "3",
+                    "paragraph_index": 48,
+                    "global_sentence_index": 78
+                }
+            ]
+        },
+        {
+            "paragraph_index": 49,
+            "sentences": [
+                {
+                    "sentence": "ואלה קביעות בית המשפט",
+                    "sentence_id": "0",
+                    "paragraph_index": 49,
+                    "global_sentence_index": 79
+                }
+            ]
+        },
+        {
+            "paragraph_index": 50,
+            "sentences": [
+                {
+                    "sentence": "שיטת המומחה והשלכות ההוכחה",
+                    "sentence_id": "0",
+                    "paragraph_index": 50,
+                    "global_sentence_index": 80
+                }
+            ]
+        },
+        {
+            "paragraph_index": 51,
+            "sentences": [
+                {
+                    "sentence": "עיון בחוות הדעת שערך פרופ' טליארו מלמד כי הוא נתבקש לבצע בדיקה טוקסקולוגית על דגימות השיער שנאספו מהמתלוננת וכי קווצות השיער שקיבל נבדקו בשיטת  LC-MS/MS",
+                    "sentence_id": "0",
+                    "paragraph_index": 51,
+                    "global_sentence_index": 81
+                },
+                {
+                    "sentence": "בית המשפט נכנס לתוככי חוות הדעת וציין כי פרופ' טליארו הרחיב והבהיר בחוות דעתו כי עובדה ידועה היא שישנה נקודת חולשה מובנית בבדיקות לגילוי סמים בנוזלים ביולוגיים, כגון שתן ודם כתוצאה מחלון הגילוי המוגבל- החל משעות ועד ימים אחדים- ושכיחות תוצרי הפירוק- מטבוליטים- לעומת הסם ההורה",
+                    "sentence_id": "1",
+                    "paragraph_index": 51,
+                    "global_sentence_index": 82
+                },
+                {
+                    "sentence": "אי לכך, הוסיף פרופ' טליארו והבהיר כי, בשלהי שנות השבעים דווח לראשונה כי שיער הינו חומר מתאים לבדיקות טוקסולוגיות בסקירה לאחור ומאז, דווח על מספר ישומים ושיטות אנליטיות חדשניות לצורך גילוי ומדידה של חומרים רבים הנמצאים בשיער, וכיום נחשבות בדיקות השיער לאמצעי היעיל ביותר לבחינת ההיסטוריה הקשורה בהמצאות סמים במיוחד כאשר תקופת השימוש הנדרשת לבדיקה משתרעת מימים רבים או אפילו חודשים טרם מועד איסוף הדגימות",
+                    "sentence_id": "2",
+                    "paragraph_index": 51,
+                    "global_sentence_index": 83
+                }
+            ]
+        },
+        {
+            "paragraph_index": 52,
+            "sentences": [
+                {
+                    "sentence": "ככלל, שערה הינה תוספת המכילה קראטין וצומחת משורש הנמצא בנקבובית העור הנקרא זקיקים כאשר שיער רגיל צומח בסדרה של שלושה שלבים, גדילה, סיום ומנוחה",
+                    "sentence_id": "0",
+                    "paragraph_index": 52,
+                    "global_sentence_index": 84
+                },
+                {
+                    "sentence": "התאים באזור שורש השערה נמצאים במצב פעיל של גדילה בעוד שבקנה השערה חילוף החומרים הולך ונפסק",
+                    "sentence_id": "1",
+                    "paragraph_index": 52,
+                    "global_sentence_index": 85
+                },
+                {
+                    "sentence": "בשלב הסיום, הפעילות המטבולית של שורש השערה מואט ובשלב המנוחה, הצמיחה נפסקת ולבסוף השיער נושר",
+                    "sentence_id": "2",
+                    "paragraph_index": 52,
+                    "global_sentence_index": 86
+                },
+                {
+                    "sentence": "קצב הצמיחה הכולל משתרע בטווח של 0.7 -1.5 ס\"מ לחודש",
+                    "sentence_id": "3",
+                    "paragraph_index": 52,
+                    "global_sentence_index": 87
+                }
+            ]
+        },
+        {
+            "paragraph_index": 53,
+            "sentences": [
+                {
+                    "sentence": "בדיקות השיער מיועדות, בדרך כלל, לקבוע באם הנבדק השתמש או נחשף לסמים, לזהות את הסמים בהם נעשה שימוש, להבדיל בין שימוש חד-פעמי, עיתי, חוזר ונשנה או כרוני וכן לזהות משך הזמן בו הסם נצרך",
+                    "sentence_id": "0",
+                    "paragraph_index": 53,
+                    "global_sentence_index": 88
+                }
+            ]
+        },
+        {
+            "paragraph_index": 54,
+            "sentences": [
+                {
+                    "sentence": "בית המשפט פירט את התוצאות של הבדיקה שערך המומחה, כפי שהובאו בחוות דעתו:",
+                    "sentence_id": "0",
+                    "paragraph_index": 54,
+                    "global_sentence_index": 89
+                }
+            ]
+        },
+        {
+            "paragraph_index": 55,
+            "sentences": [
+                {
+                    "sentence": "המומחה סיכם  וציין כי נוכחות של Flunitrazepam   במקטע מס'  2 והיעדרו במקטעים מס' 1 ומס' 3  ונוכחות של 7-aminoflunitrazepam במקטעים מס' 1 ומס' 2 והיעדרו במקטע מס' 3 , עולות בקנה אחד עם חשד של ספיגת Flunitrazepam אפילו כמנה חד פעמית, בתקופה שבין תחילת 10/2016 לבין אמצע 11/2016.",
+                    "sentence_id": "0",
+                    "paragraph_index": 55,
+                    "global_sentence_index": 90
+                }
+            ]
+        },
+        {
+            "paragraph_index": 56,
+            "sentences": [
+                {
+                    "sentence": "בית המשפט קיבל את עדות המומחה האיטלקי אשר ציין כי, מדע זיהוי סם בשיער אינו חדש, נעשה בו שימוש בתחומים רבים והבדיקה מאושרת בקהילה העוסקת בטכנולוגיה פורנזית",
+                    "sentence_id": "0",
+                    "paragraph_index": 56,
+                    "global_sentence_index": 91
+                },
+                {
+                    "sentence": "העד הוסיף כי הטכנולוגיה שהשתמש בה, משתמשים בה שנים רבות ותוצאותיה התקבלו בבתי המשפט במקרים רבים",
+                    "sentence_id": "1",
+                    "paragraph_index": 56,
+                    "global_sentence_index": 92
+                },
+                {
+                    "sentence": "באשר למכשור שנעשה בו שימוש בעת הבדיקה, ציין המומחה האיטלקי כי מכשור זה מבוסס על טכנולוגיה היברידית, כולל את החלק הכרומטוגרפי שמחובר ל-Mass Spectrometer",
+                    "sentence_id": "2",
+                    "paragraph_index": 56,
+                    "global_sentence_index": 93
+                },
+                {
+                    "sentence": "העד הבהיר כי האמינות של הבדיקה המבוצעת במעבדתו תלויה בשני גורמים, הגורם הראשון הינו האמינות האנליטית והגורם השני, הינו האמינות של הפירוש, קרי תרגום ה-DATA",
+                    "sentence_id": "3",
+                    "paragraph_index": 56,
+                    "global_sentence_index": 94
+                },
+                {
+                    "sentence": "באשר לאמינות בפן האנליטי ציין העד כי זו אושרה, על ידי התוצאות שהתקבלו,  שכללו את תרופת האב, וכן את התוצר של המטבוליזם",
+                    "sentence_id": "4",
+                    "paragraph_index": 56,
+                    "global_sentence_index": 95
+                },
+                {
+                    "sentence": "בצד הסקת המסקנות, נבחנו  התוצאות והנתונים ביחס לפרוטוקולים בינלאומיים, במקרים דומים ונמצא כי אלה עמדו בהתאמה ובהסכמה עם הספרות המדעית במקרים דומים",
+                    "sentence_id": "5",
+                    "paragraph_index": 56,
+                    "global_sentence_index": 96
+                }
+            ]
+        },
+        {
+            "paragraph_index": 57,
+            "sentences": [
+                {
+                    "sentence": "כן קבע בית המשפט כי פרופ' טליארו הבהיר בעדותו כי הבדיקה שערך היתה ממוקדת ב\"בנזודיאזפינים\" שהינם קבוצה של מרדימים, מאלחשים",
+                    "sentence_id": "0",
+                    "paragraph_index": 57,
+                    "global_sentence_index": 97
+                },
+                {
+                    "sentence": "במהלך עדותו הבהיר העד כי לצרכי הבדיקה, הוא חתך את דגימות השיער שקיבל ל -3 חלקים, החלק הראשון באורך 1 ס\"מ, הינו החלק הקרוב לקרקפת, החלק השני הצמוד לחלק הראשון, באורך 1.5 ס\"מ  והחלק האחרון, אף הוא באורך 1.5 ס\"מ",
+                    "sentence_id": "1",
+                    "paragraph_index": 57,
+                    "global_sentence_index": 98
+                },
+                {
+                    "sentence": "העד הבהיר כי נקודת המוצא היא כי קצב צמיחת השיער הינו כ-1 ס\"מ לחודש משמע כי ביום נטילת השיער, 18/12/2016, החלק הראשון שחתך בדגימת השיער, הינו השיער שצמח בחודש האחרון טרם נטילת השיער, החלק השני, מייצג תקופה של חודש וחצי הנעה בין תחילת אוקטובר 2016 עד אמצע נובמבר 2016 ואילו החלק השלישי הינו השיער שצמח  בתקופה שבין אמצע אוגוסט 2016  ועד תחילת אוקטובר 2016. העד הבהיר, כי במקטע הראשון, זה הקרוב לקרקפת, נמצא מטבוליט של סם מסוג Flunitrazepam   ( 7-aminoflunitrazepam), שהינו תוצר של חילוף חומרים",
+                    "sentence_id": "2",
+                    "paragraph_index": 57,
+                    "global_sentence_index": 99
+                },
+                {
+                    "sentence": "במקטע השני, קרי התקופה בה התרחש האירוע, נמצאה כמות מזוהה של עקבות סם מסוג Flunitrazepam ועקבות מטבוליט של סם מסוג Flunitrazepam (7-aminoflunitrazepam) ובחלק האחרון שצמח כבר טרם מועד האירוע, לא נמצא סם כלל",
+                    "sentence_id": "3",
+                    "paragraph_index": 57,
+                    "global_sentence_index": 100
+                }
+            ]
+        },
+        {
+            "paragraph_index": 58,
+            "sentences": [
+                {
+                    "sentence": "בית המשפט פירט בהרחבה את התייחסות העד והסבריו להבדל בתוצאות עת הבהיר כי המטבולית-תוצר חילוף החומרים של הסם, נשאר יותר זמן בשיער ובדם מאשר הסם עצמו, מכיוון שהעמידות של המטבוליט בגוף גבוה יותר מאשר סם האב, הוא נקשר לשיער לאורך תקופה ארוכה ועל כן הוא מופיע במקטע שצמח מאוחר יותר, זה הקרוב לקרקפת",
+                    "sentence_id": "0",
+                    "paragraph_index": 58,
+                    "global_sentence_index": 101
+                },
+                {
+                    "sentence": "העד הבהיר כי הפירוש שלו לצירוף המקרים של נוכחות סם האב ותוצר חילוף החומרים במקטע מס' 2 היא כזו התומכתת באפשרות שאירוע נטילת הסם אכן התרחש",
+                    "sentence_id": "1",
+                    "paragraph_index": 58,
+                    "global_sentence_index": 102
+                },
+                {
+                    "sentence": "העד הבהיר כי העובדה שבמקטע מס' 2 נמצא פלוניטריזפאם ומטבוליט משמעותה, שהאירוע קרה כשמקטע זה היה בגדילה, כלומר השיער נוצר כשהסם היה בתוך הדם",
+                    "sentence_id": "2",
+                    "paragraph_index": 58,
+                    "global_sentence_index": 103
+                }
+            ]
+        },
+        {
+            "paragraph_index": 59,
+            "sentences": [
+                {
+                    "sentence": "לאחר קבלת מלוא מסקנות פרופסור טליארו, קבע בית המשפט כי משנמצאו עקבות של הסם בחלק מהשיער שנבדק, התואם אף את מועד החשיפה לסם ומשנמצא בחלק אחר מהשיער, שצמח מאוחר יותר, תוצר הפירוק של אותו סם, בעוד בחלק אחר שצמח לפני האירוע אין כל זכר לנוכחות של סם, הרי שממצאים אלה עולים בקנה אחד עם המסקנה כי המתלוננת נחשפה לסם באופן חד פעמי במועד האירוע",
+                    "sentence_id": "0",
+                    "paragraph_index": 59,
+                    "global_sentence_index": 104
+                }
+            ]
+        },
+        {
+            "paragraph_index": 60,
+            "sentences": [
+                {
+                    "sentence": "המבחן החיצוני- גישת המדע והביקורת השיפטית",
+                    "sentence_id": "0",
+                    "paragraph_index": 60,
+                    "global_sentence_index": 105
+                }
+            ]
+        },
+        {
+            "paragraph_index": 61,
+            "sentences": [
+                {
+                    "sentence": "באשר לחלקו הראשון של המבחן, קרי גישת המדע, קבע בי המשפט כי הן המאשימה והן ההגנה, באמצעות עדיהם הצליחו להוכיח כי בדיקות השיער לגילוי צריכת סמים, מקובלות בעולם המדע מזה שנים רבות, מאמרים רבים הוגשו בעניין וספרים רבים צוטטו",
+                    "sentence_id": "0",
+                    "paragraph_index": 61,
+                    "global_sentence_index": 106
+                },
+                {
+                    "sentence": "כן קבע בית המשפט כי הן המומחה מטעם המאשימה, פרופ' טליארו והן המומחה מטעם ההגנה, פרופ' קורין, אשר העידו כי הם עוסקים בבדיקות שיער מזה כמה עשורים, הניחו בפני בית המשפט מסה של מאמרים המלמדים מהי גישת המדע בעניין בדיקות שיער ואיך מדע זה התפתח לאורך השנים",
+                    "sentence_id": "1",
+                    "paragraph_index": 61,
+                    "global_sentence_index": 107
+                }
+            ]
+        },
+        {
+            "paragraph_index": 62,
+            "sentences": [
+                {
+                    "sentence": "בית המשפט הוסיף וציין בהכרעת הדין כי גם המאשימה הפנתה והציגה בפני בית המשפט מאמרים רבים המלמדים כי בדיקות לגילוי סם בשיער הינן בדיקות מקובלות מדעית; כן הפנתה לעצם הקמת ה\"אגודה לבדיקות שיער\" \"The Society of Hair Testing\" (SoHT) עוד בשנת 1995; להנחיות האומות המיוחדות, האו\"ם United Nations Office on Drug and Crime   UNODC (להלן: \"הנחיות האומות המיוחדות\"); לספר שכתב העד פרופ' טליארו עבור משרד האומות המיוחדות, בעניין הוראות לבדיקות טוקסולגיות בשיער, לפרק 4 בדו\"ח לאנג Understanfing Forenxic vs Clinical vs Research Purpose , בנוגע לישום ידע מדעי ומתודות מדעיות לשאלות משפטיות, המתבסס בין היתר, על הנחיות האגודה לבדיקות שיער וכן הנחיות האו\"ם וכן לעובדה כי ישנה התעניינות בינלאומית גוברת בנושא זה, וכי מאז שנת 1979 ועד לשנת 2014 פורסמו קרוב ל – 600 פרסומים בנושא",
+                    "sentence_id": "0",
+                    "paragraph_index": 62,
+                    "global_sentence_index": 108
+                },
+                {
+                    "sentence": "בית המשפט עיין וסקר חלק מהאמרים הרבים שהוגשו ושנמצא בהם תימוכין לטענה כי בדיקות שיער מקובלות בעולם המדע",
+                    "sentence_id": "1",
+                    "paragraph_index": 62,
+                    "global_sentence_index": 109
+                }
+            ]
+        },
+        {
+            "paragraph_index": 63,
+            "sentences": [
+                {
+                    "sentence": "לסיום החלק הראשון של המבחן החיצוני קבע בית המשפט כי הוכח בפניו כי בדיקות שיער מקובלות בעולם המדע כבר למעלה מעשור, המאמרים שהוגשו ונסרקו, לימדו כי במשך שני העשורים האחרונים, פעלו מעבדות רבות לשיפור שיטות בדיקות השיער והרחיבו אגב כך את אפשרות הפקת נתונים מבדיקה זו",
+                    "sentence_id": "0",
+                    "paragraph_index": 63,
+                    "global_sentence_index": 110
+                },
+                {
+                    "sentence": "כן לימדו המאמרים כי במהלך תקופה זו, הלך וגדל מספרן של המעבדות העושות שימוש בגישה מדעית זו בתחומים רבים לרבות, בתחום המשפטי, לצרכי גילוי חשיפה לסם בקורבנות עבירות פליליות, בעיקר בשל חלון הגילוי הרחב המעניקה בדיקה זו לעומת בדיקות אחרות",
+                    "sentence_id": "1",
+                    "paragraph_index": 63,
+                    "global_sentence_index": 111
+                }
+            ]
+        },
+        {
+            "paragraph_index": 64,
+            "sentences": [
+                {
+                    "sentence": "ביקורת שיפוטית",
+                    "sentence_id": "0",
+                    "paragraph_index": 64,
+                    "global_sentence_index": 112
+                }
+            ]
+        },
+        {
+            "paragraph_index": 65,
+            "sentences": [
+                {
+                    "sentence": "ביקורת שיפוטית במובן הצר",
+                    "sentence_id": "0",
+                    "paragraph_index": 65,
+                    "global_sentence_index": 113
+                }
+            ]
+        },
+        {
+            "paragraph_index": 66,
+            "sentences": [
+                {
+                    "sentence": "במסגרת מבחן זה, ברוח הלכת מצגורה, קבע בית המשפט כי יש לבדוק פסקי דין שניתנו ביחס לקבילות הראיה, במידה ואלה קיימים",
+                    "sentence_id": "0",
+                    "paragraph_index": 66,
+                    "global_sentence_index": 114
+                },
+                {
+                    "sentence": "בית המשפט הוסיף וקבע כי בדיקת שיער לא זכתה בעבר להכרה מפורשת בפסיקה הישראלית, עם זאת במהלך ניהול התיק ואגב מתן עדות מטעם שני המומחים בתיק, מומחה התביעה, פרופ' טליארו ומומחה ההגנה, פרופ' קורין, הוכח בפניו כי בדיקות השיער קבילות כראיה בבתי המשפט ברחבי העולם",
+                    "sentence_id": "1",
+                    "paragraph_index": 66,
+                    "global_sentence_index": 115
+                },
+                {
+                    "sentence": "יתרה מכך,  בית המשפט הדגיש כי פרופ' קורין, מומחה ההגנה היה בעצמו אחראי על מעבדה אשר סיפקה לבתי המשפט חוות דעת בעניין סמים שנתגלו בשיער והוו בסיס להכרעות דין רבות",
+                    "sentence_id": "2",
+                    "paragraph_index": 66,
+                    "global_sentence_index": 116
+                }
+            ]
+        },
+        {
+            "paragraph_index": 67,
+            "sentences": [
+                {
+                    "sentence": "בנוסף, מבין מכלול המאמרים שהציגה המאשימה לעיונו של בית המשפט להוכחת המקובלות המדעית של בדיקות השיער בקרב אנשי המדע, הוגשו גם מאמרים המלמדים, כי בדיקות שיער מעין אלו, הוו בסיס להכרעה בתיקים פליליים מסוימים במדינות זרות",
+                    "sentence_id": "0",
+                    "paragraph_index": 67,
+                    "global_sentence_index": 117
+                }
+            ]
+        },
+        {
+            "paragraph_index": 68,
+            "sentences": [
+                {
+                    "sentence": "מלבד אסופת המאמרים אשר חלקם הצביע כאמור על המקובלות המדעית של בדיקת השיער וחלקם האחר סרק פסקי דין אשר התקבלה בהם בדיקת שיער כראיה, סקר בית המשפט אסופת פסקי דין שניתנו בארצות הברית ומדינות נוספות בהן קיבל בית המשפט כראיה בדיקת שיער לגילוי חשיפה לסמים",
+                    "sentence_id": "0",
+                    "paragraph_index": 68,
+                    "global_sentence_index": 118
+                }
+            ]
+        },
+        {
+            "paragraph_index": 69,
+            "sentences": [
+                {
+                    "sentence": "לסיכום המבחן הצר קבע בית המשפט כי על אף שבדיקת השיער טרם נבחנה בבתי המשפט בישראל, הרי בבתי משפט בארצות הברית, באנגליה ובקנדה, בדיקת שיער היוותה אחת הראיות הראשיות ברבים מפסקי הדין, בערכאות השונות בהליכים פליליים ואף בבתי הדין לענייני עבודה ובבתי המשפט לענייני משפחה",
+                    "sentence_id": "0",
+                    "paragraph_index": 69,
+                    "global_sentence_index": 119
+                },
+                {
+                    "sentence": "ברבים מפסקי הדין שנסקרו, העניקו בתי המשפט משקל משמעותי לראיה המדעית של בדיקת סם בשיער אשר סייעה בידם להכריע  בתיק",
+                    "sentence_id": "1",
+                    "paragraph_index": 69,
+                    "global_sentence_index": 120
+                }
+            ]
+        },
+        {
+            "paragraph_index": 70,
+            "sentences": [
+                {
+                    "sentence": "ביקורת שיפוטית במובן הרחב",
+                    "sentence_id": "0",
+                    "paragraph_index": 70,
+                    "global_sentence_index": 121
+                }
+            ]
+        },
+        {
+            "paragraph_index": 71,
+            "sentences": [
+                {
+                    "sentence": "בהקשר זה קבע בית המשפט כי אכן היה פילוג בדעות המומחים, אולם ניתוח הטענות שהועלו מטעם ההגנה ובדיקת הממצאים שהונחו בפניו מטעם שני הצדדים, הובילו למסקנה כי יש לקבל את חוות הדעת שערך המומחה מטעם המאשימה, פרופ' טליארו",
+                    "sentence_id": "0",
+                    "paragraph_index": 71,
+                    "global_sentence_index": 122
+                }
+            ]
+        },
+        {
+            "paragraph_index": 72,
+            "sentences": [
+                {
+                    "sentence": "לסיכום קבע בית המשפט כי לאחר ששקל את המבחן הפנימי על שני חלקיו, שיטת המומחה פרופ'  טליארו והשלכות ההוכחה, ולאחר ששקל את המבחן החיצוני אף הוא על שני חלקיו, גישת המדע",
+                    "sentence_id": "0",
+                    "paragraph_index": 72,
+                    "global_sentence_index": 123
+                }
+            ]
+        },
+        {
+            "paragraph_index": 73,
+            "sentences": [
+                {
+                    "sentence": "5129371והביקורת השיפוטית, הגיע לכלל מסקנה כי חוות הדעת שערך פרופ' טליארו קבילה כראיה, זאת לאחר שהוכח בפניו כי המדובר בטכניקה מדעית מקובלת ומצוטטת רבות בפסיקה המשווה",
+                    "sentence_id": "0",
+                    "paragraph_index": 73,
+                    "global_sentence_index": 124
+                },
+                {
+                    "sentence": "שיטות רבות בעולם, מחקרים רבים ואף בתי המשפט בעולם, הכירו בכשרותה ודומה כי בדיקת השיער לגילוי חשיפה לסמים, מאופיינת במרכיבים, ממצאים  וניתוחים שונים העונים על דרישת קבילותה כראיה מדעית ועל כן מצא בית המשפט, לקבוע כי היא עברה את \"מבחני האש\" והפכה לקבילה",
+                    "sentence_id": "1",
+                    "paragraph_index": 73,
+                    "global_sentence_index": 125
+                }
+            ]
+        },
+        {
+            "paragraph_index": 74,
+            "sentences": []
+        },
+        {
+            "paragraph_index": 75,
+            "sentences": [
+                {
+                    "sentence": "חנא סבאג 54678313-/",
+                    "sentence_id": "0",
+                    "paragraph_index": 75,
+                    "global_sentence_index": 126
+                }
+            ]
+        },
+        {
+            "paragraph_index": 76,
+            "sentences": [
+                {
+                    "sentence": "נוסח מסמך זה כפוף לשינויי ניסוח ועריכה",
+                    "sentence_id": "0",
+                    "paragraph_index": 76,
+                    "global_sentence_index": 127
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [],
+    "main_sentence_from_docx": [],
+    "main_sentence_id_in_docx": [],
+    "global_sentence_index_docx": [],
+    "global_sentence_index_spike": [],
+    "score_of_similarity": []
+}

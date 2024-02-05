@@ -1,0 +1,4607 @@
+{
+    "title": "m014025",
+    "paragraphs": [
+        {
+            "paragraph_index": 0,
+            "sentences": [
+                {
+                    "sentence": "בתי המשפט",
+                    "sentence_id": "0",
+                    "paragraph_index": 0,
+                    "global_sentence_index": 0
+                }
+            ]
+        },
+        {
+            "paragraph_index": 1,
+            "sentences": [
+                {
+                    "sentence": "למאשימה:ו עו\"ד ניק קאופמן",
+                    "sentence_id": "0",
+                    "paragraph_index": 1,
+                    "global_sentence_index": 1
+                }
+            ]
+        },
+        {
+            "paragraph_index": 2,
+            "sentences": [
+                {
+                    "sentence": "לנאשם:נ עו\"ד איברהים אבו-עטא",
+                    "sentence_id": "0",
+                    "paragraph_index": 2,
+                    "global_sentence_index": 2
+                }
+            ]
+        },
+        {
+            "paragraph_index": 3,
+            "sentences": [
+                {
+                    "sentence": "לערעור בעליון",
+                    "sentence_id": "0",
+                    "paragraph_index": 3,
+                    "global_sentence_index": 3
+                }
+            ]
+        },
+        {
+            "paragraph_index": 4,
+            "sentences": [
+                {
+                    "sentence": "מוראד אבו-חמאד נ' מדינת ישראל",
+                    "sentence_id": "0",
+                    "paragraph_index": 4,
+                    "global_sentence_index": 4
+                }
+            ]
+        },
+        {
+            "paragraph_index": 5,
+            "sentences": [
+                {
+                    "sentence": "מ' חשין, ד' דורנר, י' טיר",
+                    "sentence_id": "0",
+                    "paragraph_index": 5,
+                    "global_sentence_index": 5
+                }
+            ]
+        },
+        {
+            "paragraph_index": 6,
+            "sentences": [
+                {
+                    "sentence": "חקיקה שאוזכרה:",
+                    "sentence_id": "0",
+                    "paragraph_index": 6,
+                    "global_sentence_index": 6
+                }
+            ]
+        },
+        {
+            "paragraph_index": 7,
+            "sentences": [
+                {
+                    "sentence": ": סע'  , ,",
+                    "sentence_id": "0",
+                    "paragraph_index": 7,
+                    "global_sentence_index": 7
+                }
+            ]
+        },
+        {
+            "paragraph_index": 8,
+            "sentences": [
+                {
+                    "sentence": "ק",
+                    "sentence_id": "0",
+                    "paragraph_index": 8,
+                    "global_sentence_index": 8
+                }
+            ]
+        },
+        {
+            "paragraph_index": 9,
+            "sentences": [
+                {
+                    "sentence": "ל",
+                    "sentence_id": "0",
+                    "paragraph_index": 9,
+                    "global_sentence_index": 9
+                }
+            ]
+        },
+        {
+            "paragraph_index": 10,
+            "sentences": [
+                {
+                    "sentence": "הכרעת דין",
+                    "sentence_id": "0",
+                    "paragraph_index": 10,
+                    "global_sentence_index": 10
+                }
+            ]
+        },
+        {
+            "paragraph_index": 11,
+            "sentences": [
+                {
+                    "sentence": "האישום",
+                    "sentence_id": "0",
+                    "paragraph_index": 11,
+                    "global_sentence_index": 11
+                }
+            ]
+        },
+        {
+            "paragraph_index": 12,
+            "sentences": [
+                {
+                    "sentence": "1.\tהנאשם, מוראד בן מוחמד אבו-חאמד, מואשם באינוס בנסיבות מחמירות - עבירה על  ו-  ל, התשל\"ז - 1977 (להלן:ב \"החוק\"); ובמעשה סדום בנסיבות מחמירות - עבירה על  ו-  לחוק",
+                    "sentence_id": "0",
+                    "paragraph_index": 12,
+                    "global_sentence_index": 12
+                }
+            ]
+        },
+        {
+            "paragraph_index": 13,
+            "sentences": [
+                {
+                    "sentence": "לפי כתב האישום, את עבירותיו אלה ביצע הנאשם בסוף חודש מרץ 1999, בתיירת מאוסטרליה (להלן - \"התיירת\" או \"המתלוננת\")",
+                    "sentence_id": "0",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 13
+                },
+                {
+                    "sentence": "ואלה העובדות הנטענות בכתב האישום:ו ביום ו', 26.3.99 בשעת חצות, עלתה התיירת בכיכר ציון בירושלים למונית אותה נהג הנאשם",
+                    "sentence_id": "1",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 14
+                },
+                {
+                    "sentence": "התיירת ביקשה מהנאשם להסיעה למקום מגוריה במבשרת ציון והציעה לשלם לנאשם עבור הנסיעה 30 ש\"ח",
+                    "sentence_id": "2",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 15
+                },
+                {
+                    "sentence": "משהגיעו למבשרת ציון, סירב הנאשם לקבל את הכסף שהציעה לו התיירת",
+                    "sentence_id": "3",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 16
+                },
+                {
+                    "sentence": "הוא נעל את דלתות המונית והמשיך לנסוע לכיוון קיבוץ צובה",
+                    "sentence_id": "4",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 17
+                },
+                {
+                    "sentence": "התיירת דרשה מהנאשם לעצור, והתחננה לפניו שיתן לה לרדת מהמונית",
+                    "sentence_id": "5",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 18
+                },
+                {
+                    "sentence": "הנאשם התעלם מתחנוניה ואיים שיהרגנה אם תמשיך לצעוק",
+                    "sentence_id": "6",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 19
+                },
+                {
+                    "sentence": "משהגיע לשטח נטוש, בסמוך לקיבוץ צובה, עצר הנאשם את המונית, הוציא את התיירת ממנה בכח והשליך אותה על האדמה",
+                    "sentence_id": "7",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 20
+                },
+                {
+                    "sentence": "הנאשם הוריד את מכנסי התיירת ואת תחתוניה, תוך שהוא חונק אותה כדי להתגבר על התנגדותה הפיזית",
+                    "sentence_id": "8",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 21
+                },
+                {
+                    "sentence": "מיד לאחר מכן החדיר הנאשם את איבר מינו לאיבר מינה של התיירת, עד שבא על סיפוקו",
+                    "sentence_id": "9",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 22
+                },
+                {
+                    "sentence": "הנאשם בעל את התיירת מספר פעמים וכן החדיר את איבר מינו לפיה",
+                    "sentence_id": "10",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 23
+                },
+                {
+                    "sentence": "לבסוף הצליחה התיירת להשתחרר ונמלטה מהמקום כשהיא בוכה, חבולה ולבושה חלקית",
+                    "sentence_id": "11",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 24
+                },
+                {
+                    "sentence": "כתוצאה ממעשי הנאשם, הרתה התיירת, וכעבור מספר שבועות הפילה את עוברה",
+                    "sentence_id": "12",
+                    "paragraph_index": 13,
+                    "global_sentence_index": 25
+                }
+            ]
+        },
+        {
+            "paragraph_index": 14,
+            "sentences": [
+                {
+                    "sentence": "בכך, נאמר באישום, בעל הנאשם את התיירת שלא בהסכמתה החופשית, עקב שימוש בכח, תוך גרימת חבלה נפשית ותוך גרימת הריון",
+                    "sentence_id": "0",
+                    "paragraph_index": 14,
+                    "global_sentence_index": 26
+                },
+                {
+                    "sentence": "בנוסף לכך ביצע הנאשם בתיירת מעשה סדום שלא בהסכמתה החופשית, עקב שימוש בכח ותוך גרימת פגיעה נפשית",
+                    "sentence_id": "1",
+                    "paragraph_index": 14,
+                    "global_sentence_index": 27
+                }
+            ]
+        },
+        {
+            "paragraph_index": 15,
+            "sentences": [
+                {
+                    "sentence": "תשובת הנאשם",
+                    "sentence_id": "0",
+                    "paragraph_index": 15,
+                    "global_sentence_index": 28
+                }
+            ]
+        },
+        {
+            "paragraph_index": 16,
+            "sentences": [
+                {
+                    "sentence": "2.\tבתשובתו לאישום כפר הנאשם בעובדות שבכתב האישום",
+                    "sentence_id": "0",
+                    "paragraph_index": 16,
+                    "global_sentence_index": 29
+                },
+                {
+                    "sentence": "הוא טען טענת אליבי - כי היה בביתו ביום הנזכר בכתב האישום",
+                    "sentence_id": "1",
+                    "paragraph_index": 16,
+                    "global_sentence_index": 30
+                },
+                {
+                    "sentence": "הנאשם הוסיף כי אמנם יש לו רשיון נהיגה לרכב פרטי, אך מעולם לא נהג במונית, אינו מורשה לנהוג במונית, ואין הוא מחזיק מונית",
+                    "sentence_id": "2",
+                    "paragraph_index": 16,
+                    "global_sentence_index": 31
+                }
+            ]
+        },
+        {
+            "paragraph_index": 17,
+            "sentences": [
+                {
+                    "sentence": "יצויין כי הנאשם יליד 15.9.79, רווק, יליד צור באהר, שוחרר ממאסר ביום 23.3.99, שלשה ימים לפני האירוע",
+                    "sentence_id": "0",
+                    "paragraph_index": 17,
+                    "global_sentence_index": 32
+                }
+            ]
+        },
+        {
+            "paragraph_index": 18,
+            "sentences": [
+                {
+                    "sentence": "דגימות זרע, רוק, שרידי העובר",
+                    "sentence_id": "0",
+                    "paragraph_index": 18,
+                    "global_sentence_index": 33
+                }
+            ]
+        },
+        {
+            "paragraph_index": 19,
+            "sentences": [
+                {
+                    "sentence": "3.\tוכך אירע אחרי מעשה האינוס",
+                    "sentence_id": "0",
+                    "paragraph_index": 19,
+                    "global_sentence_index": 34
+                },
+                {
+                    "sentence": "מיד אחר האינוס, נלקחה מנרתיק התיירת דגימת זרע לבדיקה במעבדה הביולוגית של משטרת ישראל",
+                    "sentence_id": "1",
+                    "paragraph_index": 19,
+                    "global_sentence_index": 35
+                },
+                {
+                    "sentence": "משנתגלה לתיירת שהיא בהריון, בוצעה בה הפלה",
+                    "sentence_id": "2",
+                    "paragraph_index": 19,
+                    "global_sentence_index": 36
+                },
+                {
+                    "sentence": "העובר נותח, ושרידיו נשלחו אף הם לבדיקה במעבדה הביולוגית של המחלקה לזיהוי פלילי של משטרת ישראל",
+                    "sentence_id": "3",
+                    "paragraph_index": 19,
+                    "global_sentence_index": 37
+                },
+                {
+                    "sentence": "ביום 31.3.01 נתקבלו  במעבדה המטושים שבהם נדגם איבר מינה של המתלוננת",
+                    "sentence_id": "4",
+                    "paragraph_index": 19,
+                    "global_sentence_index": 38
+                },
+                {
+                    "sentence": "מזרע האנס ומשרידי העובר נערכו בדיקות DNA (להלן - דנ\"א), והופק מהן אפיון גנטי (\"פרופיל\") הן של התיירת והן של בעל הזרע",
+                    "sentence_id": "5",
+                    "paragraph_index": 19,
+                    "global_sentence_index": 39
+                }
+            ]
+        },
+        {
+            "paragraph_index": 20,
+            "sentences": [
+                {
+                    "sentence": "חלפו כשנתיים, ובחודש אפריל 2001 נעצר הנאשם בידי המשטרה במסגרת חקירה פלילית בענין אחר, ולצורך זה נלקחה ממנו דגימת רוק",
+                    "sentence_id": "0",
+                    "paragraph_index": 20,
+                    "global_sentence_index": 40
+                },
+                {
+                    "sentence": "כשהגיעה הדגימה למעבדה הביולוגית לצורך הענין האחר, הבודקת במעבדה, העדה איילת רשף, שבדקה בעתו ביסודיות את החומר שנמסר לה בשנת 1999 (ראה מזכר איילת רשף נ/1 מיום 30.4.01), נזכרה בממצאי בדיקות אלה",
+                    "sentence_id": "1",
+                    "paragraph_index": 20,
+                    "global_sentence_index": 41
+                },
+                {
+                    "sentence": "היא נוכחה שמאפיינים גנטיים מסוימים (בשלשה אתרים) בדגימת הרוק שנלקחה לאחרונה מהנאשם, תואמים את האיפיון הגנטי של תאי הזרע של החשוד באינוס שנלקחו בעתו מנרתיק התיירת (ראה עדות הגב' רשף בעמודים 61-65, ומזכר נ/1)",
+                    "sentence_id": "2",
+                    "paragraph_index": 20,
+                    "global_sentence_index": 42
+                }
+            ]
+        },
+        {
+            "paragraph_index": 21,
+            "sentences": [
+                {
+                    "sentence": "אחרי איפיון ראשוני זה, נעשה איפיון שני (בבדיקת שלשה אתרים נוספים), ואחריו איפיון שלישי (בבדיקת שלשה אתרים נוספים)",
+                    "sentence_id": "0",
+                    "paragraph_index": 21,
+                    "global_sentence_index": 43
+                },
+                {
+                    "sentence": "משהושלם האיפיון הגנטי של הרוק של הנאשם, נמצאה התאמה מלאה בין הרוק לבין הפרופיל שהופק מתאי הזרע בשנת 1999.",
+                    "sentence_id": "1",
+                    "paragraph_index": 21,
+                    "global_sentence_index": 44
+                }
+            ]
+        },
+        {
+            "paragraph_index": 22,
+            "sentences": [
+                {
+                    "sentence": "כדי להסיר ספק ובהנחיית הפרקליטות, נלקחה מהנאשם באפריל 2001 דגימת רוק טריה, ונמצאה שוב התאמה מלאה בין המאפיינים הגנטיים של הזרע לבין המאפיינים הגנטיים של רוק הנאשם",
+                    "sentence_id": "0",
+                    "paragraph_index": 22,
+                    "global_sentence_index": 45
+                },
+                {
+                    "sentence": "משנתגלתה התאמה כאמור, הפיקה המעבדה הביולוגית של המשטרה גם איפיון גנטי של העובר ששרידיו הוחזקו מאז שנת 1999 כמוצג במעבדה הביולוגית",
+                    "sentence_id": "1",
+                    "paragraph_index": 22,
+                    "global_sentence_index": 46
+                },
+                {
+                    "sentence": "תוצאות איפיון העובר נשלחו למומחה, פרופסור עוזי מוטרו, והוא קבע שיש הסתברות גבוהה ביותר שהנאשם הוא אבי העובר",
+                    "sentence_id": "2",
+                    "paragraph_index": 22,
+                    "global_sentence_index": 47
+                }
+            ]
+        },
+        {
+            "paragraph_index": 23,
+            "sentences": [
+                {
+                    "sentence": "תוצאות בדיקת DNA והמסקנות המתבקשות מהן, הן הראיה העיקרית, אם לא היחידה, בתיק זה המקשרת את הנאשם למעשה האינוס",
+                    "sentence_id": "0",
+                    "paragraph_index": 23,
+                    "global_sentence_index": 48
+                },
+                {
+                    "sentence": "בראיה זו ובמידת הוודאות והבטחון בה, התמקד הדיון",
+                    "sentence_id": "1",
+                    "paragraph_index": 23,
+                    "global_sentence_index": 49
+                }
+            ]
+        },
+        {
+            "paragraph_index": 24,
+            "sentences": [
+                {
+                    "sentence": "עדות המתלוננת",
+                    "sentence_id": "0",
+                    "paragraph_index": 24,
+                    "global_sentence_index": 50
+                }
+            ]
+        },
+        {
+            "paragraph_index": 25,
+            "sentences": [
+                {
+                    "sentence": "4.\tהמתלוננת היא תיירת מאוסטרליה, ילידת 1975. היא הגיעה ארצה כדי לטפל בילדי משפחת יערי במבשרת ציון",
+                    "sentence_id": "0",
+                    "paragraph_index": 25,
+                    "global_sentence_index": 51
+                },
+                {
+                    "sentence": "התיירת התגוררה אצל משפחת יערי, טיפלה בילדיה ועשתה עבודות בית",
+                    "sentence_id": "1",
+                    "paragraph_index": 25,
+                    "global_sentence_index": 52
+                },
+                {
+                    "sentence": "רק בערבי שבת נהגה לצאת לבלות",
+                    "sentence_id": "2",
+                    "paragraph_index": 25,
+                    "global_sentence_index": 53
+                }
+            ]
+        },
+        {
+            "paragraph_index": 26,
+            "sentences": [
+                {
+                    "sentence": "וכך העידה התיירת לפנינו (עמ' 3 ואילך):נ ביום ו', 26 במרץ  1999, בסביבות השעה 16:00, יצאה מהבית במבשרת ציון וביקרה בבית חברים בירושלים",
+                    "sentence_id": "0",
+                    "paragraph_index": 26,
+                    "global_sentence_index": 54
+                },
+                {
+                    "sentence": "שם שהתה כארבע שעות ושתתה כארבע פחיות בירה",
+                    "sentence_id": "1",
+                    "paragraph_index": 26,
+                    "global_sentence_index": 55
+                },
+                {
+                    "sentence": "אחרי כן יצאה לבלות במרכז העיר בירושלים, במקום שנקרא \"מקס פלייס\"",
+                    "sentence_id": "2",
+                    "paragraph_index": 26,
+                    "global_sentence_index": 56
+                },
+                {
+                    "sentence": "שם שתתה כארבע כוסות בירה (פנטים) נוספות, ובסך הכל שתתה באותו ערב כתשע כוסות בירה",
+                    "sentence_id": "3",
+                    "paragraph_index": 26,
+                    "global_sentence_index": 57
+                },
+                {
+                    "sentence": "בשל כך היתה אז \"קצת שיכורה\"",
+                    "sentence_id": "4",
+                    "paragraph_index": 26,
+                    "global_sentence_index": 58
+                }
+            ]
+        },
+        {
+            "paragraph_index": 27,
+            "sentences": [
+                {
+                    "sentence": "בחצות הלילה ביקשה התיירת לחזור לביתה במבשרת ציון",
+                    "sentence_id": "0",
+                    "paragraph_index": 27,
+                    "global_sentence_index": 59
+                },
+                {
+                    "sentence": "היא נכנסה לתוך מונית בככר ציון וישבה ליד הנהג",
+                    "sentence_id": "1",
+                    "paragraph_index": 27,
+                    "global_sentence_index": 60
+                },
+                {
+                    "sentence": "היא לא שמה לב למספר המונית",
+                    "sentence_id": "2",
+                    "paragraph_index": 27,
+                    "global_sentence_index": 61
+                },
+                {
+                    "sentence": "כנראה, כך אמרה, היתה זו מכונית מסוג מרצדס, כדוגמת המוניות שהיא רואה בכל מקום",
+                    "sentence_id": "3",
+                    "paragraph_index": 27,
+                    "global_sentence_index": 62
+                },
+                {
+                    "sentence": "צבע המונית לבן - בכך היא בטוחה",
+                    "sentence_id": "4",
+                    "paragraph_index": 27,
+                    "global_sentence_index": 63
+                },
+                {
+                    "sentence": "היא חושבת שהיה למונית סימן של מונית למעלה",
+                    "sentence_id": "5",
+                    "paragraph_index": 27,
+                    "global_sentence_index": 64
+                },
+                {
+                    "sentence": "היא והנהג סיכמו על תשלום של 30 שקלים חדשים",
+                    "sentence_id": "6",
+                    "paragraph_index": 27,
+                    "global_sentence_index": 65
+                },
+                {
+                    "sentence": "הם דיברו בשפה האנגלית, אך במהלך הנסיעה לא דיברו",
+                    "sentence_id": "7",
+                    "paragraph_index": 27,
+                    "global_sentence_index": 66
+                },
+                {
+                    "sentence": "הנסיעה ארכה כעשרים דקות",
+                    "sentence_id": "8",
+                    "paragraph_index": 27,
+                    "global_sentence_index": 67
+                }
+            ]
+        },
+        {
+            "paragraph_index": 28,
+            "sentences": [
+                {
+                    "sentence": "כשהגיעו למעלה הכביש המוביל למחוז חפצה, לבית משפחת יערי, דרש הנהג ממנה עוד כסף",
+                    "sentence_id": "0",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 68
+                },
+                {
+                    "sentence": "התיירת סירבה להוסיף לו על אשר סוכם",
+                    "sentence_id": "1",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 69
+                },
+                {
+                    "sentence": "הם התווכחו על סכום הכסף",
+                    "sentence_id": "2",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 70
+                },
+                {
+                    "sentence": "לפתע לחץ הנהג על דוושת הדלק והחל בנסיעה מהירה מאוד",
+                    "sentence_id": "3",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 71
+                },
+                {
+                    "sentence": "היא ניסתה לתת לו עוד כסף, וביקשה שיעצור את המונית",
+                    "sentence_id": "4",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 72
+                },
+                {
+                    "sentence": "היא צרחה",
+                    "sentence_id": "5",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 73
+                },
+                {
+                    "sentence": "הם הגיעו למקום אחר",
+                    "sentence_id": "6",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 74
+                },
+                {
+                    "sentence": "המונית עצרה, והנהג משך אותה החוצה אל בין השיחים",
+                    "sentence_id": "7",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 75
+                },
+                {
+                    "sentence": "הוא הוציאה מהמונית, שלף את נעליה, הפשיטה מתחתוניה, השכיבה על האדמה ואנס אותה",
+                    "sentence_id": "8",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 76
+                },
+                {
+                    "sentence": "הנהג גם השכיבה על המושב האחורי של המונית והחדיר את איבר מינו לפי טבעתה",
+                    "sentence_id": "9",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 77
+                },
+                {
+                    "sentence": "הנאשם אנס אותה שלש פעמים",
+                    "sentence_id": "10",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 78
+                },
+                {
+                    "sentence": "הוא גם הכריח אותה לבצע בו מין אוראלי",
+                    "sentence_id": "11",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 79
+                },
+                {
+                    "sentence": "כל הזמן התחננה:ב \"בבקשה אל תפגע בי",
+                    "sentence_id": "12",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 80
+                },
+                {
+                    "sentence": "בבקשה אל תפגע בי\"",
+                    "sentence_id": "13",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 81
+                },
+                {
+                    "sentence": "תחינותיה לא הועילו",
+                    "sentence_id": "14",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 82
+                },
+                {
+                    "sentence": "כשיצא הנהג לרגע מהמונית, ניצלה התיירת את ההזדמנות ונמלטה על נפשה",
+                    "sentence_id": "15",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 83
+                },
+                {
+                    "sentence": "היא היתה לבושה חלקית, בגרביים, בחולצת גולף ובז'קט בלבד, בלי תחתונים ובלי מכנסיים",
+                    "sentence_id": "16",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 84
+                },
+                {
+                    "sentence": "משהגיעה לכביש הראשי",
+                    "sentence_id": "17",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 85
+                },
+                {
+                    "sentence": "הסתתרה במשך זמן רב בתוך תעלה",
+                    "sentence_id": "18",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 86
+                },
+                {
+                    "sentence": "אחרי כן, משנוכחה שהנהג הסתלק לו, יצאה ממקום מחבואה, קשרה את הז'קט סביב מותניה, ורצה במעלה הכביש לאורך גדר קיבוץ צובה",
+                    "sentence_id": "19",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 87
+                },
+                {
+                    "sentence": "היא הגיעה לכניסה הראשית, ושם פגשה שני שומרים, שנתנו לה שמיכה ותחתונים, התקשרו למשטרה, ואיפשרו לה לטלפן למשפחת יערי (ראה עדות בני משפחת יערי, שם, עמ' 11-13, 43, והודעותיהם במשטרה ת/23 ו-ת/24)",
+                    "sentence_id": "20",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 88
+                },
+                {
+                    "sentence": "שני השומרים בשער קיבוץ צובה הם העדים יעקב טליעז ורון נאור (שם, עמודים 8 ו-9)",
+                    "sentence_id": "21",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 89
+                },
+                {
+                    "sentence": "הם העידו שראוה יחפה, בלי מכנסיים",
+                    "sentence_id": "22",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 90
+                },
+                {
+                    "sentence": "היא היתה מבוהלת, נסערת והיסטרית",
+                    "sentence_id": "23",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 91
+                },
+                {
+                    "sentence": "היא דיברה תוך בכי",
+                    "sentence_id": "24",
+                    "paragraph_index": 28,
+                    "global_sentence_index": 92
+                }
+            ]
+        },
+        {
+            "paragraph_index": 29,
+            "sentences": [
+                {
+                    "sentence": "5.\tהמשטרה לקחה את התיירת מיד למקום האירוע, אחרי כן, לביתה, ומשם, מספר שעות אחרי האירועים, לקחוה לבית החולים \"שערי צדק\"",
+                    "sentence_id": "0",
+                    "paragraph_index": 29,
+                    "global_sentence_index": 93
+                },
+                {
+                    "sentence": "בבית החולים פתחו \"ערכת מין\" ולקחו, באמצעות מטושים, דגימות נוזלים משני אזורים באיבר מינה (מסמכים רפואיים:ו ת/15 מיום 27.3.99 שעה 05:20)",
+                    "sentence_id": "1",
+                    "paragraph_index": 29,
+                    "global_sentence_index": 94
+                }
+            ]
+        },
+        {
+            "paragraph_index": 30,
+            "sentences": [
+                {
+                    "sentence": "6.\tבחודש אפריל 1999 נסעה התיירת להולנד, שהתה שם עשרה ימים וחזרה ארצה",
+                    "sentence_id": "0",
+                    "paragraph_index": 30,
+                    "global_sentence_index": 95
+                },
+                {
+                    "sentence": "כשחזרה, חשה בהתפתחויות מוזרות בגופה",
+                    "sentence_id": "1",
+                    "paragraph_index": 30,
+                    "global_sentence_index": 96
+                },
+                {
+                    "sentence": "נבדקה, ונמצא כי היא בהריון",
+                    "sentence_id": "2",
+                    "paragraph_index": 30,
+                    "global_sentence_index": 97
+                },
+                {
+                    "sentence": "וועדה רפואית אישרה לה הפלה, וההפלה נערכה ביום 6.5.1999. גיל העובר, לפי בדיקת האולטרא-סאונד, היה אז ששה שבועות, כך נאמר לה",
+                    "sentence_id": "3",
+                    "paragraph_index": 30,
+                    "global_sentence_index": 98
+                },
+                {
+                    "sentence": "גיל זה של העובר תואם את מועד האינוס",
+                    "sentence_id": "4",
+                    "paragraph_index": 30,
+                    "global_sentence_index": 99
+                }
+            ]
+        },
+        {
+            "paragraph_index": 31,
+            "sentences": [
+                {
+                    "sentence": "7.\tבמשטרה, סמוך לאחר הארוע לא הצליחה התיירת להרכיב קלסתרון של הנהג (עמ' 55)",
+                    "sentence_id": "0",
+                    "paragraph_index": 31,
+                    "global_sentence_index": 100
+                },
+                {
+                    "sentence": "גם במסדר זיהוי שנערך, כשנתיים אחרי-כן, באפריל 2001  לא זיהתה את הנאשם (עמ' 14-15)",
+                    "sentence_id": "1",
+                    "paragraph_index": 31,
+                    "global_sentence_index": 101
+                },
+                {
+                    "sentence": "היא הצביעה על שני אנשים אחרים, אחד במידת וודאות גדולה יותר מהאחר",
+                    "sentence_id": "2",
+                    "paragraph_index": 31,
+                    "global_sentence_index": 102
+                },
+                {
+                    "sentence": "היא אמרה שפרטי האנס זכורים לה, אך את פניו אינה רוצה לזכור, כי היא מבקשת למחוק אותו מזכרונה, לבל תוסיף הדמות לרדפה בהמשך חייה",
+                    "sentence_id": "3",
+                    "paragraph_index": 31,
+                    "global_sentence_index": 103
+                }
+            ]
+        },
+        {
+            "paragraph_index": 32,
+            "sentences": [
+                {
+                    "sentence": "8.\tרישומיו הקשים של המעשה ניכרו בהופעת התיירת לפנינו על דוכן העדים",
+                    "sentence_id": "0",
+                    "paragraph_index": 32,
+                    "global_sentence_index": 104
+                },
+                {
+                    "sentence": "היא היתה נרגשת מאוד והרבתה לבכות",
+                    "sentence_id": "1",
+                    "paragraph_index": 32,
+                    "global_sentence_index": 105
+                },
+                {
+                    "sentence": "במהלך חקירתה הנגדית בידי הסניגור, שהיתה בעיניה משפילה - אך ענינית בעיני בית המשפט - אף התפרצה המתלוננת  התפרצויות זעם ובכי ועזבה את האולם",
+                    "sentence_id": "2",
+                    "paragraph_index": 32,
+                    "global_sentence_index": 106
+                },
+                {
+                    "sentence": "רק לאחר שכנוע והוצאת הנאשם מהאולם, ניאותה לחזור לדוכן העדים ולהשלים את עדותה (עמ' 22-27)",
+                    "sentence_id": "3",
+                    "paragraph_index": 32,
+                    "global_sentence_index": 107
+                },
+                {
+                    "sentence": "גם אז התקשתה להרגע",
+                    "sentence_id": "4",
+                    "paragraph_index": 32,
+                    "global_sentence_index": 108
+                },
+                {
+                    "sentence": "מספר פעמים דרשה שהחקירה תסתיים, כי היא מבולבלת וסחוטה (עמ' 36, 39, 45)",
+                    "sentence_id": "5",
+                    "paragraph_index": 32,
+                    "global_sentence_index": 109
+                },
+                {
+                    "sentence": "התרשמנו  כי עדותה מהימנה וכי תיארה את הדברים כהוויתם, כפי שחוותה אותם",
+                    "sentence_id": "6",
+                    "paragraph_index": 32,
+                    "global_sentence_index": 110
+                }
+            ]
+        },
+        {
+            "paragraph_index": 33,
+            "sentences": [
+                {
+                    "sentence": "גיל ההריון",
+                    "sentence_id": "0",
+                    "paragraph_index": 33,
+                    "global_sentence_index": 111
+                }
+            ]
+        },
+        {
+            "paragraph_index": 34,
+            "sentences": [
+                {
+                    "sentence": "9.\tאת ההפלה ביצע ד\"ר דני לאור ביום 6.5.1999 (ת/16 ועמ' 2 לפרוטוקול מיום 20.11.2001)",
+                    "sentence_id": "0",
+                    "paragraph_index": 34,
+                    "global_sentence_index": 112
+                },
+                {
+                    "sentence": "ד\"ר לאור הוא רופא נשים",
+                    "sentence_id": "1",
+                    "paragraph_index": 34,
+                    "global_sentence_index": 113
+                },
+                {
+                    "sentence": "בשנת 1999 שימש כירורג במרכז הכירורגי בירושלים",
+                    "sentence_id": "2",
+                    "paragraph_index": 34,
+                    "global_sentence_index": 114
+                },
+                {
+                    "sentence": "ד\"ר לאור העיד כי, כפי שהתבקש, הוציא את החומר שנלקח מרחמה של התיירת, כשבעה גרם משקלו, שנראה כעיסה דמית, פיזרו על פד לבן,  והפרידו לשני סוגים:נ חומר שילייתי וחומר עוברי",
+                    "sentence_id": "3",
+                    "paragraph_index": 34,
+                    "global_sentence_index": 115
+                },
+                {
+                    "sentence": "כל אחד משני חומרים אלה הושם בצנצנת נפרדת",
+                    "sentence_id": "4",
+                    "paragraph_index": 34,
+                    "global_sentence_index": 116
+                },
+                {
+                    "sentence": "הצנצנות נמסרו למרדים ד\"ר דוד פרנקל (עדותו בעמ' 6, שם, ו-ת/17), וזה מסרן למשטרה",
+                    "sentence_id": "5",
+                    "paragraph_index": 34,
+                    "global_sentence_index": 117
+                },
+                {
+                    "sentence": "בעמודה (מס' 44) בטופס ת/16 שענינה \"גיל העובר בשבועות מלאים לפי בדיקה או לפי אולטרה-סאונד\", כתב ד\"ר לאור:ב \"9\"",
+                    "sentence_id": "6",
+                    "paragraph_index": 34,
+                    "global_sentence_index": 118
+                },
+                {
+                    "sentence": "על יסוד רישום זה, ביקש הסניגור, עו\"ד אבו-עטא, לטעון כי המתלוננת נאנסה כשבועיים לפני המועד הנקוב בכתב האישום",
+                    "sentence_id": "7",
+                    "paragraph_index": 34,
+                    "global_sentence_index": 119
+                },
+                {
+                    "sentence": "על כך חקר את ד\"ר לאור חקירה נגדית יסודית",
+                    "sentence_id": "8",
+                    "paragraph_index": 34,
+                    "global_sentence_index": 120
+                },
+                {
+                    "sentence": "ד\"ר לאור שלל מסקנה זאת",
+                    "sentence_id": "9",
+                    "paragraph_index": 34,
+                    "global_sentence_index": 121
+                },
+                {
+                    "sentence": "הוא אמר כי תיתכן טעות בקביעת תקופת ההריון בהריון צעיר זה",
+                    "sentence_id": "10",
+                    "paragraph_index": 34,
+                    "global_sentence_index": 122
+                },
+                {
+                    "sentence": "טווח הטעות בבדיקת אולטרה-סאונד \"פלוס מינוס שלשה ארבעה ימים\", ובבדיקה ידנית - \"שבועיים שלשה\" (שם, עמ' 4)",
+                    "sentence_id": "11",
+                    "paragraph_index": 34,
+                    "global_sentence_index": 123
+                },
+                {
+                    "sentence": "על כן עשה ד\"ר לאור במהלך עדותו חישוב מדויק ומפורט",
+                    "sentence_id": "12",
+                    "paragraph_index": 34,
+                    "global_sentence_index": 124
+                },
+                {
+                    "sentence": "בסופו קבע ד\"ר לאור כי מדובר בהריון בן \"41 עד 44 ימים\" (שם, עמ'   5)",
+                    "sentence_id": "13",
+                    "paragraph_index": 34,
+                    "global_sentence_index": 125
+                },
+                {
+                    "sentence": "כאמור, הפסקת ההריון בוצעה 42 יום אחרי האירוע",
+                    "sentence_id": "14",
+                    "paragraph_index": 34,
+                    "global_sentence_index": 126
+                }
+            ]
+        },
+        {
+            "paragraph_index": 35,
+            "sentences": [
+                {
+                    "sentence": "10.\tעל יסוד מסמך זה (ת/16), בירר עו\"ד אבו-עטא עם התיירת אפשרות שקיימה יחסי מין עם אדם אחר, כשבועיים לפני האירוע, ביום 12.3.99, כי אז היה הנאשם עדיין אסור בבית הסוהר",
+                    "sentence_id": "0",
+                    "paragraph_index": 35,
+                    "global_sentence_index": 127
+                },
+                {
+                    "sentence": "התיירת שללה זאת בתוקף ובהחלטיות:ו \"זה בלתי אפשרי\", \"המסמכים שלכם שגויים\", \"לא הייתי עם איש\", \"אני לא הולכת ושוכבת עם אנשים\" (עמ' 21)",
+                    "sentence_id": "1",
+                    "paragraph_index": 35,
+                    "global_sentence_index": 128
+                },
+                {
+                    "sentence": "המשך החקירה של עו\"ד אבו-עטא בקו זה, גרמה לה כעס רב ועלבון צורב",
+                    "sentence_id": "2",
+                    "paragraph_index": 35,
+                    "global_sentence_index": 129
+                },
+                {
+                    "sentence": "המתלוננת בכתה, צעקה, השליכה את מיקרופון ההקלטה ועזבה בזעם את האולם",
+                    "sentence_id": "3",
+                    "paragraph_index": 35,
+                    "global_sentence_index": 130
+                },
+                {
+                    "sentence": "היא הטיחה בו שאין היא טיפוס שמסתובב ברחובות כדי לחפש מין",
+                    "sentence_id": "4",
+                    "paragraph_index": 35,
+                    "global_sentence_index": 131
+                },
+                {
+                    "sentence": "המתלוננת אמרה כי הפעם האחרונה שקיימה יחסי מין לפני האירוע היתה בלונדון, חמשה חודשים קודם לכן",
+                    "sentence_id": "5",
+                    "paragraph_index": 35,
+                    "global_sentence_index": 132
+                },
+                {
+                    "sentence": "אחרי האירוע ועד שגילתה את דבר הריונה, לא קיימה יחסי מין (עמ' 13)",
+                    "sentence_id": "6",
+                    "paragraph_index": 35,
+                    "global_sentence_index": 133
+                }
+            ]
+        },
+        {
+            "paragraph_index": 36,
+            "sentences": [
+                {
+                    "sentence": "11.\tכאמור, עדות התיירת מהימנה בעינינו",
+                    "sentence_id": "0",
+                    "paragraph_index": 36,
+                    "global_sentence_index": 134
+                },
+                {
+                    "sentence": "על יסודה אנו שוללים את טענת הסניגור",
+                    "sentence_id": "1",
+                    "paragraph_index": 36,
+                    "global_sentence_index": 135
+                },
+                {
+                    "sentence": "מסקנה זו גם מתבקשת בוודאות מעדות ד\"ר לאור",
+                    "sentence_id": "2",
+                    "paragraph_index": 36,
+                    "global_sentence_index": 136
+                },
+                {
+                    "sentence": "על כן, קובעים אנו כי המתלוננת הרתה מאינוסה בידי האנס ביום 26.3.99.",
+                    "sentence_id": "3",
+                    "paragraph_index": 36,
+                    "global_sentence_index": 137
+                }
+            ]
+        },
+        {
+            "paragraph_index": 37,
+            "sentences": [
+                {
+                    "sentence": "12.\tכאמור, הראיה העיקרית, ואף היחידה, נגד הנאשם היא בדיקת ה-דנ\"א שנערכה ברוק ובזרע של הנאשם בהשוואה לבדיקת ה-דנ\"א של האם ושל העובר",
+                    "sentence_id": "0",
+                    "paragraph_index": 37,
+                    "global_sentence_index": 138
+                }
+            ]
+        },
+        {
+            "paragraph_index": 38,
+            "sentences": [
+                {
+                    "sentence": "בדיקות ה-דנ\"א:נ",
+                    "sentence_id": "0",
+                    "paragraph_index": 38,
+                    "global_sentence_index": 139
+                }
+            ]
+        },
+        {
+            "paragraph_index": 39,
+            "sentences": [
+                {
+                    "sentence": "13.\tעל בדיקות הדנ\"א ועל תוצאותיהן העידה הגב' איילת רשף (פרוטוקול מוקלט מיום 19.11.2001, עמ' 3 ואילך), בהמשך לחוות דעת שהכינה:ב ת/19 מיום 21.9.99; ת/1 מיום 17.4.2001, ת/2 מיום 10.5.2001. כן הגישה העדה לבית המשפט מאמרים מדעיים בסוגיה זו",
+                    "sentence_id": "0",
+                    "paragraph_index": 39,
+                    "global_sentence_index": 140
+                }
+            ]
+        },
+        {
+            "paragraph_index": 40,
+            "sentences": [
+                {
+                    "sentence": "כאמור, הגב' רשף היא עובדת המעבדה הביולוגית של המחלקה לזיהוי פלילי במטה הארצי של משטרת ישראל",
+                    "sentence_id": "0",
+                    "paragraph_index": 40,
+                    "global_sentence_index": 141
+                },
+                {
+                    "sentence": "היא נושאת תוארB",
+                    "sentence_id": "1",
+                    "paragraph_index": 40,
+                    "global_sentence_index": 142
+                },
+                {
+                    "sentence": "SC בביולוגיה ותואר M",
+                    "sentence_id": "2",
+                    "paragraph_index": 40,
+                    "global_sentence_index": 143
+                },
+                {
+                    "sentence": "SC במיקרוביולוגיה מהאוניברסיטה העברית",
+                    "sentence_id": "3",
+                    "paragraph_index": 40,
+                    "global_sentence_index": 144
+                },
+                {
+                    "sentence": "בכשירותה המקצועית ובנסיונה לא הוטל ספק",
+                    "sentence_id": "4",
+                    "paragraph_index": 40,
+                    "global_sentence_index": 145
+                }
+            ]
+        },
+        {
+            "paragraph_index": 41,
+            "sentences": [
+                {
+                    "sentence": "הגב' רשף הסבירה את מתכונת עבודתה:ו ממוצגים בזירת העבירה מחפשים חומר ביולוגי - דם, זרע או רוק",
+                    "sentence_id": "0",
+                    "paragraph_index": 41,
+                    "global_sentence_index": 146
+                },
+                {
+                    "sentence": "חומר זה מושווה עם דוגמות לייחוס הנלקחות מהחשודים במעשה, כדי לבדוק התאמה ביניהם",
+                    "sentence_id": "1",
+                    "paragraph_index": 41,
+                    "global_sentence_index": 147
+                }
+            ]
+        },
+        {
+            "paragraph_index": 42,
+            "sentences": [
+                {
+                    "sentence": "הן דגימות הזרע, הן שרידי העובר, הן דגימות הרוק של הנאשם הגיעו למשטרה, נבדקו בידי הגב' רשף",
+                    "sentence_id": "0",
+                    "paragraph_index": 42,
+                    "global_sentence_index": 148
+                },
+                {
+                    "sentence": "הסניגוריה לא חלקה על שרשרת הגעת דגימות אלה לגב' רשף (עמ' 82 לחקירת הגב' רשף)",
+                    "sentence_id": "1",
+                    "paragraph_index": 42,
+                    "global_sentence_index": 149
+                }
+            ]
+        },
+        {
+            "paragraph_index": 43,
+            "sentences": [
+                {
+                    "sentence": "הגב' רשף הסבירה את הליך הבדיקה, וכך אמרה:נ החומר הביולוגי המתקבל עובר תהליך מיצוי ה-דנ\"א מתוכו",
+                    "sentence_id": "0",
+                    "paragraph_index": 43,
+                    "global_sentence_index": 150
+                },
+                {
+                    "sentence": "אחרי המיצוי בא השכפול:ב \"לצורך האיפיון אנחנו מבצעים איזושהי ריאקציה במבחנה של שכפול, של יצירת הרבה הרבה העתקים של האיזורים שאנחנו רוצים, זה נקרא PCR\" (עמ' 5)",
+                    "sentence_id": "1",
+                    "paragraph_index": 43,
+                    "global_sentence_index": 151
+                },
+                {
+                    "sentence": "השכפול נעשה בריאקציה אנזימתית",
+                    "sentence_id": "2",
+                    "paragraph_index": 43,
+                    "global_sentence_index": 152
+                },
+                {
+                    "sentence": "אחרי השכפול בא האיפיון:ו",
+                    "sentence_id": "3",
+                    "paragraph_index": 43,
+                    "global_sentence_index": 153
+                }
+            ]
+        },
+        {
+            "paragraph_index": 44,
+            "sentences": [
+                {
+                    "sentence": "\"מה שאנחנו עושים, זה לוקחים את הדוגמא שאנחנו שכפלנו, מריצים על DNA, והיא רצה ליד סולם ייחוס ואנחנו יודעים שאם הקו הזה מייצג לדוגמא שש חזרות, והקו הזה מייצג שבע חזרות, אז הקו הזה מייצג שמונה חזרות",
+                    "sentence_id": "0",
+                    "paragraph_index": 44,
+                    "global_sentence_index": 154
+                },
+                {
+                    "sentence": "זה האלֵל שאורכו הוא שמונה",
+                    "sentence_id": "1",
+                    "paragraph_index": 44,
+                    "global_sentence_index": 155
+                },
+                {
+                    "sentence": "אלה בעצם הגלים שאנחנו מריצים ובעזרתם אנחנו מאפיינים את ה-DNA\" (עמ' 20, פרוטוקול יום 19.11.2001) (הדגשה זו וכל ההדגשות בהכרעת דין זו - הוספו)",
+                    "sentence_id": "2",
+                    "paragraph_index": 44,
+                    "global_sentence_index": 156
+                }
+            ]
+        },
+        {
+            "paragraph_index": 45,
+            "sentences": [
+                {
+                    "sentence": "לענין החזרות, הסבירה הגב' רשף:נ",
+                    "sentence_id": "0",
+                    "paragraph_index": 45,
+                    "global_sentence_index": 157
+                }
+            ]
+        },
+        {
+            "paragraph_index": 46,
+            "sentences": [
+                {
+                    "sentence": "\"אנחנו אמרנו האלֵלים שאנחנו בודקים, הייחוד שלהם שהם יכולים להיות שונים מאדם לאדם",
+                    "sentence_id": "0",
+                    "paragraph_index": 46,
+                    "global_sentence_index": 158
+                },
+                {
+                    "sentence": "במה הם שונים",
+                    "sentence_id": "1",
+                    "paragraph_index": 46,
+                    "global_sentence_index": 159
+                },
+                {
+                    "sentence": "באורך המקטע",
+                    "sentence_id": "2",
+                    "paragraph_index": 46,
+                    "global_sentence_index": 160
+                },
+                {
+                    "sentence": "עכשיו, איך יש שוני במקטע",
+                    "sentence_id": "3",
+                    "paragraph_index": 46,
+                    "global_sentence_index": 161
+                },
+                {
+                    "sentence": "בעצם יש יחידה אחת, שאצל אדם אחד חוזרת ארבע פעמים או חמש פעמים ואצל אדם אחר חוזרת שבע פעמים",
+                    "sentence_id": "4",
+                    "paragraph_index": 46,
+                    "global_sentence_index": 162
+                },
+                {
+                    "sentence": "אז אם יש את אותה יחידת רצף שחוזרת ארבע פעמים, אז יש לנו מקטע באורך כזה, אבל אם היא חוזרת שבע פעמים, אז יש לנו מקטע ארוך יותר",
+                    "sentence_id": "5",
+                    "paragraph_index": 46,
+                    "global_sentence_index": 163
+                },
+                {
+                    "sentence": "זה בעצם האלֵל\" (שם, עמ' 21)",
+                    "sentence_id": "6",
+                    "paragraph_index": 46,
+                    "global_sentence_index": 164
+                }
+            ]
+        },
+        {
+            "paragraph_index": 47,
+            "sentences": [
+                {
+                    "sentence": "ואלה פרטי התורה, כפי שהעידה עליה הגב' רשף:ב \"ה-DNA זה בעצם מולקולה שמקדדת, מולקולה שבעצם צופנת בתוכה את כל פעילויות החיים של האורגניזמים והיא מורשת מדור לדור\" (עמ' 3)",
+                    "sentence_id": "0",
+                    "paragraph_index": 47,
+                    "global_sentence_index": 165
+                },
+                {
+                    "sentence": "כל תא בעל גרעין בגוף האדם (כגון:ו בזרע, ברוק, בדם, בעור, בעצמות, ובציפורניים), לבד מתאים חסרי גרעין (כמו כדוריות הדם האדומות), נושא באחידות \"את אותה תוכנה\", שהיא \"תוכנת החיים ה-DNA שמקדדת את כל פעילויות החיים של האורגניזמים\" (שם, עמ' 19)",
+                    "sentence_id": "1",
+                    "paragraph_index": 47,
+                    "global_sentence_index": 166
+                }
+            ]
+        },
+        {
+            "paragraph_index": 48,
+            "sentences": [
+                {
+                    "sentence": "בענין זה נאמר עוד במאמר שכתבה העדה ביחד עם נירה גלילי ופאול ברנר, גם הם עובדי המעבדה לביולוגיה פורנזית במחלקה לזיהוי פלילי במשטרת ישראל, שכותרתו - ד\"ר ווטסון, הבלש והדנ\"א - הביולוגיה בשירות המשפט, שפורסם בגליליאו, גליון מאי-יוני 2001, עמ' 37 (מוצג ת/5):",
+                    "sentence_id": "0",
+                    "paragraph_index": 48,
+                    "global_sentence_index": 167
+                }
+            ]
+        },
+        {
+            "paragraph_index": 49,
+            "sentences": [
+                {
+                    "sentence": "\"מולקולת הדנ\"א משמשת כתוכנית הכוללת את המידע התורשתי המכתיב את פעילויות החיים בגופנו",
+                    "sentence_id": "0",
+                    "paragraph_index": 49,
+                    "global_sentence_index": 168
+                },
+                {
+                    "sentence": "היא בנויה כשרשרת ארוכה המורכבת מארבע אבני יסוד המכונות נוקליאוטידים-של-דנ\"א (לעתים קרובות מכנים אותם גם: בסיסים)",
+                    "sentence_id": "1",
+                    "paragraph_index": 49,
+                    "global_sentence_index": 169
+                },
+                {
+                    "sentence": "ואלה הם: אָדֶנין, גּואָנין, גֳּנין, ציטוֹזין וטימין (ובקיצור: A, G, C ו-T)",
+                    "sentence_id": "2",
+                    "paragraph_index": 49,
+                    "global_sentence_index": 170
+                },
+                {
+                    "sentence": "סדר הנוקליאוטידים לאורך שרשרת הדנ\"א נקרא רצף (או: מעקובת)",
+                    "sentence_id": "3",
+                    "paragraph_index": 49,
+                    "global_sentence_index": 171
+                },
+                {
+                    "sentence": "מולקולת הדנ\"א היא דו-גדילית: היא עשויה שני חוטים (גדילים) הכרוכים בצורת סליל כפול",
+                    "sentence_id": "4",
+                    "paragraph_index": 49,
+                    "global_sentence_index": 172
+                },
+                {
+                    "sentence": "שני הגדילים קשורים ביניהם בקשרים ספציפיים: נוקליאוטיד A שבגדיל אחד קשור לנוקליאוטיד T בגדיל השני, ואילו C קשור ל-G",
+                    "sentence_id": "5",
+                    "paragraph_index": 49,
+                    "global_sentence_index": 173
+                },
+                {
+                    "sentence": "לפיכך רצף הנוקליאוטידים בגדיל אחד מותנה ברצף הנוקליאוטידים שבגדיל השני,כך ששני הגדילים הם 'גדילים משלימים' זה לזה",
+                    "sentence_id": "6",
+                    "paragraph_index": 49,
+                    "global_sentence_index": 174
+                },
+                {
+                    "sentence": "אורך כל הדנ\"א בתא גוף של אדם הוא כ-3 מיליארד נוקליאוטידים\"",
+                    "sentence_id": "7",
+                    "paragraph_index": 49,
+                    "global_sentence_index": 175
+                }
+            ]
+        },
+        {
+            "paragraph_index": 50,
+            "sentences": [
+                {
+                    "sentence": "כל אדם נושא בקרבו מחצית מהאינפורמציה שמקורה באם ומחצית שניה שמקורה באב",
+                    "sentence_id": "0",
+                    "paragraph_index": 50,
+                    "global_sentence_index": 176
+                },
+                {
+                    "sentence": "עבור כל יחידת אינפורמציה אצל כל אדם יש \"שני העתקים\", שאחד מקורו באם והשני מקורו באב",
+                    "sentence_id": "1",
+                    "paragraph_index": 50,
+                    "global_sentence_index": 177
+                },
+                {
+                    "sentence": "כל תא בגוף האדם מכיל עותק זה של ה-דנ\"א",
+                    "sentence_id": "2",
+                    "paragraph_index": 50,
+                    "global_sentence_index": 178
+                },
+                {
+                    "sentence": "בכל תא דנ\"א נמצאים 46 כרומוזומים, מחציתם מקורם באם ומחציתם באב",
+                    "sentence_id": "3",
+                    "paragraph_index": 50,
+                    "global_sentence_index": 179
+                },
+                {
+                    "sentence": "אלה יוצרים קומבינציות אין סופיות שאינן דומות אלא באחים תאומים",
+                    "sentence_id": "4",
+                    "paragraph_index": 50,
+                    "global_sentence_index": 180
+                },
+                {
+                    "sentence": "אותה יחידת אינפורמציה שבזוגות מופיעה במופעים שונים הנקראים האלֵלים (Alleles)",
+                    "sentence_id": "5",
+                    "paragraph_index": 50,
+                    "global_sentence_index": 181
+                },
+                {
+                    "sentence": "האלֵלים הם מעין חלונות הצרים שבהם מתמקדת הבדיקה:",
+                    "sentence_id": "6",
+                    "paragraph_index": 50,
+                    "global_sentence_index": 182
+                }
+            ]
+        },
+        {
+            "paragraph_index": 51,
+            "sentences": [
+                {
+                    "sentence": "\"מה הייחוד של החלונות שאנחנו בודקים",
+                    "sentence_id": "0",
+                    "paragraph_index": 51,
+                    "global_sentence_index": 183
+                },
+                {
+                    "sentence": "זה איזורים צרים ב-DNA זה פולימורפים",
+                    "sentence_id": "1",
+                    "paragraph_index": 51,
+                    "global_sentence_index": 184
+                },
+                {
+                    "sentence": "הם יכולים להיות שונים מאדם לאדם",
+                    "sentence_id": "2",
+                    "paragraph_index": 51,
+                    "global_sentence_index": 185
+                },
+                {
+                    "sentence": "בדרך הוריאציה הזאת אפשר להסתכל ולראות אם יש שייכות בין המוצג לבין הפרט שנבדק\" (עדות הגב' רשף, עמ' 5)",
+                    "sentence_id": "3",
+                    "paragraph_index": 51,
+                    "global_sentence_index": 186
+                }
+            ]
+        },
+        {
+            "paragraph_index": 52,
+            "sentences": [
+                {
+                    "sentence": "אלֵלים אלה הם האתרים הנבדקים",
+                    "sentence_id": "0",
+                    "paragraph_index": 52,
+                    "global_sentence_index": 187
+                },
+                {
+                    "sentence": "לכל אלֵל ייחוד השונה זה מזה:",
+                    "sentence_id": "1",
+                    "paragraph_index": 52,
+                    "global_sentence_index": 188
+                }
+            ]
+        },
+        {
+            "paragraph_index": 53,
+            "sentences": [
+                {
+                    "sentence": "\"אתר זה מקום ברצף, זה כמו איזשהי תחנה שאותה אנחנו פותחים ובודקים, והייחוד של האיזור הזה הוא שהוא יכול להיות שונה מאדם לאדם, ובמה הוא שונה",
+                    "sentence_id": "0",
+                    "paragraph_index": 53,
+                    "global_sentence_index": 189
+                },
+                {
+                    "sentence": "באורך מקטע ה-DNA",
+                    "sentence_id": "1",
+                    "paragraph_index": 53,
+                    "global_sentence_index": 190
+                },
+                {
+                    "sentence": "זאת אומרת, לאדם אחד יכול להיות מקטע ארוך, של ארבע חזרות ולאדם אחר מקטע יותר ארוך של שש חזרות וזה המספרים, שש, שבע, זה מבטא מספר חזרות של אותה יחידת רצף ואת זה אנחנו בודקים ב-DNA\" (שם, שם)",
+                    "sentence_id": "2",
+                    "paragraph_index": 53,
+                    "global_sentence_index": 191
+                }
+            ]
+        },
+        {
+            "paragraph_index": 54,
+            "sentences": [
+                {
+                    "sentence": "בבדיקה מפרידים את המקטעים לפי אורכם ולפי גודלם",
+                    "sentence_id": "0",
+                    "paragraph_index": 54,
+                    "global_sentence_index": 192
+                },
+                {
+                    "sentence": "אורך המקטע מייצג את התבנית של אותו אתר או של אותו \"חלון\"",
+                    "sentence_id": "1",
+                    "paragraph_index": 54,
+                    "global_sentence_index": 193
+                }
+            ]
+        },
+        {
+            "paragraph_index": 55,
+            "sentences": [
+                {
+                    "sentence": "כאמור, לכל יחידת אינפורמציה יש שני העתקים, אלֵלים - העתק אחד מקורו באב והעתק שני מקורו באם",
+                    "sentence_id": "0",
+                    "paragraph_index": 55,
+                    "global_sentence_index": 194
+                },
+                {
+                    "sentence": "על כן, האללים הם האתרים המקבילים בדנ\"א בין שני הכרומוזומים ההומולוגיים",
+                    "sentence_id": "1",
+                    "paragraph_index": 55,
+                    "global_sentence_index": 195
+                },
+                {
+                    "sentence": "בדיקות האתרים נעשות בקבוצות של שלישיות",
+                    "sentence_id": "2",
+                    "paragraph_index": 55,
+                    "global_sentence_index": 196
+                }
+            ]
+        },
+        {
+            "paragraph_index": 56,
+            "sentences": [
+                {
+                    "sentence": "בשלישיה הראשונה נבדקים האתרים: TH01, TPOX, CSFIPO",
+                    "sentence_id": "0",
+                    "paragraph_index": 56,
+                    "global_sentence_index": 197
+                }
+            ]
+        },
+        {
+            "paragraph_index": 57,
+            "sentences": [
+                {
+                    "sentence": "בשלישיה השניה - VWA, FESFPS, F13A",
+                    "sentence_id": "0",
+                    "paragraph_index": 57,
+                    "global_sentence_index": 198
+                }
+            ]
+        },
+        {
+            "paragraph_index": 58,
+            "sentences": [
+                {
+                    "sentence": "בשלישיה השלישית - DI3S317, D7S820, DI6S539.",
+                    "sentence_id": "0",
+                    "paragraph_index": 58,
+                    "global_sentence_index": 199
+                }
+            ]
+        },
+        {
+            "paragraph_index": 59,
+            "sentences": [
+                {
+                    "sentence": "אם החשוד אינו נשלל בשלישיה הראשונה, נבדקת השלישיה השניה, ואם גם בזו אינו נשלל, נבדקת השלישיה השלישית",
+                    "sentence_id": "0",
+                    "paragraph_index": 59,
+                    "global_sentence_index": 200
+                }
+            ]
+        },
+        {
+            "paragraph_index": 60,
+            "sentences": [
+                {
+                    "sentence": "הגב' רשף ציינה כי אתרים אלה לא נבחרו בבחירה אקראית, אלא מוכרים הם ומקובלים בעולם הפורנזי, ותוצאות בדיקתם ניתנות להשוואה במדע זה (שם, עמ' 13)",
+                    "sentence_id": "0",
+                    "paragraph_index": 60,
+                    "global_sentence_index": 201
+                },
+                {
+                    "sentence": "עוד אמרה הגב' רשף כי בעקבות הפרקטיקה המקובלת בעולם במדע הפורנזי היום, מקובל במעבדה הביולוגית של משטרת ישראל לבדוק תשעה אתרים אלה, בשלש בדיקות שכל אחת מהן מכילה שלשה אזורים, כדי לקבוע על פיהן התאמה ב-דנ\"א",
+                    "sentence_id": "1",
+                    "paragraph_index": 60,
+                    "global_sentence_index": 202
+                }
+            ]
+        },
+        {
+            "paragraph_index": 61,
+            "sentences": [
+                {
+                    "sentence": "בעיני העדה, שיטה זו הנוהגת בישראל עדיפה על השיטה הנוהגת באנגליה, שבה עובדים עם עשרה אתרים, שרק שניים מהם חופפים את האתרים הנהוגים בישראל",
+                    "sentence_id": "0",
+                    "paragraph_index": 61,
+                    "global_sentence_index": 203
+                },
+                {
+                    "sentence": "כן עדיפה, לדעתה,  שיטה זו הנוהגת בישראל על השיטה הנוהגת בארצות הברית, שבה עובדים על פי שלשה-עשר אתרים, שיש בהם חפיפה גדולה יותר עם האתרים הנהוגים בישראל",
+                    "sentence_id": "1",
+                    "paragraph_index": 61,
+                    "global_sentence_index": 204
+                }
+            ]
+        },
+        {
+            "paragraph_index": 62,
+            "sentences": [
+                {
+                    "sentence": "הגב' רשף גם הסבירה כי המספרים המצוינים בכל אתר מבטאים את אורך המקטע באתר:",
+                    "sentence_id": "0",
+                    "paragraph_index": 62,
+                    "global_sentence_index": 205
+                }
+            ]
+        },
+        {
+            "paragraph_index": 63,
+            "sentences": [
+                {
+                    "sentence": "\"כשיש לך שש, אז זה מבטא איזשהו רצף שחזר שש פעמים, ו[כ]שיש שבע זה מבטא איזשהו רצף שחזר שבע פעמים",
+                    "sentence_id": "0",
+                    "paragraph_index": 63,
+                    "global_sentence_index": 206
+                },
+                {
+                    "sentence": "זה ברור ששבע יותר ארוך משש, וכשאנחנו מריצים את זה בגלים, בשדה חשמלי, מקטעי ה-DNA נפרדים לפי אורכם, ואנחנו רואים, יש לנו סולם ייחוס שכנגדו אנחנו משווים, ואנחנו רואים את המקטע שערכו [צ\"ל: שאורכו] שבע שהוא מבטא שבע חזרות, או ערכו [צ\"ל: שאורכו] שש שהוא מבטא שש חזרות",
+                    "sentence_id": "1",
+                    "paragraph_index": 63,
+                    "global_sentence_index": 207
+                }
+            ]
+        },
+        {
+            "paragraph_index": 64,
+            "sentences": [
+                {
+                    "sentence": "בית המשפט: והמספר השני, תשע",
+                    "sentence_id": "0",
+                    "paragraph_index": 64,
+                    "global_sentence_index": 208
+                }
+            ]
+        },
+        {
+            "paragraph_index": 65,
+            "sentences": [
+                {
+                    "sentence": "ת",
+                    "sentence_id": "0",
+                    "paragraph_index": 65,
+                    "global_sentence_index": 209
+                },
+                {
+                    "sentence": "תשע חזרות, אבל זה פשוט בדיקה באיזור אחר",
+                    "sentence_id": "1",
+                    "paragraph_index": 65,
+                    "global_sentence_index": 210
+                },
+                {
+                    "sentence": "זה כאילו שיש לך המון אינפורמציה ואתה פותח חלונות צרים של הצצה ובודק מה קורה בהם, מה אורך המקטעים של אותו פרט באיזור מסויים, במקום מסויים, בכתובת מסויימת, ואחר כך אתה עובר לכתובת אחרת, ואתה אומר ומה פה אורך המקטעים שנותרו עדיין, וכך הלאה, וכך הלאה\" (שם, עמ' 16, 17)",
+                    "sentence_id": "2",
+                    "paragraph_index": 65,
+                    "global_sentence_index": 211
+                }
+            ]
+        },
+        {
+            "paragraph_index": 66,
+            "sentences": [
+                {
+                    "sentence": "הגב' רשף הבחינה בין אתרים דומים אצל כל בני האדם לבין אתרים ייחודים אצל אדם זה או אחר:",
+                    "sentence_id": "0",
+                    "paragraph_index": 66,
+                    "global_sentence_index": 212
+                }
+            ]
+        },
+        {
+            "paragraph_index": 67,
+            "sentences": [
+                {
+                    "sentence": "\"בית המשפט: כל אחד יש לו מאפיינים מיוחדים משלו",
+                    "sentence_id": "0",
+                    "paragraph_index": 67,
+                    "global_sentence_index": 213
+                }
+            ]
+        },
+        {
+            "paragraph_index": 68,
+            "sentences": [
+                {
+                    "sentence": "ת",
+                    "sentence_id": "0",
+                    "paragraph_index": 68,
+                    "global_sentence_index": 214
+                },
+                {
+                    "sentence": "כן, ברובנו אנחנו לכל האיזורים שאחראים לפעילות ביולוגית אמיתית, כולנו דומים, כי חלילה כשאנחנו לא דומים יש מחלה, יש מוטציה שמתבטאת במחלה",
+                    "sentence_id": "1",
+                    "paragraph_index": 68,
+                    "global_sentence_index": 215
+                },
+                {
+                    "sentence": "האיזורים שאנחנו בודקים זה בדיוק הייחוד שלהם, שאנחנו יכולים להיות בהם שונים, בלי להיות חולים, זה איזורים שאינם מקדדים פעילות ביולוגיות, ובאמת מה שהם צופנים בתוכם, פולימור פיזי, צורות שונות, זאת אומרת שבאותם איזורים לי ולך יכולים להיות מקטעי DNA שונים באורכם\" (עמ' 25)",
+                    "sentence_id": "2",
+                    "paragraph_index": 68,
+                    "global_sentence_index": 216
+                }
+            ]
+        },
+        {
+            "paragraph_index": 69,
+            "sentences": [
+                {
+                    "sentence": "כאמור, תחילת הבדיקות במקרה זה היתה בשנת 1999 (ת/19), שנערכה אחרי מעשי האינוס",
+                    "sentence_id": "0",
+                    "paragraph_index": 69,
+                    "global_sentence_index": 217
+                },
+                {
+                    "sentence": "נבדקה התאמת ה-דנ\"א של הזרע שנלקח מאיבר מינה של המתלוננת ושל ה-דנ\"א של העובר שהפילה, ול-דנ\"א של שמונה חשודים, ונמצא שאין התאמה ביניהם",
+                    "sentence_id": "1",
+                    "paragraph_index": 69,
+                    "global_sentence_index": 218
+                },
+                {
+                    "sentence": "על כן, נשללה מעורבותם באינוס של אותם חשודים",
+                    "sentence_id": "2",
+                    "paragraph_index": 69,
+                    "global_sentence_index": 219
+                }
+            ]
+        },
+        {
+            "paragraph_index": 70,
+            "sentences": [
+                {
+                    "sentence": "מכאן לבדיקות ה-דנ\"א ביום 17.4.2001, שנערכו עם קבלת הרוק של הנאשם (חוות הדעת ת/1)",
+                    "sentence_id": "0",
+                    "paragraph_index": 70,
+                    "global_sentence_index": 220
+                },
+                {
+                    "sentence": "הגב' רשף הסבירה כי במטושים, שהם מקלות עטופים בצמר גפן, המכילים את החומר שנדגם מגוף המתלוננת, נמצאו יחדיו שתי \"אוכלוסיות\" תאים: אוכלוסיה אחת שמקורה בנאנסת עצמה, ואוכלוסיה שניה - שמקורה באנס",
+                    "sentence_id": "1",
+                    "paragraph_index": 70,
+                    "global_sentence_index": 221
+                },
+                {
+                    "sentence": "במעבדה מופרדות שתי האוכלוסיות כדי לקבל פרופילים נפרדים:",
+                    "sentence_id": "2",
+                    "paragraph_index": 70,
+                    "global_sentence_index": 222
+                }
+            ]
+        },
+        {
+            "paragraph_index": 71,
+            "sentences": [
+                {
+                    "sentence": "\"איך אנחנו עושים את זה",
+                    "sentence_id": "0",
+                    "paragraph_index": 71,
+                    "global_sentence_index": 223
+                },
+                {
+                    "sentence": "תאי הזרע למזלנו הם עמידים יותר מכל התאים האחרים לפירוק כימי, אז אנחנו קודם שמים בתמיסה מרכיבים שמפרקים את התאים האחרים, ואז אנחנו מסרקזים, ובנוזל העליון ב-S יש לנו תאים שברובם מקורם בנפגעת, אותם אנחנו אוספים ומהם אנחנו ננסה למצות פרופיל, ואחר כך מהפלט מה-P שזה ברובו אוכלוסיה של תאי זרע, אנחנו מפעילים עליה שלב של פירוק כימי, חזק יותר, וממצים מתוכם את ה-DNA ועכשיו מתוך אותו מטוש שנדגם מגופה, יש לנו שני פרופילים",
+                    "sentence_id": "1",
+                    "paragraph_index": 71,
+                    "global_sentence_index": 224
+                },
+                {
+                    "sentence": "ב-S פרופיל בדרך כלל של המתלוננת, וב-P בדרך כלל של מי שהיה לו מגע מיני איתה\" (שם, עמ'  15)",
+                    "sentence_id": "2",
+                    "paragraph_index": 71,
+                    "global_sentence_index": 225
+                }
+            ]
+        },
+        {
+            "paragraph_index": 72,
+            "sentences": [
+                {
+                    "sentence": "בבדיקה זו נבדקו דגימות שמקורן שלשה: בזרע שנמצא באיבר מינה של המתלוננת, בעובר, וברוק הנאשם",
+                    "sentence_id": "0",
+                    "paragraph_index": 72,
+                    "global_sentence_index": 226
+                },
+                {
+                    "sentence": "האלֵלים שנתקבלו בבדיקה זו סוכמו בטבלאות שצורפו לחוות דעת זו",
+                    "sentence_id": "1",
+                    "paragraph_index": 72,
+                    "global_sentence_index": 227
+                },
+                {
+                    "sentence": "על יסודם קבעה הגב' רשף ממצאים אלה:",
+                    "sentence_id": "2",
+                    "paragraph_index": 72,
+                    "global_sentence_index": 228
+                }
+            ]
+        },
+        {
+            "paragraph_index": 73,
+            "sentences": [
+                {
+                    "sentence": "מחומר שנדגם ממטוש וולבה פות P וגם ממטוש פורינקס P שנלקח מהמתלוננת, התקבל פרופיל דנ\"א התואם את פרופיל ה-דנ\"א של הנאשם, \"או כל אדם אחר הנושא פרופיל זה שהתקבל בבדיקות אלו\"",
+                    "sentence_id": "0",
+                    "paragraph_index": 73,
+                    "global_sentence_index": 229
+                },
+                {
+                    "sentence": "כאמור, תיאום זה נמצא בתשעה אתרים",
+                    "sentence_id": "1",
+                    "paragraph_index": 73,
+                    "global_sentence_index": 230
+                },
+                {
+                    "sentence": "וכך סיכמה הגב' רשף את פרופיל ה-דנ\"א של העובר, של האם ושל הנאשם בתשעת האתרים",
+                    "sentence_id": "2",
+                    "paragraph_index": 73,
+                    "global_sentence_index": 231
+                },
+                {
+                    "sentence": "טבלת הסיכום נמצאת ב-ת/3:",
+                    "sentence_id": "3",
+                    "paragraph_index": 73,
+                    "global_sentence_index": 232
+                }
+            ]
+        },
+        {
+            "paragraph_index": 74,
+            "sentences": [
+                {
+                    "sentence": "הגב' רשף הסבירה כי הקשר של העובר הזה לאב ולאם הוא בכך שבכל אתר ואתר ב-דנ\"א שלו יש שני אלֵלים: את האלֵל האחד לקח העובר מהאב, הוא הנאשם, ואת האלֵל השני לקח מהאם",
+                    "sentence_id": "0",
+                    "paragraph_index": 74,
+                    "global_sentence_index": 233
+                }
+            ]
+        },
+        {
+            "paragraph_index": 75,
+            "sentences": [
+                {
+                    "sentence": "כך, למשל, באתר TH01: לעובר יש אלֵלים 6,7, לאם 7,9, לאב 6,7. ממצא: האם העבירה לעובר אלֵל 7 והאב - אלֵל 6. כך גם באתר TPOX",
+                    "sentence_id": "0",
+                    "paragraph_index": 75,
+                    "global_sentence_index": 234
+                },
+                {
+                    "sentence": "לעובר אלֵלים 8,11, לאם 8,11, לאב 8,8. ממצא: האם העבירה לעובר אלֵל 11, האב - אלֵל 8. השתזרות זו של האלֵלים של האב ושל האם בעובר התקיימה גם ביתר האתרים כמפורט לעיל",
+                    "sentence_id": "1",
+                    "paragraph_index": 75,
+                    "global_sentence_index": 235
+                }
+            ]
+        },
+        {
+            "paragraph_index": 76,
+            "sentences": [
+                {
+                    "sentence": "לשאלת בית המשפט, אמרה העדה שהממצאים הגנטיים של הבדיקות שעשתה במקרה זה אמינים הם ובטוחים:",
+                    "sentence_id": "0",
+                    "paragraph_index": 76,
+                    "global_sentence_index": 236
+                }
+            ]
+        },
+        {
+            "paragraph_index": 77,
+            "sentences": [
+                {
+                    "sentence": "\"בית המשפט: האם ממצאיך, כפי שכתבת אותם הם בטוחים, ודאיים",
+                    "sentence_id": "0",
+                    "paragraph_index": 77,
+                    "global_sentence_index": 237
+                }
+            ]
+        },
+        {
+            "paragraph_index": 78,
+            "sentences": [
+                {
+                    "sentence": "ת",
+                    "sentence_id": "0",
+                    "paragraph_index": 78,
+                    "global_sentence_index": 238
+                },
+                {
+                    "sentence": "הניתוח הגנטי של התוצאות, אכן כן, כי זה חוזר על עצמו",
+                    "sentence_id": "1",
+                    "paragraph_index": 78,
+                    "global_sentence_index": 239
+                },
+                {
+                    "sentence": "אתה רואה במטושים שונים, בדופליקטים, בריאקציות עצמאיות תוצאות שחוזרות על עצמן",
+                    "sentence_id": "2",
+                    "paragraph_index": 78,
+                    "global_sentence_index": 240
+                },
+                {
+                    "sentence": "אתה רואה גם בעובר ובשיליה, אתה רואה תוצאות שחוזרות על עצמן במבחנות נפרדות, ומתקבלים אותן תוצאות\" (שם, עמ' 40)",
+                    "sentence_id": "3",
+                    "paragraph_index": 78,
+                    "global_sentence_index": 241
+                }
+            ]
+        },
+        {
+            "paragraph_index": 79,
+            "sentences": [
+                {
+                    "sentence": "בתשובה לשאלה אחרת של בית המשפט, אמרה העידה כי שיטה זו של בדיקה אמינה, מוכרת ומקובלת במדע זה בכל העולם:",
+                    "sentence_id": "0",
+                    "paragraph_index": 79,
+                    "global_sentence_index": 242
+                }
+            ]
+        },
+        {
+            "paragraph_index": 80,
+            "sentences": [
+                {
+                    "sentence": "בית המשפט: אומר לך הסניגור, אולי זה בכלל לא מדע מדוייק, על כל ההסתכלות, את מסתכלת, את מודדת, מי אמר לך שזה בדיוק אחד לאחד",
+                    "sentence_id": "0",
+                    "paragraph_index": 80,
+                    "global_sentence_index": 243
+                },
+                {
+                    "sentence": "הוא אומר לך תשווי את זה למתמטיקה",
+                    "sentence_id": "1",
+                    "paragraph_index": 80,
+                    "global_sentence_index": 244
+                }
+            ]
+        },
+        {
+            "paragraph_index": 81,
+            "sentences": [
+                {
+                    "sentence": "ת",
+                    "sentence_id": "0",
+                    "paragraph_index": 81,
+                    "global_sentence_index": 245
+                },
+                {
+                    "sentence": "אז אני רוצה להגיד שהשפה הזאת המדוברת הפורנזית, מדוברת בכל העולם ואנשים עם התוצאות שלהם, בשיטות האלה שאנחנו עובדים יוצרים ומשווים בכל העולם, כך עובדים, זאת אומרת זה עבר ולידציה, וכך אנשים עובדים",
+                    "sentence_id": "1",
+                    "paragraph_index": 81,
+                    "global_sentence_index": 246
+                },
+                {
+                    "sentence": "זה לא שאני מרכיבה איזשהי ערכה במעבדה, אלא אני קונה אותה, אחרי שהיא עברה ולידציה לבדיקות פורנזיות והוכחה כאמינה עבור הבדיקות המאוד מאוד קריטיות האלה שקובעות גורלות של אנשים\"(שם, שם)",
+                    "sentence_id": "2",
+                    "paragraph_index": 81,
+                    "global_sentence_index": 247
+                }
+            ]
+        },
+        {
+            "paragraph_index": 82,
+            "sentences": [
+                {
+                    "sentence": "העדה הוסיפה כי העֶרכּה שבה נעשית הבדיקה היא תוצרת ארצות הברית, והיא נהוגה בעולם בהרבה מעבדות פורנזיות",
+                    "sentence_id": "0",
+                    "paragraph_index": 82,
+                    "global_sentence_index": 248
+                },
+                {
+                    "sentence": "עֶרכּה זו מקובלת, למשל, בעבודה ב-FBI בארצות הברית",
+                    "sentence_id": "1",
+                    "paragraph_index": 82,
+                    "global_sentence_index": 249
+                },
+                {
+                    "sentence": "הערכה גם נבדקה בישראל ונמצאה מתאימה",
+                    "sentence_id": "2",
+                    "paragraph_index": 82,
+                    "global_sentence_index": 250
+                },
+                {
+                    "sentence": "על כן, היא בשימוש לא רק במשטרה, אלא גם במכון לרפואה משפטית באבו-כביר",
+                    "sentence_id": "3",
+                    "paragraph_index": 82,
+                    "global_sentence_index": 251
+                },
+                {
+                    "sentence": "אמנם באנגליה קיימות ערכות אוטומטיות, אך הן אינן מדויקות יותר, ויתרונן בכך שהבדיקה קצרה יותר וניתן בבת אחת לבדוק בה עשרה אתרים",
+                    "sentence_id": "4",
+                    "paragraph_index": 82,
+                    "global_sentence_index": 252
+                },
+                {
+                    "sentence": "על כן, נזקקת הבדיקה בערכה זו לכמות קטנה יותר של חומר",
+                    "sentence_id": "5",
+                    "paragraph_index": 82,
+                    "global_sentence_index": 253
+                },
+                {
+                    "sentence": "בכל מקרה, בבדיקת אותו אתר, התוצאות בשתי הערכות זהות (שם, עמ' 44)",
+                    "sentence_id": "6",
+                    "paragraph_index": 82,
+                    "global_sentence_index": 254
+                },
+                {
+                    "sentence": "לדעת העדה, שימוש בערכה אחרת כלשהי לא היתה מביאה לתוצאה שונה של התאמה בין הנאשם לבין המוצג",
+                    "sentence_id": "7",
+                    "paragraph_index": 82,
+                    "global_sentence_index": 255
+                }
+            ]
+        },
+        {
+            "paragraph_index": 83,
+            "sentences": [
+                {
+                    "sentence": "הגב' רשף שללה חשש שנפלה שגיאה בנתונים או בממצאים המעבדתיים",
+                    "sentence_id": "0",
+                    "paragraph_index": 83,
+                    "global_sentence_index": 256
+                },
+                {
+                    "sentence": "היא הציעה לסניגור לקבל לרשותו, לבדיקה בידי מומחים מטעמו, את הדגימות שאותן בדקה, שעדיין שמורות הן במעבדה:",
+                    "sentence_id": "1",
+                    "paragraph_index": 83,
+                    "global_sentence_index": 257
+                }
+            ]
+        },
+        {
+            "paragraph_index": 84,
+            "sentences": [
+                {
+                    "sentence": "\"אפשר גם היום לקחת, גם את ה-DNA שנדגם במטושים לבדיקה אצל מומחה וגם כדוגמת הדם של החשוד, לקחת אותו למומחה נגדי, ולבדוק\" (עמ' 51)",
+                    "sentence_id": "0",
+                    "paragraph_index": 84,
+                    "global_sentence_index": 258
+                }
+            ]
+        },
+        {
+            "paragraph_index": 85,
+            "sentences": [
+                {
+                    "sentence": "בתשובה לשאלות חוזרות ונשנות של עו\"ד אבו-עטא, הוסיפה העדה כי גם תכולת המבחנות וה-דנ\"א שהופקו מהעובר עדיין שמורים במעבדה, והן עומדות לרשות הסניגוריה לבדיקה בידי מומחים מטעמה:",
+                    "sentence_id": "0",
+                    "paragraph_index": 85,
+                    "global_sentence_index": 259
+                }
+            ]
+        },
+        {
+            "paragraph_index": 86,
+            "sentences": [
+                {
+                    "sentence": "\"ש",
+                    "sentence_id": "0",
+                    "paragraph_index": 86,
+                    "global_sentence_index": 260
+                },
+                {
+                    "sentence": "כלומר היום, אם רוצה לבוא היום מומחה כמוך, יכול לבדוק את זה ולעשות את אותם שלבי בדיקה כמו שאת עשית",
+                    "sentence_id": "1",
+                    "paragraph_index": 86,
+                    "global_sentence_index": 261
+                }
+            ]
+        },
+        {
+            "paragraph_index": 87,
+            "sentences": [
+                {
+                    "sentence": "ת",
+                    "sentence_id": "0",
+                    "paragraph_index": 87,
+                    "global_sentence_index": 262
+                },
+                {
+                    "sentence": "כן, בהחלט",
+                    "sentence_id": "1",
+                    "paragraph_index": 87,
+                    "global_sentence_index": 263
+                }
+            ]
+        },
+        {
+            "paragraph_index": 88,
+            "sentences": [
+                {
+                    "sentence": "ש",
+                    "sentence_id": "0",
+                    "paragraph_index": 88,
+                    "global_sentence_index": 264
+                },
+                {
+                    "sentence": "יכול לעשות את זה",
+                    "sentence_id": "1",
+                    "paragraph_index": 88,
+                    "global_sentence_index": 265
+                }
+            ]
+        },
+        {
+            "paragraph_index": 89,
+            "sentences": [
+                {
+                    "sentence": "ת",
+                    "sentence_id": "0",
+                    "paragraph_index": 89,
+                    "global_sentence_index": 266
+                },
+                {
+                    "sentence": "הוא יכול גם לקחת את ה-DNA שאני עשיתי והוא גם יכול לקחת את המבחנות שנשמרות באבחנה",
+                    "sentence_id": "1",
+                    "paragraph_index": 89,
+                    "global_sentence_index": 267
+                }
+            ]
+        },
+        {
+            "paragraph_index": 90,
+            "sentences": [
+                {
+                    "sentence": "ש",
+                    "sentence_id": "0",
+                    "paragraph_index": 90,
+                    "global_sentence_index": 268
+                },
+                {
+                    "sentence": "הוא לא לוקח את ה-DNA שאת עשית, הוא רוצה לעשות בדיקה משלו, מההתחלה, הוא יכול לעשות את זה",
+                    "sentence_id": "1",
+                    "paragraph_index": 90,
+                    "global_sentence_index": 269
+                }
+            ]
+        },
+        {
+            "paragraph_index": 91,
+            "sentences": [
+                {
+                    "sentence": "ת",
+                    "sentence_id": "0",
+                    "paragraph_index": 91,
+                    "global_sentence_index": 270
+                },
+                {
+                    "sentence": "כן",
+                    "sentence_id": "1",
+                    "paragraph_index": 91,
+                    "global_sentence_index": 271
+                }
+            ]
+        },
+        {
+            "paragraph_index": 92,
+            "sentences": [
+                {
+                    "sentence": "ש",
+                    "sentence_id": "0",
+                    "paragraph_index": 92,
+                    "global_sentence_index": 272
+                },
+                {
+                    "sentence": "לפי",
+                    "sentence_id": "1",
+                    "paragraph_index": 92,
+                    "global_sentence_index": 273
+                }
+            ]
+        },
+        {
+            "paragraph_index": 93,
+            "sentences": [
+                {
+                    "sentence": "ת",
+                    "sentence_id": "0",
+                    "paragraph_index": 93,
+                    "global_sentence_index": 274
+                },
+                {
+                    "sentence": "לפי מה שרשום לי זה נשמר המבחנות בהקפאה והוא יכול לעשות את זה",
+                    "sentence_id": "1",
+                    "paragraph_index": 93,
+                    "global_sentence_index": 275
+                }
+            ]
+        },
+        {
+            "paragraph_index": 94,
+            "sentences": [
+                {
+                    "sentence": "ש",
+                    "sentence_id": "0",
+                    "paragraph_index": 94,
+                    "global_sentence_index": 276
+                },
+                {
+                    "sentence": "ואז יש לו בדיוק אותו יתרון כמו שהיה לך",
+                    "sentence_id": "1",
+                    "paragraph_index": 94,
+                    "global_sentence_index": 277
+                }
+            ]
+        },
+        {
+            "paragraph_index": 95,
+            "sentences": [
+                {
+                    "sentence": "ת",
+                    "sentence_id": "0",
+                    "paragraph_index": 95,
+                    "global_sentence_index": 278
+                },
+                {
+                    "sentence": "בהחלט, הוא יפשיר את זה וידגום את זה מספר פעמים עד שהוא יקבל פרופיל נקי ששונה מהאם ויאפיין אותו",
+                    "sentence_id": "1",
+                    "paragraph_index": 95,
+                    "global_sentence_index": 279
+                }
+            ]
+        },
+        {
+            "paragraph_index": 96,
+            "sentences": [
+                {
+                    "sentence": "ש",
+                    "sentence_id": "0",
+                    "paragraph_index": 96,
+                    "global_sentence_index": 280
+                },
+                {
+                    "sentence": "והתוצאות לא יכולות להיות שונות",
+                    "sentence_id": "1",
+                    "paragraph_index": 96,
+                    "global_sentence_index": 281
+                }
+            ]
+        },
+        {
+            "paragraph_index": 97,
+            "sentences": [
+                {
+                    "sentence": "ת",
+                    "sentence_id": "0",
+                    "paragraph_index": 97,
+                    "global_sentence_index": 282
+                },
+                {
+                    "sentence": "אני מקווה מאוד שלא",
+                    "sentence_id": "1",
+                    "paragraph_index": 97,
+                    "global_sentence_index": 283
+                },
+                {
+                    "sentence": "אני חושבת שמה שצריך לעשות זה לקחת מומחה\" (עמ' 71,   72)",
+                    "sentence_id": "2",
+                    "paragraph_index": 97,
+                    "global_sentence_index": 284
+                }
+            ]
+        },
+        {
+            "paragraph_index": 98,
+            "sentences": [
+                {
+                    "sentence": "כך גם אמרה, בתשובה לשאלת בית המשפט, כי הדרך פתוחה לפני עו\"ד אבו-עטא לבדוק על ידי מומחים מטעמו גם את דפי העבודה ששימשו אותה:",
+                    "sentence_id": "0",
+                    "paragraph_index": 98,
+                    "global_sentence_index": 285
+                }
+            ]
+        },
+        {
+            "paragraph_index": 99,
+            "sentences": [
+                {
+                    "sentence": "\"תראה, תיק העבודה שלי עם כל בתי העבודה שכבר הוכנו לפני שנתיים זאת אומרת שכל איפיון המוצגים, בעצם ההשוואה נעשתה רק עכשיו, עמד לרשותו [לרשות הסניגור]",
+                    "sentence_id": "0",
+                    "paragraph_index": 99,
+                    "global_sentence_index": 286
+                },
+                {
+                    "sentence": "הוא [הסניגור] לא צילם אותו, הוא לא בדק",
+                    "sentence_id": "1",
+                    "paragraph_index": 99,
+                    "global_sentence_index": 287
+                },
+                {
+                    "sentence": ", כל דפי העבודה בעצם הוכנו והופרדו מכל התיקים האחרים הרבים שיש, כי בעצם הוצאתי כל דף ודף עבודה שהיה קשור איכשהו לתיק הזה, ואפשר היה לעשות את זה, סניגורים עושים את זה במקרים מסויימים\" (עמ' 50)",
+                    "sentence_id": "2",
+                    "paragraph_index": 99,
+                    "global_sentence_index": 288
+                }
+            ]
+        },
+        {
+            "paragraph_index": 100,
+            "sentences": [
+                {
+                    "sentence": "לסיכום עדות הגב' רשף: שיטת בדיקת דנ\"א הנהוגה במעבדה הביולוגית של משטרת ישראל שבה השתמשה העדה היא שיטה אמינה, מוכרת ומקובלת במדע בעולם, והממצא שהנאשם הוא אבי העובר הוא ממצא בטוח וודאי",
+                    "sentence_id": "0",
+                    "paragraph_index": 100,
+                    "global_sentence_index": 289
+                }
+            ]
+        },
+        {
+            "paragraph_index": 101,
+            "sentences": [
+                {
+                    "sentence": "השכיחות הסטטיסטית",
+                    "sentence_id": "0",
+                    "paragraph_index": 101,
+                    "global_sentence_index": 290
+                }
+            ]
+        },
+        {
+            "paragraph_index": 102,
+            "sentences": [
+                {
+                    "sentence": "14.\tאחר שהגב' רשף קבעה בוודאות את התאמת הפרופיל הגנטי של הנאשם לפרופיל הגנטי של העובר ושל הזרע שנמצא באיבר מינה של המתלוננת, השאלה הבאה: מה הוודאות שאת העבירה ביצע הנאשם ולא אדם אחר שגם לו יש פרופיל גנטי זהה, או במלים אחרות - מה מידת החשש שלאדם אחר שאינו הנאשם יש פרופיל גנטי זהה, ועל כן הוא ולא הנאשם ביצע את העבירה",
+                    "sentence_id": "0",
+                    "paragraph_index": 102,
+                    "global_sentence_index": 291
+                },
+                {
+                    "sentence": "כאן נכנסת לתמונה הסטטיסטיקה בדבר שכיחות פרופיל כזה של דנ\"א בקרב האוכלוסיה",
+                    "sentence_id": "1",
+                    "paragraph_index": 102,
+                    "global_sentence_index": 292
+                },
+                {
+                    "sentence": "קביעת שכיחות כזו היא מומחיותו של הפרופ' עוזי מוטרו",
+                    "sentence_id": "2",
+                    "paragraph_index": 102,
+                    "global_sentence_index": 293
+                }
+            ]
+        },
+        {
+            "paragraph_index": 103,
+            "sentences": [
+                {
+                    "sentence": "פרופ' עוזי מוטרו הוא פרופסור חבר במחלקה לאבולוציה, סיסטימטיקה ואקולוגיה במכון למדעי החיים של האוניברסיטה העברית בירושלים",
+                    "sentence_id": "0",
+                    "paragraph_index": 103,
+                    "global_sentence_index": 294
+                },
+                {
+                    "sentence": "התמחותו העיקרית היא בגנטיקה של אוכלוסיות",
+                    "sentence_id": "1",
+                    "paragraph_index": 103,
+                    "global_sentence_index": 295
+                },
+                {
+                    "sentence": "פרופסור מוטרו ערך את חוות הדעת ת/3 והעיד בבית המשפט עליה ועל ענין שכיחות פרופיל זה של דנ\"א באוכלוסיה (עמ' 1 לפרוטוקול מוקלד מיום 20.11.2001)",
+                    "sentence_id": "2",
+                    "paragraph_index": 103,
+                    "global_sentence_index": 296
+                }
+            ]
+        },
+        {
+            "paragraph_index": 104,
+            "sentences": [
+                {
+                    "sentence": "פרופ' מוטרו הסביר את מלאכת קביעת השכיחות הסטטיסטית בכגון זה",
+                    "sentence_id": "0",
+                    "paragraph_index": 104,
+                    "global_sentence_index": 297
+                },
+                {
+                    "sentence": "וכך אמר",
+                    "sentence_id": "1",
+                    "paragraph_index": 104,
+                    "global_sentence_index": 298
+                },
+                {
+                    "sentence": "זהות בין שני פרופילים גנטיים נקבעת על פי תשעה סימנים גנטיים מוכרים וידועים בעולם הפורנזי",
+                    "sentence_id": "2",
+                    "paragraph_index": 104,
+                    "global_sentence_index": 299
+                },
+                {
+                    "sentence": "משנמצאה זהות כזו בין הפרופיל הגנטי של מי שחוות הדעת הנידונות ניתנו בענינו לבין הפרופיל הגנטי של החשוד, מתעוררת השאלה כמה פרופילים גנטיים כאלה יש באוכלוסיה",
+                    "sentence_id": "3",
+                    "paragraph_index": 104,
+                    "global_sentence_index": 300
+                },
+                {
+                    "sentence": "במלים אחרות - מה היא ההסתברות שלאדם אחר, שאינו החשוד, יש אותו פרופיל גנטי, ולכן יתכן שהאַחֵר, ולא החשוד, היה במקום הפשע וביצע את העבירה",
+                    "sentence_id": "4",
+                    "paragraph_index": 104,
+                    "global_sentence_index": 301
+                }
+            ]
+        },
+        {
+            "paragraph_index": 105,
+            "sentences": [
+                {
+                    "sentence": "פרופ' מוטרו בנה טבלאות סטטיסטיות של שכיחויות על סמך מדגם של אוכלוסיות שונות",
+                    "sentence_id": "0",
+                    "paragraph_index": 105,
+                    "global_sentence_index": 302
+                },
+                {
+                    "sentence": "הטבלות נכללו בתוכנית מחשב",
+                    "sentence_id": "1",
+                    "paragraph_index": 105,
+                    "global_sentence_index": 303
+                },
+                {
+                    "sentence": "הגב' רשף הסתמכה על טבלאות אלה, וקבעה בחוות דעתה ת/1 כי שכיחות קיום תשעה אתרים אלה בקרב האוכלוסיה של יהודים ישראליים היכולים להיות מקור לחומר שנדגם ממקום הפשע, הוא 17:1 מיליארד בקירוב (ליתר דיוק 1:16,565,301,493), ושכיחות קיום תשעה אתרים אלה בקרב האוכלוסיה הערבית בישראל הוא 7:1 מיליארד (וליתר דיוק 1:7,382,396,636)",
+                    "sentence_id": "2",
+                    "paragraph_index": 105,
+                    "global_sentence_index": 304
+                }
+            ]
+        },
+        {
+            "paragraph_index": 106,
+            "sentences": [
+                {
+                    "sentence": "פרופ' מוטרו בעדותו, סמך את ידיו על תוצאה זו והסביר כי הישראליוּת במקרה זה אינה משחקת תפקיד מכריע במדגם",
+                    "sentence_id": "0",
+                    "paragraph_index": 106,
+                    "global_sentence_index": 305
+                },
+                {
+                    "sentence": "היא רק מצביעה על המקום שבו נלקח המדגם שעל יסודו חושבו הנתונים",
+                    "sentence_id": "1",
+                    "paragraph_index": 106,
+                    "global_sentence_index": 306
+                },
+                {
+                    "sentence": "על כן, אמר פרופ' מוטרו, אותה תוצאה של הסתברות, 7:1 מיליארד, היתה מתקבלת גם אם היה מדובר בערבי ממקום אחר, ירדני או מצרי, למשל",
+                    "sentence_id": "2",
+                    "paragraph_index": 106,
+                    "global_sentence_index": 307
+                },
+                {
+                    "sentence": "בכל מקרה, גם אם המבצע היה בן גזע אחר, יפני למשל, לא היתה השכיחות פוחתת מ-1 למיליארד",
+                    "sentence_id": "3",
+                    "paragraph_index": 106,
+                    "global_sentence_index": 308
+                }
+            ]
+        },
+        {
+            "paragraph_index": 107,
+            "sentences": [
+                {
+                    "sentence": "עוד נאמר בחוות דעת הגב' רשף כי השכיחות המחושבת מכילה תיקון סטטיסטי הבא לפצות על האפשרות כי בתת-אוכלוסיה אליה משתייך מקור ה-דנ\"א שבמוצגים, שכיחויות האללים שונות מבאוכלוסיה הכללית, ועל האפשרות של חיתון יתר (Inbreeding) בתוך אותה אוכלוסיה",
+                    "sentence_id": "0",
+                    "paragraph_index": 107,
+                    "global_sentence_index": 309
+                },
+                {
+                    "sentence": "אך \"השכיחות המחושבת אינה מתייחסת לקרובי משפחה, בקרבת דם מוגדרת, של מקור ה-דנ\"א במוצגים\"",
+                    "sentence_id": "1",
+                    "paragraph_index": 107,
+                    "global_sentence_index": 310
+                }
+            ]
+        },
+        {
+            "paragraph_index": 108,
+            "sentences": [
+                {
+                    "sentence": "כדי לשלול ספק שמא אחד מאחֵי הנאשם ביצע את המעשה הנידון, נערכו, לבקשת המשטרה והפרקליטות, לשלשת האחים - והסניגוריה אישרה שלנאשם שלשה אחים בלבד - בדיקות דנ\"א, ונמצא שאף אחד מהם אינו יכול להיות המקור לחומר שנמצא על המטושים",
+                    "sentence_id": "0",
+                    "paragraph_index": 108,
+                    "global_sentence_index": 311
+                },
+                {
+                    "sentence": "לכן, מעורבותם במעשה נשללה (עדות הגב' רשף, שם, עמ' 37-38)",
+                    "sentence_id": "1",
+                    "paragraph_index": 108,
+                    "global_sentence_index": 312
+                }
+            ]
+        },
+        {
+            "paragraph_index": 109,
+            "sentences": [
+                {
+                    "sentence": "פרופ' מוטרו הוסיף כי המדגמים שעליהם מבוססות הסטטיסטיקות הם מדגמים קבועים - אינם ישראלים אלא כלל אנושיים (עמ' 6)",
+                    "sentence_id": "0",
+                    "paragraph_index": 109,
+                    "global_sentence_index": 313
+                },
+                {
+                    "sentence": "בישראל נדגמו בין 400-600 יהודים ו-250 ערבים",
+                    "sentence_id": "1",
+                    "paragraph_index": 109,
+                    "global_sentence_index": 314
+                },
+                {
+                    "sentence": "את השוני בתוצאות בין האוכלוסיה היהודית לבין האוכלוסיה הערבית, הסביר בהיותן אוכלוסיות מבודדות מבחינת זרימת גנים",
+                    "sentence_id": "2",
+                    "paragraph_index": 109,
+                    "global_sentence_index": 315
+                }
+            ]
+        },
+        {
+            "paragraph_index": 110,
+            "sentences": [
+                {
+                    "sentence": "פרופ' מוטרו אמר עוד, כי המדגם שעל פיו הוא עובד נבנה על יסוד קריטריונים מדעיים:",
+                    "sentence_id": "0",
+                    "paragraph_index": 110,
+                    "global_sentence_index": 316
+                }
+            ]
+        },
+        {
+            "paragraph_index": 111,
+            "sentences": [
+                {
+                    "sentence": "\"אנחנו לקחנו את המדגם בצורה אקראית",
+                    "sentence_id": "0",
+                    "paragraph_index": 111,
+                    "global_sentence_index": 317
+                },
+                {
+                    "sentence": "יש פה מדגם של מאות אנשים שנבדק בכמה מובנים: האחד, האם הוא מספיק גדול ומקובל בעולם שמדגמים מקובלים ומשביעי רצון הם בגודל 200 אנשים, לנו יש יותר",
+                    "sentence_id": "1",
+                    "paragraph_index": 111,
+                    "global_sentence_index": 318
+                },
+                {
+                    "sentence": "שנית, בדקנו את תכיפות המדגם לגבי הנחות מסויימות בגנטיקה של אוכלוסיות המאפשרות את אותה שיטת חישוב והמדגם תקף",
+                    "sentence_id": "2",
+                    "paragraph_index": 111,
+                    "global_sentence_index": 319
+                },
+                {
+                    "sentence": "בכך אני רומז שהמדגם עומד בקריטריונים של שווי משקל הרדי-ווינברג, שזה מושג המאפשר לנו לחשב כל החישובים שלנו",
+                    "sentence_id": "3",
+                    "paragraph_index": 111,
+                    "global_sentence_index": 320
+                },
+                {
+                    "sentence": "המדגם אכן מקיים את זה\" (שם, עמ' 7)",
+                    "sentence_id": "4",
+                    "paragraph_index": 111,
+                    "global_sentence_index": 321
+                }
+            ]
+        },
+        {
+            "paragraph_index": 112,
+            "sentences": [
+                {
+                    "sentence": "העד אמר כי מדגם זה נהוג במכון לרפואה משפטית, במשטרת ישראל, וגם מאושר בספרות המדעית בעולם (עמ' 28)",
+                    "sentence_id": "0",
+                    "paragraph_index": 112,
+                    "global_sentence_index": 322
+                },
+                {
+                    "sentence": "לדעת פרופ' מוטרו, תשעה אתרים אלה נותנים בכגון זה תשובות מדויקות ומהימנות:",
+                    "sentence_id": "1",
+                    "paragraph_index": 112,
+                    "global_sentence_index": 323
+                }
+            ]
+        },
+        {
+            "paragraph_index": 113,
+            "sentences": [
+                {
+                    "sentence": "\"ש",
+                    "sentence_id": "0",
+                    "paragraph_index": 113,
+                    "global_sentence_index": 324
+                },
+                {
+                    "sentence": "מי קבע שדי בתשעה סמנים כאלה",
+                    "sentence_id": "1",
+                    "paragraph_index": 113,
+                    "global_sentence_index": 325
+                }
+            ]
+        },
+        {
+            "paragraph_index": 114,
+            "sentences": [
+                {
+                    "sentence": "ת",
+                    "sentence_id": "0",
+                    "paragraph_index": 114,
+                    "global_sentence_index": 326
+                },
+                {
+                    "sentence": "זה מקובל בכל העולם",
+                    "sentence_id": "1",
+                    "paragraph_index": 114,
+                    "global_sentence_index": 327
+                },
+                {
+                    "sentence": "המערכת הזו של תשעת הסמנים, בישראל לא ממציאים את הגלגל, אבל המערכת הזו מקובלת בכל העולם ומופיעה כמין 'קיט' כזה שבעזרתו עובדים",
+                    "sentence_id": "2",
+                    "paragraph_index": 114,
+                    "global_sentence_index": 328
+                },
+                {
+                    "sentence": "היא נבדקה בעולם ועל ידנו לעוצמה של הרזולוציה שלה, של עוצמת אבחנתה",
+                    "sentence_id": "3",
+                    "paragraph_index": 114,
+                    "global_sentence_index": 329
+                },
+                {
+                    "sentence": "עוצמת האבחנה היא מצויינת ולפי שיפוטנו המקצועי היא מערכת מספיק חדה כדי לתת תשובות מהימנות\" (שם, עמ' 6-7)",
+                    "sentence_id": "4",
+                    "paragraph_index": 114,
+                    "global_sentence_index": 330
+                }
+            ]
+        },
+        {
+            "paragraph_index": 115,
+            "sentences": [
+                {
+                    "sentence": "לשאלה בענין משמעות הנתון הסטטיסטי של 7:1 מיליארד, אמר העד:",
+                    "sentence_id": "0",
+                    "paragraph_index": 115,
+                    "global_sentence_index": 331
+                }
+            ]
+        },
+        {
+            "paragraph_index": 116,
+            "sentences": [
+                {
+                    "sentence": "\"אם אקח 7 מילירד כאוכלוסית כדור הארץ - יכול להיות שיש עוד אחד, ואני מצפה לעוד אחד",
+                    "sentence_id": "0",
+                    "paragraph_index": 116,
+                    "global_sentence_index": 332
+                },
+                {
+                    "sentence": "אולי עוד שניים, יכול להיות אף לא אחד",
+                    "sentence_id": "1",
+                    "paragraph_index": 116,
+                    "global_sentence_index": 333
+                },
+                {
+                    "sentence": "אם אקח הרבה מאוד כדורי ארץ כאלה, אני מצפה בהרבה מאוד כדורים כאלה שבממוצע בכל אחד יהיה אחד כזה",
+                    "sentence_id": "2",
+                    "paragraph_index": 116,
+                    "global_sentence_index": 334
+                },
+                {
+                    "sentence": "יש כדורי ארץ שיהיו 2 ויש שיהיו 0\" (עמ' 9)",
+                    "sentence_id": "3",
+                    "paragraph_index": 116,
+                    "global_sentence_index": 335
+                }
+            ]
+        },
+        {
+            "paragraph_index": 117,
+            "sentences": [
+                {
+                    "sentence": "שאלה אחרת שנבחנה היא - מה הסבירות שהעובר הנידון הוא בנו של הנאשם",
+                    "sentence_id": "0",
+                    "paragraph_index": 117,
+                    "global_sentence_index": 336
+                },
+                {
+                    "sentence": "על כך קבע פרופ' מוטרו בחוות דעתו שבכתב:",
+                    "sentence_id": "1",
+                    "paragraph_index": 117,
+                    "global_sentence_index": 337
+                }
+            ]
+        },
+        {
+            "paragraph_index": 118,
+            "sentences": [
+                {
+                    "sentence": "\"יחס הניראות (Likelihood Ratio), שהוא היחס בין ההסתברות לקבל את הנתונים שלפנינו בהנחה שהחשוד הוא אבי העובר, לבין ההסתברות לקבל את הנתונים שלפנינו בהנחה שאבי העובר הוא אדם אחר כלשהו מהאוכלוסייה הישראלית הערבית, שאינו קרוב משפחתו של החשוד, הוא 76 אלף, בקירוב",
+                    "sentence_id": "0",
+                    "paragraph_index": 118,
+                    "global_sentence_index": 338
+                },
+                {
+                    "sentence": "במלים אחרות, ההסתברות לקבל את הנתונים שלפנינו בהנחה שהחשוד הוא אבי העובר גדולה פי 76 אלף מההסתברות לקבל נתונים אלה בהנחה שאבי העובר הוא אדם אחר כלשהו מהאוכלוסייה הישראלית הערבית",
+                    "sentence_id": "1",
+                    "paragraph_index": 118,
+                    "global_sentence_index": 339
+                },
+                {
+                    "sentence": "יחס הניראות לגבי האוכלוסייה הישראלית היהודית הוא 363 אלף, בקירוב\" (ת/3)",
+                    "sentence_id": "2",
+                    "paragraph_index": 118,
+                    "global_sentence_index": 340
+                }
+            ]
+        },
+        {
+            "paragraph_index": 119,
+            "sentences": [
+                {
+                    "sentence": "במלים אחרות, ההסתברות לקבל עובר כזה, בהנחה שהחשוד הוא אביו, גדולה פי 76,000 מההסתברות לקבל עובר כזה אם אביו האמיתי אינו הנאשם, אלא פרט אקראי מהאוכלוסיה הישראלית הערבית, וההסתברות גדולה פי 363,000 אם האב האמיתי הוא פרט אקראי מהאוכלוסיה הישראלית היהודית",
+                    "sentence_id": "0",
+                    "paragraph_index": 119,
+                    "global_sentence_index": 341
+                },
+                {
+                    "sentence": "\"ואם האב האמיתי לא ישראלי ולא יהודי - לא חישבתי אך זה ייצא לדעתו בסדר גודל של 76,000 (ואני נוקט במספר למען הזהירות)\" (עמ' 10)",
+                    "sentence_id": "1",
+                    "paragraph_index": 119,
+                    "global_sentence_index": 342
+                }
+            ]
+        },
+        {
+            "paragraph_index": 120,
+            "sentences": [
+                {
+                    "sentence": "פרופ' מוטרו הוסיף כי הסתברויות אלה, האחת בענין האבהות    (76,000:1 או 363,000:1), והשניה - בענין פרופיל האנס ופרופיל הנאשם (7:1 מיליארד או 17:1 מיליארד), נערכות על פי קריטריונים שונים",
+                    "sentence_id": "0",
+                    "paragraph_index": 120,
+                    "global_sentence_index": 343
+                },
+                {
+                    "sentence": "ההסתברות בענין האבהות נערכת על פי Paternity Index, ובענין האנס והחשוד - על פי המדגם האמור",
+                    "sentence_id": "1",
+                    "paragraph_index": 120,
+                    "global_sentence_index": 344
+                }
+            ]
+        },
+        {
+            "paragraph_index": 121,
+            "sentences": [
+                {
+                    "sentence": "פרופ' מוטרו הוסיף כי ההסתברות של 7:1 מיליארד נקבעה לענין אוכלוסיה כללית שאינה קרובה קרבת דם לנאשם",
+                    "sentence_id": "0",
+                    "paragraph_index": 121,
+                    "global_sentence_index": 345
+                },
+                {
+                    "sentence": "ואולם, ההסתברות לגבי קרובים קרבת דם גדולה יותר, כגון לגבי בני דודים, ההסתברות היא 700:1 מיליון (עמ' 15)",
+                    "sentence_id": "1",
+                    "paragraph_index": 121,
+                    "global_sentence_index": 346
+                },
+                {
+                    "sentence": "לאחים ואחים תאומים יש אותו פרופיל גנטי",
+                    "sentence_id": "2",
+                    "paragraph_index": 121,
+                    "global_sentence_index": 347
+                },
+                {
+                    "sentence": "אך לאחים שאינם תאומים, אין בהכרח אותו פרופיל",
+                    "sentence_id": "3",
+                    "paragraph_index": 121,
+                    "global_sentence_index": 348
+                },
+                {
+                    "sentence": "השכיחות שיש לאח מסוים של הנאשם אותו פרופיל כמו לנאשם, שזהה לזה של האנס, היא 4,800:1. כלומר, \"אם היו לו 4,800 אחים אני מצפה לאולי עוד אחד\" (עמ' 11)",
+                    "sentence_id": "4",
+                    "paragraph_index": 121,
+                    "global_sentence_index": 349
+                }
+            ]
+        },
+        {
+            "paragraph_index": 122,
+            "sentences": [
+                {
+                    "sentence": "כאמור, במקרה זה, נבדקו שלושת אחי הנאשם, ולא נמצא למי מאחיו פרופיל כזה",
+                    "sentence_id": "0",
+                    "paragraph_index": 122,
+                    "global_sentence_index": 350
+                }
+            ]
+        },
+        {
+            "paragraph_index": 123,
+            "sentences": [
+                {
+                    "sentence": "הסניגור, עו\"ד אבו-עטא, ביקש בחקירה הנגדית לקעקע את הוודאות שבחוות הדעת של פרופ' מוטרו",
+                    "sentence_id": "0",
+                    "paragraph_index": 123,
+                    "global_sentence_index": 351
+                },
+                {
+                    "sentence": "בין היתר, שאל אם במדגם זה יוצגו כל האוכלוסיות ותת-האוכלוסיות הנדגמות",
+                    "sentence_id": "1",
+                    "paragraph_index": 123,
+                    "global_sentence_index": 352
+                },
+                {
+                    "sentence": "כגון, לגבי ערבים - בני הדתות השונות (מוסלמים, נוצרים), העדות השונות (כגון דרוזים, צ'רקסים), מגזרים שונים (בדואים, תושבי כפרים, תושבי ערים), מקומות מגורים (תושבי ישראל לעומת תושבי הרשות הפלשתינאית), ולגבי יהודים - ספרדים, אשכנזים, בני עדות שונות, ובמיוחד רוסים מהעליה האחרונה, כולל הלא-יהודים מתוכם",
+                    "sentence_id": "2",
+                    "paragraph_index": 123,
+                    "global_sentence_index": 353
+                },
+                {
+                    "sentence": "פרופ' מוטרו השיב כי יש ייצוג לתת האוכלוסיות בישראל, אך הייצוג מקרי",
+                    "sentence_id": "3",
+                    "paragraph_index": 123,
+                    "global_sentence_index": 354
+                },
+                {
+                    "sentence": "מכל מקום, אמר העד כי הדגימה בשיטה זו שעליה מדבר הסניגור, הנקראת \"דגימת שכבות\", שכל תת-אוכלוסיה זוכה, אינה השיטה המקובלת:",
+                    "sentence_id": "4",
+                    "paragraph_index": 123,
+                    "global_sentence_index": 355
+                }
+            ]
+        },
+        {
+            "paragraph_index": 124,
+            "sentences": [
+                {
+                    "sentence": "\"ש",
+                    "sentence_id": "0",
+                    "paragraph_index": 124,
+                    "global_sentence_index": 356
+                },
+                {
+                    "sentence": "אתה מסכים שמדגם מקרי כזה לא יכול לשמש בסיס בטוח למסקנות שאליהן הגעתם",
+                    "sentence_id": "1",
+                    "paragraph_index": 124,
+                    "global_sentence_index": 357
+                }
+            ]
+        },
+        {
+            "paragraph_index": 125,
+            "sentences": [
+                {
+                    "sentence": "ת",
+                    "sentence_id": "0",
+                    "paragraph_index": 125,
+                    "global_sentence_index": 358
+                },
+                {
+                    "sentence": "צר לי לומר - אני לא מסכים אתך",
+                    "sentence_id": "1",
+                    "paragraph_index": 125,
+                    "global_sentence_index": 359
+                },
+                {
+                    "sentence": "ביקשת שאסכים ואיני מסכים",
+                    "sentence_id": "2",
+                    "paragraph_index": 125,
+                    "global_sentence_index": 360
+                },
+                {
+                    "sentence": "מקובל מאוד לקחת מתוך אוכלוסיה רב-גונית הכוללת מוסלימים ונוצרים וצ'רקסים, וזכרים ונקבות, ודברים מגוונים, לקחת מדגם מקרי - זו שיטה של 'דגימה מקרית'",
+                    "sentence_id": "3",
+                    "paragraph_index": 125,
+                    "global_sentence_index": 361
+                },
+                {
+                    "sentence": "יש שיטות אחרות יעילות יותר לצרכים מסוימים, של לקיחת סקטור מסוים מתוך סקטור",
+                    "sentence_id": "4",
+                    "paragraph_index": 125,
+                    "global_sentence_index": 362
+                },
+                {
+                    "sentence": "אין זה אומר שהדגימה אינה טובה\" (שם, עמ' 18-19)",
+                    "sentence_id": "5",
+                    "paragraph_index": 125,
+                    "global_sentence_index": 363
+                }
+            ]
+        },
+        {
+            "paragraph_index": 126,
+            "sentences": [
+                {
+                    "sentence": "פרופ' מוטרו אמר כי מידה זו או אחרת של ייצוג תת-אוכלוסיה זו או אחרת אינה משנה את סדר הגודל של החשבונות, כי ענין קיום תת-אוכלוסיות, ייצוגן או אי-ייצוגן ומידת ייצוגן במדגם בא על תיקונו ב\"תיקון טיטא\", שבא לכפר על חוסר ידיעה זה",
+                    "sentence_id": "0",
+                    "paragraph_index": 126,
+                    "global_sentence_index": 364
+                },
+                {
+                    "sentence": "\"תיקון טיטא\" הסביר פרופ' מוטרו, נהוג בהרבה מדינות, כולל בבריטניה",
+                    "sentence_id": "1",
+                    "paragraph_index": 126,
+                    "global_sentence_index": 365
+                },
+                {
+                    "sentence": "תיקון זה מבוסס על נוסחאות בגנטיקה של כל מיני תת-אוכלוסיות, ובא לפצות על שני דברים העשויים לאפיין אותן: האחד - שכיחויות שונות של סימנים בתוך אותן אוכלוסיות, והשני - נישואין פנימיים בתוך אותן תת-אוכלוסיות, הקרוי Inbreeding, כדי לתת ביטוי לשני אלה",
+                    "sentence_id": "2",
+                    "paragraph_index": 126,
+                    "global_sentence_index": 366
+                }
+            ]
+        },
+        {
+            "paragraph_index": 127,
+            "sentences": [
+                {
+                    "sentence": "על כן, הוסיף הפרופ' מוטרו, אין בכגון זה רלוונטיות לבדיקת מדגם ספציפי של תת-אוכלוסיה, ובדיקה כאמור אינה מעלה ואינה מורידה לענין המסקנה הסטטיסטית המתבקשת מתשעת האתרים הנדגמים:",
+                    "sentence_id": "0",
+                    "paragraph_index": 127,
+                    "global_sentence_index": 367
+                }
+            ]
+        },
+        {
+            "paragraph_index": 128,
+            "sentences": [
+                {
+                    "sentence": "\"בכל מקרה, השאלה היא 'זה לא אני אלא מישהו אחר' מה השכיחות של פרופיל זה באוכלוסיה הכללית",
+                    "sentence_id": "0",
+                    "paragraph_index": 128,
+                    "global_sentence_index": 368
+                },
+                {
+                    "sentence": "זה מה שאומר החשוד, וזה מה שאני אומר במקום החשוד",
+                    "sentence_id": "1",
+                    "paragraph_index": 128,
+                    "global_sentence_index": 369
+                },
+                {
+                    "sentence": "לכן אין פה צורך לענות ואני יודע שהאנס האמיתי הוא צ'רקסי ואתה לא נותן לי תשובה לגבי צ'רקסים",
+                    "sentence_id": "2",
+                    "paragraph_index": 128,
+                    "global_sentence_index": 370
+                },
+                {
+                    "sentence": "אין טעם לכך\" (עמ' 21-22)",
+                    "sentence_id": "3",
+                    "paragraph_index": 128,
+                    "global_sentence_index": 371
+                }
+            ]
+        },
+        {
+            "paragraph_index": 129,
+            "sentences": [
+                {
+                    "sentence": "עו\"ד אבו-עטא הוסיף ושאל את פרופ' מוטרו מה מידת ההסתברות שקרוב משפחה של הנאשם ביצע את המעשה",
+                    "sentence_id": "0",
+                    "paragraph_index": 129,
+                    "global_sentence_index": 372
+                },
+                {
+                    "sentence": "פרופ' מוטרו השיב כי לגבי האחים ההסתברות היא - 4800:1, לגבי דודים ואחים למחצה - 39:1 מיליון, ולגבי בני דודים - 1 ל-690 מיליון (עמ' 29, 31)",
+                    "sentence_id": "1",
+                    "paragraph_index": 129,
+                    "global_sentence_index": 373
+                }
+            ]
+        },
+        {
+            "paragraph_index": 130,
+            "sentences": [
+                {
+                    "sentence": "שאלה נוספת שעורר עו\"ד אבו-עטא היא בענין מספר האתרים הנבחרים להכרעה בזהות הפרופיל הגנטי - למה תשעה אתרים בישראל ומספר גדול יותר של אתרים בבריטניה ובארצות הברית, והאם אין בדיקה המבוססת על מספר גדול יותר של אתרים בטוחה יותר",
+                    "sentence_id": "0",
+                    "paragraph_index": 130,
+                    "global_sentence_index": 374
+                },
+                {
+                    "sentence": "על כך השיב פרופ' מוטרו בשלילה",
+                    "sentence_id": "1",
+                    "paragraph_index": 130,
+                    "global_sentence_index": 375
+                },
+                {
+                    "sentence": "הוא הוסיף כי, ראשית, הממצאים שנמצאו בבדיקה זו הם חד-משמעים וגם וודאיים (עמ' 24-25)",
+                    "sentence_id": "2",
+                    "paragraph_index": 130,
+                    "global_sentence_index": 376
+                },
+                {
+                    "sentence": "שנית, לא מספר האתרים מכריע, אלא זהות האתרים:",
+                    "sentence_id": "3",
+                    "paragraph_index": 130,
+                    "global_sentence_index": 377
+                }
+            ]
+        },
+        {
+            "paragraph_index": 131,
+            "sentences": [
+                {
+                    "sentence": "\"מספר האתרים חשוב אך לא רק זה מה שחשוב",
+                    "sentence_id": "0",
+                    "paragraph_index": 131,
+                    "global_sentence_index": 378
+                },
+                {
+                    "sentence": "צריכים לבחור אתרים נכונים שיש בהם מספיק מידע",
+                    "sentence_id": "1",
+                    "paragraph_index": 131,
+                    "global_sentence_index": 379
+                },
+                {
+                    "sentence": "במילים אחרות, לא מסתכלים על כמה אתרים אלא מיהם אותם אתרים… יש אתרים רבגוניים יותר ויש פחות, ככל שהוא יותר רבגוני הוא יותר אינפורמטיבי",
+                    "sentence_id": "2",
+                    "paragraph_index": 131,
+                    "global_sentence_index": 380
+                },
+                {
+                    "sentence": "התשיעיה הזו זכתה לברכת כל הקהיליה המדעית\" (עמ' 23)",
+                    "sentence_id": "3",
+                    "paragraph_index": 131,
+                    "global_sentence_index": 381
+                }
+            ]
+        },
+        {
+            "paragraph_index": 132,
+            "sentences": [
+                {
+                    "sentence": "שלישית, הוספת אתרים לתשעת האתרים הקובעים בשיטה כמו זו בארצות הברית, אינה פועלת תמיד בהכרח לטובת החשוד, אלא לעתים פועלת היא לרעתו - בכך שהיא מקטינה את הספק בזהותו, ועתים - לטובתו, בכך שהיא עשויה להגדיל את הסיכוי להסרת החשד מעליו:",
+                    "sentence_id": "0",
+                    "paragraph_index": 132,
+                    "global_sentence_index": 382
+                }
+            ]
+        },
+        {
+            "paragraph_index": 133,
+            "sentences": [
+                {
+                    "sentence": "\"כל אתר נוסף יש לכך משמעויות בשני כיוונים: הוא יכול להצר יותר ויותר את האוכלוסיה האחרת הרלבנטית",
+                    "sentence_id": "0",
+                    "paragraph_index": 133,
+                    "global_sentence_index": 383
+                },
+                {
+                    "sentence": "כי הרי החשוד טוען שזה לא הוא אלא מישהו אחר",
+                    "sentence_id": "1",
+                    "paragraph_index": 133,
+                    "global_sentence_index": 384
+                },
+                {
+                    "sentence": "ככל שאותו מישהו אחר, פלח יותר גדול מהאוכלוסיה, בשלב זה 7:1 מיליארד, האוכלוסיה יותר גדולה, וככל שנבדוק יותר אתרים הם יגדילו את ה-7 מיליארד וזה לרעת החשוד",
+                    "sentence_id": "2",
+                    "paragraph_index": 133,
+                    "global_sentence_index": 385
+                },
+                {
+                    "sentence": "מצד שני, יכול להיות שבאתרים נוספים שנבדוק יימצא שלילה של החשוד",
+                    "sentence_id": "3",
+                    "paragraph_index": 133,
+                    "global_sentence_index": 386
+                },
+                {
+                    "sentence": "יש לכך שני כיוונים ללא כל ספק",
+                    "sentence_id": "4",
+                    "paragraph_index": 133,
+                    "global_sentence_index": 387
+                },
+                {
+                    "sentence": "זה מכשיר דו-כיווני, שנועד מצד אחד לשלול במידה אמינה ביותר שאפשר את הלא-אשמים ומצד שני, להצביע על ההסתברות במקרה ויש התאמה\" (עמ' 24)",
+                    "sentence_id": "5",
+                    "paragraph_index": 133,
+                    "global_sentence_index": 388
+                }
+            ]
+        },
+        {
+            "paragraph_index": 134,
+            "sentences": [
+                {
+                    "sentence": "בתשובה לשאלה נוספת אומר פרופ' מוטרו כי מדע זה הנוגע ל-דנ\"א הוא מדע מדוייק:",
+                    "sentence_id": "0",
+                    "paragraph_index": 134,
+                    "global_sentence_index": 389
+                }
+            ]
+        },
+        {
+            "paragraph_index": 135,
+            "sentences": [
+                {
+                    "sentence": "\"ש",
+                    "sentence_id": "0",
+                    "paragraph_index": 135,
+                    "global_sentence_index": 390
+                },
+                {
+                    "sentence": "DNA  זה לא מדע מדויק",
+                    "sentence_id": "1",
+                    "paragraph_index": 135,
+                    "global_sentence_index": 391
+                }
+            ]
+        },
+        {
+            "paragraph_index": 136,
+            "sentences": [
+                {
+                    "sentence": "ת",
+                    "sentence_id": "0",
+                    "paragraph_index": 136,
+                    "global_sentence_index": 392
+                },
+                {
+                    "sentence": "אני לא מסכים",
+                    "sentence_id": "1",
+                    "paragraph_index": 136,
+                    "global_sentence_index": 393
+                }
+            ]
+        },
+        {
+            "paragraph_index": 137,
+            "sentences": [
+                {
+                    "sentence": "ש",
+                    "sentence_id": "0",
+                    "paragraph_index": 137,
+                    "global_sentence_index": 394
+                },
+                {
+                    "sentence": "האם זה כמו מתמטיקה",
+                    "sentence_id": "1",
+                    "paragraph_index": 137,
+                    "global_sentence_index": 395
+                }
+            ]
+        },
+        {
+            "paragraph_index": 138,
+            "sentences": [
+                {
+                    "sentence": "ת",
+                    "sentence_id": "0",
+                    "paragraph_index": 138,
+                    "global_sentence_index": 396
+                },
+                {
+                    "sentence": "סטטיסטיקה זה מדע מדויק",
+                    "sentence_id": "1",
+                    "paragraph_index": 138,
+                    "global_sentence_index": 397
+                },
+                {
+                    "sentence": "אנחנו יודעים לגבי ה-DNA את אופן ההורשה, המוטציות, יש לנו מושג לגבי סדרי גודל של מוטציות",
+                    "sentence_id": "2",
+                    "paragraph_index": 138,
+                    "global_sentence_index": 398
+                },
+                {
+                    "sentence": "אנו יודעים כשאנו לוקחים מדגמים את היפלגות האללים השונים",
+                    "sentence_id": "3",
+                    "paragraph_index": 138,
+                    "global_sentence_index": 399
+                }
+            ]
+        },
+        {
+            "paragraph_index": 139,
+            "sentences": [
+                {
+                    "sentence": "ש",
+                    "sentence_id": "0",
+                    "paragraph_index": 139,
+                    "global_sentence_index": 400
+                },
+                {
+                    "sentence": "זה נושא חדש",
+                    "sentence_id": "1",
+                    "paragraph_index": 139,
+                    "global_sentence_index": 401
+                }
+            ]
+        },
+        {
+            "paragraph_index": 140,
+            "sentences": [
+                {
+                    "sentence": "ת",
+                    "sentence_id": "0",
+                    "paragraph_index": 140,
+                    "global_sentence_index": 402
+                },
+                {
+                    "sentence": "בפנים מסוימים שלו זה נושא חדש, בפנים אחרים כבר אותו נזיר מנדל לפני יותר ממאה שנה כבר הבין את הדברים",
+                    "sentence_id": "1",
+                    "paragraph_index": 140,
+                    "global_sentence_index": 403
+                }
+            ]
+        },
+        {
+            "paragraph_index": 141,
+            "sentences": [
+                {
+                    "sentence": "ש",
+                    "sentence_id": "0",
+                    "paragraph_index": 141,
+                    "global_sentence_index": 404
+                },
+                {
+                    "sentence": "בספרות ובקהילה הבינלאומית הוא נושא חדש",
+                    "sentence_id": "1",
+                    "paragraph_index": 141,
+                    "global_sentence_index": 405
+                }
+            ]
+        },
+        {
+            "paragraph_index": 142,
+            "sentences": [
+                {
+                    "sentence": "ת",
+                    "sentence_id": "0",
+                    "paragraph_index": 142,
+                    "global_sentence_index": 406
+                },
+                {
+                    "sentence": "סוג זה של DNA הוא נושא חדש, יותר מעשר שנים כמובן\" (עמ' 28)",
+                    "sentence_id": "1",
+                    "paragraph_index": 142,
+                    "global_sentence_index": 407
+                }
+            ]
+        },
+        {
+            "paragraph_index": 143,
+            "sentences": [
+                {
+                    "sentence": "פרופ' מוטרו הוסיף כי לנאשם יש פרופיל גנטי חריג, בכך \"שיש לו באחד הסימנים אלֵל יחסית נדיר, שהוא - הסימן F13A והאלֵל מס' 16 שמופיע באוכלוסיה של האלֵלים בשכיחות קטנה קצת משני אחוזים",
+                    "sentence_id": "0",
+                    "paragraph_index": 143,
+                    "global_sentence_index": 408
+                },
+                {
+                    "sentence": "דהיינו - אם נתרגם את זה לחברה הערבית, יש לנאשם אלֵל שמופיע באוכלוסיה הערבית בקרב האלֵלים של האוכלוסיה הערבית באותו סימן, והשכיחות היא בערך שני אחוזים",
+                    "sentence_id": "1",
+                    "paragraph_index": 143,
+                    "global_sentence_index": 409
+                },
+                {
+                    "sentence": "בדקתי את זה לפי מדגם\" (עמ' 31-32)",
+                    "sentence_id": "2",
+                    "paragraph_index": 143,
+                    "global_sentence_index": 410
+                },
+                {
+                    "sentence": "זה אלֵל לא שכיח",
+                    "sentence_id": "3",
+                    "paragraph_index": 143,
+                    "global_sentence_index": 411
+                },
+                {
+                    "sentence": "\"מה שמייחד את הנדירות של פרופיל גנטי של כל אחד מאיתנו זה כל הצירוף של המרכיבים שכל אחד בפני עצמו לא חייב להיות נדיר\" (עמ' 32)",
+                    "sentence_id": "4",
+                    "paragraph_index": 143,
+                    "global_sentence_index": 412
+                }
+            ]
+        },
+        {
+            "paragraph_index": 144,
+            "sentences": [
+                {
+                    "sentence": "15.\tלסיכום ראיות התביעה מפי המומחים שהעידו מטעמה:",
+                    "sentence_id": "0",
+                    "paragraph_index": 144,
+                    "global_sentence_index": 413
+                }
+            ]
+        },
+        {
+            "paragraph_index": 145,
+            "sentences": [
+                {
+                    "sentence": "ה-דנ\"א של הנאשם, של המתלוננת ושל העובר, נבדקו בערכה המוכרת והמאושרת בעולם, ובשיטה שהוכחה כשיטה אמינה ומקובלת במדע",
+                    "sentence_id": "0",
+                    "paragraph_index": 145,
+                    "global_sentence_index": 414
+                },
+                {
+                    "sentence": "נמצאה התאמה ביניהם בתשעה אתרים",
+                    "sentence_id": "1",
+                    "paragraph_index": 145,
+                    "global_sentence_index": 415
+                },
+                {
+                    "sentence": "על פי המקובל במדע, הממצא שהנאשם הוא אבי העובר, הוא ממצא בטוח וודאי",
+                    "sentence_id": "2",
+                    "paragraph_index": 145,
+                    "global_sentence_index": 416
+                },
+                {
+                    "sentence": "ממצא זה חריג הוא, ונדיר ביותר, באוכלוסיה, והחשש שיש אדם נוסף בעל פרופיל כזה בקרב אוכלוסיית היהודים בישראל הוא- 17:1 מיליארדים, ובקרב האוכלוסיה הערבית בישראל הוא - 7:1 מיליארדים, ובקרב גזע אחר כלשהו, \"יפני למשל\", אינו פוחת מ- 1:מיליארד",
+                    "sentence_id": "3",
+                    "paragraph_index": 145,
+                    "global_sentence_index": 417
+                },
+                {
+                    "sentence": "שילוב זה של מספר האתרים על רקע אי-שכיחות אתרים כאלה באוכלוסיית כדור הארץ בכללו, עושים את אשמת הנאשם כמוכחת מעבר לכל ספק סביר, כדברי פרופ' מוטרו:",
+                    "sentence_id": "4",
+                    "paragraph_index": 145,
+                    "global_sentence_index": 418
+                }
+            ]
+        },
+        {
+            "paragraph_index": 146,
+            "sentences": [
+                {
+                    "sentence": "\"ת",
+                    "sentence_id": "0",
+                    "paragraph_index": 146,
+                    "global_sentence_index": 419
+                },
+                {
+                    "sentence": "לסוג הבדיקה שנעשתה כאן אני רגוע לחלוטין עם 9 אתרים",
+                    "sentence_id": "1",
+                    "paragraph_index": 146,
+                    "global_sentence_index": 420
+                },
+                {
+                    "sentence": "בראש ובראשונה - מה שהסביר התובע כ'התאמה' (מטשינג)",
+                    "sentence_id": "2",
+                    "paragraph_index": 146,
+                    "global_sentence_index": 421
+                },
+                {
+                    "sentence": "יש פרופיל חד-משמעי של האנס, יש פרופיל חד משמעי של החשוד, להתאים את שניהם - לכך 9 אתרים זה די והותר",
+                    "sentence_id": "3",
+                    "paragraph_index": 146,
+                    "global_sentence_index": 422
+                },
+                {
+                    "sentence": "והגענו למספרים שאני חושב שהם מעבר לכל ספק סביר\" (עמ' 24-25)",
+                    "sentence_id": "4",
+                    "paragraph_index": 146,
+                    "global_sentence_index": 423
+                }
+            ]
+        },
+        {
+            "paragraph_index": 147,
+            "sentences": [
+                {
+                    "sentence": "את מסקנתו זו מבסס פרופסור מוטרו על הנדירות המופלגת שאדם אחר שאינו הנאשם יהיה לו פרופיל גנטי זהה לזה של הנאשם",
+                    "sentence_id": "0",
+                    "paragraph_index": 147,
+                    "global_sentence_index": 424
+                },
+                {
+                    "sentence": "וכך אמר פרופסור מוטרו בתשובה לשאלות הסניגור:",
+                    "sentence_id": "1",
+                    "paragraph_index": 147,
+                    "global_sentence_index": 425
+                }
+            ]
+        },
+        {
+            "paragraph_index": 148,
+            "sentences": [
+                {
+                    "sentence": "\"ש",
+                    "sentence_id": "0",
+                    "paragraph_index": 148,
+                    "global_sentence_index": 426
+                },
+                {
+                    "sentence": "תסכים איתי שיש לפחות עוד אדם אחד שנושא פרופיל זהה לזה של הנאשם",
+                    "sentence_id": "1",
+                    "paragraph_index": 148,
+                    "global_sentence_index": 427
+                }
+            ]
+        },
+        {
+            "paragraph_index": 149,
+            "sentences": [
+                {
+                    "sentence": "ת",
+                    "sentence_id": "0",
+                    "paragraph_index": 149,
+                    "global_sentence_index": 428
+                },
+                {
+                    "sentence": "אני לא מסכים",
+                    "sentence_id": "1",
+                    "paragraph_index": 149,
+                    "global_sentence_index": 429
+                }
+            ]
+        },
+        {
+            "paragraph_index": 150,
+            "sentences": [
+                {
+                    "sentence": "ש",
+                    "sentence_id": "0",
+                    "paragraph_index": 150,
+                    "global_sentence_index": 430
+                },
+                {
+                    "sentence": "אתה מסכים שיש עוד אחד דומה",
+                    "sentence_id": "1",
+                    "paragraph_index": 150,
+                    "global_sentence_index": 431
+                }
+            ]
+        },
+        {
+            "paragraph_index": 151,
+            "sentences": [
+                {
+                    "sentence": "ת",
+                    "sentence_id": "0",
+                    "paragraph_index": 151,
+                    "global_sentence_index": 432
+                },
+                {
+                    "sentence": "דומה - אני מסכים",
+                    "sentence_id": "1",
+                    "paragraph_index": 151,
+                    "global_sentence_index": 433
+                },
+                {
+                    "sentence": "על סמך דמיון אנחנו לא מסיקים מסקנות אלא על סמך זהות",
+                    "sentence_id": "2",
+                    "paragraph_index": 151,
+                    "global_sentence_index": 434
+                },
+                {
+                    "sentence": "ההסתברות שאדם אקראי יהיה לו אותו פרופיל כשל הנאשם הוא בסדר גודל של 1 למיליארדים\" (עמ' 29-30)",
+                    "sentence_id": "3",
+                    "paragraph_index": 151,
+                    "global_sentence_index": 435
+                }
+            ]
+        },
+        {
+            "paragraph_index": 152,
+            "sentences": [
+                {
+                    "sentence": "פרשת ההגנה",
+                    "sentence_id": "0",
+                    "paragraph_index": 152,
+                    "global_sentence_index": 436
+                }
+            ]
+        },
+        {
+            "paragraph_index": 153,
+            "sentences": [
+                {
+                    "sentence": "16.\tבפרשת הגנתו שם הנאשם את מבטחו בטענת האליבי שטען",
+                    "sentence_id": "0",
+                    "paragraph_index": 153,
+                    "global_sentence_index": 437
+                },
+                {
+                    "sentence": "ענינה - במועד ביצוע העבירה היה בביתו ולא במקום ביצוע העבירה",
+                    "sentence_id": "1",
+                    "paragraph_index": 153,
+                    "global_sentence_index": 438
+                },
+                {
+                    "sentence": "להוכחת טענת אליבי כללית זו, העיד הנאשם את אביו ואת אחיו",
+                    "sentence_id": "2",
+                    "paragraph_index": 153,
+                    "global_sentence_index": 439
+                },
+                {
+                    "sentence": "עדויותיהם מבולבלות, סותרות זו את זו, וגם מגמתיות, ולא השתכנענו כלל באמיתותן",
+                    "sentence_id": "3",
+                    "paragraph_index": 153,
+                    "global_sentence_index": 440
+                }
+            ]
+        },
+        {
+            "paragraph_index": 154,
+            "sentences": [
+                {
+                    "sentence": "הנאשם העיד (עמ' 48 לפרוטוקול מיום 26.11.2001), כי השתחרר מבית הסוהר ביום 23.3.1995, שלשה ימים לפני מועד האירוע",
+                    "sentence_id": "0",
+                    "paragraph_index": 154,
+                    "global_sentence_index": 441
+                },
+                {
+                    "sentence": "מאז עבד ברציפות, במשך כל ימות השבוע, עם אביו בבניית בית למשפחה",
+                    "sentence_id": "1",
+                    "paragraph_index": 154,
+                    "global_sentence_index": 442
+                },
+                {
+                    "sentence": "יום העבודה היה משעה 07:00 - 19:00. מהבית היה יוצא לביקורים אצל חברים ואצל בני המשפחה, והיה שב לביתו בסביבות השעה 22:00.",
+                    "sentence_id": "2",
+                    "paragraph_index": 154,
+                    "global_sentence_index": 443
+                }
+            ]
+        },
+        {
+            "paragraph_index": 155,
+            "sentences": [
+                {
+                    "sentence": "האב, מוחמד עבד אברהים אבו חאמד, העיד (בעמ' 67 והודעה    נ/5), כי בנו הנאשם עבד עמו במשך חודש ועשרה ימים, לא שלושה חודשים כפי שטען הנאשם",
+                    "sentence_id": "0",
+                    "paragraph_index": 155,
+                    "global_sentence_index": 444
+                },
+                {
+                    "sentence": "כן העיד האב כי הבן היה חוזר מעבודתו ולא יוצא מהבית",
+                    "sentence_id": "1",
+                    "paragraph_index": 155,
+                    "global_sentence_index": 445
+                },
+                {
+                    "sentence": "זאת בניגוד לעדות הנאשם, כי הוא נהג כל יום לצאת מהבית אחרי העבודה",
+                    "sentence_id": "2",
+                    "paragraph_index": 155,
+                    "global_sentence_index": 446
+                },
+                {
+                    "sentence": "רק בערבי חג, אמר האב, הורשה הבן לצאת מביתו גם בלילה",
+                    "sentence_id": "3",
+                    "paragraph_index": 155,
+                    "global_sentence_index": 447
+                },
+                {
+                    "sentence": "האב, הפליג בעדותו, וטען כי דברים אלה וודאיים הם, כיוון שהוא ישן ליד דלת היציאה, הולך הוא לישון בשעה מוקדמת, ונועל את הדלת, כך שאחרי שהוא ישן, אין יוצא ואין בא מהבית",
+                    "sentence_id": "4",
+                    "paragraph_index": 155,
+                    "global_sentence_index": 448
+                },
+                {
+                    "sentence": "אבי הנאשם הוסיף כי בנו הנאשם היה פסול מלנהוג רכב במשך מספר חודשים אחרי שחרורו ממאסרו",
+                    "sentence_id": "5",
+                    "paragraph_index": 155,
+                    "global_sentence_index": 449
+                }
+            ]
+        },
+        {
+            "paragraph_index": 156,
+            "sentences": [
+                {
+                    "sentence": "האח, עבדל כרים אבו חאמד (עמ' 76 והודעה נ/6), טען שאכן אחיו הנאשם עבד עם האב בבניית בית המשפחה במשך שלשה חודשים",
+                    "sentence_id": "0",
+                    "paragraph_index": 156,
+                    "global_sentence_index": 450
+                },
+                {
+                    "sentence": "האח הוסיף כי בפברואר 2000 התחיל אחיו הנאשם לעבוד בהסעות בכלי רכב ציבורי",
+                    "sentence_id": "1",
+                    "paragraph_index": 156,
+                    "global_sentence_index": 451
+                }
+            ]
+        },
+        {
+            "paragraph_index": 157,
+            "sentences": [
+                {
+                    "sentence": "כאמור, מדובר בעדויות קרובים מלומדה, עדויות מבולבלות וסותרות, שאין בהן אמת",
+                    "sentence_id": "0",
+                    "paragraph_index": 157,
+                    "global_sentence_index": 452
+                },
+                {
+                    "sentence": "טענת האליבי של הנאשם לא הוכחה, והיא נדחית",
+                    "sentence_id": "1",
+                    "paragraph_index": 157,
+                    "global_sentence_index": 453
+                }
+            ]
+        },
+        {
+            "paragraph_index": 158,
+            "sentences": [
+                {
+                    "sentence": "17.\tעל כן, נותרה השאלה אם די בתוצאת בדיקת ה-דנ\"א, ובנדירות המופלגת של קיום פרופיל זהה בקרב האוכלוסיה, כפי שהעידו המומחים הגב' איילת רשף והפרופסור עוזי מוטרו, כדי להרשיע על פיהן את הנאשם",
+                    "sentence_id": "0",
+                    "paragraph_index": 158,
+                    "global_sentence_index": 454
+                }
+            ]
+        },
+        {
+            "paragraph_index": 159,
+            "sentences": [
+                {
+                    "sentence": "טענות המדינה",
+                    "sentence_id": "0",
+                    "paragraph_index": 159,
+                    "global_sentence_index": 455
+                }
+            ]
+        },
+        {
+            "paragraph_index": 160,
+            "sentences": [
+                {
+                    "sentence": "18.\tהמדינה טוענת כי התשובה על כך חיובית",
+                    "sentence_id": "0",
+                    "paragraph_index": 160,
+                    "global_sentence_index": 456
+                },
+                {
+                    "sentence": "לטענתה, אין עוד עוררין על וודאות בדיקה זו ועל מהימנותה",
+                    "sentence_id": "1",
+                    "paragraph_index": 160,
+                    "global_sentence_index": 457
+                },
+                {
+                    "sentence": "ליתר פירוט, טוענת המדינה, כי עדויות המומחים במשפט זה לימדו כי שיטת מיצוי ה-דנ\"א והשוואתו בתיק זה ושיטת חישוב הנתונים הסטטיסטיים, שעליה העיד פרופסור מוטרו, הן ראיות מדעיות קבילות ומהימנות",
+                    "sentence_id": "2",
+                    "paragraph_index": 160,
+                    "global_sentence_index": 458
+                },
+                {
+                    "sentence": "כך גם הנתונים המתקבלים ממדגם האוכלוסיה שבו עשה פרופסור מוטרו שימוש בתיק זה",
+                    "sentence_id": "3",
+                    "paragraph_index": 160,
+                    "global_sentence_index": 459
+                },
+                {
+                    "sentence": "על כן, די בראיה מסוג דנ\"א, כראיה יחידה או עיקרית, כדי להרשיע על פיה את הנאשם בעבירות האינוס, באין הסבר סביר סותר מטעמו",
+                    "sentence_id": "4",
+                    "paragraph_index": 160,
+                    "global_sentence_index": 460
+                },
+                {
+                    "sentence": "המדינה גם מבקשת ללמד גזרה שווה בענין זה מהמעמד הראייתי שיש לטביעת אצבעות בזירת הפשע, לאמור - כי אחרי שבית המשפט נוכח בנכונות ראיה זו ובדיוקה, עובר הנטל על הנאשם לתת הסבר סביר להימצא תאי זרע, בעלי תכונות גנטיות התואמות את שלו, באיבר מינה של המתלוננת",
+                    "sentence_id": "5",
+                    "paragraph_index": 160,
+                    "global_sentence_index": 461
+                }
+            ]
+        },
+        {
+            "paragraph_index": 161,
+            "sentences": [
+                {
+                    "sentence": "בדיקת ה-דנ\"א - ראיה מזהה",
+                    "sentence_id": "0",
+                    "paragraph_index": 161,
+                    "global_sentence_index": 462
+                }
+            ]
+        },
+        {
+            "paragraph_index": 162,
+            "sentences": [
+                {
+                    "sentence": "19.\tעל פי עדויות המומחים ששמענו, ולאור הפסיקה שניתנה עד עתה בישראל בענין זה, נראה כי עומדים אנו בעיצומה של התפתחות מדעית חדשה, שעל פיה ניתן לקבוע זהותו של חשוד או של נאשם באמצעים מדעיים, שעניינם - בדיקות ה-דנ\"א במשולב עם קביעה סטטיסטית מדעית בענין שכיחות הפרופיל הגנטי וההסתברות שבעל הפרופיל הוא מבצע העבירה ולא אחר זולתו",
+                    "sentence_id": "0",
+                    "paragraph_index": 162,
+                    "global_sentence_index": 463
+                },
+                {
+                    "sentence": "הכל - לפי הסתברות סטטיסטית ברמה גבוהה ומהימנה מאוד, שקשה או כמעט בלתי אפשרי לערערה",
+                    "sentence_id": "1",
+                    "paragraph_index": 162,
+                    "global_sentence_index": 464
+                },
+                {
+                    "sentence": "מדע זה, כך למדנו מהמומחים, יצא זה מכבר מגדר נסיון, והוא נמצא, בארץ ובעולם, זה מכבר בתחומי היישום",
+                    "sentence_id": "2",
+                    "paragraph_index": 162,
+                    "global_sentence_index": 465
+                },
+                {
+                    "sentence": "מדע זה כבר הוכיח את עצמו כדרך מהימנה ובטוחה לזיהוי חשודים ונאשמים על פי בדיקת דנ\"א של דמם, זרעם, עורם, שערם, רוקם, וכיוצא באלה",
+                    "sentence_id": "3",
+                    "paragraph_index": 162,
+                    "global_sentence_index": 466
+                }
+            ]
+        },
+        {
+            "paragraph_index": 163,
+            "sentences": [
+                {
+                    "sentence": "בעומדו נוכח התפתחות מדעית מהפכנית כזו, חייב בית המשפט לבחנה בזהירות יתרה, ולא לאמצה אלא אחר שישתכנע בוודאותה ובמהימנותה כראייה",
+                    "sentence_id": "0",
+                    "paragraph_index": 163,
+                    "global_sentence_index": 467
+                },
+                {
+                    "sentence": "אולם, אחרי שבית המשפט עשה כן, אין הוא נרתע, אך מחמת החידוש שבה, מהכנסתה להיכל ההליכים של בית המשפט: \"שערי בתי המשפט אסור להם שיהיו נעולים בפני חידושי המדע, ובלבד שהוכחה אמינותם\": אפללו נגד מדינת ישראל, (5) 561, 571)",
+                    "sentence_id": "1",
+                    "paragraph_index": 163,
+                    "global_sentence_index": 468
+                }
+            ]
+        },
+        {
+            "paragraph_index": 164,
+            "sentences": [
+                {
+                    "sentence": "20.\tהנטל להוכיח אמינותם של אמצעים מדעיים חדשים מוטל על המאשימה",
+                    "sentence_id": "0",
+                    "paragraph_index": 164,
+                    "global_sentence_index": 469
+                },
+                {
+                    "sentence": "המדינה עמדה בנטל זה בהבאת עדות מומחים מטעמה בתחומים הנוגעים לענין זה, שאין להטיל ספק לא במומחיותם ולא במהימנותם",
+                    "sentence_id": "1",
+                    "paragraph_index": 164,
+                    "global_sentence_index": 470
+                },
+                {
+                    "sentence": "מידה של שכנוע ניתן למצוא גם באסופת פסקי דין שהגיש עו\"ד קאופמן, בא-כח המאשימה, בענין הפרקטיקות הנוהגות בשיטות משפטיות שונות בעולם וההלכות שנפסקו בהן",
+                    "sentence_id": "2",
+                    "paragraph_index": 164,
+                    "global_sentence_index": 471
+                }
+            ]
+        },
+        {
+            "paragraph_index": 165,
+            "sentences": [
+                {
+                    "sentence": "21.\tממצאי המומחים ומסקנותיהם נשארו בלתי מעורערים",
+                    "sentence_id": "0",
+                    "paragraph_index": 165,
+                    "global_sentence_index": 472
+                },
+                {
+                    "sentence": "הנאשם לא עשה מאומה כדי לסותרם",
+                    "sentence_id": "1",
+                    "paragraph_index": 165,
+                    "global_sentence_index": 473
+                },
+                {
+                    "sentence": "הוא לא חלק על מומחיות המומחים מטעם התביעה, ולא על כשירותם",
+                    "sentence_id": "2",
+                    "paragraph_index": 165,
+                    "global_sentence_index": 474
+                },
+                {
+                    "sentence": "הנאשם לא הגיש לבית המשפט חוות דעת מטעמו, וגם לא העיד מומחים מטעמו שיעידו על כך, או שיעמידו במבחן את טיב הבדיקה שנערכה",
+                    "sentence_id": "3",
+                    "paragraph_index": 165,
+                    "global_sentence_index": 475
+                },
+                {
+                    "sentence": "הנאשם לא ניצל את האפשרות המלאה שניתנה לו לבדוק על ידי מומחים מטעמו את החומר שנדגם, שעדיין שמור הוא במעבדה של משטרת ישראל, וגם לא את דפי העבודה של המעבדה",
+                    "sentence_id": "4",
+                    "paragraph_index": 165,
+                    "global_sentence_index": 476
+                },
+                {
+                    "sentence": "הנאשם הסתפק בשאלות עניניות, ממצות ונוקבות ששאל סניגורו, עו\"ד אבו-עטא, את המומחים בחקירתם הנגדית",
+                    "sentence_id": "5",
+                    "paragraph_index": 165,
+                    "global_sentence_index": 477
+                },
+                {
+                    "sentence": "מטרת השאלות - לעורר ספקות בדיוּת הבדיקה ובבטחון בממצאיה ובמסקנות המתבקשות ממנה",
+                    "sentence_id": "6",
+                    "paragraph_index": 165,
+                    "global_sentence_index": 478
+                },
+                {
+                    "sentence": "בעקבות שאלות הסניגוריה הרחיבו המומחים את היריעה והעמיקו את הדיון בסוגיה זו",
+                    "sentence_id": "7",
+                    "paragraph_index": 165,
+                    "global_sentence_index": 479
+                },
+                {
+                    "sentence": "בסופו של דבר, פיזרו המומחים בתשובותיהם את הספקות שנטענו, והוודאות במסקנותיהם נשארה בלתי מעורערת",
+                    "sentence_id": "8",
+                    "paragraph_index": 165,
+                    "global_sentence_index": 480
+                }
+            ]
+        },
+        {
+            "paragraph_index": 166,
+            "sentences": [
+                {
+                    "sentence": "22.\tאכן, מעלתה של ראייה חפצית מדעית כאמור - שהיא ראייה אובייקטיבית",
+                    "sentence_id": "0",
+                    "paragraph_index": 166,
+                    "global_sentence_index": 481
+                },
+                {
+                    "sentence": "ממצא בדבר זהות הפרופיל הגנטי של הנאשם לזה שנמצא בזירת הפשע, שנקבע בוודאות על פי שיטה מדעית מוכרת ומוכחת, נוכח הסתברות סטטיסטית המסירה כל ספק סביר בכך שהנאשם, הוא ולא אחר, היה בזירת העבירה, כשסטטיסטיקה זו אף היא לפי פרופסור מוטרו \"מדע מדוייק\" היא (עמ' 28), הוא מעין \"טביעת אצבע\" או \"טביעת עין\" מדעית מספקת לזיהוי הנאשם, כמי שהיה לו \"מגע\" עם מקום הפשע, בנסיבות המלמדות שהוא ולא אחר ביצע את העבירה",
+                    "sentence_id": "1",
+                    "paragraph_index": 166,
+                    "global_sentence_index": 482
+                }
+            ]
+        },
+        {
+            "paragraph_index": 167,
+            "sentences": [
+                {
+                    "sentence": "על כן, על פי עדויות המומחים ששמענו, שאין לנו ספק במומחיותם, בנסיונם, בכישוריהם, במיומנותם ובמהימנותם, ניתן לבסס הרשעה בפלילים על בדיקת דנ\"א בנסיבות שההסתברות והשכיחות מורות כן",
+                    "sentence_id": "0",
+                    "paragraph_index": 167,
+                    "global_sentence_index": 483
+                },
+                {
+                    "sentence": "עם זאת, אך כיוון שמדובר בראייה נסיבתית, ספק סביר באשמה עשוי להביא לזיכויו של נאשם",
+                    "sentence_id": "1",
+                    "paragraph_index": 167,
+                    "global_sentence_index": 484
+                }
+            ]
+        },
+        {
+            "paragraph_index": 168,
+            "sentences": [
+                {
+                    "sentence": "23.\tבענין האנלוגיה לטביעות האצבע, טען עו\"ד אבו-עטא בסיכומיו כי:",
+                    "sentence_id": "0",
+                    "paragraph_index": 168,
+                    "global_sentence_index": 485
+                }
+            ]
+        },
+        {
+            "paragraph_index": 169,
+            "sentences": [
+                {
+                    "sentence": "\"אין חילוקי דעות על כך כי ראיית ה-DNA לא הגיעה לאותו משקל של טביעת האצבע; גם לגירסתם של עדי התביעה (המומחים) ראיית ה-DNA לא הגיעה לידי טביעת אצבע והדברים ברורים והם נותנים חיזוק ותמיכה לטיעוני הנאשם כי אין לסמוך על ה-DNA, אחרת המומחים היו מאשרים כי יש לתת את אותו משקל גם ל-DNA, מה שהם לא היו מוכנים לעשות\"",
+                    "sentence_id": "0",
+                    "paragraph_index": 169,
+                    "global_sentence_index": 486
+                }
+            ]
+        },
+        {
+            "paragraph_index": 170,
+            "sentences": [
+                {
+                    "sentence": "ואכן, המומחים שהעידו במשפט זה נשאלו בידי עו\"ד אבו-עטא בענין אמינות בדיקת דנ\"א לעומת זו של טביעת אצבע",
+                    "sentence_id": "0",
+                    "paragraph_index": 170,
+                    "global_sentence_index": 487
+                },
+                {
+                    "sentence": "נראה כי לדעתם דווקא בדיקות דנ\"א יותר אמינה",
+                    "sentence_id": "1",
+                    "paragraph_index": 170,
+                    "global_sentence_index": 488
+                },
+                {
+                    "sentence": "ועל כך אמרה הגב' איילת רשף:",
+                    "sentence_id": "2",
+                    "paragraph_index": 170,
+                    "global_sentence_index": 489
+                }
+            ]
+        },
+        {
+            "paragraph_index": 171,
+            "sentences": [
+                {
+                    "sentence": "\"תחום טביעות האצבע הוא לא תחום המומחיות שלי",
+                    "sentence_id": "0",
+                    "paragraph_index": 171,
+                    "global_sentence_index": 490
+                },
+                {
+                    "sentence": "אבל נראה לי דווקא שה-DNA יותר אמין, כי DNA נותן סטטיסטיקה, וזה גם ביקורת היום בעולם הפורנזי, שסטטיסטיקה זה כלי מאוד חשוב\" (עמ' 51-52)",
+                    "sentence_id": "1",
+                    "paragraph_index": 171,
+                    "global_sentence_index": 491
+                }
+            ]
+        },
+        {
+            "paragraph_index": 172,
+            "sentences": [
+                {
+                    "sentence": "ואכן, עתים, מבחינת ההסתברות, קל יותר להסביר הימצא טביעת אצבע על חפץ או על משטח גלוי, מהימצא החומר החשוד בתוך גוף הקורבן, למשל, כמו בעניננו, בתוך איבר מינה של המתלוננת",
+                    "sentence_id": "0",
+                    "paragraph_index": 172,
+                    "global_sentence_index": 492
+                },
+                {
+                    "sentence": "במקרה זה, אין הסבר אחר אלא שהנאשם החדיר את איבר מינו לאיבר מינה של המתלוננת",
+                    "sentence_id": "1",
+                    "paragraph_index": 172,
+                    "global_sentence_index": 493
+                },
+                {
+                    "sentence": "כיוון שהנאשם אינו מודה במגע המיני, ואינו טוען שהדבר נעשה בהסכמת המתלוננת, המסקנה היחידה, לאור עדותה המהימנה של המתלוננת, היא שהמגע המיני היה באינוס, וכי הנאשם הוא האנס",
+                    "sentence_id": "2",
+                    "paragraph_index": 172,
+                    "global_sentence_index": 494
+                }
+            ]
+        },
+        {
+            "paragraph_index": 173,
+            "sentences": [
+                {
+                    "sentence": "נסיבות סובבות",
+                    "sentence_id": "0",
+                    "paragraph_index": 173,
+                    "global_sentence_index": 495
+                }
+            ]
+        },
+        {
+            "paragraph_index": 174,
+            "sentences": [
+                {
+                    "sentence": "24.\tעם זאת, בכגון זה, אין להתעלם מהנסיבות הסובבות, אם הן מתיישבות עם אשמת הנאשם אם לאו",
+                    "sentence_id": "0",
+                    "paragraph_index": 174,
+                    "global_sentence_index": 496
+                },
+                {
+                    "sentence": "ברור כי אם יובאו ראיות הגנה נגדיות אמינות ומשכנעות, שישללו את אשמת הנאשם, עלולה הראייה המרשיעה לסגת מפניהן, כיוון שאז יתכן שהמקרה נפל לגדר אותו חלקיק אחוז זעיר ביותר של חשש שאדם אחר ביצע את העבירה",
+                    "sentence_id": "1",
+                    "paragraph_index": 174,
+                    "global_sentence_index": 497
+                },
+                {
+                    "sentence": "על כן, מחמת הספק יזוכה הנאשם, כי אי אפשר לקבוע בוודאות הדרושה במשפט פלילי, כי אשמת הנאשם היא המסקנה ההכרחית האחת והיחידה מראייה נסיבתית זו",
+                    "sentence_id": "2",
+                    "paragraph_index": 174,
+                    "global_sentence_index": 498
+                },
+                {
+                    "sentence": "ואולם, פשיטא, אם הראיות הסובבות מתיישבות עם אשמת הנאשם, יהיה בכך כדי לחזק את המסקנה המתבקשת מהראייה העיקרית",
+                    "sentence_id": "3",
+                    "paragraph_index": 174,
+                    "global_sentence_index": 499
+                }
+            ]
+        },
+        {
+            "paragraph_index": 175,
+            "sentences": [
+                {
+                    "sentence": "כך היה במקרה זה",
+                    "sentence_id": "0",
+                    "paragraph_index": 175,
+                    "global_sentence_index": 500
+                },
+                {
+                    "sentence": "אף שהמתלוננת לא יכלה לזהות את הנאשם במסדר הזיהוי, שנערך כשנתיים אחרי האינוס, היא מסרה פרטים שונים על מראהו",
+                    "sentence_id": "1",
+                    "paragraph_index": 175,
+                    "global_sentence_index": 501
+                },
+                {
+                    "sentence": "בכלל זה: אדם בשנות העשרים המאוחרות לחייו, עיניים כהות, שיער כהה, שיער זקוף, עור כהה, גבות שעירות עבות, מגולח - בלי זקן, בלי שפם (עמ' 10 לפרוטוקול ישיבת יום 17 במאי 2001)",
+                    "sentence_id": "2",
+                    "paragraph_index": 175,
+                    "global_sentence_index": 502
+                }
+            ]
+        },
+        {
+            "paragraph_index": 176,
+            "sentences": [
+                {
+                    "sentence": "כל התיאורים האלה תואמים את הנאשם, כפי שראינוהו בבית המשפט וכפי שנראה סמוך לאחר שחרורו ממאסרו",
+                    "sentence_id": "0",
+                    "paragraph_index": 176,
+                    "global_sentence_index": 503
+                },
+                {
+                    "sentence": "וראה תמונותיו ב-ת/25 וב-נ/3 - רשיון אסיר",
+                    "sentence_id": "1",
+                    "paragraph_index": 176,
+                    "global_sentence_index": 504
+                },
+                {
+                    "sentence": "גם הנאשם בעדותו בבית המשפט, אישר נכונות כל הפרטים האלה",
+                    "sentence_id": "2",
+                    "paragraph_index": 176,
+                    "global_sentence_index": 505
+                }
+            ]
+        },
+        {
+            "paragraph_index": 177,
+            "sentences": [
+                {
+                    "sentence": "יצויין כי מכל הפרטים שמסרה המתלוננת, ייחודי ובולט לעין כל - ענין גבותיו השחורות והעבות",
+                    "sentence_id": "0",
+                    "paragraph_index": 177,
+                    "global_sentence_index": 506
+                },
+                {
+                    "sentence": "עד כדי כך, שבית המשפט, על פי מראה הנאשם, ציין זאת במיוחד בפרוטוקול, בעמ' 63 לפרוטוקול מיום 26.11.2001, לאמור: \"לנאשם גבות שחורות, מתחברות ועבות",
+                    "sentence_id": "1",
+                    "paragraph_index": 177,
+                    "global_sentence_index": 507
+                },
+                {
+                    "sentence": "הגבות בולטות בפניו של הנאשם\"",
+                    "sentence_id": "2",
+                    "paragraph_index": 177,
+                    "global_sentence_index": 508
+                }
+            ]
+        },
+        {
+            "paragraph_index": 178,
+            "sentences": [
+                {
+                    "sentence": "נוסף לכל אלה, הנאשם הוא רווק, תושב אזור ירושלים, נהג ברכב ציבורי, לחבר קרוב אליו מכונית מרצדס בצבע לבן, ומעשה האונס בוצע שלשה ימים אחרי צאתו לחופשי ממאסרו",
+                    "sentence_id": "0",
+                    "paragraph_index": 178,
+                    "global_sentence_index": 509
+                }
+            ]
+        },
+        {
+            "paragraph_index": 179,
+            "sentences": [
+                {
+                    "sentence": "הצטברות פרטים אלה יחדיו, יש בה, כאמור, כדי לחזק את המסקנה הבטוחה המתבקשת מבדיקת הדנ\"א, שהיה זה הנאשם שביצע את המעשים במתלוננת",
+                    "sentence_id": "0",
+                    "paragraph_index": 179,
+                    "global_sentence_index": 510
+                },
+                {
+                    "sentence": "כאמור, ראיית ה-דנ\"א האמורה, די בה לבדה כראיה מרשיעה בטוחה, ואין היא טעונה חיזוק",
+                    "sentence_id": "1",
+                    "paragraph_index": 179,
+                    "global_sentence_index": 511
+                },
+                {
+                    "sentence": "אכן, הנסיבות הסובבות גם הן מציבות אותה על קרקע המציאות, ובכך יש כדי לחזק את הראיה הוודאית הקיימת גם בלעדיהן",
+                    "sentence_id": "2",
+                    "paragraph_index": 179,
+                    "global_sentence_index": 512
+                }
+            ]
+        },
+        {
+            "paragraph_index": 180,
+            "sentences": [
+                {
+                    "sentence": "פסיקה בישראל",
+                    "sentence_id": "0",
+                    "paragraph_index": 180,
+                    "global_sentence_index": 513
+                }
+            ]
+        },
+        {
+            "paragraph_index": 181,
+            "sentences": [
+                {
+                    "sentence": "25.\tכבר היו לבתי משפט בישראל הזדמנויות לדון בשאלה זו, כשתוצאות בדיקת ה-דנ\"א שימשו חיזוק או סיוע לראיות התביעה",
+                    "sentence_id": "0",
+                    "paragraph_index": 181,
+                    "global_sentence_index": 514
+                },
+                {
+                    "sentence": "ראה, למשל: מדינת ישראל נגד פינטו, , דינים מחוזיים כרך כו(5) 661. אושר בבית המשפט העליון ב-פינטו נגד מדינת ישראל, , תקדין עליון כרך 97(2) עמ' 89. וראה: מדינת ישראל נגד ליובין ודים,  (הכרעת דין מיום 15.4.2002)",
+                    "sentence_id": "1",
+                    "paragraph_index": 181,
+                    "global_sentence_index": 515
+                }
+            ]
+        },
+        {
+            "paragraph_index": 182,
+            "sentences": [
+                {
+                    "sentence": "בדיקת דנ\"א גם שימשה ראייה חלקית, עיקרית, וודאית, שהתווספה לראיות נוספות",
+                    "sentence_id": "0",
+                    "paragraph_index": 182,
+                    "global_sentence_index": 516
+                },
+                {
+                    "sentence": "כך היה, למשל, בענין: דלאל גאנם נגד מדינת ישראל, , תקדין עליון, כרך 99(2) עמ' 898. בענין זה אישר בית המשפט העליון את הרשעת המערער ברצח המנוחה על פי שני ממצאים: האחד - הימצא כתמי דם של המנוחה על חולצת המערערת, שמהם הופק דנ\"א, ונמצאה זהות לאיפיוני דם המנוחה",
+                    "sentence_id": "1",
+                    "paragraph_index": 182,
+                    "global_sentence_index": 517
+                },
+                {
+                    "sentence": "השני - הימצא טביעת כף ידה של המערערת בדמה של המנוחה במקום הפשע",
+                    "sentence_id": "2",
+                    "paragraph_index": 182,
+                    "global_sentence_index": 518
+                },
+                {
+                    "sentence": "בענין הראשון קבע בית המשפט:",
+                    "sentence_id": "3",
+                    "paragraph_index": 182,
+                    "global_sentence_index": 519
+                }
+            ]
+        },
+        {
+            "paragraph_index": 183,
+            "sentences": [
+                {
+                    "sentence": "\"חולצתה המוכתמת של המערערת נבדקה",
+                    "sentence_id": "0",
+                    "paragraph_index": 183,
+                    "global_sentence_index": 520
+                },
+                {
+                    "sentence": "הכתמים זוהו ככתמי דם",
+                    "sentence_id": "1",
+                    "paragraph_index": 183,
+                    "global_sentence_index": 521
+                },
+                {
+                    "sentence": "אפיוני ה-DNA שהופקו מכתמי הדם שעל החולצה הושוו לאפיונים שהופקו מדמה של המנוחה, ובבדיקה השוואתית נמצאה זהות בין האפיונים",
+                    "sentence_id": "2",
+                    "paragraph_index": 183,
+                    "global_sentence_index": 522
+                },
+                {
+                    "sentence": "מימצא זה, אמנם, לא שלל לחלוטין את האפשרות שהחולצה הוכתמה בדמו של אחר, שאיפיוני ה-DNA שלו זהים לאפיוני דמה של המנוחה, אך הסתברותה של אפשרות כזאת היא נדירה ביותר (היחס האפשרי בקרב האוכלוסיה היהודית בארץ עומד על 1:3,600,0000)\"",
+                    "sentence_id": "3",
+                    "paragraph_index": 183,
+                    "global_sentence_index": 523
+                }
+            ]
+        },
+        {
+            "paragraph_index": 184,
+            "sentences": [
+                {
+                    "sentence": "וכך היה גם בענין: מדינת ישראל נגד ודים,  (הכרעת דין מיום 15.4.2002)",
+                    "sentence_id": "0",
+                    "paragraph_index": 184,
+                    "global_sentence_index": 524
+                }
+            ]
+        },
+        {
+            "paragraph_index": 185,
+            "sentences": [
+                {
+                    "sentence": "26.\tבענין: מדינת ישראל נגד סייף אבו-קישק, , תק-על, 2000(1), 649, היתה ראיית ה-דנ\"א ראייה יחידה",
+                    "sentence_id": "0",
+                    "paragraph_index": 185,
+                    "global_sentence_index": 525
+                },
+                {
+                    "sentence": "בענין זה נשדדה חנות תכשיטים ודוכני התצוגה שהיו עשויים זכוכית נופצו",
+                    "sentence_id": "1",
+                    "paragraph_index": 185,
+                    "global_sentence_index": 526
+                },
+                {
+                    "sentence": "על שברי הזכוכית שהיו מפוזרים בחנות, נמצאו כתמי דם",
+                    "sentence_id": "2",
+                    "paragraph_index": 185,
+                    "global_sentence_index": 527
+                },
+                {
+                    "sentence": "הדם נמצא מתאים לפרופיל הגנטי של אבו-קישק, ושל כל אדם אחר באוכלוסיה שיש לו אותו פרופיל גנטי",
+                    "sentence_id": "3",
+                    "paragraph_index": 185,
+                    "global_sentence_index": 528
+                }
+            ]
+        },
+        {
+            "paragraph_index": 186,
+            "sentences": [
+                {
+                    "sentence": "בית המשפט המחוזי (כב' השופט א' לוי), קבע כי תורת הדנ\"א היא כיום תורה מבוססת ומקובלת על הקהיליה המדעית, וכי היא נתקבלה על ידי בית המשפט במספר הזדמנויות, והוא הדין בענין שיטת הבדיקה",
+                    "sentence_id": "0",
+                    "paragraph_index": 186,
+                    "global_sentence_index": 529
+                }
+            ]
+        },
+        {
+            "paragraph_index": 187,
+            "sentences": [
+                {
+                    "sentence": "ואולם, במקרה מיוחד זה, מצא בית המשפט המחוזי כי תוצאת בדיקת הדנ\"א במקרהו של הנאשם אינה בטוחה דייה",
+                    "sentence_id": "0",
+                    "paragraph_index": 187,
+                    "global_sentence_index": 530
+                },
+                {
+                    "sentence": "בית המשפט קבע זאת על פי הספקות שעורר פרופסור מוטרו עצמו בעדותו",
+                    "sentence_id": "1",
+                    "paragraph_index": 187,
+                    "global_sentence_index": 531
+                },
+                {
+                    "sentence": "זאת, ראשית, כיוון שמדגם האוכלוסיה שעליו ביסס פרופסור מוטרו את התוצאה לא כלל את האוכלוסיה הבדואית שעמה נמנה הנאשם",
+                    "sentence_id": "2",
+                    "paragraph_index": 187,
+                    "global_sentence_index": 532
+                },
+                {
+                    "sentence": "בענין זה אמר פרופסור מוטרו שאינו יכול לשלול את האפשרות, שאם תיבדק האוכלוסיה הבדואית על ייחודה, כאוכלוסיה קטנה שיש בה \"סחיפה גנטית אקראית\", ישתנו ההסתברויות שקבע על פי המדגם הכללי",
+                    "sentence_id": "3",
+                    "paragraph_index": 187,
+                    "global_sentence_index": 533
+                },
+                {
+                    "sentence": "שנית, והוא העיקר, מחמת היעדר נתונים בענין הפרופיל הגנטי של אחֵי הנאשם, בשים לב לכך שהורי הנאשם הם קרובי משפחה",
+                    "sentence_id": "4",
+                    "paragraph_index": 187,
+                    "global_sentence_index": 534
+                },
+                {
+                    "sentence": "פרופסור מוטרו אמר בענין זה כי כל עוד לא יוצג לו המבנה הגנטי של האחים, אין הוא יכול לשלול את האפשרות שהנאשם לא היה מעורב במעשה",
+                    "sentence_id": "5",
+                    "paragraph_index": 187,
+                    "global_sentence_index": 535
+                },
+                {
+                    "sentence": "לשם כך נחוצה לדעתו ראיה מרשיעה נוספת",
+                    "sentence_id": "6",
+                    "paragraph_index": 187,
+                    "global_sentence_index": 536
+                },
+                {
+                    "sentence": "פרופסור מוטרו סיכם את חוות דעתו באומרו כי: \"עדיין קיימת סבירות גבוהה שהנאשם הוא מעורב, אבל אני מציע לבדוק ראייה כלשהי שתתמוך בכך או תשלול\"",
+                    "sentence_id": "7",
+                    "paragraph_index": 187,
+                    "global_sentence_index": 537
+                },
+                {
+                    "sentence": "על כן, מחמת הספק שבפי המומחה, זיכה בית המשפט המחוזי את הנאשם",
+                    "sentence_id": "8",
+                    "paragraph_index": 187,
+                    "global_sentence_index": 538
+                }
+            ]
+        },
+        {
+            "paragraph_index": 188,
+            "sentences": [
+                {
+                    "sentence": "ערעור המדינה על הזיכוי נדחה, מטעמי בית המשפט המחוזי",
+                    "sentence_id": "0",
+                    "paragraph_index": 188,
+                    "global_sentence_index": 539
+                },
+                {
+                    "sentence": "בית המשפט העליון קבע כי \"סבירות גבוהה\" בהקשר זה אינה מספקת להוכחת האשמה במידה העולה על כל ספק סביר",
+                    "sentence_id": "1",
+                    "paragraph_index": 188,
+                    "global_sentence_index": 540
+                }
+            ]
+        },
+        {
+            "paragraph_index": 189,
+            "sentences": [
+                {
+                    "sentence": "בפועל, בענין אבו-קישק, לא בית המשפט המחוזי וגם בית המשפט העליון לא הטילו ספק במהימנותה ובדיוקה של שיטה זו, או בדיותה של ראייה כזו כדי לבסס הרשעה על פיה, לבדה, באין הסבר סביר לנאשם להגעת דמו לשברי הזכוכית שבחנות השדודה",
+                    "sentence_id": "0",
+                    "paragraph_index": 189,
+                    "global_sentence_index": 541
+                },
+                {
+                    "sentence": "בית המשפט קיבל את שיטת הבדיקה של פרופיל הדנ\"א, וכן את ממצאי השכיחויות וההסתברויות שקבען פרופסור מוטרו על פי מדגמי האוכלוסיה שהוא עורך",
+                    "sentence_id": "1",
+                    "paragraph_index": 189,
+                    "global_sentence_index": 542
+                },
+                {
+                    "sentence": "פרופסור מוטרו היה העד המומחה גם בענינו של אבו-קישק",
+                    "sentence_id": "2",
+                    "paragraph_index": 189,
+                    "global_sentence_index": 543
+                }
+            ]
+        },
+        {
+            "paragraph_index": 190,
+            "sentences": [
+                {
+                    "sentence": "במקרה שלפנינו לא היו ספקות כאלה בשני הענינים האמורים",
+                    "sentence_id": "0",
+                    "paragraph_index": 190,
+                    "global_sentence_index": 544
+                },
+                {
+                    "sentence": "ראשית, בקביעת מידת השכיחות וההסתברות של הימצא פרופיל גנטי הזהה לזה של הנאשם אצל אדם אחר, נלקחה בחשבון אפשרות של השתייכות הנאשם לתת-אוכלוסיה זו או אחרת",
+                    "sentence_id": "1",
+                    "paragraph_index": 190,
+                    "global_sentence_index": 545
+                },
+                {
+                    "sentence": "זאת על ידי יישום \"תיקון טיטא\"",
+                    "sentence_id": "2",
+                    "paragraph_index": 190,
+                    "global_sentence_index": 546
+                },
+                {
+                    "sentence": "ענין זה היה נושא לחקירה נגדית ארוכה של הסניגור",
+                    "sentence_id": "3",
+                    "paragraph_index": 190,
+                    "global_sentence_index": 547
+                },
+                {
+                    "sentence": "על כך אמר פרופסור מוטרו:",
+                    "sentence_id": "4",
+                    "paragraph_index": 190,
+                    "global_sentence_index": 548
+                }
+            ]
+        },
+        {
+            "paragraph_index": 191,
+            "sentences": [
+                {
+                    "sentence": "\"אנחנו מיישמים את אותו 'תיקון טיטא' שגורם לכל פרופיל להיהפך לפחות נדיר",
+                    "sentence_id": "0",
+                    "paragraph_index": 191,
+                    "global_sentence_index": 549
+                },
+                {
+                    "sentence": "אנו עושים זאת בצורה גורפת, כמעט תמיד, בשביל למנוע שאלות כמו 'אוכלוסיה בדואית' וכך הלאה, שלגביה אין בסיס נתונים ספציפי\" (עמ' 14-15)",
+                    "sentence_id": "1",
+                    "paragraph_index": 191,
+                    "global_sentence_index": 550
+                }
+            ]
+        },
+        {
+            "paragraph_index": 192,
+            "sentences": [
+                {
+                    "sentence": "כדי להסיר חשש כזה, נעשה במקרה הנידון שימוש ב\"תיקון טיטא\" לקביעת מידת השכיחות",
+                    "sentence_id": "0",
+                    "paragraph_index": 192,
+                    "global_sentence_index": 551
+                },
+                {
+                    "sentence": "והדבר נאמר בחוות הדעת ת/1 של הגב' רשף:",
+                    "sentence_id": "1",
+                    "paragraph_index": 192,
+                    "global_sentence_index": 552
+                }
+            ]
+        },
+        {
+            "paragraph_index": 193,
+            "sentences": [
+                {
+                    "sentence": "\"השכיחות המחושבת מכילה תקון סטטיסטי הבא לפצות על האפשרות כי בתת אוכלוסיה, אליה משתייך מקור ה-DNA במוצגים, שכיחויות האללים שונות מאשר באוכלוסיה הכללית ועל האפשרות של חתון יתר Inbreeding)) בתוך אותה אוכלוסיה",
+                    "sentence_id": "0",
+                    "paragraph_index": 193,
+                    "global_sentence_index": 553
+                },
+                {
+                    "sentence": "השכיחות המחושבת אינה מתייחסת לקרובי משפחה, בקרבת דם מוגדרת, של מקור ה-DNA במוצגים\"",
+                    "sentence_id": "1",
+                    "paragraph_index": 193,
+                    "global_sentence_index": 554
+                }
+            ]
+        },
+        {
+            "paragraph_index": 194,
+            "sentences": [
+                {
+                    "sentence": "אלמלא יישום \"תיקון טיטא\" במקרה זה, הוסיף פרופ' מוטרו, השכיחות לפי הסטטיסטיקה היתה עוד יותר נדירה",
+                    "sentence_id": "0",
+                    "paragraph_index": 194,
+                    "global_sentence_index": 555
+                },
+                {
+                    "sentence": "לגבי האוכלוסיה הישראלית הערבית היתה 16:1 מילארד",
+                    "sentence_id": "1",
+                    "paragraph_index": 194,
+                    "global_sentence_index": 556
+                },
+                {
+                    "sentence": "כך היא תוקנה ל-7:1 מיליארד תוך הזהירות הננקטת בתיקון טיטא (עמ' 14)",
+                    "sentence_id": "2",
+                    "paragraph_index": 194,
+                    "global_sentence_index": 557
+                },
+                {
+                    "sentence": "תיקון זה מפיג כל חשש לאי-דיוק עקב השתייכות החשוד לתת אוכלוסיה זו או אחרת",
+                    "sentence_id": "3",
+                    "paragraph_index": 194,
+                    "global_sentence_index": 558
+                }
+            ]
+        },
+        {
+            "paragraph_index": 195,
+            "sentences": [
+                {
+                    "sentence": "ואשר לענין האחים: לנאשם שלשה אחים, שהנאשם מְנָאָם אף בשמותיהם (בעדותו בעמ' 50)",
+                    "sentence_id": "0",
+                    "paragraph_index": 195,
+                    "global_sentence_index": 559
+                },
+                {
+                    "sentence": "כאמור, לשלשת האחים נערכו בדיקות דנ\"א, והתוצאה היתה שלילית",
+                    "sentence_id": "1",
+                    "paragraph_index": 195,
+                    "global_sentence_index": 560
+                },
+                {
+                    "sentence": "לאף אחד מהאחים אין פרופיל גנטי זהה לזה של הנאשם (וראה: עדות הגב' רשף, בעמ' 37-38)",
+                    "sentence_id": "2",
+                    "paragraph_index": 195,
+                    "global_sentence_index": 561
+                }
+            ]
+        },
+        {
+            "paragraph_index": 196,
+            "sentences": [
+                {
+                    "sentence": "על כן, רואה פרופסור מוטרו את זיהוי הנאשם לבדו כבעל הדנ\"א הוא כזיהוי במידה של \"מעבר לכל ספק סביר\" (עדותו, עמ' 24- 25)",
+                    "sentence_id": "0",
+                    "paragraph_index": 196,
+                    "global_sentence_index": 562
+                }
+            ]
+        },
+        {
+            "paragraph_index": 197,
+            "sentences": [
+                {
+                    "sentence": "27.\tבענין עמירם הוכברג נגד מדינת ישראל, , תק-על 2001(2), 1161, אישר בית המשפט העליון פסק-דין של בית המשפט המחוזי, שהרשיע את המערער ברצח חברתו על יסוד ראיות נסיבתיות",
+                    "sentence_id": "0",
+                    "paragraph_index": 197,
+                    "global_sentence_index": 563
+                },
+                {
+                    "sentence": "עיקרן - בדיקות דנ\"א של דם הנרצחת",
+                    "sentence_id": "1",
+                    "paragraph_index": 197,
+                    "global_sentence_index": 564
+                },
+                {
+                    "sentence": "באותו ענין, קבע פרופסור מוטרו שהדם שנמצא במכונית הוא דמה של הנרצחת \"בהסתברות גבוהה\" של אחד לעשרות אלפים עד אחד למאה אלף\"",
+                    "sentence_id": "2",
+                    "paragraph_index": 197,
+                    "global_sentence_index": 565
+                },
+                {
+                    "sentence": "בית המשפט קיבל את חוות דעת פרופסור מוטרו ועל פיה קבע ממצאים",
+                    "sentence_id": "3",
+                    "paragraph_index": 197,
+                    "global_sentence_index": 566
+                },
+                {
+                    "sentence": "לכאורה, אין זאת אלא שבית המשפט העליון בענין זה, כמו בענין אבו-קישק, אישר את ערכה המדעי של ראייה זו, כראייה נסיבתית מהימנה, בטוחה וודאית",
+                    "sentence_id": "4",
+                    "paragraph_index": 197,
+                    "global_sentence_index": 567
+                }
+            ]
+        },
+        {
+            "paragraph_index": 198,
+            "sentences": [
+                {
+                    "sentence": "\"מעבר לכל ספק סביר\"",
+                    "sentence_id": "0",
+                    "paragraph_index": 198,
+                    "global_sentence_index": 568
+                }
+            ]
+        },
+        {
+            "paragraph_index": 199,
+            "sentences": [
+                {
+                    "sentence": "28.\tסוף דבר, כאמור, על פי הממצאים המדעיים וחוות דעת המומחים, שאין חולק על מקצועיותם, מיומנותם ומהימנותם, החשש שיימצא אדם אחר הנושא את אותו פרופיל גנטי המתאים לזה של הנאשם, הוא בשכיחות של 7:1 מיליארד בקרב האוכלוסיה הערבית הישראלית, ו-17:1 מיליארד בקרב האוכלוסיה היהודית בישראל, ו-1:מיליארד בקרב אוכלוסיה אחרת כלשהי בעולם",
+                    "sentence_id": "0",
+                    "paragraph_index": 199,
+                    "global_sentence_index": 569
+                },
+                {
+                    "sentence": "לאמור, החשש הוא בשיעורים אלה, לפי הסדר האמור: 0,000,000,007; 0,000,000,017; ולמצער, 0,000,000,001.",
+                    "sentence_id": "1",
+                    "paragraph_index": 199,
+                    "global_sentence_index": 570
+                }
+            ]
+        },
+        {
+            "paragraph_index": 200,
+            "sentences": [
+                {
+                    "sentence": "חשש כזה הוא כה מופלג בריחוקו ובאי-סבירותו, עד כי ההסתברות שאדם אחר עשה את המעשה גובלת באפס",
+                    "sentence_id": "0",
+                    "paragraph_index": 200,
+                    "global_sentence_index": 571
+                }
+            ]
+        },
+        {
+            "paragraph_index": 201,
+            "sentences": [
+                {
+                    "sentence": "הסתברות אפסית זו עושה את הממצא של ה-דנ\"א, אף בעומדו לבדו, ראייה חותכת ונחרצת \"מעבר לכל ספק סביר\"",
+                    "sentence_id": "0",
+                    "paragraph_index": 201,
+                    "global_sentence_index": 572
+                },
+                {
+                    "sentence": "וזה הציון שנתן הפרופסור מוטרו להסתברות זו בעדותו (עדותו, בעמ' 24- 25)",
+                    "sentence_id": "1",
+                    "paragraph_index": 201,
+                    "global_sentence_index": 573
+                }
+            ]
+        },
+        {
+            "paragraph_index": 202,
+            "sentences": [
+                {
+                    "sentence": "בענין עמירם הוכברג האמור (פסקה 27 לעיל), ראה בית המשפט העליון בהסתברות של אחד למאה אלף (0,000,01) כ\"הסתברות גבוהה\" ו\"הסתברות גבוהה ביותר\" (פסקות 26 ו-34 לפסק הדין), כל-שכן",
+                    "sentence_id": "0",
+                    "paragraph_index": 202,
+                    "global_sentence_index": 574
+                },
+                {
+                    "sentence": "במקרנו, שבו ההסתברות קטנה פי אלף ויותר",
+                    "sentence_id": "1",
+                    "paragraph_index": 202,
+                    "global_sentence_index": 575
+                }
+            ]
+        },
+        {
+            "paragraph_index": 203,
+            "sentences": [
+                {
+                    "sentence": "ההסתברות של אשמת הנאשם, באין ראיה לסתור מטעמו, ובאין הסבר, ועל אחת כמה וכמה הסבר סביר, להימצא זרעו בתוך איבר מינה של המתלוננת, היא, כאמור, בגדר חלקיק זעיר ביותר של אחוז",
+                    "sentence_id": "0",
+                    "paragraph_index": 203,
+                    "global_sentence_index": 576
+                },
+                {
+                    "sentence": "על כן, עולה היא כדי וודאות, אף כי, אולי, אין היא מגעת לכלל וודאות גמורה ומוחלטת של מאה אחוזים",
+                    "sentence_id": "1",
+                    "paragraph_index": 203,
+                    "global_sentence_index": 577
+                }
+            ]
+        },
+        {
+            "paragraph_index": 204,
+            "sentences": [
+                {
+                    "sentence": "ואולם, \"הלכה פסוקה היא כי אין זה דרוש שבית המשפט יפעל על סמך וודאות גמורה\": ויטפילד נגד מדינת ישראל, (1) 813, 822-823. ולא על סמך וודאות מוחלטת ודי לתביעה אם תוכיח את האשמה במידה המגיעה לכלל אפשרות קרובה עד מאוד לאמת או לוודאות",
+                    "sentence_id": "0",
+                    "paragraph_index": 204,
+                    "global_sentence_index": 578
+                },
+                {
+                    "sentence": "ואת זאת, למצער, הוכיחה התביעה במקרה זה",
+                    "sentence_id": "1",
+                    "paragraph_index": 204,
+                    "global_sentence_index": 579
+                }
+            ]
+        },
+        {
+            "paragraph_index": 205,
+            "sentences": [
+                {
+                    "sentence": "29.\tכאמור, גרסת המתלוננת היא שהנאשם בעל אותה מספר פעמים, וכן החדיר את איבר מינו לפיה",
+                    "sentence_id": "0",
+                    "paragraph_index": 205,
+                    "global_sentence_index": 580
+                },
+                {
+                    "sentence": "זהות הנאשם כמי שביצע את העבירות הוכחה בוודאות",
+                    "sentence_id": "1",
+                    "paragraph_index": 205,
+                    "global_sentence_index": 581
+                },
+                {
+                    "sentence": "עדות המתלוננת נמצאה מהימנה",
+                    "sentence_id": "2",
+                    "paragraph_index": 205,
+                    "global_sentence_index": 582
+                },
+                {
+                    "sentence": "אין ספק כי הנאשם בעל את המתלוננת שלא בהסכמתה החופשית ועקב שימוש בכח נגדה, תוך גרימת חבלה נפשית ותוך גרימת הריון",
+                    "sentence_id": "3",
+                    "paragraph_index": 205,
+                    "global_sentence_index": 583
+                },
+                {
+                    "sentence": "כן ביצע הנאשם במתלוננת מעשה סדום שלא בהסכמתה החופשית עקב שימוש בכח ותוך גרימת חבלה נפשית",
+                    "sentence_id": "4",
+                    "paragraph_index": 205,
+                    "global_sentence_index": 584
+                }
+            ]
+        },
+        {
+            "paragraph_index": 206,
+            "sentences": [
+                {
+                    "sentence": "אשמת הנאשם הוכחה מעבר לכל ספק סביר",
+                    "sentence_id": "0",
+                    "paragraph_index": 206,
+                    "global_sentence_index": 585
+                }
+            ]
+        },
+        {
+            "paragraph_index": 207,
+            "sentences": [
+                {
+                    "sentence": "30.\tלפיכך, אנו מרשיעים את הנאשם באינוס בנסיבות מחמירות - עבירה על  ו-  ל, התשל\"ז - 1977 (להלן: \"החוק\"); ובמעשה סדום בנסיבות מחמירות - עבירה על  ו-  לחוק",
+                    "sentence_id": "0",
+                    "paragraph_index": 207,
+                    "global_sentence_index": 586
+                }
+            ]
+        },
+        {
+            "paragraph_index": 208,
+            "sentences": [
+                {
+                    "sentence": "ניתנה היום, ג' בתשרי התשס\"ג (9.9.2002), במעמד המתייצבים",
+                    "sentence_id": "0",
+                    "paragraph_index": 208,
+                    "global_sentence_index": 587
+                }
+            ]
+        },
+        {
+            "paragraph_index": 209,
+            "sentences": [
+                {
+                    "sentence": "נוסח זה כפוף לשינויי עריכה וניסוח",
+                    "sentence_id": "0",
+                    "paragraph_index": 209,
+                    "global_sentence_index": 588
+                }
+            ]
+        }
+    ],
+    "main_sentence_from_spike": [
+        " כיוון שהנאשם אינו מודה במגע המיני, ואינו טוען שהדבר נעשה בהסכמת המתלוננת, המסקנה היחידה, לאור עדותה המהימנה של המתלוננת, היא שהמגע המיני היה באינוס, וכי הנאשם הוא האנס"
+    ],
+    "main_sentence_from_docx": [
+        "כיוון שהנאשם אינו מודה במגע המיני, ואינו טוען שהדבר נעשה בהסכמת המתלוננת, המסקנה היחידה, לאור עדותה המהימנה של המתלוננת, היא שהמגע המיני היה באינוס, וכי הנאשם הוא האנס"
+    ],
+    "main_sentence_id_in_docx": [
+        "172_2"
+    ],
+    "global_sentence_index_docx": [
+        494
+    ],
+    "global_sentence_index_spike": [
+        483650
+    ],
+    "score_of_similarity": [
+        0.0
+    ]
+}
