@@ -1,0 +1,10 @@
+﻿category,parent_category,sentence_example,category_id,parent_category_id
+Victim is not making fake allegations or not deemed vengeful,Unequivocal credibility ,,0,0
+"Victim is clear, simple, without exaggeration, authentic",Unequivocal credibility ,,1,0
+Victim is credible because of external support,Credible because,,2,1
+Victim is credible because accused is less credible,Credible because,,3,1
+Victim is credible but has some problems,Credible but ,,4,2
+Victim is credible but it is a sole testimony or lacks external support,Credible but ,,5,2
+Victim presented several versions or was not consistent,Not credible ,,6,3
+"Victim is deemed vengeful, not authentic, or making fake allegations",Not credible ,,7,3
+Irrelevant to the judge's stance on the victim's credibility,not relevant,,8,4
